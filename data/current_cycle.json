@@ -83,6 +83,88 @@
           "score": 24.5
         }
       ]
+    },
+    {
+      "hour_label": "22:05 CET",
+      "timestamp_str": "2026-11-10 22:39 CET",
+      "items": [
+        {
+          "title_orig": "Usa incriminano tre agenti iraniani per l'attacco fallito a base aerea Gb",
+          "summary_orig": "Dipartimento Giustizia, 'Mohammad Dawood Al-Saadi l'avrebbe diretto da carcere New York'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/10/usa-incriminano-tre-agenti-iraniani-per-lattacco-fallito-a-base-aerea_e3e39d28-84b4-4648-a204-d364b43f9734.html",
+          "published": "Tue, 10 Nov 2026 22:07:48 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "22:39 CET",
+          "title_it": "Usa incriminano tre agenti iraniani per l'attacco fallito a base aerea Gb",
+          "summary_it": "Dipartimento Giustizia, 'Mohammad Dawood Al-Saadi l'avrebbe diretto da carcere New York'",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Nvidia hires Wachtell Lipton for Jensen Huang investigation",
+          "summary_orig": "The independent investigation follows reports that the CEO had a romantic relationship with an alleged Chinese spy.",
+          "link": "https://www.politico.eu/article/nvidia-hires-wachtell-lipton-for-jensen-huang-investigation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Tue, 10 Nov 2026 20:58:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "22:39 CET",
+          "title_it": "Nvidia hires Wachtell Lipton for Jensen Huang investigation",
+          "summary_it": "The independent investigation follows reports that the CEO had a romantic relationship with an alleged Chinese spy.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 18.0
+        },
+        {
+          "title_orig": "Verso un nuovo vertice maggioranza sulla manovra per fare il punto sulle modifiche",
+          "summary_orig": "Richiesto da Salvini e Tajani, Meloni riflette sui tempi",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/10/verso-un-nuovo-vertice-maggioranza-sulla-manovra-per-fare-il-punto-sulle_9858e388-b5a6-43c9-bf41-b913ad94cf54.html",
+          "published": "Tue, 10 Nov 2026 20:38:05 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "22:39 CET",
+          "title_it": "Verso un nuovo vertice maggioranza sulla manovra per fare il punto sulle modifiche",
+          "summary_it": "Richiesto da Salvini e Tajani, Meloni riflette sui tempi",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza delle scorte e capitalismo strategico di Stato).\n🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+          "summary_orig": "Rep. John Moolenaar, R-Mich., the Republican chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
+          "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+          "published": "Tue, 10 Nov 2026 21:11:36 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "22:39 CET",
+          "title_it": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+          "summary_it": "Rep. John Moolenaar, R-Mich., the Republican chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 21.0
+        }
+      ]
     }
   ]
 }
