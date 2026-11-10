@@ -1,5 +1,88 @@
 {
   "last_published_edition_date": "2026-11-10",
   "target_edition_date": "2026-11-11",
-  "hourly_batches": []
+  "hourly_batches": [
+    {
+      "hour_label": "21:05 CET",
+      "timestamp_str": "2026-11-10 21:44 CET",
+      "items": [
+        {
+          "title_orig": "Web Summit di Lisbona, cancellato il secondo giorno per la tempesta Charles",
+          "summary_orig": "La conferenza sulla tecnologia ha chiuso i battenti il secondo giorno.",
+          "link": "https://it.euronews.com/2026/11/10/web-summit-di-lisbona-cancellato-il-secondo-giorno-per-la-tempesta-charles",
+          "published": "Tue, 10 Nov 2026 21:30:33 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "21:44 CET",
+          "title_it": "Web Summit di Lisbona, cancellato il secondo giorno per la tempesta Charles",
+          "summary_it": "La conferenza sulla tecnologia ha chiuso i battenti il secondo giorno.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Banco Bpm, cassa sanitaria unica per i 19mila bancari",
+          "summary_orig": "Accordo tra l’istituto e i sindacati per creare da febbraio 2027 una cassa di assistenza sola dove confluiranno FAS, CMA e FIAM. Dalla banca contributo annuo di 1.300 euro, dai dipendenti l’1,40% della retribuzione",
+          "link": "https://www.ilsole24ore.com/art/banco-bpm-cassa-sanitaria-unica-i-19mila-bancari-AJGmQnBC",
+          "published": "Tue, 10 Nov 2026 17:32:14 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "21:44 CET",
+          "title_it": "Banco Bpm, cassa sanitaria unica per i 19mila bancari",
+          "summary_it": "Accordo tra l’istituto e i sindacati per creare da febbraio 2027 una cassa di assistenza sola dove confluiranno FAS, CMA e FIAM. Dalla banca contributo annuo di 1.300 euro, dai dipendenti l’1,40% della retribuzione",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Intesa pubblica prospetto e documento d'offerta dell'Opas per Mps",
+          "summary_orig": "Dopo il via libera della Consob dell'8 novembre scorso",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/10/intesa-pubblica-prospetto-e-documento-dofferta-dellopas-per-mps_e8e8b269-f089-42b0-99f3-bf63aeb01ba7.html",
+          "published": "Tue, 10 Nov 2026 20:58:48 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "21:44 CET",
+          "title_it": "Intesa pubblica prospetto e documento d'offerta dell'Opas per Mps",
+          "summary_it": "Dopo il via libera della Consob dell'8 novembre scorso",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
+          "summary_orig": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
+          "link": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+          "published": "Tue, 10 Nov 2026 15:04:23 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "21:44 CET",
+          "title_it": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
+          "summary_it": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.\n🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 24.5
+        }
+      ]
+    }
+  ]
 }
