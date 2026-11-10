@@ -247,6 +247,88 @@
           "score": 15.5
         }
       ]
+    },
+    {
+      "hour_label": "00:05 CET",
+      "timestamp_str": "2026-11-11 00:35 CET",
+      "items": [
+        {
+          "title_orig": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+          "summary_orig": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+          "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 10 Nov 2026 22:17:45 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "00:35 CET",
+          "title_it": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+          "summary_it": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 14.0
+        },
+        {
+          "title_orig": "Collision of two trains in Egypt kills at least seven",
+          "summary_orig": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train...",
+          "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+          "published": "Sun, 08 Nov 2026 17:51:17 GMT",
+          "source_id": "guardian_world",
+          "source_name": "The Guardian World",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Esteri & Analisi",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "00:35 CET",
+          "title_it": "Collision of two trains in Egypt kills at least seven",
+          "summary_it": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train...",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.\n🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Fonti Lega, stupore di Salvini per le banche, possibile ulteriore contributo",
+          "summary_orig": "Dividendi e utili record. Leader leghista 'determinato a trovare ulteriori risorse'",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/10/fonti-lega-stupore-di-salvini-per-le-banche-possibile-ulteriore-contributo_eff950b3-6e52-49b0-ad6e-64a1dd838e28.html",
+          "published": "Tue, 10 Nov 2026 20:38:41 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "00:35 CET",
+          "title_it": "Fonti Lega, stupore di Salvini per le banche, possibile ulteriore contributo",
+          "summary_it": "Dividendi e utili record. Leader leghista 'determinato a trovare ulteriori risorse'",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e migratori gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza delle scorte e capitalismo strategico di Stato).\n🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+          "summary_orig": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+          "link": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
+          "published": "Tue, 10 Nov 2026 23:11:34 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "00:35 CET",
+          "title_it": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
+          "summary_it": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.\n🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 12.0
+        }
+      ]
     }
   ]
 }
