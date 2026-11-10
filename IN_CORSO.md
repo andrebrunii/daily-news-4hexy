@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 11 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-2%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-3%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (2/23 ricerche orarie):**
-`🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (3/23 ricerche orarie):**
+`🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `23:05 CET` — Ricerca Oraria (3/23)
+_Aggiornamento registrato il `2026-11-10 23:40 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Nyt, 'Trump fu informato di Mr Nvidia e la spia cinese sul volo per Pechino'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/10/nyt-trump-fu-informato-di-mr-nvidia-e-la-spia-cinese-sul-volo-per-pechino_10070bd2-7df4-47bc-aa10-a6cfa560a7c2.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Avvertito da Rubio poco prima che Huang si unisse al viaggio su invito del tycoon'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Unione Europea & Policy` [Zelenskyy tells Europe to hurry up and pick a rep for peace talks with Russia](https://www.politico.eu/article/zelenskyy-tells-europe-pick-negotiator-peace-talks-russia-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Ukraine's leader wants to be consulted on Europe's choice.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `🤖 IA & Frontiera Tech` [Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions (Jake Bleiberg/Bloomberg)](https://www.techmeme.com/261110/p54#a261110p54)** — *(Techmeme)*
+  - 📌 **Sintesi:** Jake Bleiberg / Bloomberg : Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions — At least 11 National Security Agency and US Cyber Command workers died by suicide over roughly the past year …
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `💻 Tecnologia & Cyber` [Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr](https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Democrats accuse FCC nominee of evading questions about Carr, her current boss.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `22:05 CET` — Ricerca Oraria (2/23)
 _Aggiornamento registrato il `2026-11-10 22:39 CET`_
