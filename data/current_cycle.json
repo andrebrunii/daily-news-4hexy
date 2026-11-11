@@ -1395,6 +1395,88 @@
           "score": 19.0
         }
       ]
+    },
+    {
+      "hour_label": "16:05 CET",
+      "timestamp_str": "2026-11-11 16:50 CET",
+      "items": [
+        {
+          "title_orig": "European gaming firms say new EU consumer rules will ‘cripple’ the industry",
+          "summary_orig": "The EU's Digital Fairness Act clamps down on video-game practices where players are encouraged to spend real money to keep playing.",
+          "link": "https://www.politico.eu/article/european-gaming-firms-say-new-eu-consumer-rules-will-cripple-the-industry-digital-fairness-act/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Wed, 11 Nov 2026 15:08:20 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "16:50 CET",
+          "title_it": "Le società di gioco europee affermano che le nuove norme UE sui consumatori “paralizzeranno” il settore",
+          "summary_it": "Il Digital Fairness Act dell’UE pone un freno alle pratiche di videogiochi in cui i giocatori sono incoraggiati a spendere soldi veri per continuare a giocare.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.\n🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 27.0
+        },
+        {
+          "title_orig": "Spain sees widespread disruption in first general strike for 14 years",
+          "summary_orig": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 14:06:27 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "16:50 CET",
+          "title_it": "La Spagna vede disordini diffusi nel primo sciopero generale da 14 anni",
+          "summary_it": "Sono previste proteste anche nelle città più grandi, a meno di tre settimane dal voto degli spagnoli alle elezioni parlamentari.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale e interdipendenza globale; i Paesi che sapranno mantenere coesione interna e visione industriale guideranno il prossimo ciclo storico.\n🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 17.5
+        },
+        {
+          "title_orig": "Eni conferma impegno in Gran Bretagna, investirà 11 miliardi di sterline nel 2026-2030",
+          "summary_orig": "Descalzi incontra Fahnbulleh, sostegno ai settori lower-carbon",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/eni-conferma-impegno-in-gran-bretagna-investira-11-miliardi-di-sterline-nel-2026_b8cd8594-cd3c-49b0-a3f3-e58778c732ce.html",
+          "published": "Wed, 11 Nov 2026 16:23:18 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "16:50 CET",
+          "title_it": "Eni conferma impegno in Gran Bretagna, investirà 11 miliardi di sterline nel 2026-2030",
+          "summary_it": "Descalzi incontra Fahnbulleh, sostegno ai settori lower-carbon",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+          "summary_orig": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
+          "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+          "published": "Wed, 11 Nov 2026 14:35:23 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "16:50 CET",
+          "title_it": "Le azioni di Nvidia rimbalzano mentre Jensen Huang deve affrontare il controllo prima degli utili",
+          "summary_it": "Gli investitori stanno valutando se la vicenda del CEO Jensen Huang avrà effetti di ricaduta sul business di Nvidia.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.\n🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 12.0
+        }
+      ]
     }
   ]
 }
