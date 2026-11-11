@@ -1067,6 +1067,88 @@
           "score": 21.0
         }
       ]
+    },
+    {
+      "hour_label": "11:05 CET",
+      "timestamp_str": "2026-11-11 11:58 CET",
+      "items": [
+        {
+          "title_orig": "'Controllo medico per l'ex premier pachistano in carcere'",
+          "summary_orig": "Khan è stato trasferito in ospedale nella notte per una visita oculistica, già dimesso",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/11/controllo-medico-per-lex-premier-pachistano-in-carcere_588e366f-b4bf-4c51-9380-7cada9a4b011.html",
+          "published": "Wed, 11 Nov 2026 10:47:02 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "11:58 CET",
+          "title_it": "'Controllo medico per l'ex premier pachistano in carcere'",
+          "summary_it": "Khan è stato trasferito in ospedale nella notte per una visita oculistica, già dimesso",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "How Health Systems Can Spot Risk Before a Crisis",
+          "summary_orig": "From a frontline consultation to a routine blood test and a photograph of a mosquito, three innovations show how sensing technologies can help health systems identify risks earlier and act before crises take hold.",
+          "link": "https://www.politico.eu/sponsored-content/how-health-systems-can-spot-risk-before-a-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Wed, 11 Nov 2026 04:00:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "11:58 CET",
+          "title_it": "Come i sistemi sanitari possono individuare i rischi prima di una crisi",
+          "summary_it": "Da una visita in prima linea a un esame del sangue di routine e alla fotografia di una zanzara, tre innovazioni mostrano come le tecnologie di rilevamento possono aiutare i sistemi sanitari a identificare i rischi in anticipo e ad agire prima che le crisi prendano piede.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 22.5
+        },
+        {
+          "title_orig": "Nvidia shares rebound 5% as Huang faces scrutiny ahead of earnings",
+          "summary_orig": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
+          "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+          "published": "Wed, 11 Nov 2026 10:56:10 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "11:58 CET",
+          "title_it": "Le azioni Nvidia rimbalzano del 5% mentre Huang deve affrontare il controllo prima degli utili",
+          "summary_it": "Gli investitori stanno valutando se la vicenda del CEO Jensen Huang avrà effetti di ricaduta sul business di Nvidia.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "MacBook Pro with PROLED XDR teardown: a 5/10 score, a point above the M5 MacBook Pro, and Touch ID works with a new logic board; the backlit logo uses four LEDs (Elizabeth Chamberlain/iFixit News)",
+          "summary_orig": "Elizabeth Chamberlain / iFixit News : MacBook Pro with PROLED XDR teardown: a 5/10 score, a point above the M5 MacBook Pro, and Touch ID works with a new logic board; the backlit logo uses four LEDs — “Fancy new display” makes our screwdrivers nervous, and Apple's latest MacBook has the fanciest display yet.",
+          "link": "https://www.techmeme.com/261111/p11#a261111p11",
+          "published": "Wed, 11 Nov 2026 05:50:47 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "11:58 CET",
+          "title_it": "MacBook Pro con smontaggio PROLED XDR: un punteggio di 5/10, un punto sopra il MacBook Pro M5, e Touch ID funziona con una nuova scheda logica; il logo retroilluminato utilizza quattro LED (Elizabeth Chamberlain/iFixit News)",
+          "summary_it": "Elizabeth Chamberlain / Notizie iFixit: Smontaggio MacBook Pro con PROLED XDR: un punteggio di 5/10, un punto sopra il MacBook Pro M5 e Touch ID funziona con una nuova scheda logica; il logo retroilluminato utilizza quattro LED: il \"nuovo display elegante\" rende nervosi i nostri cacciaviti e l'ultimo MacBook di Apple ha il display più elegante mai realizzato.",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e migratori gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 18.5
+        }
+      ]
     }
   ]
 }
