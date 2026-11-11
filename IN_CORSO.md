@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 11 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `18:05 CET` — Ricerca Oraria (20/23)
+_Aggiornamento registrato il `2026-11-11 18:53 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Stati Uniti, morto l'ambasciatore russo Alexander Darchiev: aveva 66 anni](https://it.euronews.com/2026/11/11/stati-uniti-morto-lambasciatore-russo-alexander-darchiev-aveva-66-anni)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Il diplomatico è morto improvvisamente, ha reso noto il ministero degli Esteri di Mosca senza dare dettagli sul decesso. Darchiev era ambasciatore a Washington dal 2025
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[2] `📈 Economia & Mercati` [Miba Levante, la filiera delle costruzioni di incontra a Bari](https://www.ilsole24ore.com/art/miba-levante-filiera-costruzioni-incontra-bari-AJrDOxCC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Debutta il 18 e 19 novembre 2026 lo «spin-off» della manifestazione organizzata da Fiera Milano, in collaborazione con Pentastudio. Attesi 200 espositori
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` [Lo spread Btp-Bund](https://www.ansa.it/sito/notizie/economia/2026/11/11/lo-spread-btp-bund_8c232acc-7726-4db4-a8a4-b69250e4414d.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Il rendimento del titolo di Stato italiano è sceso al 4,33%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [Goolsbee della Fed definisce il rapporto sull'inflazione “al limite inquietante” poiché la banca centrale valuta ulteriori aumenti](https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L'indice dei prezzi al consumo è aumentato più del previsto in ottobre, suscitando allarme tra i funzionari della Federal Reserve.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
 
 ### 🕒 Ora `17:05 CET` — Ricerca Oraria (19/23)
 _Aggiornamento registrato il `2026-11-11 17:53 CET`_
