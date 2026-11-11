@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 11 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-9%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-10%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (9/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (10/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `06:05 CET` — Ricerca Oraria (10/23)
+_Aggiornamento registrato il `2026-11-11 06:57 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Interscambio Italia-Messico in espansione, +8,6% tra gennaio e settembre](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/11/interscambio-italia-messico-in-espansione-86-tra-gennaio-e-settembre_2b8694bb-1e74-4637-aaad-0bacaa48c6d6.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** In nove mesi otto miliardi di euro e vendite del Paese nordamericano a +29,8%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
+- **[2] `🇪🇺 Unione Europea & Policy` [Come aggirare gli eurodeputati indisciplinati](https://www.politico.eu/podcast/brussels-playbook-podcast/how-to-bypass-unruly-meps/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il Parlamento europeo ha capito come approvare una legislazione controversa… basta semplicemente aggirare il voto pieno di tutti i 720 deputati. Oggi nello show, Zoya Sheftalovich e Ian Wishart discutono di come i leader di tutti i partiti siano preoccupati che le mutevoli alleanze della plenaria – in particolare con l’ascesa dell’estrema destra – possano far saltare la legislazione […]
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[3] `🧠 Paradigmi & Lunghi Orizzonti` [Come l'America ha contribuito a plasmare l'uomo che ha attaccato Pearl Harbor](https://bigthink.com/history-society/admiral-yamamoto/)** — *(Big Think)*
+  - 📌 **Sintesi:** Gli adulti in città furono sorpresi. Isoroku Takano, in seguito Yamamoto*, era un bambino introverso. A scuola, di solito sedeva in silenzio con le braccia incrociate. Dopo la scuola non si è fermato a giocare con gli altri ragazzi, ma è andato direttamente a casa. Insolitamente, però, il ragazzo sembrò uscire dal suo guscio quando parlò con un americano arrivato di recente...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
+- **[4] `🏦 Mercati Globali` [Secondo quanto riferito, Bessent si è trasferito in una base militare a causa delle minacce iraniane alla sua vita](https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** La mossa arriva mentre il Dipartimento di Giustizia ha dichiarato martedì scorso che tre cittadini iraniani sono stati incriminati con accuse legate al terrorismo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
 
 ### 🕒 Ora `05:05 CET` — Ricerca Oraria (9/23)
 _Aggiornamento registrato il `2026-11-11 05:57 CET`_
