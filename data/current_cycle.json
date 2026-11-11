@@ -411,6 +411,88 @@
           "score": 21.0
         }
       ]
+    },
+    {
+      "hour_label": "02:05 CET",
+      "timestamp_str": "2026-11-11 02:59 CET",
+      "items": [
+        {
+          "title_orig": "America Latina, Brasile e Messico ai vertici globali per gli investimenti esteri",
+          "summary_orig": "Quarto e sesto posto al mondo con oltre 81 miliardi di dollari in sei mesi",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/11/america-latina-brasile-e-messico-ai-vertici-globali-per-gli-investimenti-esteri_e06864de-bbec-41ad-91ea-cd3b2dbe1553.html",
+          "published": "Wed, 11 Nov 2026 02:00:00 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "02:59 CET",
+          "title_it": "America Latina, Brasile e Messico ai vertici globali per gli investimenti esteri",
+          "summary_it": "Quarto e sesto posto al mondo con oltre 81 miliardi di dollari in sei mesi",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.\n🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Poland says Pentagon backs permanent US base, with Trump decision due in December",
+          "summary_orig": "Warsaw is seeking a lasting American military commitment as NATO allies fear further U.S. troop withdrawals from Europe.",
+          "link": "https://www.politico.eu/article/poland-says-pentagon-backs-permanent-us-base-with-trump-decision-due-in-december/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Tue, 10 Nov 2026 20:18:01 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "02:59 CET",
+          "title_it": "Poland says Pentagon backs permanent US base, with Trump decision due in December",
+          "summary_it": "Warsaw is seeking a lasting American military commitment as NATO allies fear further U.S. troop withdrawals from Europe.",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale e interdipendenza globale; i Paesi che sapranno mantenere coesione interna e visione industriale guideranno il prossimo ciclo storico.\n🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 32.0
+        },
+        {
+          "title_orig": "Tim, 'ricavi e redditività crescono nei 9 mesi, guidance 2026 confermata' (2)",
+          "summary_orig": "Approfondimento disponibile nella fonte originale collegata.",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/10/tim-ricavi-e-redditivita-crescono-nei-9-mesi-guidance-2026-confermata-2_5113a739-5ec4-42b0-893d-7d8536f47052.html",
+          "published": "Tue, 10 Nov 2026 19:26:24 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "02:59 CET",
+          "title_it": "Tim, 'ricavi e redditività crescono nei 9 mesi, guidance 2026 confermata' (2)",
+          "summary_it": "Approfondimento disponibile nella fonte originale collegata.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, difesa e transizione tecnologica.\n🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati tremano o cambiano direzione, non stanno solo prezzando merci: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+          "summary_orig": "Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO.",
+          "link": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+          "published": "Wed, 11 Nov 2026 01:52:56 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "02:59 CET",
+          "title_it": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+          "summary_it": "Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 14.5
+        }
+      ]
     }
   ]
 }
