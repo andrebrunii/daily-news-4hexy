@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 11 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `09:05 CET` — Ricerca Oraria (12/23)
+_Aggiornamento registrato il `2026-11-11 09:54 CET`_
+
+- **[1] `🌍 Esteri & Analisi` [Leader della setta apocalittica keniota condannato a 200 anni per l'omicidio di 190 bambini](https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie)** — *(The Guardian World)*
+  - 📌 **Sintesi:** Paul Mackenzie condannato per la morte di bambini e un adulto dopo che ai suoi seguaci è stato ordinato di morire di fame se stessi e le loro famiglie Il leader di una setta apocalittica keniana è stato condannato a 200 anni di prigione per l'omicidio di 190 bambini e un adulto in uno dei peggiori disastri settari della storia recente. La sentenza, che comprende 100 anni...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🇪🇺 Cronaca Europea` [Teheran, donne iraniane in addestramento militare con i Pasdaran IRGC](https://it.euronews.com/video/2026/11/11/teheran-donne-iraniane-in-addestramento-militare-con-i-pasdaran-irgc)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Donne iraniane partecipano a un corso di addestramento militare organizzato dai Pasdaran in un campo di volontari a Teheran, maneggiano armi e si esercitano in corda doppia e su zipline.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `💶 Macro & Finanza UE` [Borsa: Europa positiva in apertura, Parigi +0,58%, Londra +0,81%](https://www.ansa.it/sito/notizie/economia/2026/11/11/borsa-europa-positiva-in-apertura-parigi-058-londra-081_73a55230-3bcc-4c09-8dd9-dceae78dacf2.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** In rialzo anche Francoforte (+1,05%) e Madrid (+0,53%)
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica globale costringe Roma e Bruxelles a ricalibrare le priorità di bilancio.
+- **[4] `🏦 Mercati Globali` [Soldato americano arrestato con l'accusa di spionaggio a favore della Russia](https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L'uomo di 41 anni è detenuto a Londra ai sensi della legge sulla sicurezza nazionale del Regno Unito.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
 
 ### 🕒 Ora `08:05 CET` — Ricerca Oraria (11/23)
 _Aggiornamento registrato il `2026-11-11 08:08 CET`_
