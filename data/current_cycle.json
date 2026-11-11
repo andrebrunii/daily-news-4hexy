@@ -1477,6 +1477,88 @@
           "score": 12.0
         }
       ]
+    },
+    {
+      "hour_label": "17:05 CET",
+      "timestamp_str": "2026-11-11 17:53 CET",
+      "items": [
+        {
+          "title_orig": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+          "summary_orig": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+          "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+          "published": "Wed, 11 Nov 2026 15:05:11 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "17:53 CET",
+          "title_it": "I colloqui Russia-Ucraina si concentrano sulla sicurezza del dopoguerra, ma si concludono senza alcun risultato",
+          "summary_it": "I colloqui ad Abu Dhabi si sono concentrati sul quadro di sicurezza dell'Europa, con gli inviati statunitensi che giovedì incontreranno Putin e Zelenskyj.",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 40.5
+        },
+        {
+          "title_orig": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+          "summary_orig": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of the vote nationally with more than 80% of ballots counted. Wednesday’s...",
+          "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
+          "published": "Fri, 06 Nov 2026 12:48:37 GMT",
+          "source_id": "guardian_world",
+          "source_name": "The Guardian World",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Esteri & Analisi",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "17:53 CET",
+          "title_it": "L’ANC rischia una cocente sconfitta alle elezioni locali sudafricane con l’80% dei voti scrutinati",
+          "summary_it": "La quota di voti nazionali dell’ex movimento di liberazione è di quasi 14 punti percentuali al di sotto del risultato del 2021 L’African National Congress è sulla buona strada per subire una cocente sconfitta nelle elezioni locali del Sud Africa, con il partito un tempo dominante di Nelson Mandela che è sceso a meno di un terzo dei voti a livello nazionale con oltre l’80% dei voti scrutinati. Mercoledì...",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Electrolux, sì all'accordo dall'87% dei lavoratori stabilimento di Cerreto d'Esi",
+          "summary_orig": "Su 149 aventi diritto hanno votato in 114: 99 favorevoli, 14 contrari e una scheda nulla",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/electrolux-si-allaccordo-dall87-dei-lavoratori-stabilimento-di-cerreto-desi_5506fdd4-8fc6-404e-bec0-25ff6b7ec12e.html",
+          "published": "Wed, 11 Nov 2026 17:03:53 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "17:53 CET",
+          "title_it": "Electrolux, sì all'accordo dall'87% dei lavoratori stabilimento di Cerreto d'Esi",
+          "summary_it": "Su 149 aventi diritto hanno votato in 114: 99 favorevoli, 14 contrari e una scheda nulla",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza delle scorte e capitalismo strategico di Stato).\n🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
+          "summary_orig": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
+          "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
+          "published": "Wed, 11 Nov 2026 15:53:36 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "17:53 CET",
+          "title_it": "Il CEO di CoreWeave Intrator dice alla CNBC di aver annullato il suo programma di vendita di azioni pianificato",
+          "summary_it": "Dopo che CoreWeave ha superato le entrate e aumentato le sue previsioni, il CEO Mike Intrator ha indicato che la società andrà bene nonostante il voto democratico di medio termine della scorsa settimana.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.\n🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 17.5
+        }
+      ]
     }
   ]
 }

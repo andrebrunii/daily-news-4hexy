@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 11 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-18%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (18/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `17:05 CET` — Ricerca Oraria (19/23)
+_Aggiornamento registrato il `2026-11-11 17:53 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [I colloqui Russia-Ucraina si concentrano sulla sicurezza del dopoguerra, ma si concludono senza alcun risultato](https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** I colloqui ad Abu Dhabi si sono concentrati sul quadro di sicurezza dell'Europa, con gli inviati statunitensi che giovedì incontreranno Putin e Zelenskyj.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🌍 Esteri & Analisi` [L’ANC rischia una cocente sconfitta alle elezioni locali sudafricane con l’80% dei voti scrutinati](https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections)** — *(The Guardian World)*
+  - 📌 **Sintesi:** La quota di voti nazionali dell’ex movimento di liberazione è di quasi 14 punti percentuali al di sotto del risultato del 2021 L’African National Congress è sulla buona strada per subire una cocente sconfitta nelle elezioni locali del Sud Africa, con il partito un tempo dominante di Nelson Mandela che è sceso a meno di un terzo dei voti a livello nazionale con oltre l’80% dei voti scrutinati. Mercoledì...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
+- **[3] `💶 Macro & Finanza UE` [Electrolux, sì all'accordo dall'87% dei lavoratori stabilimento di Cerreto d'Esi](https://www.ansa.it/sito/notizie/economia/2026/11/11/electrolux-si-allaccordo-dall87-dei-lavoratori-stabilimento-di-cerreto-desi_5506fdd4-8fc6-404e-bec0-25ff6b7ec12e.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Su 149 aventi diritto hanno votato in 114: 99 favorevoli, 14 contrari e una scheda nulla
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🏦 Mercati Globali` [Il CEO di CoreWeave Intrator dice alla CNBC di aver annullato il suo programma di vendita di azioni pianificato](https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Dopo che CoreWeave ha superato le entrate e aumentato le sue previsioni, il CEO Mike Intrator ha indicato che la società andrà bene nonostante il voto democratico di medio termine della scorsa settimana.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `16:05 CET` — Ricerca Oraria (18/23)
 _Aggiornamento registrato il `2026-11-11 16:50 CET`_
