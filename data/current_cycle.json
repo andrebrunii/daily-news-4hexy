@@ -985,6 +985,88 @@
           "score": 22.5
         }
       ]
+    },
+    {
+      "hour_label": "10:05 CET",
+      "timestamp_str": "2026-11-11 10:56 CET",
+      "items": [
+        {
+          "title_orig": "San Benedetto, costo delle materie prime e nuove tasse: cosa c’è dietro i tagli",
+          "summary_orig": "L’azienda motiva i 120 licenziamenti nella sede di Scorzè: pesano anche Plastic tax e Sugar tax",
+          "link": "https://www.ilsole24ore.com/art/san-benedetto-costo-materie-prime-e-nuove-tasse-cosa-c-e-dietro-tagli-AJPUXVCC",
+          "published": "Wed, 11 Nov 2026 09:35:13 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "10:56 CET",
+          "title_it": "San Benedetto, costo delle materie prime e nuove tasse: cosa c’è dietro i tagli",
+          "summary_it": "L’azienda motiva i 120 licenziamenti nella sede di Scorzè: pesano anche Plastic tax e Sugar tax",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 13.0
+        },
+        {
+          "title_orig": "Teheran, 'qualsiasi minaccia diventerà bersaglio di azioni asimmetriche'",
+          "summary_orig": "Lo afferma il capo di Stato maggiore delle Forze armate",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/11/teheran-qualsiasi-minaccia-diventera-bersaglio-di-azioni-asimmetriche_cfc2bd58-7380-4ccd-8902-23b4eff3f6d3.html",
+          "published": "Wed, 11 Nov 2026 10:47:38 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "10:56 CET",
+          "title_it": "Teheran, 'qualsiasi minaccia diventerà bersaglio di azioni asimmetriche'",
+          "summary_it": "Lo afferma il capo di Stato maggiore delle Forze armate",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "FonARCom, 'fondi interprofessionali pronti a diventare attuatori nelle politiche attive'",
+          "summary_orig": "Il presidente, 'rafforzare collaborazione con ministero e Regioni'",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/fonarcom-fondi-interprofessionali-pronti-a-diventare-attuatori-nelle-politiche-attive_2e0fa386-ff9b-43ad-b52e-b26de33b319f.html",
+          "published": "Wed, 11 Nov 2026 10:30:30 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "10:56 CET",
+          "title_it": "FonARCom, 'fondi interprofessionali pronti a diventare attuatori nelle politiche attive'",
+          "summary_it": "Il presidente, 'rafforzare collaborazione con ministero e Regioni'",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza delle scorte e capitalismo strategico di Stato).\n🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "CoreWeave stock pops 13% after outlook raise eases AI slowdown concerns",
+          "summary_orig": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
+          "link": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+          "published": "Wed, 11 Nov 2026 09:34:18 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "10:56 CET",
+          "title_it": "Le azioni CoreWeave salgono del 13% dopo che l’aumento delle prospettive ha alleviato le preoccupazioni sul rallentamento dell’IA",
+          "summary_it": "Neocloud come CoreWeave, Nebius e IREN sono stati messi sotto esame questo mese mentre gli investitori valutavano la sostenibilità del commercio di intelligenza artificiale.",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 21.0
+        }
+      ]
     }
   ]
 }

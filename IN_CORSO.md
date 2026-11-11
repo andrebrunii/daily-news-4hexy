@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 11 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-13%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (13/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `10:05 CET` — Ricerca Oraria (13/23)
+_Aggiornamento registrato il `2026-11-11 10:56 CET`_
+
+- **[1] `📈 Economia & Mercati` [San Benedetto, costo delle materie prime e nuove tasse: cosa c’è dietro i tagli](https://www.ilsole24ore.com/art/san-benedetto-costo-materie-prime-e-nuove-tasse-cosa-c-e-dietro-tagli-AJPUXVCC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** L’azienda motiva i 120 licenziamenti nella sede di Scorzè: pesano anche Plastic tax e Sugar tax
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
+- **[2] `🌍 Geopolitica & Mondo` [Teheran, 'qualsiasi minaccia diventerà bersaglio di azioni asimmetriche'](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/11/teheran-qualsiasi-minaccia-diventera-bersaglio-di-azioni-asimmetriche_cfc2bd58-7380-4ccd-8902-23b4eff3f6d3.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Lo afferma il capo di Stato maggiore delle Forze armate
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[3] `💶 Macro & Finanza UE` [FonARCom, 'fondi interprofessionali pronti a diventare attuatori nelle politiche attive'](https://www.ansa.it/sito/notizie/economia/2026/11/11/fonarcom-fondi-interprofessionali-pronti-a-diventare-attuatori-nelle-politiche-attive_2e0fa386-ff9b-43ad-b52e-b26de33b319f.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Il presidente, 'rafforzare collaborazione con ministero e Regioni'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[4] `🏦 Mercati Globali` [Le azioni CoreWeave salgono del 13% dopo che l’aumento delle prospettive ha alleviato le preoccupazioni sul rallentamento dell’IA](https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Neocloud come CoreWeave, Nebius e IREN sono stati messi sotto esame questo mese mentre gli investitori valutavano la sostenibilità del commercio di intelligenza artificiale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `09:05 CET` — Ricerca Oraria (12/23)
 _Aggiornamento registrato il `2026-11-11 09:54 CET`_
