@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 11 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-4%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (4/23 ricerche orarie):**
-`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `01:05 CET` — Ricerca Oraria (5/23)
+_Aggiornamento registrato il `2026-11-11 01:58 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Toledo, messa solenne per le 69 vittime del disastro ferroviario spagnolo](https://it.euronews.com/video/2026/11/10/toledo-messa-solenne-per-le-69-vittime-del-disastro-ferroviario-spagnolo)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Il re di Spagna Felipe VI e la regina Letizia hanno partecipato martedì 10 novembre a un funerale di Stato nella cattedrale di Toledo per le 69 vittime del devastante scontro tra treni ad alta velocità avvenuto il 28 ottobre vicino a Urda.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
+- **[2] `📈 Economia & Mercati` [Hera acquisisce Gigas Rete per crescere nel Nord Est](https://www.ilsole24ore.com/art/hera-acquisisce-gigas-rete-crescere-nord-est-AJ6ZKgBC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Il risiko delle reti del gas si sposta nel Veronese, dove Hera mette a segno una nuova acquisizione e consolida la propria presenza nel Nord Est. La multiutility...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[3] `💶 Macro & Finanza UE` [Interscambio Italia-Messico in espansione, +8,6% tra gennaio e settembre](https://www.ansa.it/sito/notizie/economia/2026/11/11/interscambio-italia-messico-in-espansione-86-tra-gennaio-e-settembre_329ff19a-3f22-4ebb-af3f-075a4727f90b.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** In nove mesi otto miliardi di euro e vendite del Paese nordamericano a +29,8%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
+- **[4] `🏦 Mercati Globali` [White House vows to press ahead with tariffs despite midterm backlash over rising prices](https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `00:05 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-11 00:35 CET`_
