@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 11 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-10%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (10/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `08:05 CET` — Ricerca Oraria (11/23)
+_Aggiornamento registrato il `2026-11-11 08:08 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Tre sospetti sostenuti dall'Iran hanno pianificato attacchi tra cui l'incidente della RAF Fairford, dicono gli Stati Uniti](https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il Dipartimento di Giustizia degli Stati Uniti afferma che gli uomini erano coinvolti in una serie di complotti, incluso un grave incidente vicino alla base aerea britannica utilizzata dalle forze armate statunitensi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[2] `🌍 Esteri & Analisi` [Come le filosofie africane hanno ispirato un nuovo approccio all'organizzazione di festival cinematografici a Manchester](https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester)** — *(The Guardian World)*
+  - 📌 **Sintesi:** See My World, un evento che mette in luce il pensiero panafricano attraverso film, poesia e danza, si basa sullo slancio suscitato da attivisti e creativi locali. Le filosofie africane, inclusa l'esplorazione di come le lezioni del passato possono plasmare il presente e il prossimo futuro, hanno ispirato un festival cinematografico in arrivo a Manchester. See My World, una giornata dedicata agli indipendenti...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[3] `💶 Macro & Finanza UE` [Il gas si mantiene sopra gli 86 euro sulla piazza Ttf di Amsterdam](https://www.ansa.it/sito/notizie/economia/2026/11/11/il-gas-si-mantiene-sopra-gli-86-euro-sulla-piazza-ttf-di-amsterdam_39ad9825-1204-4979-89ab-84db6adb9c9e.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** I contratti future sul mese di dicembre guadagnano l'1,5%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[4] `🏦 Mercati Globali` [Gli investitori si orientano verso i titoli difensivi mentre i mercati entrano in uno “stato di allerta”](https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** I titoli tecnologici hanno perso slancio mentre i settori difensivi guadagnano terreno, mentre gli investitori rivalutano i rischi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari e finanziari ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e transizione.
 
 ### 🕒 Ora `06:05 CET` — Ricerca Oraria (10/23)
 _Aggiornamento registrato il `2026-11-11 06:57 CET`_
