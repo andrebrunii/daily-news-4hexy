@@ -1313,6 +1313,88 @@
           "score": 15.0
         }
       ]
+    },
+    {
+      "hour_label": "15:05 CET",
+      "timestamp_str": "2026-11-11 15:18 CET",
+      "items": [
+        {
+          "title_orig": "Lula alla Cop31, 'guerre e dazi oscurano l'agenda climatica globale'",
+          "summary_orig": "Il presidente chiede 1.300 miliardi di dollari l'anno per l'ambiente",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/11/lula-alla-cop31-guerre-e-dazi-oscurano-lagenda-climatica-globale_9e9d4a1c-b6db-4488-a806-539421c3491b.html",
+          "published": "Wed, 11 Nov 2026 14:21:20 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "15:18 CET",
+          "title_it": "Lula alla Cop31, 'guerre e dazi oscurano l'agenda climatica globale'",
+          "summary_it": "Il presidente chiede 1.300 miliardi di dollari l'anno per l'ambiente",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 24.0
+        },
+        {
+          "title_orig": "‘Systemic’ sexual misconduct in German armed forces, study finds",
+          "summary_orig": "Some 40% of female soldiers and 20% of male soldiers said they had experienced at least one form of sexual misconduct in the past year.",
+          "link": "https://www.politico.eu/article/study-finds-widespread-bundeswehr-sexual-misconduct/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Wed, 11 Nov 2026 13:45:35 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "15:18 CET",
+          "title_it": "Cattiva condotta sessuale “sistemica” nelle forze armate tedesche, secondo uno studio",
+          "summary_it": "Circa il 40% delle donne soldato e il 20% dei soldati uomini hanno affermato di aver subito almeno una forma di cattiva condotta sessuale nell'ultimo anno.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 16.5
+        },
+        {
+          "title_orig": "AI proved a major quantum complexity conjecture. What does it mean?",
+          "summary_orig": "If you work with a normal computer — a classical computer — you’re used to two foundational ideas: the idea of bits, where information gets encoded as a “0” or “1” within some sort of storage medium or mechanism, and the idea of operations that can be performed on those bits (or “gates” that those bits can be passed through), which represent the possible...",
+          "link": "https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/",
+          "published": "Wed, 11 Nov 2026 07:00:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "15:18 CET",
+          "title_it": "L’intelligenza artificiale ha dimostrato un’importante congettura sulla complessità quantistica. Cosa significa?",
+          "summary_it": "Se lavori con un computer normale, un computer classico, sei abituato a due idee fondamentali: l'idea dei bit, in cui le informazioni vengono codificate come \"0\" o \"1\" all'interno di una sorta di supporto o meccanismo di memorizzazione, e l'idea di operazioni che possono essere eseguite su quei bit (o \"porte\" attraverso le quali quei bit possono essere fatti passare), che rappresentano il possibile...",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 23.5
+        },
+        {
+          "title_orig": "Prezzi dei carburanti in calo, gasolio scende a 2,225 euro con taglio accise",
+          "summary_orig": "Mimit, benzina sotto 2 euro nel 91% degli impianti",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/prezzi-dei-carburanti-in-calo-gasolio-scende-a-2225-euro-con-taglio_dea03f0b-5522-4c91-964e-eeee7c29a867.html",
+          "published": "Wed, 11 Nov 2026 14:32:41 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "15:18 CET",
+          "title_it": "Prezzi dei carburanti in calo, gasolio scende a 2,225 euro con taglio accise",
+          "summary_it": "Mimit, benzina sotto 2 euro nel 91% degli impianti",
+          "impact_eu_it": "Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 19.0
+        }
+      ]
     }
   ]
 }

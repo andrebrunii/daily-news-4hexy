@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 11 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-17%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (17/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `15:05 CET` — Ricerca Oraria (17/23)
+_Aggiornamento registrato il `2026-11-11 15:18 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Lula alla Cop31, 'guerre e dazi oscurano l'agenda climatica globale'](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/11/lula-alla-cop31-guerre-e-dazi-oscurano-lagenda-climatica-globale_9e9d4a1c-b6db-4488-a806-539421c3491b.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il presidente chiede 1.300 miliardi di dollari l'anno per l'ambiente
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[2] `🇪🇺 Unione Europea & Policy` [Cattiva condotta sessuale “sistemica” nelle forze armate tedesche, secondo uno studio](https://www.politico.eu/article/study-finds-widespread-bundeswehr-sexual-misconduct/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Circa il 40% delle donne soldato e il 20% dei soldati uomini hanno affermato di aver subito almeno una forma di cattiva condotta sessuale nell'ultimo anno.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[3] `🧠 Paradigmi & Lunghi Orizzonti` [L’intelligenza artificiale ha dimostrato un’importante congettura sulla complessità quantistica. Cosa significa?](https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/)** — *(Big Think)*
+  - 📌 **Sintesi:** Se lavori con un computer normale, un computer classico, sei abituato a due idee fondamentali: l'idea dei bit, in cui le informazioni vengono codificate come "0" o "1" all'interno di una sorta di supporto o meccanismo di memorizzazione, e l'idea di operazioni che possono essere eseguite su quei bit (o "porte" attraverso le quali quei bit possono essere fatti passare), che rappresentano il possibile...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
+- **[4] `💶 Macro & Finanza UE` [Prezzi dei carburanti in calo, gasolio scende a 2,225 euro con taglio accise](https://www.ansa.it/sito/notizie/economia/2026/11/11/prezzi-dei-carburanti-in-calo-gasolio-scende-a-2225-euro-con-taglio_dea03f0b-5522-4c91-964e-eeee7c29a867.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Mimit, benzina sotto 2 euro nel 91% degli impianti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
 
 ### 🕒 Ora `14:05 CET` — Ricerca Oraria (16/23)
 _Aggiornamento registrato il `2026-11-11 14:02 CET`_
