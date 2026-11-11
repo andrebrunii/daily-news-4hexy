@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 11 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-8%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-9%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (8/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (9/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `05:05 CET` — Ricerca Oraria (9/23)
+_Aggiornamento registrato il `2026-11-11 05:57 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [In Ecuador si chiude il coprifuoco di 10 giorni con oltre 2.600 arresti](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/11/in-ecuador-si-chiude-il-coprifuoco-di-10-giorni-con-oltre-2.600-arresti_a457a64c-dfc2-443c-bbf4-8fcc03f26eb7.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il presidente Noboa annuncia la fine delle restrizioni, recuperati anche 750 veicoli
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[2] `🇪🇺 Unione Europea & Policy` [Die dunkle Seite der Bundeswehr: Sexualisierte Gewalt gegen Frauen](https://www.politico.eu/podcast/berlin-playbook-podcast/die-dunkle-seite-der-bundeswehr-sexualisierte-gewalt-gegen-frauen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Präsentiert von YouTube.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🔭 Ricerca & Spazio` [Scientists discover a giant 66-pound rodent that lived 34 million years ago](https://www.sciencedaily.com/releases/2026/11/261110042532.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
+- **[4] `🏛️ Filosofia & Idee` [The wholehearted life](https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher. How does she look back on her life? - by Ben Daitz Read on Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
 
 ### 🕒 Ora `04:05 CET` — Ricerca Oraria (8/23)
 _Aggiornamento registrato il `2026-11-11 04:52 CET`_

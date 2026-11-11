@@ -657,6 +657,88 @@
           "score": 14.5
         }
       ]
+    },
+    {
+      "hour_label": "05:05 CET",
+      "timestamp_str": "2026-11-11 05:57 CET",
+      "items": [
+        {
+          "title_orig": "In Ecuador si chiude il coprifuoco di 10 giorni con oltre 2.600 arresti",
+          "summary_orig": "Il presidente Noboa annuncia la fine delle restrizioni, recuperati anche 750 veicoli",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/11/in-ecuador-si-chiude-il-coprifuoco-di-10-giorni-con-oltre-2.600-arresti_a457a64c-dfc2-443c-bbf4-8fcc03f26eb7.html",
+          "published": "Wed, 11 Nov 2026 01:49:54 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "05:57 CET",
+          "title_it": "In Ecuador si chiude il coprifuoco di 10 giorni con oltre 2.600 arresti",
+          "summary_it": "Il presidente Noboa annuncia la fine delle restrizioni, recuperati anche 750 veicoli",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.\n🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Die dunkle Seite der Bundeswehr: Sexualisierte Gewalt gegen Frauen",
+          "summary_orig": "Präsentiert von YouTube.",
+          "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/die-dunkle-seite-der-bundeswehr-sexualisierte-gewalt-gegen-frauen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Wed, 11 Nov 2026 04:01:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "05:57 CET",
+          "title_it": "Die dunkle Seite der Bundeswehr: Sexualisierte Gewalt gegen Frauen",
+          "summary_it": "Präsentiert von YouTube.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 16.5
+        },
+        {
+          "title_orig": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+          "summary_orig": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+          "published": "Tue, 10 Nov 2026 20:36:04 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "05:57 CET",
+          "title_it": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+          "summary_it": "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "The wholehearted life",
+          "summary_orig": "Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher. How does she look back on her life? - by Ben Daitz Read on Aeon",
+          "link": "https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life",
+          "published": "Tue, 10 Nov 2026 11:00:00 GMT",
+          "source_id": "aeon",
+          "source_name": "Aeon Philosophy & Ideas",
+          "category": "filosofia",
+          "badge": "🏛️ Filosofia & Idee",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "05:57 CET",
+          "title_it": "The wholehearted life",
+          "summary_it": "Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher. How does she look back on her life? - by Ben Daitz Read on Aeon",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 15.0
+        }
+      ]
     }
   ]
 }
