@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 11 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `14:05 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-11 14:02 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Falso allarme bomba in 300 scuole dell'Irlanda del Nord, alcune evacuate](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/falso-allarme-bomba-in-300-scuole-dellirlanda-del-nord-alcune-evacuate_0a37f973-56e6-44de-997a-a91308d87120.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Polizia, 'messaggio partito dall'estero'. Minacce anche in Scozia
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[2] `🇪🇺 Unione Europea & Policy` [Burnham promette un piano decennale prima della pausa natalizia](https://www.politico.eu/article/burnham-promises-10-year-plan-before-christmas-recess/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il primo ministro britannico afferma che il suo progetto sarà presentato alla Camera dei Comuni entro il 17 dicembre.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[3] `🔭 Ricerca & Spazio` [Perché gli attacchi di cuore possono verificarsi anche quando il colesterolo cattivo è basso](https://www.sciencedaily.com/releases/2026/11/261109205415.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Anche quando il colesterolo cattivo viene ridotto a livelli sani, alcune persone rimangono a rischio di attacchi di cuore e gli scienziati potrebbero aver scoperto il perché. I ricercatori hanno identificato due tipi di particelle che trasportano il grasso che sembrano promuovere l’infiammazione e danneggiare i vasi sanguigni attraverso meccanismi che vanno oltre l’accumulo di colesterolo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🏛️ Filosofia & Idee` [Decodificazione dei fossili ediacarani](https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Antichi esemplari rivelano come gli animali iniziarono a muoversi mezzo miliardo di anni fa - e persino il primo esempio conosciuto di "manualità" - di Aeon Video Watch su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `12:05 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-11 12:53 CET`_

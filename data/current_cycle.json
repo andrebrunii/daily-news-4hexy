@@ -1231,6 +1231,88 @@
           "score": 23.0
         }
       ]
+    },
+    {
+      "hour_label": "14:05 CET",
+      "timestamp_str": "2026-11-11 14:02 CET",
+      "items": [
+        {
+          "title_orig": "Falso allarme bomba in 300 scuole dell'Irlanda del Nord, alcune evacuate",
+          "summary_orig": "Polizia, 'messaggio partito dall'estero'. Minacce anche in Scozia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/falso-allarme-bomba-in-300-scuole-dellirlanda-del-nord-alcune-evacuate_0a37f973-56e6-44de-997a-a91308d87120.html",
+          "published": "Wed, 11 Nov 2026 13:04:41 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "14:02 CET",
+          "title_it": "Falso allarme bomba in 300 scuole dell'Irlanda del Nord, alcune evacuate",
+          "summary_it": "Polizia, 'messaggio partito dall'estero'. Minacce anche in Scozia",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Burnham promises 10-year plan before Christmas recess",
+          "summary_orig": "The British prime minister says his blueprint will be presented to the Commons by Dec. 17.",
+          "link": "https://www.politico.eu/article/burnham-promises-10-year-plan-before-christmas-recess/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Wed, 11 Nov 2026 12:49:21 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "14:02 CET",
+          "title_it": "Burnham promette un piano decennale prima della pausa natalizia",
+          "summary_it": "Il primo ministro britannico afferma che il suo progetto sarà presentato alla Camera dei Comuni entro il 17 dicembre.",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 21.5
+        },
+        {
+          "title_orig": "Why heart attacks can still happen even when bad cholesterol is low",
+          "summary_orig": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to promote inflammation and damage blood vessels through mechanisms beyond cholesterol buildup.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
+          "published": "Mon, 09 Nov 2026 20:54:15 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "14:02 CET",
+          "title_it": "Perché gli attacchi di cuore possono verificarsi anche quando il colesterolo cattivo è basso",
+          "summary_it": "Anche quando il colesterolo cattivo viene ridotto a livelli sani, alcune persone rimangono a rischio di attacchi di cuore e gli scienziati potrebbero aver scoperto il perché. I ricercatori hanno identificato due tipi di particelle che trasportano il grasso che sembrano promuovere l’infiammazione e danneggiare i vasi sanguigni attraverso meccanismi che vanno oltre l’accumulo di colesterolo.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.\n🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Decoding Ediacaran fossils",
+          "summary_orig": "Ancient specimens reveal how animals began to move half a billion years ago – and even the first known example of ‘handedness’ - by Aeon Video Watch on Aeon",
+          "link": "https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life",
+          "published": "Wed, 11 Nov 2026 11:01:00 GMT",
+          "source_id": "aeon",
+          "source_name": "Aeon Philosophy & Ideas",
+          "category": "filosofia",
+          "badge": "🏛️ Filosofia & Idee",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "14:02 CET",
+          "title_it": "Decodificazione dei fossili ediacarani",
+          "summary_it": "Antichi esemplari rivelano come gli animali iniziarono a muoversi mezzo miliardo di anni fa - e persino il primo esempio conosciuto di \"manualità\" - di Aeon Video Watch su Aeon",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 15.0
+        }
+      ]
     }
   ]
 }
