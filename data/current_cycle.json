@@ -1641,6 +1641,88 @@
           "score": 15.5
         }
       ]
+    },
+    {
+      "hour_label": "19:05 CET",
+      "timestamp_str": "2026-11-11 19:54 CET",
+      "items": [
+        {
+          "title_orig": "Carlo d'Inghilterra in visita al Crick Institute per i dieci anni dalla fondazione",
+          "summary_orig": "L'istituto fa ricerca sul cancro e le malattie neurodegenerative come la Sla",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/carlo-dinghilterra-in-visita-al-crick-institute-per-i-dieci-anni-dalla-fondazione_15ea0328-8f50-40c9-a304-5fc72df465b2.html",
+          "published": "Wed, 11 Nov 2026 17:51:08 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "19:54 CET",
+          "title_it": "Carlo d'Inghilterra in visita al Crick Institute per i dieci anni dalla fondazione",
+          "summary_it": "L'istituto fa ricerca sul cancro e le malattie neurodegenerative come la Sla",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 23.0
+        },
+        {
+          "title_orig": "Lagarde would equal any other centrist in Elysée run, poll shows",
+          "summary_orig": "The departing ECB president has previously ruled out running in next year's presidential election.",
+          "link": "https://www.politico.eu/article/lagarde-would-equal-any-other-centrist-in-elysee-run-poll-shows/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Wed, 11 Nov 2026 16:45:41 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "19:54 CET",
+          "title_it": "Lagarde would equal any other centrist in Elysée run, poll shows",
+          "summary_it": "The departing ECB president has previously ruled out running in next year's presidential election.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 18.0
+        },
+        {
+          "title_orig": "Allarme energia dal Mef alle imprese, 'così impossibile competere'",
+          "summary_orig": "Attenzione da Giorgetti. Orsini: 'A gennaio gas a 110 euro'. Bce, inflazione da raffinazione",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/11/allarme-energia-dal-mef-alle-imprese-cosi-impossibile-competere_981290b4-d2fc-46df-ae6f-3f25a8b2c77a.html",
+          "published": "Wed, 11 Nov 2026 19:18:33 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "19:54 CET",
+          "title_it": "Allarme energia dal Mef alle imprese, 'così impossibile competere'",
+          "summary_it": "Attenzione da Giorgetti. Orsini: 'A gennaio gas a 110 euro'. Bce, inflazione da raffinazione",
+          "impact_eu_it": "Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica globale costringe Roma e Bruxelles a ricalibrare le priorità di bilancio.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 29.5
+        },
+        {
+          "title_orig": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
+          "summary_orig": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+          "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+          "published": "Wed, 11 Nov 2026 18:45:27 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "19:54 CET",
+          "title_it": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
+          "summary_it": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 12.0
+        }
+      ]
     }
   ]
 }

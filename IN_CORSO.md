@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 11 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-21%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (21/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `19:05 CET` — Ricerca Oraria (21/23)
+_Aggiornamento registrato il `2026-11-11 19:54 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Carlo d'Inghilterra in visita al Crick Institute per i dieci anni dalla fondazione](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/carlo-dinghilterra-in-visita-al-crick-institute-per-i-dieci-anni-dalla-fondazione_15ea0328-8f50-40c9-a304-5fc72df465b2.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** L'istituto fa ricerca sul cancro e le malattie neurodegenerative come la Sla
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Unione Europea & Policy` [Lagarde would equal any other centrist in Elysée run, poll shows](https://www.politico.eu/article/lagarde-would-equal-any-other-centrist-in-elysee-run-poll-shows/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** The departing ECB president has previously ruled out running in next year's presidential election.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[3] `💶 Macro & Finanza UE` [Allarme energia dal Mef alle imprese, 'così impossibile competere'](https://www.ansa.it/sito/notizie/economia/2026/11/11/allarme-energia-dal-mef-alle-imprese-cosi-impossibile-competere_981290b4-d2fc-46df-ae6f-3f25a8b2c77a.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Attenzione da Giorgetti. Orsini: 'A gennaio gas a 110 euro'. Bce, inflazione da raffinazione
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica globale costringe Roma e Bruxelles a ricalibrare le priorità di bilancio.
+- **[4] `🏦 Mercati Globali` [Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes](https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
 
 ### 🕒 Ora `18:05 CET` — Ricerca Oraria (20/23)
 _Aggiornamento registrato il `2026-11-11 18:53 CET`_
