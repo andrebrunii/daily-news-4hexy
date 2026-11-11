@@ -1149,6 +1149,88 @@
           "score": 18.5
         }
       ]
+    },
+    {
+      "hour_label": "12:05 CET",
+      "timestamp_str": "2026-11-11 12:53 CET",
+      "items": [
+        {
+          "title_orig": "Zelensky, speriamo di testare questo inverno il primo sistema antimissile europeo",
+          "summary_orig": "Lo afferma il presidente ucraino in Danimarca",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/zelensky-speriamo-di-testare-questo-inverno-il-primo-sistema-antimissile-europeo_d8a27838-c31e-4afe-b1ec-751724a7aa83.html",
+          "published": "Wed, 11 Nov 2026 11:56:13 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "12:53 CET",
+          "title_it": "Zelensky, speriamo di testare questo inverno il primo sistema antimissile europeo",
+          "summary_it": "Lo afferma il presidente ucraino in Danimarca",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.\n🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 24.0
+        },
+        {
+          "title_orig": "Burnham: Good COP or bad COP?",
+          "summary_orig": "As the prime minister heads to COP, the UN’s annual climate change conference, does the government have a coherent message? With the cost of the green transition starting to bite, the government faces tough questions on its policy decisions and delays around oil, gas, and electric cars. Are Labour’s climate ambitions slipping because of hard […]",
+          "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/burnham-good-cop-or-bad-cop/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Wed, 11 Nov 2026 11:03:59 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "12:53 CET",
+          "title_it": "Burnham: Poliziotto buono o poliziotto cattivo?",
+          "summary_it": "Mentre il primo ministro si dirige alla COP, la conferenza annuale delle Nazioni Unite sui cambiamenti climatici, il governo ha un messaggio coerente? Con il costo della transizione verde che inizia a farsi sentire, il governo si trova ad affrontare domande difficili sulle sue decisioni politiche e sui ritardi riguardo al petrolio, al gas e alle auto elettriche. Le ambizioni climatiche del Labour stanno scivolando a causa della dura […]",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 41.0
+        },
+        {
+          "title_orig": "The US military seems to be getting nervous about the launch supply crunch",
+          "summary_orig": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+          "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+          "published": "Tue, 10 Nov 2026 23:02:39 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "12:53 CET",
+          "title_it": "L’esercito americano sembra essere nervoso per la crisi delle scorte di lancio",
+          "summary_it": "\"Il lancio è estremamente limitato e questa è esattamente la situazione che avevamo previsto.\"",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Evolving metal extraction processes",
+          "summary_orig": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familiar to metallurgists from generations ago. Processes have...",
+          "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+          "published": "Tue, 10 Nov 2026 13:00:00 +0000",
+          "source_id": "mit_tech",
+          "source_name": "MIT Technology Review",
+          "category": "tech_ia",
+          "badge": "⚡ Futuro & Deep Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.25,
+          "hour_slot": "12:53 CET",
+          "title_it": "Processi di estrazione dei metalli in evoluzione",
+          "summary_it": "L’industria dei metalli ha già vissuto momenti di trasformazione in passato: il processo Bessemer, la fusione rapida, i forni elettrici ad arco e la moderna colata continua hanno cambiato ciò che era possibile fare. Eppure, da più di un secolo, la maggior parte dei processi di estrazione si basano su tecniche e percorsi familiari ai metallurgisti di generazioni fa. I processi hanno...",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 23.0
+        }
+      ]
     }
   ]
 }

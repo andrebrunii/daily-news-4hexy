@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 11 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-14%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `12:05 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-11 12:53 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Zelensky, speriamo di testare questo inverno il primo sistema antimissile europeo](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/zelensky-speriamo-di-testare-questo-inverno-il-primo-sistema-antimissile-europeo_d8a27838-c31e-4afe-b1ec-751724a7aa83.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Lo afferma il presidente ucraino in Danimarca
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[2] `🇪🇺 Unione Europea & Policy` [Burnham: Poliziotto buono o poliziotto cattivo?](https://www.politico.eu/podcast/politics-at-sam-and-annes/burnham-good-cop-or-bad-cop/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Mentre il primo ministro si dirige alla COP, la conferenza annuale delle Nazioni Unite sui cambiamenti climatici, il governo ha un messaggio coerente? Con il costo della transizione verde che inizia a farsi sentire, il governo si trova ad affrontare domande difficili sulle sue decisioni politiche e sui ritardi riguardo al petrolio, al gas e alle auto elettriche. Le ambizioni climatiche del Labour stanno scivolando a causa della dura […]
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[3] `💻 Tecnologia & Cyber` [L’esercito americano sembra essere nervoso per la crisi delle scorte di lancio](https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** "Il lancio è estremamente limitato e questa è esattamente la situazione che avevamo previsto."
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `⚡ Futuro & Deep Tech` [Processi di estrazione dei metalli in evoluzione](https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** L’industria dei metalli ha già vissuto momenti di trasformazione in passato: il processo Bessemer, la fusione rapida, i forni elettrici ad arco e la moderna colata continua hanno cambiato ciò che era possibile fare. Eppure, da più di un secolo, la maggior parte dei processi di estrazione si basano su tecniche e percorsi familiari ai metallurgisti di generazioni fa. I processi hanno...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `11:05 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-11 11:58 CET`_
