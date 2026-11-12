@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 12 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-1%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-2%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (1/23 ricerche orarie):**
-`🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (2/23 ricerche orarie):**
+`🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `10:05 CET` — Ricerca Oraria (2/23)
+_Aggiornamento registrato il `2026-11-12 10:41 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Zelensky, il sistema Starshield ha di nuovo delle limitazioni](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/zelensky-il-sistema-starshield-ha-di-nuovo-delle-limitazioni_000e5532-3cf8-4979-ad40-85f15d2d5af8.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Non si tratta di errori casuali, ma di un limite di velocità imposto dal sistema'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [La crisi travolge il governo olandese prima del voto cruciale sulle tasse](https://www.politico.eu/article/dutch-coalition-government-hangs-thread-crucial-tax-vote-jetten-cda-pro-volt/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il centrista D66 e il centrodestra CDA hanno stretto un accordo con i partiti di opposizione, mettendo da parte il fiscalmente conservatore VVD.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[3] `⚡ Futuro & Deep Tech` [Cosa sapere sui colloqui sul clima delle Nazioni Unite di quest’anno](https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** È di nuovo quel periodo dell’anno: migliaia di delegati, lobbisti e giornalisti si riuniscono per i colloqui annuali delle Nazioni Unite sul clima, che si svolgono questa volta ad Antalya, in Turchia. La COP31 è iniziata ufficialmente l’8 novembre, segnando l’inizio dei negoziati su una delle più grandi fasi del mondo sul clima. La Turchia e l'Australia stanno co-ospitando questo...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[4] `🧬 Scienza & Scoperte` [Anche i serpenti a sonagli hanno personalità, con effetti velenosi](https://www.nature.com/articles/d41586-026-03536-8)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 11 novembre 2026; doi:10.1038/d41586-026-03536-8 L'atteggiamento difensivo di un serpente potrebbe influenzare la quantità di veleno che produce in un test di laboratorio.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `02:05 CET` — Ricerca Oraria (1/23)
 _Aggiornamento registrato il `2026-11-12 02:53 CET`_

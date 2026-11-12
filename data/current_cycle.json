@@ -83,6 +83,88 @@
           "score": 14.0
         }
       ]
+    },
+    {
+      "hour_label": "10:05 CET",
+      "timestamp_str": "2026-11-12 10:41 CET",
+      "items": [
+        {
+          "title_orig": "Zelensky, il sistema Starshield ha di nuovo delle limitazioni",
+          "summary_orig": "'Non si tratta di errori casuali, ma di un limite di velocità imposto dal sistema'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/zelensky-il-sistema-starshield-ha-di-nuovo-delle-limitazioni_000e5532-3cf8-4979-ad40-85f15d2d5af8.html",
+          "published": "Thu, 12 Nov 2026 10:24:11 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "10:41 CET",
+          "title_it": "Zelensky, il sistema Starshield ha di nuovo delle limitazioni",
+          "summary_it": "'Non si tratta di errori casuali, ma di un limite di velocità imposto dal sistema'",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Crisis engulfs Dutch government ahead of crucial tax vote",
+          "summary_orig": "The centrist D66 and center-right CDA struck a deal with opposition parties, sidelining the fiscally conservative VVD.",
+          "link": "https://www.politico.eu/article/dutch-coalition-government-hangs-thread-crucial-tax-vote-jetten-cda-pro-volt/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Thu, 12 Nov 2026 08:55:36 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "10:41 CET",
+          "title_it": "La crisi travolge il governo olandese prima del voto cruciale sulle tasse",
+          "summary_it": "Il centrista D66 e il centrodestra CDA hanno stretto un accordo con i partiti di opposizione, mettendo da parte il fiscalmente conservatore VVD.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 20.0
+        },
+        {
+          "title_orig": "What to know about this year’s UN climate talks",
+          "summary_orig": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this…",
+          "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+          "published": "Wed, 11 Nov 2026 17:00:00 +0000",
+          "source_id": "mit_tech",
+          "source_name": "MIT Technology Review",
+          "category": "tech_ia",
+          "badge": "⚡ Futuro & Deep Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.25,
+          "hour_slot": "10:41 CET",
+          "title_it": "Cosa sapere sui colloqui sul clima delle Nazioni Unite di quest’anno",
+          "summary_it": "È di nuovo quel periodo dell’anno: migliaia di delegati, lobbisti e giornalisti si riuniscono per i colloqui annuali delle Nazioni Unite sul clima, che si svolgono questa volta ad Antalya, in Turchia. La COP31 è iniziata ufficialmente l’8 novembre, segnando l’inizio dei negoziati su una delle più grandi fasi del mondo sul clima. La Turchia e l'Australia stanno co-ospitando questo...",
+          "impact_eu_it": "Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 24.0
+        },
+        {
+          "title_orig": "Rattlesnakes have personalities too — to venomous effect",
+          "summary_orig": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03536-8 A snake’s defensiveness might affect how much venom it produces in a laboratory test.",
+          "link": "https://www.nature.com/articles/d41586-026-03536-8",
+          "published": "2026-11-11",
+          "source_id": "nature",
+          "source_name": "Nature Research",
+          "category": "scienza",
+          "badge": "🧬 Scienza & Scoperte",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.25,
+          "hour_slot": "10:41 CET",
+          "title_it": "Anche i serpenti a sonagli hanno personalità, con effetti velenosi",
+          "summary_it": "Natura, Pubblicato online: 11 novembre 2026; doi:10.1038/d41586-026-03536-8 L'atteggiamento difensivo di un serpente potrebbe influenzare la quantità di veleno che produce in un test di laboratorio.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 18.0
+        }
+      ]
     }
   ]
 }
