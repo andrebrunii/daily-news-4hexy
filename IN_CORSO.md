@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 12 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-2%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-3%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (2/23 ricerche orarie):**
-`🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (3/23 ricerche orarie):**
+`🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `19:05 CET` — Ricerca Oraria (3/23)
+_Aggiornamento registrato il `2026-11-12 19:08 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Roma, 15enne si toglie la vita: voleva diventare uomo, ipotesi di bullismo](https://it.euronews.com/2026/11/12/roma-15enne-si-toglie-la-vita-voleva-diventare-uomo-ipotesi-di-bullismo)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** La ragazza aveva confidato ai genitori il proprio disagio, legato anche al percorso di affermazione della sua identità di genere. Gli investigatori cercano di ricostruire il clima vissuto a scuola e tra i coetanei
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
+- **[2] `📈 Economia & Mercati` [«Serve equità, Fisco più leggero a favore del lavoro»](https://www.ilsole24ore.com/art/serve-equita-fisco-piu-leggero-favore-lavoro-AJ2SAbCC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Un sistema industriale locale da mantenere forte, mettendolo allo stesso tempo nelle condizioni di affrontare le grandi trasformazioni in atto. Il ragionamento di Matteo Zanetti ruota attorno a questa necessità,...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[3] `💶 Macro & Finanza UE` [Il prezzo del gas corre e sfiora i 94 euro con tensioni Medioriente](https://www.ansa.it/sito/notizie/economia/2026/11/12/il-prezzo-del-gas-corre-e-sfiora-i-94-euro-con-tensioni-medioriente_37283fb3-ab72-4cb0-bfb4-1aa473abdefa.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** I contratti Ttf ad Amsterdam segnano un +8 per cento
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[4] `🏦 Mercati Globali` [Aggiornamenti live di Nvidia: Jensen Huang accetta di testimoniare davanti al Congresso in seguito alle dimissioni](https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il CFO di Nvidia Colette Kress è stato nominato CEO ad interim durante la ricerca del sostituto di Huang.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
 
 ### 🕒 Ora `10:05 CET` — Ricerca Oraria (2/23)
 _Aggiornamento registrato il `2026-11-12 10:41 CET`_

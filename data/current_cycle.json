@@ -165,6 +165,88 @@
           "score": 18.0
         }
       ]
+    },
+    {
+      "hour_label": "19:05 CET",
+      "timestamp_str": "2026-11-12 19:08 CET",
+      "items": [
+        {
+          "title_orig": "Roma, 15enne si toglie la vita: voleva diventare uomo, ipotesi di bullismo",
+          "summary_orig": "La ragazza aveva confidato ai genitori il proprio disagio, legato anche al percorso di affermazione della sua identità di genere. Gli investigatori cercano di ricostruire il clima vissuto a scuola e tra i coetanei",
+          "link": "https://it.euronews.com/2026/11/12/roma-15enne-si-toglie-la-vita-voleva-diventare-uomo-ipotesi-di-bullismo",
+          "published": "Thu, 12 Nov 2026 19:04:01 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "19:08 CET",
+          "title_it": "Roma, 15enne si toglie la vita: voleva diventare uomo, ipotesi di bullismo",
+          "summary_it": "La ragazza aveva confidato ai genitori il proprio disagio, legato anche al percorso di affermazione della sua identità di genere. Gli investigatori cercano di ricostruire il clima vissuto a scuola e tra i coetanei",
+          "impact_eu_it": "Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 25.0
+        },
+        {
+          "title_orig": "«Serve equità, Fisco più leggero a favore del lavoro»",
+          "summary_orig": "Un sistema industriale locale da mantenere forte, mettendolo allo stesso tempo nelle condizioni di affrontare le grandi trasformazioni in atto. Il ragionamento di Matteo Zanetti ruota attorno a questa necessità,...",
+          "link": "https://www.ilsole24ore.com/art/serve-equita-fisco-piu-leggero-favore-lavoro-AJ2SAbCC",
+          "published": "Thu, 12 Nov 2026 15:54:00 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "19:08 CET",
+          "title_it": "«Serve equità, Fisco più leggero a favore del lavoro»",
+          "summary_it": "Un sistema industriale locale da mantenere forte, mettendolo allo stesso tempo nelle condizioni di affrontare le grandi trasformazioni in atto. Il ragionamento di Matteo Zanetti ruota attorno a questa necessità,...",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.\n🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 24.5
+        },
+        {
+          "title_orig": "Il prezzo del gas corre e sfiora i 94 euro con tensioni Medioriente",
+          "summary_orig": "I contratti Ttf ad Amsterdam segnano un +8 per cento",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/12/il-prezzo-del-gas-corre-e-sfiora-i-94-euro-con-tensioni-medioriente_37283fb3-ab72-4cb0-bfb4-1aa473abdefa.html",
+          "published": "Thu, 12 Nov 2026 18:41:35 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "19:08 CET",
+          "title_it": "Il prezzo del gas corre e sfiora i 94 euro con tensioni Medioriente",
+          "summary_it": "I contratti Ttf ad Amsterdam segnano un +8 per cento",
+          "impact_eu_it": "Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, difesa e transizione tecnologica.\n🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati tremano o cambiano direzione, non stanno solo prezzando merci: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 19.0
+        },
+        {
+          "title_orig": "Nvidia live updates: Jensen Huang agrees to testify before Congress following resignation",
+          "summary_orig": "Nvidia CFO Colette Kress has been named interim CEO during the search for Huang’s replacement.",
+          "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+          "published": "Thu, 12 Nov 2026 18:04:22 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "19:08 CET",
+          "title_it": "Aggiornamenti live di Nvidia: Jensen Huang accetta di testimoniare davanti al Congresso in seguito alle dimissioni",
+          "summary_it": "Il CFO di Nvidia Colette Kress è stato nominato CEO ad interim durante la ricerca del sostituto di Huang.",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 15.5
+        }
+      ]
     }
   ]
 }
