@@ -247,6 +247,88 @@
           "score": 15.5
         }
       ]
+    },
+    {
+      "hour_label": "01:05 CET",
+      "timestamp_str": "2026-11-13 01:06 CET",
+      "items": [
+        {
+          "title_orig": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+          "summary_orig": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written”...",
+          "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+          "published": "Thu, 12 Nov 2026 13:14:38 GMT",
+          "source_id": "guardian_world",
+          "source_name": "The Guardian World",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Esteri & Analisi",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "01:06 CET",
+          "title_it": "L'autore dello Zimbabwe Simbarashe Kundizeza ha rinunciato all'uso dell'intelligenza artificiale per scrivere una storia vincitrice di premi",
+          "summary_it": "Dopo un'indagine durata un mese si è concluso che la storia di Kundizeza The Blue Fighter, che ha vinto il premio Caine da 10.000 sterline, era \"scritta da esseri umani\". L'autore dello Zimbabwe Simbarashe Kundizeza è stato prosciolto dall'accusa di aver utilizzato l'intelligenza artificiale per scrivere un racconto breve pluripremiato, dopo che il prestigioso premio Caine per scrittori africani ha concluso che il suo lavoro era \"scritto da esseri umani\"...",
+          "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.\n🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 28.0
+        },
+        {
+          "title_orig": "Nuovi deputati Usa al Campidoglio per l’orientamento prima del 120° Congresso",
+          "summary_orig": "Giovedì 12 novembre i neoeletti membri del Congresso USA si sono riuniti a Capitol Hill per la tradizionale foto di gruppo prima dell’apertura del 120º Congresso. I nuovi deputati seguono un orientamento dopo le elezioni di metà mandato di novembre.",
+          "link": "https://it.euronews.com/video/2026/11/13/nuovi-deputati-usa-al-campidoglio-per-lorientamento-prima-del-120-congresso",
+          "published": "Fri, 13 Nov 2026 00:08:58 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "01:06 CET",
+          "title_it": "Nuovi deputati Usa al Campidoglio per l’orientamento prima del 120° Congresso",
+          "summary_it": "Giovedì 12 novembre i neoeletti membri del Congresso USA si sono riuniti a Capitol Hill per la tradizionale foto di gruppo prima dell’apertura del 120º Congresso. I nuovi deputati seguono un orientamento dopo le elezioni di metà mandato di novembre.",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale e interdipendenza globale; i Paesi che sapranno mantenere coesione interna e visione industriale guideranno il prossimo ciclo storico.\n🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 19.0
+        },
+        {
+          "title_orig": "'Dal governo norme sudamericane', è scontro Messina-Meloni",
+          "summary_orig": "La premier: 'La nostra una scelta di giustizia'. Giorgetti rivendica la sua 'politica asburgica'",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/12/dal-governo-norme-sudamericane-e-scontro-messina-meloni_66cb92ca-cf90-4cae-a644-923b05b820c5.html",
+          "published": "Thu, 12 Nov 2026 21:14:40 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "01:06 CET",
+          "title_it": "'Dal governo norme sudamericane', è scontro Messina-Meloni",
+          "summary_it": "La premier: 'La nostra una scelta di giustizia'. Giorgetti rivendica la sua 'politica asburgica'",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 19.0
+        },
+        {
+          "title_orig": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+          "summary_orig": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.",
+          "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+          "published": "Thu, 12 Nov 2026 22:47:28 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "01:06 CET",
+          "title_it": "Alice Huang è legata al più grande concorrente cinese di Nvidia",
+          "summary_it": "La donna con cui Jensen Huang avrebbe avuto una relazione possedeva anche partecipazioni in società che fornivano potenza di calcolo a Huawei, un concorrente chiave di Nvidia.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 14.0
+        }
+      ]
     }
   ]
 }
