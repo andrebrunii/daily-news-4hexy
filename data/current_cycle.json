@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-11",
   "target_edition_date": "2026-11-13",
-  "last_slot_iso": "2026-11-13T09:05:00",
+  "last_slot_iso": "2026-11-13T10:05:00",
   "hourly_batches": [
     {
       "hour_label": "02:05 CET",
@@ -1066,6 +1066,88 @@
           "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
           "long_term_philosophy": "**Orizzonte generazionale:** Le trasformazioni più radicali della storia non iniziano nei parlamenti o nelle borse, ma nel cambio silenzioso delle categorie mentali con cui una civiltà interpreta ciò che è normale, giusto o desiderabile.\n> 🧠 **Lente Filosofica:** Come scriveva Seneca, *«nessun vento è favorevole per il marinaio che non sa a quale porto vuol approdare»*. In un'epoca ossessionata dall'accelerazione dei mezzi, fermarsi a interrogare i fini è l'atto più sovversivo e necessario.",
           "score": 15.0
+        }
+      ]
+    },
+    {
+      "hour_label": "10:05 CET",
+      "timestamp_str": "2026-11-13 10:05 CET",
+      "items": [
+        {
+          "title_orig": "EU institutions survive Microsoft outage unscathed",
+          "summary_orig": "Europe is working to reduce its use of big U.S. providers.",
+          "link": "https://www.politico.eu/article/eu-institutions-survive-microsoft-outage-unscathed/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Fri, 13 Nov 2026 13:36:35 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "10:05 CET",
+          "title_it": "EU institutions survive Microsoft outage unscathed",
+          "summary_it": "Europe is working to reduce its use of big U.S. providers.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 21.5
+        },
+        {
+          "title_orig": "Watch: How a server outage took down Microsoft Teams and Outlook",
+          "summary_orig": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+          "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 11:43:27 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "10:05 CET",
+          "title_it": "Watch: How a server outage took down Microsoft Teams and Outlook",
+          "summary_it": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 14.0
+        },
+        {
+          "title_orig": "Apple sale in Borsa ai massimi storici di 360,83 dollari, vale più di 5.200 miliardi",
+          "summary_orig": "Nvidia affonda, il cda avrebbe contattato il ceo di Arm Haas per il dopo Huang",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/apple-sale-in-borsa-ai-massimi-storici-di-36083-dollari-vale-piu-di-5.200_c7708452-0558-47b2-9da6-26a2e6b08a8d.html",
+          "published": "Fri, 13 Nov 2026 18:38:38 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "10:05 CET",
+          "title_it": "Apple sale in Borsa ai massimi storici di 360,83 dollari, vale più di 5.200 miliardi",
+          "summary_it": "Nvidia affonda, il cda avrebbe contattato il ceo di Arm Haas per il dopo Huang",
+          "impact_eu_it": "Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "AI risks are the biggest threat to the financial system, Fed survey finds",
+          "summary_orig": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
+          "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+          "published": "Fri, 13 Nov 2026 21:18:30 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "10:05 CET",
+          "title_it": "AI risks are the biggest threat to the financial system, Fed survey finds",
+          "summary_it": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
+          "impact_eu_it": "Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 14.0
         }
       ]
     }
