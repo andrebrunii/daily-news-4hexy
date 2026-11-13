@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 13 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
+_Aggiornamento registrato il `2026-11-13 03:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [A New Orleans scontro sul fiume Mississippi: soccorso i 129 passeggeri di una nave da crociera](https://it.euronews.com/2026/11/13/a-new-orleans-scontro-sul-fiume-mississippi-soccorso-i-129-passeggeri-di-una-nave-da-croci)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Una nave cisterna ha urtato e parzialmente affondato una nave da crociera fluviale a New Orleans con circa 129 passeggeri che era attraccata. Diverse persone sono state salvate mentre proseguono le operazioni di ricerca e soccorso
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[2] `📈 Economia & Mercati` [Export ancora avanti a settembre: in nove mesi (+4,7%) supera i 500 miliardi](https://www.ilsole24ore.com/art/export-ancora-avanti-settembre-nove-mesi-47percento-supera-500-miliardi-AJBB2HFC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Due miliardi in più a settembre, che portano il totale del Made in Italy a superare in nove mesi i 500 miliardi di euro. Il progresso dell’export nazionale prosegue, con...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[3] `💶 Macro & Finanza UE` [Borsa: Milano cauta con l'Europa in attesa della Fed, scivola Fincantieri](https://www.ansa.it/sito/notizie/economia/2026/11/13/borsa-milano-cauta-con-leuropa-in-attesa-della-fed-scivola-fincantieri_e98a131a-7975-4e7b-8f43-71bf52fafd8f.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Euro in leggero calo contro il dollaro a quota 1,102. Bene Banca Generali e Cucinelli
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [FAA grounds departing flights nationwide, citing air traffic communication system outage](https://www.cnbc.com/2026/11/13/faa-ground-stop.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, "due to extraordinary circumstances and for reasons of safety."
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
 _Aggiornamento registrato il `2026-11-13 02:05 CET`_
