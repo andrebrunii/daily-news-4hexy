@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 13 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-21%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (21/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `17:05 CET` — Ricerca Oraria (21/23)
+_Aggiornamento registrato il `2026-11-13 17:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Fonti P.Chigi, 'da vertice di Dublino importante risultato su team negoziale'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/fonti-p.chigi-da-vertice-di-dublino-importante-risultato-su-team-negoziale_8a87df2d-80e2-4f55-8bae-cd64176d0058.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Va nella direzione indicata da Meloni, ora definire il mandato'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌐 Scacchiere Globale` [German spies handed new powers to tackle 'hybrid threats' from abroad](https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🔭 Ricerca & Spazio` [Superheated magma could fuel towering lava fountains](https://www.sciencedaily.com/releases/2026/11/261111221811.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiments revealed that superheated magma can delay crystal formation for more than eight hours, compared with just 20 minutes in magma that has...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[4] `🏛️ Filosofia & Idee` [Equality talk](https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** In the summer of 1646, the idea of equality gained new and profound depths. We are still catching up with the consequences - by Teresa M Bejan Read on Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `16:05 CET` — Ricerca Oraria (20/23)
 _Aggiornamento registrato il `2026-11-13 16:05 CET`_

@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-11",
   "target_edition_date": "2026-11-13",
-  "last_slot_iso": "2026-11-13T16:05:00",
+  "last_slot_iso": "2026-11-13T17:05:00",
   "hourly_batches": [
     {
       "hour_label": "02:05 CET",
@@ -1640,6 +1640,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 14.5
+        }
+      ]
+    },
+    {
+      "hour_label": "17:05 CET",
+      "timestamp_str": "2026-11-13 17:05 CET",
+      "items": [
+        {
+          "title_orig": "Fonti P.Chigi, 'da vertice di Dublino importante risultato su team negoziale'",
+          "summary_orig": "'Va nella direzione indicata da Meloni, ora definire il mandato'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/fonti-p.chigi-da-vertice-di-dublino-importante-risultato-su-team-negoziale_8a87df2d-80e2-4f55-8bae-cd64176d0058.html",
+          "published": "Fri, 13 Nov 2026 18:43:39 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "17:05 CET",
+          "title_it": "Fonti P.Chigi, 'da vertice di Dublino importante risultato su team negoziale'",
+          "summary_it": "'Va nella direzione indicata da Meloni, ora definire il mandato'",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+          "summary_orig": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+          "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 15:42:52 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "17:05 CET",
+          "title_it": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+          "summary_it": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 14.0
+        },
+        {
+          "title_orig": "Superheated magma could fuel towering lava fountains",
+          "summary_orig": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiments revealed that superheated magma can delay crystal formation for more than eight hours, compared with just 20 minutes in magma that has...",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
+          "published": "Fri, 13 Nov 2026 06:56:39 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "17:05 CET",
+          "title_it": "Superheated magma could fuel towering lava fountains",
+          "summary_it": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiments revealed that superheated magma can delay crystal formation for more than eight hours, compared with just 20 minutes in magma that has...",
+          "impact_eu_it": "Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Equality talk",
+          "summary_orig": "In the summer of 1646, the idea of equality gained new and profound depths. We are still catching up with the consequences - by Teresa M Bejan Read on Aeon",
+          "link": "https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world",
+          "published": "Mon, 09 Nov 2026 11:00:00 GMT",
+          "source_id": "aeon",
+          "source_name": "Aeon Philosophy & Ideas",
+          "category": "filosofia",
+          "badge": "🏛️ Filosofia & Idee",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "17:05 CET",
+          "title_it": "Equality talk",
+          "summary_it": "In the summer of 1646, the idea of equality gained new and profound depths. We are still catching up with the consequences - by Teresa M Bejan Read on Aeon",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Le trasformazioni più radicali della storia non iniziano nei parlamenti o nelle borse, ma nel cambio silenzioso delle categorie mentali con cui una civiltà interpreta ciò che è normale, giusto o desiderabile.\n> 🧠 **Lente Filosofica:** Come scriveva Seneca, *«nessun vento è favorevole per il marinaio che non sa a quale porto vuol approdare»*. In un'epoca ossessionata dall'accelerazione dei mezzi, fermarsi a interrogare i fini è l'atto più sovversivo e necessario.",
+          "score": 15.0
         }
       ]
     }
