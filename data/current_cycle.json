@@ -1,6 +1,89 @@
 {
   "last_published_edition_date": "2026-11-13",
   "target_edition_date": "2026-11-14",
-  "last_slot_iso": "2026-11-13T20:05:00",
-  "hourly_batches": []
+  "last_slot_iso": "2026-11-13T21:05:00",
+  "hourly_batches": [
+    {
+      "hour_label": "21:05 CET",
+      "timestamp_str": "2026-11-13 21:05 CET",
+      "items": [
+        {
+          "title_orig": "Attentato a Mosca, esplode auto del consigliere del ex primo ministro ucraino Azarov: ferito Sergej Zavorotnyj",
+          "summary_orig": "Sergej Zavorotnyj è gravemente. L'attentato è avvenuto un giorno dopo la morte di un colonnello in un'esplosione d'auto a Pietroburgo. Né Cremlino né autorità federali hanno commentato",
+          "link": "https://it.euronews.com/2026/11/13/attentato-a-mosca-esplode-auto-del-consigliere-del-ex-primo-ministro-ucraino-azarov-ferito",
+          "published": "Fri, 13 Nov 2026 18:53:09 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "21:05 CET",
+          "title_it": "Attentato a Mosca, esplode auto del consigliere del ex primo ministro ucraino Azarov: ferito Sergej Zavorotnyj",
+          "summary_it": "Sergej Zavorotnyj è gravemente. L'attentato è avvenuto un giorno dopo la morte di un colonnello in un'esplosione d'auto a Pietroburgo. Né Cremlino né autorità federali hanno commentato",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Acqua, via libera a 896 milioni per rafforzare le infrastrutture italiane",
+          "summary_orig": "Via libera a 59 interventi per complessivi 896,5 milioni di euro per rafforzare le infrastrutture idriche italiane. La Cabina di regia per la crisi idrica, presieduta dal ministro delle Infrastrutture...",
+          "link": "https://www.ilsole24ore.com/art/acqua-via-libera-896-milioni-rafforzare-infrastrutture-italiane-AJqr5eEC",
+          "published": "Fri, 13 Nov 2026 06:01:04 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "21:05 CET",
+          "title_it": "Acqua, via libera a 896 milioni per rafforzare le infrastrutture italiane",
+          "summary_it": "Via libera a 59 interventi per complessivi 896,5 milioni di euro per rafforzare le infrastrutture idriche italiane. La Cabina di regia per la crisi idrica, presieduta dal ministro delle Infrastrutture...",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
+          "summary_orig": "@microsoft : Microsoft apologizes for the outage, calling it a “technical issue” from a “network capacity upgrade”, and says it was “not related to cyber or AI/agents” — We are deeply sorry for the disruption this incident has caused our customers and partners. We know the trust they place in our services and take that responsibility extremely seriously....",
+          "link": "https://www.techmeme.com/261113/p28#a261113p28",
+          "published": "Fri, 13 Nov 2026 15:40:02 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "21:05 CET",
+          "title_it": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
+          "summary_it": "@microsoft : Microsoft apologizes for the outage, calling it a “technical issue” from a “network capacity upgrade”, and says it was “not related to cyber or AI/agents” — We are deeply sorry for the disruption this incident has caused our customers and partners. We know the trust they place in our services and take that responsibility extremely seriously....",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+          "summary_orig": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+          "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+          "published": "Fri, 13 Nov 2026 16:26:32 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "21:05 CET",
+          "title_it": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+          "summary_it": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 12.0
+        }
+      ]
+    }
+  ]
 }
