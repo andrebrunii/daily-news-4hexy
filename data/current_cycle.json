@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-11",
   "target_edition_date": "2026-11-13",
-  "last_slot_iso": "2026-11-13T15:05:00",
+  "last_slot_iso": "2026-11-13T16:05:00",
   "hourly_batches": [
     {
       "hour_label": "02:05 CET",
@@ -1558,6 +1558,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 16.5
+        }
+      ]
+    },
+    {
+      "hour_label": "16:05 CET",
+      "timestamp_str": "2026-11-13 16:05 CET",
+      "items": [
+        {
+          "title_orig": "Von der Leyen, 'con Congresso Usa potremo parlare di governance dell'IA",
+          "summary_orig": "'Ci vorrà del tempo ma da qualche parte occorre cominciare'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/von-der-leyen-con-congresso-usa-potremo-parlare-di-governance-dellia_a47b7860-f85a-46b2-8d12-9dd6a265035d.html",
+          "published": "Fri, 13 Nov 2026 19:20:11 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "16:05 CET",
+          "title_it": "Von der Leyen, 'con Congresso Usa potremo parlare di governance dell'IA",
+          "summary_it": "'Ci vorrà del tempo ma da qualche parte occorre cominciare'",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "The Peruvian city that has embraced Pope Leo as one of its own",
+          "summary_orig": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+          "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 18:34:45 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "16:05 CET",
+          "title_it": "The Peruvian city that has embraced Pope Leo as one of its own",
+          "summary_it": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 14.0
+        },
+        {
+          "title_orig": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited (Semafor)",
+          "summary_orig": "Semafor : How Nvidia used a “scorched earth, adversarial attitude” targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited — THE SCOOP — In January, the general counsel for what was then the world's most valuable company delivered …",
+          "link": "https://www.techmeme.com/261113/p29#a261113p29",
+          "published": "Fri, 13 Nov 2026 16:01:40 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "16:05 CET",
+          "title_it": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited (Semafor)",
+          "summary_it": "Semafor : How Nvidia used a “scorched earth, adversarial attitude” targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited — THE SCOOP — In January, the general counsel for what was then the world's most valuable company delivered …",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 21.0
+        },
+        {
+          "title_orig": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+          "summary_orig": "Researcher traces a path from AI reward hacking to potential human extinction.",
+          "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+          "published": "Fri, 13 Nov 2026 17:25:45 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "16:05 CET",
+          "title_it": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+          "summary_it": "Researcher traces a path from AI reward hacking to potential human extinction.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 14.5
         }
       ]
     }

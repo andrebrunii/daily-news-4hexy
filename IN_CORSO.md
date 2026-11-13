@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 13 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `16:05 CET` — Ricerca Oraria (20/23)
+_Aggiornamento registrato il `2026-11-13 16:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Von der Leyen, 'con Congresso Usa potremo parlare di governance dell'IA](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/von-der-leyen-con-congresso-usa-potremo-parlare-di-governance-dellia_a47b7860-f85a-46b2-8d12-9dd6a265035d.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Ci vorrà del tempo ma da qualche parte occorre cominciare'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[2] `🌐 Scacchiere Globale` [The Peruvian city that has embraced Pope Leo as one of its own](https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [How Nvidia used a "scorched earth, adversarial attitude" targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited (Semafor)](https://www.techmeme.com/261113/p29#a261113p29)** — *(Techmeme)*
+  - 📌 **Sintesi:** Semafor : How Nvidia used a “scorched earth, adversarial attitude” targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited — THE SCOOP — In January, the general counsel for what was then the world's most valuable company delivered …
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[4] `💻 Tecnologia & Cyber` [OpenAI board member worries an AI "takeover" of society could be months away](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Researcher traces a path from AI reward hacking to potential human extinction.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
 _Aggiornamento registrato il `2026-11-13 15:05 CET`_
