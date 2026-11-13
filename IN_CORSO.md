@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-2%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-3%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (2/23 ricerche orarie):**
-`🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (3/23 ricerche orarie):**
+`🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `23:05 CET` — Ricerca Oraria (3/23)
+_Aggiornamento registrato il `2026-11-13 23:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Merkel, 'oggi voterei a favore del matrimonio per tutti'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/merkel-oggi-voterei-a-favore-del-matrimonio-per-tutti_e5afa36a-0d0c-4565-948a-458dd797307a.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Nel 2017 l'ex cancelliera votò no. 'All'epoca avevo preoccupazioni di vario genere'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌐 Scacchiere Globale` [Rosalía scoops historic third best album award at Latin Grammys](https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🔭 Ricerca & Spazio` [Without this protein, damaged muscle fills with fat and scar tissue](https://www.sciencedaily.com/releases/2026/11/261111221643.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Researchers have uncovered a surprising hidden function of a protein that may hold the key to repairing damaged muscles and treating muscular dystrophy. Known for protecting chromosomes, TRF2 also helps muscle stem cells maintain their identity and regenerate injured tissue. When scientists removed the protein in mice, muscles struggled to repair...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[4] `🏛️ Filosofia & Idee` [Celestial nuisance](https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** The cosmos has become a lab for the Big Questions in physics. Along the way, we’ve lost sight of its glorious messiness - by Dylan Jow Read on Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `22:05 CET` — Ricerca Oraria (2/23)
 _Aggiornamento registrato il `2026-11-13 22:05 CET`_
