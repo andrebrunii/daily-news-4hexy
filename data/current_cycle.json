@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-11",
   "target_edition_date": "2026-11-13",
-  "last_slot_iso": "2026-11-13T17:05:00",
+  "last_slot_iso": "2026-11-13T18:05:00",
   "hourly_batches": [
     {
       "hour_label": "02:05 CET",
@@ -1722,6 +1722,88 @@
           "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
           "long_term_philosophy": "**Orizzonte generazionale:** Le trasformazioni più radicali della storia non iniziano nei parlamenti o nelle borse, ma nel cambio silenzioso delle categorie mentali con cui una civiltà interpreta ciò che è normale, giusto o desiderabile.\n> 🧠 **Lente Filosofica:** Come scriveva Seneca, *«nessun vento è favorevole per il marinaio che non sa a quale porto vuol approdare»*. In un'epoca ossessionata dall'accelerazione dei mezzi, fermarsi a interrogare i fini è l'atto più sovversivo e necessario.",
           "score": 15.0
+        }
+      ]
+    },
+    {
+      "hour_label": "18:05 CET",
+      "timestamp_str": "2026-11-13 18:05 CET",
+      "items": [
+        {
+          "title_orig": "Democratic Senate leader Schumer set to face leadership challenge",
+          "summary_orig": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+          "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 13 Nov 2026 19:03:10 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "18:05 CET",
+          "title_it": "Democratic Senate leader Schumer set to face leadership challenge",
+          "summary_it": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 14.0
+        },
+        {
+          "title_orig": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
+          "summary_orig": "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans Britain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a Dominium maris Britannici , Argentina has told an international tribunal. Marcelo Kohen, representing Argentina at a hearing...",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+          "published": "Wed, 11 Nov 2026 16:05:45 GMT",
+          "source_id": "guardian_world",
+          "source_name": "The Guardian World",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Esteri & Analisi",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "18:05 CET",
+          "title_it": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
+          "summary_it": "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans Britain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a Dominium maris Britannici , Argentina has told an international tribunal. Marcelo Kohen, representing Argentina at a hearing...",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Nvidia affonda a Wall Street a -4,60%",
+          "summary_orig": "Titolo ancora in sofferenza all'indomani dell'uscita del ceo Jensen Huang",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/nvidia-affonda-a-wall-street-a-460_c5c229ec-e606-4df4-8f92-682c0df1d606.html",
+          "published": "Fri, 13 Nov 2026 17:13:44 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "18:05 CET",
+          "title_it": "Nvidia affonda a Wall Street a -4,60%",
+          "summary_it": "Titolo ancora in sofferenza all'indomani dell'uscita del ceo Jensen Huang",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "HSBC downgrades Nvidia, says stock to struggle until new CEO named",
+          "summary_orig": "Analyst Frank Lee downgraded the chipmaker to hold from buy.",
+          "link": "https://www.cnbc.com/2026/11/13/hsbc-downgrades-nvidia-says-stock-to-struggle-until-new-ceo-named.html",
+          "published": "Fri, 13 Nov 2026 16:24:39 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "18:05 CET",
+          "title_it": "HSBC downgrades Nvidia, says stock to struggle until new CEO named",
+          "summary_it": "Analyst Frank Lee downgraded the chipmaker to hold from buy.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 14.5
         }
       ]
     }
