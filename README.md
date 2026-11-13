@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🧭 MERIDIANO 20:05 · Mercoledì 11 Novembre 2026
-### «Burnham: Poliziotto buono o poliziotto cattivo?; I colloqui Russia-Ucraina si concentrano sulla sicurezza del · processi di estrazione dei metalli in evoluzione»
+# 🧭 MERIDIANO 20:05 · Venerdì 13 Novembre 2026
+### «Negoziati Ucraina, l'UE non sceglie un inviato ma una squadra: ci sono; EU deal on Ukraine talks overshadows AI-focused summit in Dublin · How Nvidia used a "scorched earth, adversarial attitude" targeting»
 
-![Edizione](https://img.shields.io/badge/Edizione_Consolidata-2026--11--11_20%3A05_CET-1f6feb?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Orarie-21%2F23_Completate-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Nel_Ciclo-84-8957e5?style=for-the-badge)
+![Edizione](https://img.shields.io/badge/Edizione_Consolidata-2026--11--13_20%3A05_CET-1f6feb?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Orarie-23%2F23_Completate-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Nel_Ciclo-92-8957e5?style=for-the-badge)
 
 </div>
 
@@ -15,134 +15,134 @@
 | :--- | :--- | :--- |
 | 👉 **[APRI `IN_CORSO.md` (Notizie di oggi in tempo reale)](./IN_CORSO.md)**<br>_Se entri prima delle 20:05, clicca qui per leggere le ricerche orarie già uscite oggi._ | **Stai leggendo l'Edizione Ufficiale delle 20:05 CET.**<br>_Rimane visibile in prima pagina fino alle 20:04 del giorno successivo._ | Backup automatico degli ultimi 7 giorni (i più vecchi vengono eliminati in automatico). |
 
-📚 **Ultimi 7 Giorni Archiviati:** [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
+📚 **Ultimi 7 Giorni Archiviati:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 🏆 TOP 10 NOTIZIE DELLE ULTIME 24 ORE
-_Pubblicata il **11/11/2026 alle ore 20:57 CET** · Selezionata dalle 23 ricerche orarie + scansione finale delle 20:05 CET_
+_Pubblicata il **13/11/2026 alle ore 20:05 CET** · Selezionata dalle 23 ricerche orarie + scansione finale delle 20:05 CET_
 
 ### 🌍 PARTE I (Posizioni #1 – #5): Impatto Diretto Italia, Europa (CET) & Scacchiere Mondiale
 
-### 🥇 #1 · `🇪🇺 Unione Europea & Policy` [Burnham: Poliziotto buono o poliziotto cattivo?](https://www.politico.eu/podcast/politics-at-sam-and-annes/burnham-good-cop-or-bad-cop/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
-**Fonte:** [Politico Europe](https://www.politico.eu/podcast/politics-at-sam-and-annes/burnham-good-cop-or-bad-cop/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication) · **Rilevata alle:** `12:53 CET` · **Indice di Rilevanza:** `41.0`
+### 🥇 #1 · `🇪🇺 Cronaca Europea` [Negoziati Ucraina, l'UE non sceglie un inviato ma una squadra: ci sono Italia e Polonia, Kallas resta fuori](https://it.euronews.com/2026/11/13/negoziati-ucraina-lue-non-sceglie-un-inviato-ma-una-squadra-ci-sono-italia-e-polonia-kalla)
+**Fonte:** [Euronews Italia](https://it.euronews.com/2026/11/13/negoziati-ucraina-lue-non-sceglie-un-inviato-ma-una-squadra-ci-sono-italia-e-polonia-kalla) · **Rilevata alle:** `11:05 CET` · **Indice di Rilevanza:** `33.0`
 
-> **📰 Il Fatto:** Mentre il primo ministro si dirige alla COP, la conferenza annuale delle Nazioni Unite sui cambiamenti climatici, il governo ha un messaggio coerente? Con il costo della transizione verde che inizia a farsi sentire, il governo si trova ad affrontare domande difficili sulle sue decisioni politiche e sui ritardi riguardo al petrolio, al gas e alle auto elettriche. Le ambizioni climatiche del Labour stanno scivolando a causa della dura […]
+> **📰 Il Fatto:** L'Europa ha deciso di creare una squadra congiunta per i colloqui di pace guidata da Francia, Germania, Regno Unito, Italia, Polonia, istituzioni UE e NATO. Nonostante le crescenti pressioni, i leader hanno rifiutato di nominare un unico inviato
 >
-> **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+> **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
 >
-> 🔭 **Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.
-🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.
+> 🔭 **Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.
+> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.
 
 ---
 
-### 🥈 #2 · `🌐 Scacchiere Globale` [I colloqui Russia-Ucraina si concentrano sulla sicurezza del dopoguerra, ma si concludono senza alcun risultato](https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss)
-**Fonte:** [BBC World News](https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss) · **Rilevata alle:** `17:53 CET` · **Indice di Rilevanza:** `40.5`
+### 🥈 #2 · `🇪🇺 Unione Europea & Policy` [EU deal on Ukraine talks overshadows AI-focused summit in Dublin](https://www.politico.eu/article/eu-deal-on-ukraine-talks-overshadows-ai-focused-summit-in-dublin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+**Fonte:** [Politico Europe](https://www.politico.eu/article/eu-deal-on-ukraine-talks-overshadows-ai-focused-summit-in-dublin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication) · **Rilevata alle:** `00:05 CET` · **Indice di Rilevanza:** `27.0`
 
-> **📰 Il Fatto:** I colloqui ad Abu Dhabi si sono concentrati sul quadro di sicurezza dell'Europa, con gli inviati statunitensi che giovedì incontreranno Putin e Zelenskyj.
+> **📰 Il Fatto:** EU leaders have agreed that the E5 format — Germany, France, U.K, Italy and Poland — plus the European Commission and Council will represent the bloc at any future peace negotiations.
 >
-> **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+> **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 >
-> 🔭 **Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.
-🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.
+> 🔭 **Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.
+> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.
 
 ---
 
-### 🥉 #3 · `🇪🇺 Unione Europea & Policy` [Poland says Pentagon backs permanent US base, with Trump decision due in December](https://www.politico.eu/article/poland-says-pentagon-backs-permanent-us-base-with-trump-decision-due-in-december/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
-**Fonte:** [Politico Europe](https://www.politico.eu/article/poland-says-pentagon-backs-permanent-us-base-with-trump-decision-due-in-december/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication) · **Rilevata alle:** `02:59 CET` · **Indice di Rilevanza:** `32.0`
+### 🥉 #3 · `🌐 Scacchiere Globale` [Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss)
+**Fonte:** [BBC World News](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss) · **Rilevata alle:** `14:05 CET` · **Indice di Rilevanza:** `25.5`
 
-> **📰 Il Fatto:** Warsaw is seeking a lasting American military commitment as NATO allies fear further U.S. troop withdrawals from Europe.
->
-> **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
->
-> 🔭 **Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale e interdipendenza globale; i Paesi che sapranno mantenere coesione interna e visione industriale guideranno il prossimo ciclo storico.
-🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.
-
----
-
-### 4️⃣ #4 · `🌍 Esteri & Analisi` [Ex membro del gruppo marxista radicale scala il balcone e sfugge agli arresti domiciliari in Argentina](https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina)
-**Fonte:** [The Guardian World](https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina) · **Rilevata alle:** `20:57 CET` · **Indice di Rilevanza:** `29.0`
-
-> **📰 Il Fatto:** Leonardo Bertulazzi, 74 anni, in attesa di estradizione in Italia, avrebbe usato un'imbracatura per fuggire dalla custodia Un ex membro del gruppo marxista radicale italiano delle Brigate Rosse è scappato dagli arresti domiciliari in Argentina, ha confermato mercoledì il ministero della Sicurezza del paese. Le autorità hanno posto Leonardo Bertulazzi agli arresti domiciliari a Buenos...
+> **📰 Il Fatto:** Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.
 >
 > **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 >
 > 🔭 **Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.
-🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.
+> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.
 
 ---
 
-### 5️⃣ #5 · `🇪🇺 Cronaca Europea` [Vertice governo su allarmi bomba nelle scuole : "Nessun pericolo concreto" dice Meloni](https://it.euronews.com/2026/11/11/vertice-di-emergenza-del-governo-nessun-pericolo-concreto-dice-meloni-che-giovedi-informa-)
-**Fonte:** [Euronews Italia](https://it.euronews.com/2026/11/11/vertice-di-emergenza-del-governo-nessun-pericolo-concreto-dice-meloni-che-giovedi-informa-) · **Rilevata alle:** `20:57 CET` · **Indice di Rilevanza:** `26.0`
+### 4️⃣ #4 · `🇪🇺 Unione Europea & Policy` [Why Europe failed to find a superhero to take on Putin](https://www.politico.eu/article/why-europe-failed-to-find-a-superhero-to-take-on-vladimir-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
+**Fonte:** [Politico Europe](https://www.politico.eu/article/why-europe-failed-to-find-a-superhero-to-take-on-vladimir-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication) · **Rilevata alle:** `01:05 CET` · **Indice di Rilevanza:** `25.0`
 
-> **📰 Il Fatto:** I vertici del governo si sono riuniti a Palazzo Chigi per fare il punto dopo l'evacuazione di centinaia di scuole in Italia per allarmi bomba mercoledì. La premier riceve i leader degli altri partiti giovedì alle 8:30 per condividere le informazioni disponibili sulle minacce al nostro Paese
+> **📰 Il Fatto:** Europe’s seven-part team of Ukraine peace envoys must now agree their strategy for handling Russia.
+>
+> **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+>
+> 🔭 **Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.
+> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.
+
+---
+
+### 5️⃣ #5 · `🌐 Scacchiere Globale` [Rosenberg: Uncompromising Putin ups demands for peace with Ukraine](https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss)
+**Fonte:** [BBC World News](https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss) · **Rilevata alle:** `13:05 CET` · **Indice di Rilevanza:** `23.0`
+
+> **📰 Il Fatto:** The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.
 >
 > **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
 >
-> 🔭 **Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.
-🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.
+> 🔭 **Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.
+> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.
 
 ---
 
 ### 🔭 PARTE II (Posizioni #6 – #10): Rotazione Globale, Futuro, Scienza, Economia & Filosofia
 
-### 6️⃣ #6 · `⚡ Futuro & Deep Tech` [Processi di estrazione dei metalli in evoluzione](https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/)
-**Fonte:** [MIT Technology Review](https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/) · **Rilevata alle:** `12:53 CET` · **Indice di Rilevanza:** `23.0`
+### 6️⃣ #6 · `🤖 IA & Frontiera Tech` [How Nvidia used a "scorched earth, adversarial attitude" targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited (Semafor)](https://www.techmeme.com/261113/p29#a261113p29)
+**Fonte:** [Techmeme](https://www.techmeme.com/261113/p29#a261113p29) · **Rilevata alle:** `16:05 CET` · **Indice di Rilevanza:** `21.0`
 
-> **📰 Il Fatto:** L’industria dei metalli ha già vissuto momenti di trasformazione in passato: il processo Bessemer, la fusione rapida, i forni elettrici ad arco e la moderna colata continua hanno cambiato ciò che era possibile fare. Eppure, da più di un secolo, la maggior parte dei processi di estrazione si basano su tecniche e percorsi familiari ai metallurgisti di generazioni fa. I processi hanno...
+> **📰 Il Fatto:** Semafor : How Nvidia used a “scorched earth, adversarial attitude” targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited — THE SCOOP — In January, the general counsel for what was then the world's most valuable company delivered …
 >
-> **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
->
-> 🔭 **Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.
-🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.
-
----
-
-### 7️⃣ #7 · `💶 Macro & Finanza UE` [Allarme energia dal Mef alle imprese, 'così impossibile competere'](https://www.ansa.it/sito/notizie/economia/2026/11/11/allarme-energia-dal-mef-alle-imprese-cosi-impossibile-competere_981290b4-d2fc-46df-ae6f-3f25a8b2c77a.html)
-**Fonte:** [ANSA Economia](https://www.ansa.it/sito/notizie/economia/2026/11/11/allarme-energia-dal-mef-alle-imprese-cosi-impossibile-competere_981290b4-d2fc-46df-ae6f-3f25a8b2c77a.html) · **Rilevata alle:** `19:54 CET` · **Indice di Rilevanza:** `29.5`
-
-> **📰 Il Fatto:** Attenzione da Giorgetti. Orsini: 'A gennaio gas a 110 euro'. Bce, inflazione da raffinazione
->
-> **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica globale costringe Roma e Bruxelles a ricalibrare le priorità di bilancio.
+> **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
 >
 > 🔭 **Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.
-🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.
+> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.
 
 ---
 
-### 8️⃣ #8 · `🔭 Ricerca & Spazio` [Perché gli attacchi di cuore possono verificarsi anche quando il colesterolo cattivo è basso](https://www.sciencedaily.com/releases/2026/11/261109205415.htm)
-**Fonte:** [ScienceDaily](https://www.sciencedaily.com/releases/2026/11/261109205415.htm) · **Rilevata alle:** `14:02 CET` · **Indice di Rilevanza:** `17.0`
+### 7️⃣ #7 · `💶 Macro & Finanza UE` [Giorgetti firma il decreto sugli aiuti per l'Ucraina](https://www.ansa.it/sito/notizie/economia/2026/11/11/giorgetti-firma-il-decreto-sugli-aiuti-per-lucraina_b648dcea-dfe2-46ea-a32a-cd39a42789cb.html)
+**Fonte:** [ANSA Economia](https://www.ansa.it/sito/notizie/economia/2026/11/11/giorgetti-firma-il-decreto-sugli-aiuti-per-lucraina_b648dcea-dfe2-46ea-a32a-cd39a42789cb.html) · **Rilevata alle:** `02:53 CET` · **Indice di Rilevanza:** `19.0`
 
-> **📰 Il Fatto:** Anche quando il colesterolo cattivo viene ridotto a livelli sani, alcune persone rimangono a rischio di attacchi di cuore e gli scienziati potrebbero aver scoperto il perché. I ricercatori hanno identificato due tipi di particelle che trasportano il grasso che sembrano promuovere l’infiammazione e danneggiare i vasi sanguigni attraverso meccanismi che vanno oltre l’accumulo di colesterolo.
->
-> **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
->
-> 🔭 **Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.
-🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.
-
----
-
-### 9️⃣ #9 · `🧠 Paradigmi & Lunghi Orizzonti` [L’intelligenza artificiale ha dimostrato un’importante congettura sulla complessità quantistica. Cosa significa?](https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/)
-**Fonte:** [Big Think](https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/) · **Rilevata alle:** `15:18 CET` · **Indice di Rilevanza:** `23.5`
-
-> **📰 Il Fatto:** Se lavori con un computer normale, un computer classico, sei abituato a due idee fondamentali: l'idea dei bit, in cui le informazioni vengono codificate come "0" o "1" all'interno di una sorta di supporto o meccanismo di memorizzazione, e l'idea di operazioni che possono essere eseguite su quei bit (o "porte" attraverso le quali quei bit possono essere fatti passare), che rappresentano il possibile...
->
-> **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
->
-> 🔭 **Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.
-🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.
-
----
-
-### 🔟 #10 · `🇪🇺 Unione Europea & Policy` [Zelenskyy tells Europe to hurry up and pick a rep for peace talks with Russia](https://www.politico.eu/article/zelenskyy-tells-europe-pick-negotiator-peace-talks-russia-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)
-**Fonte:** [Politico Europe](https://www.politico.eu/article/zelenskyy-tells-europe-pick-negotiator-peace-talks-russia-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication) · **Rilevata alle:** `23:40 CET` · **Indice di Rilevanza:** `28.5`
-
-> **📰 Il Fatto:** Ukraine's leader wants to be consulted on Europe's choice.
+> **📰 Il Fatto:** Dopo aver verificato la coerenza con indirizzo parlamentare e compatibilità finanziaria,
 >
 > **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
 >
-> 🔭 **Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie tra chi possiede l'infrastruttura computazionale e chi la affitta.
-🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.
+> 🔭 **Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).
+> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.
+
+---
+
+### 8️⃣ #8 · `🧬 Scienza & Scoperte` [Anche i serpenti a sonagli hanno personalità, con effetti velenosi](https://www.nature.com/articles/d41586-026-03536-8)
+**Fonte:** [Nature Research](https://www.nature.com/articles/d41586-026-03536-8) · **Rilevata alle:** `10:41 CET` · **Indice di Rilevanza:** `14.5`
+
+> **📰 Il Fatto:** Natura, Pubblicato online: 11 novembre 2026; doi:10.1038/d41586-026-03536-8 L'atteggiamento difensivo di un serpente potrebbe influenzare la quantità di veleno che produce in un test di laboratorio.
+>
+> **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+>
+> 🔭 **Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.
+> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.
+
+---
+
+### 9️⃣ #9 · `🏛️ Filosofia & Idee` [Fugitive imagination](https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world)
+**Fonte:** [Aeon Philosophy & Ideas](https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world) · **Rilevata alle:** `01:05 CET` · **Indice di Rilevanza:** `15.0`
+
+> **📰 Il Fatto:** Wherever people are confined, displaced, silenced or made disposable, fugitive forms of knowledge and imagination emerge - by Shahram Khosravi Read on Aeon
+>
+> **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+>
+> 🔭 **Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.
+> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.
+
+---
+
+### 🔟 #10 · `🇪🇺 Cronaca Europea` [Roma, 15enne si toglie la vita: voleva diventare uomo, ipotesi di bullismo](https://it.euronews.com/2026/11/12/roma-15enne-si-toglie-la-vita-voleva-diventare-uomo-ipotesi-di-bullismo)
+**Fonte:** [Euronews Italia](https://it.euronews.com/2026/11/12/roma-15enne-si-toglie-la-vita-voleva-diventare-uomo-ipotesi-di-bullismo) · **Rilevata alle:** `19:08 CET` · **Indice di Rilevanza:** `22.5`
+
+> **📰 Il Fatto:** La ragazza aveva confidato ai genitori il proprio disagio, legato anche al percorso di affermazione della sua identità di genere. Gli investigatori cercano di ricostruire il clima vissuto a scuola e tra i coetanei
+>
+> **🇮🇹🇪🇺 Impatto Italia / Europa (CET):** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
+>
+> 🔭 **Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.
+> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.
 
 ---
 
@@ -151,340 +151,372 @@ _Pubblicata il **11/11/2026 alle ore 20:57 CET** · Selezionata dalle 23 ricerch
 ## ⏱️ LE 23 RICERCHE ORARIE DELLA GIORNATA (Scorri verso il basso)
 _Qui sotto trovi tutte le ricerche orarie raccolte durante il ciclo di 24 ore che ha portato alla Top 10._
 
-### 🕒 Ora `19:05 CET` — Ricerca Oraria (21/23)
-_Aggiornamento registrato il `2026-11-11 19:54 CET`_
+### 🕒 Ora `19:05 CET` — Ricerca Oraria (23/23)
+_Aggiornamento registrato il `2026-11-13 19:05 CET`_
 
-- **[1] `🌍 Geopolitica & Mondo` [Carlo d'Inghilterra in visita al Crick Institute per i dieci anni dalla fondazione](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/carlo-dinghilterra-in-visita-al-crick-institute-per-i-dieci-anni-dalla-fondazione_15ea0328-8f50-40c9-a304-5fc72df465b2.html)** — *(ANSA Mondo)*
-  - 📌 **Sintesi:** L'istituto fa ricerca sul cancro e le malattie neurodegenerative come la Sla
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
-- **[2] `🇪🇺 Unione Europea & Policy` [Lagarde would equal any other centrist in Elysée run, poll shows](https://www.politico.eu/article/lagarde-would-equal-any-other-centrist-in-elysee-run-poll-shows/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
-  - 📌 **Sintesi:** The departing ECB president has previously ruled out running in next year's presidential election.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
-- **[3] `💶 Macro & Finanza UE` [Allarme energia dal Mef alle imprese, 'così impossibile competere'](https://www.ansa.it/sito/notizie/economia/2026/11/11/allarme-energia-dal-mef-alle-imprese-cosi-impossibile-competere_981290b4-d2fc-46df-ae6f-3f25a8b2c77a.html)** — *(ANSA Economia)*
-  - 📌 **Sintesi:** Attenzione da Giorgetti. Orsini: 'A gennaio gas a 110 euro'. Bce, inflazione da raffinazione
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica globale costringe Roma e Bruxelles a ricalibrare le priorità di bilancio.
-- **[4] `🏦 Mercati Globali` [Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes](https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html)** — *(CNBC Global Economy)*
-  - 📌 **Sintesi:** The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
-
-### 🕒 Ora `18:05 CET` — Ricerca Oraria (20/23)
-_Aggiornamento registrato il `2026-11-11 18:53 CET`_
-
-- **[1] `🇪🇺 Cronaca Europea` [Stati Uniti, morto l'ambasciatore russo Alexander Darchiev: aveva 66 anni](https://it.euronews.com/2026/11/11/stati-uniti-morto-lambasciatore-russo-alexander-darchiev-aveva-66-anni)** — *(Euronews Italia)*
-  - 📌 **Sintesi:** Il diplomatico è morto improvvisamente, ha reso noto il ministero degli Esteri di Mosca senza dare dettagli sul decesso. Darchiev era ambasciatore a Washington dal 2025
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
-- **[2] `📈 Economia & Mercati` [Miba Levante, la filiera delle costruzioni di incontra a Bari](https://www.ilsole24ore.com/art/miba-levante-filiera-costruzioni-incontra-bari-AJrDOxCC)** — *(Il Sole 24 Ore)*
-  - 📌 **Sintesi:** Debutta il 18 e 19 novembre 2026 lo «spin-off» della manifestazione organizzata da Fiera Milano, in collaborazione con Pentastudio. Attesi 200 espositori
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
-- **[3] `💶 Macro & Finanza UE` [Lo spread Btp-Bund](https://www.ansa.it/sito/notizie/economia/2026/11/11/lo-spread-btp-bund_8c232acc-7726-4db4-a8a4-b69250e4414d.html)** — *(ANSA Economia)*
-  - 📌 **Sintesi:** Il rendimento del titolo di Stato italiano è sceso al 4,33%
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
-- **[4] `🏦 Mercati Globali` [Goolsbee della Fed definisce il rapporto sull'inflazione “al limite inquietante” poiché la banca centrale valuta ulteriori aumenti](https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html)** — *(CNBC Global Economy)*
-  - 📌 **Sintesi:** L'indice dei prezzi al consumo è aumentato più del previsto in ottobre, suscitando allarme tra i funzionari della Federal Reserve.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
-
-### 🕒 Ora `17:05 CET` — Ricerca Oraria (19/23)
-_Aggiornamento registrato il `2026-11-11 17:53 CET`_
-
-- **[1] `🌐 Scacchiere Globale` [I colloqui Russia-Ucraina si concentrano sulla sicurezza del dopoguerra, ma si concludono senza alcun risultato](https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
-  - 📌 **Sintesi:** I colloqui ad Abu Dhabi si sono concentrati sul quadro di sicurezza dell'Europa, con gli inviati statunitensi che giovedì incontreranno Putin e Zelenskyj.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
-- **[2] `🌍 Esteri & Analisi` [L’ANC rischia una cocente sconfitta alle elezioni locali sudafricane con l’80% dei voti scrutinati](https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections)** — *(The Guardian World)*
-  - 📌 **Sintesi:** La quota di voti nazionali dell’ex movimento di liberazione è di quasi 14 punti percentuali al di sotto del risultato del 2021 L’African National Congress è sulla buona strada per subire una cocente sconfitta nelle elezioni locali del Sud Africa, con il partito un tempo dominante di Nelson Mandela che è sceso a meno di un terzo dei voti a livello nazionale con oltre l’80% dei voti scrutinati. Mercoledì...
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
-- **[3] `💶 Macro & Finanza UE` [Electrolux, sì all'accordo dall'87% dei lavoratori stabilimento di Cerreto d'Esi](https://www.ansa.it/sito/notizie/economia/2026/11/11/electrolux-si-allaccordo-dall87-dei-lavoratori-stabilimento-di-cerreto-desi_5506fdd4-8fc6-404e-bec0-25ff6b7ec12e.html)** — *(ANSA Economia)*
-  - 📌 **Sintesi:** Su 149 aventi diritto hanno votato in 114: 99 favorevoli, 14 contrari e una scheda nulla
+- **[1] `🇪🇺 Cronaca Europea` [Russia invia delegazione di 70 imprenditori a Kabul per colloqui con il governo taliban](https://it.euronews.com/2026/11/13/russia-invia-delegazione-di-70-imprenditori-a-kabul-per-colloqui-con-il-governo-taliban)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Il vice primo ministro russo ha guidato una delegazione di 70 funzionari in Afghanistan, cercando accordi con i taliban su trasporti, logistica, agricoltura e prodotti sanitari.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[2] `📈 Economia & Mercati` [ATP Finals, Torino apre un nuovo ciclo: record di biglietti e sfida fino al 2030](https://www.ilsole24ore.com/art/atp-finals-torino-apre-nuovo-ciclo-record-biglietti-e-sfida-fino-2030-AJPN2ZEC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** A pochi giorni dall’apertura del torneo sono stati venduti 184.033 biglietti, 5.447 in più rispetto allo stesso momento del 2025, con una crescita del 3,1%
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
-- **[4] `🏦 Mercati Globali` [Il CEO di CoreWeave Intrator dice alla CNBC di aver annullato il suo programma di vendita di azioni pianificato](https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html)** — *(CNBC Global Economy)*
-  - 📌 **Sintesi:** Dopo che CoreWeave ha superato le entrate e aumentato le sue previsioni, il CEO Mike Intrator ha indicato che la società andrà bene nonostante il voto democratico di medio termine della scorsa settimana.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
-
-### 🕒 Ora `16:05 CET` — Ricerca Oraria (18/23)
-_Aggiornamento registrato il `2026-11-11 16:50 CET`_
-
-- **[1] `🇪🇺 Unione Europea & Policy` [Le società di gioco europee affermano che le nuove norme UE sui consumatori “paralizzeranno” il settore](https://www.politico.eu/article/european-gaming-firms-say-new-eu-consumer-rules-will-cripple-the-industry-digital-fairness-act/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
-  - 📌 **Sintesi:** Il Digital Fairness Act dell’UE pone un freno alle pratiche di videogiochi in cui i giocatori sono incoraggiati a spendere soldi veri per continuare a giocare.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
-- **[2] `🌐 Scacchiere Globale` [La Spagna vede disordini diffusi nel primo sciopero generale da 14 anni](https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
-  - 📌 **Sintesi:** Sono previste proteste anche nelle città più grandi, a meno di tre settimane dal voto degli spagnoli alle elezioni parlamentari.
+- **[3] `💶 Macro & Finanza UE` [Sinner a Torino, 'un bel pomeriggio alla Nuvola Lavazza'](https://www.ansa.it/sito/notizie/economia/2026/11/13/sinner-a-torino-un-bel-pomeriggio-alla-nuvola-lavazza_c0cb11b8-523a-49c0-861e-fd7bec079cd4.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** "Un legame speciale, fatto di valori condivisi e soprattutto di persone"
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
-- **[3] `💶 Macro & Finanza UE` [Eni conferma impegno in Gran Bretagna, investirà 11 miliardi di sterline nel 2026-2030](https://www.ansa.it/sito/notizie/economia/2026/11/11/eni-conferma-impegno-in-gran-bretagna-investira-11-miliardi-di-sterline-nel-2026_b8cd8594-cd3c-49b0-a3f3-e58778c732ce.html)** — *(ANSA Economia)*
-  - 📌 **Sintesi:** Descalzi incontra Fahnbulleh, sostegno ai settori lower-carbon
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
-- **[4] `🏦 Mercati Globali` [Le azioni di Nvidia rimbalzano mentre Jensen Huang deve affrontare il controllo prima degli utili](https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html)** — *(CNBC Global Economy)*
-  - 📌 **Sintesi:** Gli investitori stanno valutando se la vicenda del CEO Jensen Huang avrà effetti di ricaduta sul business di Nvidia.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🏦 Mercati Globali` [Why the data center slowdown concern is overblown. Two stocks to buy amid the fear](https://www.cnbc.com/2026/11/13/data-center-slowdown-utility-stocks.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Not one utility CEO we spoke with at the EEI conference is anticipating a slowdown in electricity growth expectations.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
-### 🕒 Ora `15:05 CET` — Ricerca Oraria (17/23)
-_Aggiornamento registrato il `2026-11-11 15:18 CET`_
+### 🕒 Ora `18:05 CET` — Ricerca Oraria (22/23)
+_Aggiornamento registrato il `2026-11-13 18:05 CET`_
 
-- **[1] `🌍 Geopolitica & Mondo` [Lula alla Cop31, 'guerre e dazi oscurano l'agenda climatica globale'](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/11/lula-alla-cop31-guerre-e-dazi-oscurano-lagenda-climatica-globale_9e9d4a1c-b6db-4488-a806-539421c3491b.html)** — *(ANSA Mondo)*
-  - 📌 **Sintesi:** Il presidente chiede 1.300 miliardi di dollari l'anno per l'ambiente
+- **[1] `🌐 Scacchiere Globale` [Democratic Senate leader Schumer set to face leadership challenge](https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Maryland Senator Van Hollen says "new leadership" is needed for Democrats following the party's recent midterm successes.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌍 Esteri & Analisi` [Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case](https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case)** — *(The Guardian World)*
+  - 📌 **Sintesi:** Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans Britain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a Dominium maris Britannici , Argentina has told an international tribunal. Marcelo Kohen, representing Argentina at a hearing...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `💶 Macro & Finanza UE` [Nvidia affonda a Wall Street a -4,60%](https://www.ansa.it/sito/notizie/economia/2026/11/13/nvidia-affonda-a-wall-street-a-460_c5c229ec-e606-4df4-8f92-682c0df1d606.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Titolo ancora in sofferenza all'indomani dell'uscita del ceo Jensen Huang
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🏦 Mercati Globali` [HSBC downgrades Nvidia, says stock to struggle until new CEO named](https://www.cnbc.com/2026/11/13/hsbc-downgrades-nvidia-says-stock-to-struggle-until-new-ceo-named.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Analyst Frank Lee downgraded the chipmaker to hold from buy.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+
+### 🕒 Ora `17:05 CET` — Ricerca Oraria (21/23)
+_Aggiornamento registrato il `2026-11-13 17:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Fonti P.Chigi, 'da vertice di Dublino importante risultato su team negoziale'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/fonti-p.chigi-da-vertice-di-dublino-importante-risultato-su-team-negoziale_8a87df2d-80e2-4f55-8bae-cd64176d0058.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Va nella direzione indicata da Meloni, ora definire il mandato'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌐 Scacchiere Globale` [German spies handed new powers to tackle 'hybrid threats' from abroad](https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🔭 Ricerca & Spazio` [Superheated magma could fuel towering lava fountains](https://www.sciencedaily.com/releases/2026/11/261111221811.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiments revealed that superheated magma can delay crystal formation for more than eight hours, compared with just 20 minutes in magma that has...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[4] `🏛️ Filosofia & Idee` [Equality talk](https://aeon.co/essays/historical-ideas-of-equality-help-us-imagine-an-equal-world)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** In the summer of 1646, the idea of equality gained new and profound depths. We are still catching up with the consequences - by Teresa M Bejan Read on Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+
+### 🕒 Ora `16:05 CET` — Ricerca Oraria (20/23)
+_Aggiornamento registrato il `2026-11-13 16:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Von der Leyen, 'con Congresso Usa potremo parlare di governance dell'IA](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/von-der-leyen-con-congresso-usa-potremo-parlare-di-governance-dellia_a47b7860-f85a-46b2-8d12-9dd6a265035d.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Ci vorrà del tempo ma da qualche parte occorre cominciare'
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
-- **[2] `🇪🇺 Unione Europea & Policy` [Cattiva condotta sessuale “sistemica” nelle forze armate tedesche, secondo uno studio](https://www.politico.eu/article/study-finds-widespread-bundeswehr-sexual-misconduct/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
-  - 📌 **Sintesi:** Circa il 40% delle donne soldato e il 20% dei soldati uomini hanno affermato di aver subito almeno una forma di cattiva condotta sessuale nell'ultimo anno.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
-- **[3] `🧠 Paradigmi & Lunghi Orizzonti` [L’intelligenza artificiale ha dimostrato un’importante congettura sulla complessità quantistica. Cosa significa?](https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/)** — *(Big Think)*
-  - 📌 **Sintesi:** Se lavori con un computer normale, un computer classico, sei abituato a due idee fondamentali: l'idea dei bit, in cui le informazioni vengono codificate come "0" o "1" all'interno di una sorta di supporto o meccanismo di memorizzazione, e l'idea di operazioni che possono essere eseguite su quei bit (o "porte" attraverso le quali quei bit possono essere fatti passare), che rappresentano il possibile...
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
-- **[4] `💶 Macro & Finanza UE` [Prezzi dei carburanti in calo, gasolio scende a 2,225 euro con taglio accise](https://www.ansa.it/sito/notizie/economia/2026/11/11/prezzi-dei-carburanti-in-calo-gasolio-scende-a-2225-euro-con-taglio_dea03f0b-5522-4c91-964e-eeee7c29a867.html)** — *(ANSA Economia)*
-  - 📌 **Sintesi:** Mimit, benzina sotto 2 euro nel 91% degli impianti
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
-
-### 🕒 Ora `14:05 CET` — Ricerca Oraria (16/23)
-_Aggiornamento registrato il `2026-11-11 14:02 CET`_
-
-- **[1] `🌍 Geopolitica & Mondo` [Falso allarme bomba in 300 scuole dell'Irlanda del Nord, alcune evacuate](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/falso-allarme-bomba-in-300-scuole-dellirlanda-del-nord-alcune-evacuate_0a37f973-56e6-44de-997a-a91308d87120.html)** — *(ANSA Mondo)*
-  - 📌 **Sintesi:** Polizia, 'messaggio partito dall'estero'. Minacce anche in Scozia
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
-- **[2] `🇪🇺 Unione Europea & Policy` [Burnham promette un piano decennale prima della pausa natalizia](https://www.politico.eu/article/burnham-promises-10-year-plan-before-christmas-recess/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
-  - 📌 **Sintesi:** Il primo ministro britannico afferma che il suo progetto sarà presentato alla Camera dei Comuni entro il 17 dicembre.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
-- **[3] `🔭 Ricerca & Spazio` [Perché gli attacchi di cuore possono verificarsi anche quando il colesterolo cattivo è basso](https://www.sciencedaily.com/releases/2026/11/261109205415.htm)** — *(ScienceDaily)*
-  - 📌 **Sintesi:** Anche quando il colesterolo cattivo viene ridotto a livelli sani, alcune persone rimangono a rischio di attacchi di cuore e gli scienziati potrebbero aver scoperto il perché. I ricercatori hanno identificato due tipi di particelle che trasportano il grasso che sembrano promuovere l’infiammazione e danneggiare i vasi sanguigni attraverso meccanismi che vanno oltre l’accumulo di colesterolo.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
-- **[4] `🏛️ Filosofia & Idee` [Decodificazione dei fossili ediacarani](https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life)** — *(Aeon Philosophy & Ideas)*
-  - 📌 **Sintesi:** Antichi esemplari rivelano come gli animali iniziarono a muoversi mezzo miliardo di anni fa - e persino il primo esempio conosciuto di "manualità" - di Aeon Video Watch su Aeon
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
-
-### 🕒 Ora `12:05 CET` — Ricerca Oraria (15/23)
-_Aggiornamento registrato il `2026-11-11 12:53 CET`_
-
-- **[1] `🌍 Geopolitica & Mondo` [Zelensky, speriamo di testare questo inverno il primo sistema antimissile europeo](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/zelensky-speriamo-di-testare-questo-inverno-il-primo-sistema-antimissile-europeo_d8a27838-c31e-4afe-b1ec-751724a7aa83.html)** — *(ANSA Mondo)*
-  - 📌 **Sintesi:** Lo afferma il presidente ucraino in Danimarca
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
-- **[2] `🇪🇺 Unione Europea & Policy` [Burnham: Poliziotto buono o poliziotto cattivo?](https://www.politico.eu/podcast/politics-at-sam-and-annes/burnham-good-cop-or-bad-cop/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
-  - 📌 **Sintesi:** Mentre il primo ministro si dirige alla COP, la conferenza annuale delle Nazioni Unite sui cambiamenti climatici, il governo ha un messaggio coerente? Con il costo della transizione verde che inizia a farsi sentire, il governo si trova ad affrontare domande difficili sulle sue decisioni politiche e sui ritardi riguardo al petrolio, al gas e alle auto elettriche. Le ambizioni climatiche del Labour stanno scivolando a causa della dura […]
+- **[2] `🌐 Scacchiere Globale` [The Peruvian city that has embraced Pope Leo as one of its own](https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [How Nvidia used a "scorched earth, adversarial attitude" targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited (Semafor)](https://www.techmeme.com/261113/p29#a261113p29)** — *(Techmeme)*
+  - 📌 **Sintesi:** Semafor : How Nvidia used a “scorched earth, adversarial attitude” targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited — THE SCOOP — In January, the general counsel for what was then the world's most valuable company delivered …
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
-- **[3] `💻 Tecnologia & Cyber` [L’esercito americano sembra essere nervoso per la crisi delle scorte di lancio](https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/)** — *(Ars Technica)*
-  - 📌 **Sintesi:** "Il lancio è estremamente limitato e questa è esattamente la situazione che avevamo previsto."
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
-- **[4] `⚡ Futuro & Deep Tech` [Processi di estrazione dei metalli in evoluzione](https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/)** — *(MIT Technology Review)*
-  - 📌 **Sintesi:** L’industria dei metalli ha già vissuto momenti di trasformazione in passato: il processo Bessemer, la fusione rapida, i forni elettrici ad arco e la moderna colata continua hanno cambiato ciò che era possibile fare. Eppure, da più di un secolo, la maggior parte dei processi di estrazione si basano su tecniche e percorsi familiari ai metallurgisti di generazioni fa. I processi hanno...
+- **[4] `💻 Tecnologia & Cyber` [OpenAI board member worries an AI "takeover" of society could be months away](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Researcher traces a path from AI reward hacking to potential human extinction.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
-### 🕒 Ora `11:05 CET` — Ricerca Oraria (14/23)
-_Aggiornamento registrato il `2026-11-11 11:58 CET`_
+### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
+_Aggiornamento registrato il `2026-11-13 15:05 CET`_
 
-- **[1] `🌍 Geopolitica & Mondo` ['Controllo medico per l'ex premier pachistano in carcere'](https://www.ansa.it/sito/notizie/mondo/asia/2026/11/11/controllo-medico-per-lex-premier-pachistano-in-carcere_588e366f-b4bf-4c51-9380-7cada9a4b011.html)** — *(ANSA Mondo)*
-  - 📌 **Sintesi:** Khan è stato trasferito in ospedale nella notte per una visita oculistica, già dimesso
+- **[1] `🇪🇺 Cronaca Europea` [Capo del clan berlinese Issa Remmo ha partecipato a conferenza contro l'antisemitismo a Bruxelles](https://it.euronews.com/2026/11/13/capo-del-clan-berlinese-issa-remmo-ha-partecipato-a-conferenza-contro-lantisemitismo-a-bru)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Il capo dell'omonimo clan di Berlino, Issa Remo, ha partecipato ufficialmente a una conferenza al Parlamento europeo. La sua presenza ha causato un dibattito in Germania e a Bruxelles. Molti si chiedono come sia stato possibile invitare un boss criminale
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
-- **[2] `🇪🇺 Unione Europea & Policy` [Come i sistemi sanitari possono individuare i rischi prima di una crisi](https://www.politico.eu/sponsored-content/how-health-systems-can-spot-risk-before-a-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
-  - 📌 **Sintesi:** Da una visita in prima linea a un esame del sangue di routine e alla fotografia di una zanzara, tre innovazioni mostrano come le tecnologie di rilevamento possono aiutare i sistemi sanitari a identificare i rischi in anticipo e ad agire prima che le crisi prendano piede.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
-- **[3] `🏦 Mercati Globali` [Le azioni Nvidia rimbalzano del 5% mentre Huang deve affrontare il controllo prima degli utili](https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html)** — *(CNBC Global Economy)*
-  - 📌 **Sintesi:** Gli investitori stanno valutando se la vicenda del CEO Jensen Huang avrà effetti di ricaduta sul business di Nvidia.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
-- **[4] `🤖 IA & Frontiera Tech` [MacBook Pro con smontaggio PROLED XDR: un punteggio di 5/10, un punto sopra il MacBook Pro M5, e Touch ID funziona con una nuova scheda logica; il logo retroilluminato utilizza quattro LED (Elizabeth Chamberlain/iFixit News)](https://www.techmeme.com/261111/p11#a261111p11)** — *(Techmeme)*
-  - 📌 **Sintesi:** Elizabeth Chamberlain / Notizie iFixit: Smontaggio MacBook Pro con PROLED XDR: un punteggio di 5/10, un punto sopra il MacBook Pro M5 e Touch ID funziona con una nuova scheda logica; il logo retroilluminato utilizza quattro LED: il "nuovo display elegante" rende nervosi i nostri cacciaviti e l'ultimo MacBook di Apple ha il display più elegante mai realizzato.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e migratori gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
-
-### 🕒 Ora `10:05 CET` — Ricerca Oraria (13/23)
-_Aggiornamento registrato il `2026-11-11 10:56 CET`_
-
-- **[1] `📈 Economia & Mercati` [San Benedetto, costo delle materie prime e nuove tasse: cosa c’è dietro i tagli](https://www.ilsole24ore.com/art/san-benedetto-costo-materie-prime-e-nuove-tasse-cosa-c-e-dietro-tagli-AJPUXVCC)** — *(Il Sole 24 Ore)*
-  - 📌 **Sintesi:** L’azienda motiva i 120 licenziamenti nella sede di Scorzè: pesano anche Plastic tax e Sugar tax
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
-- **[2] `🌍 Geopolitica & Mondo` [Teheran, 'qualsiasi minaccia diventerà bersaglio di azioni asimmetriche'](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/11/teheran-qualsiasi-minaccia-diventera-bersaglio-di-azioni-asimmetriche_cfc2bd58-7380-4ccd-8902-23b4eff3f6d3.html)** — *(ANSA Mondo)*
-  - 📌 **Sintesi:** Lo afferma il capo di Stato maggiore delle Forze armate
+- **[2] `📈 Economia & Mercati` [Ieg, ricavi e margini in forte crescita nel terzo trimestre](https://www.ilsole24ore.com/art/ieg-ricavi-e-margini-forte-crescita-terzo-trimestre-AJafMXEC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** I primi nove mesi dell’anno si sono chiusi con ricavi per 222,6 milioni di euro, in aumento del 16,7% rispetto allo stesso periodo dell’anno scorso
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💶 Macro & Finanza UE` [Borsa: l'Europa conclude in tenuta, Londra +0,3%](https://www.ansa.it/sito/notizie/economia/2026/11/13/borsa-leuropa-conclude-in-tenuta-londra-03_9fc40c72-8386-4006-967a-ad4a94f10600.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** In crescita dello 0,1% Parigi, Amsterdam piatta e Francoforte in calo dello 0,2%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🏦 Mercati Globali` [I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him](https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** CNBC's Arjun Kharpal, who interviewed Huang just a few weeks ago at GTC Berlin, unpacks how everything came crashing down for the popular CEO.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
-- **[3] `💶 Macro & Finanza UE` [FonARCom, 'fondi interprofessionali pronti a diventare attuatori nelle politiche attive'](https://www.ansa.it/sito/notizie/economia/2026/11/11/fonarcom-fondi-interprofessionali-pronti-a-diventare-attuatori-nelle-politiche-attive_2e0fa386-ff9b-43ad-b52e-b26de33b319f.html)** — *(ANSA Economia)*
-  - 📌 **Sintesi:** Il presidente, 'rafforzare collaborazione con ministero e Regioni'
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
-- **[4] `🏦 Mercati Globali` [Le azioni CoreWeave salgono del 13% dopo che l’aumento delle prospettive ha alleviato le preoccupazioni sul rallentamento dell’IA](https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html)** — *(CNBC Global Economy)*
-  - 📌 **Sintesi:** Neocloud come CoreWeave, Nebius e IREN sono stati messi sotto esame questo mese mentre gli investitori valutavano la sostenibilità del commercio di intelligenza artificiale.
+
+### 🕒 Ora `14:05 CET` — Ricerca Oraria (18/23)
+_Aggiornamento registrato il `2026-11-13 14:05 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague](https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[2] `🌍 Esteri & Analisi` [Storm Charles causes floods and flight cancellations across southern Europe](https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather)** — *(The Guardian World)*
+  - 📌 **Sintesi:** Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week Storm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Portugal and the far south of Spain. Heavy rain and strong south-westerly winds arrived first in the Portuguese island of Madeira, before the system...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `💶 Macro & Finanza UE` [Borsa: Milano chiude in lieve rialzo, Ftse Mib +0,1%](https://www.ansa.it/sito/notizie/economia/2026/11/13/borsa-milano-chiude-in-lieve-rialzo-ftse-mib-01_94c30a0d-7a2b-4bfe-8697-65720fa90fb3.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** L'indice dei titoli principali di Piazza Affari a 51.858 punti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation](https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
-### 🕒 Ora `09:05 CET` — Ricerca Oraria (12/23)
-_Aggiornamento registrato il `2026-11-11 09:54 CET`_
+### 🕒 Ora `13:05 CET` — Ricerca Oraria (17/23)
+_Aggiornamento registrato il `2026-11-13 13:05 CET`_
 
-- **[1] `🌍 Esteri & Analisi` [Leader della setta apocalittica keniota condannato a 200 anni per l'omicidio di 190 bambini](https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie)** — *(The Guardian World)*
-  - 📌 **Sintesi:** Paul Mackenzie condannato per la morte di bambini e un adulto dopo che ai suoi seguaci è stato ordinato di morire di fame se stessi e le loro famiglie Il leader di una setta apocalittica keniana è stato condannato a 200 anni di prigione per l'omicidio di 190 bambini e un adulto in uno dei peggiori disastri settari della storia recente. La sentenza, che comprende 100 anni...
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
-- **[2] `🇪🇺 Cronaca Europea` [Teheran, donne iraniane in addestramento militare con i Pasdaran IRGC](https://it.euronews.com/video/2026/11/11/teheran-donne-iraniane-in-addestramento-militare-con-i-pasdaran-irgc)** — *(Euronews Italia)*
-  - 📌 **Sintesi:** Donne iraniane partecipano a un corso di addestramento militare organizzato dai Pasdaran in un campo di volontari a Teheran, maneggiano armi e si esercitano in corda doppia e su zipline.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
-- **[3] `💶 Macro & Finanza UE` [Borsa: Europa positiva in apertura, Parigi +0,58%, Londra +0,81%](https://www.ansa.it/sito/notizie/economia/2026/11/11/borsa-europa-positiva-in-apertura-parigi-058-londra-081_73a55230-3bcc-4c09-8dd9-dceae78dacf2.html)** — *(ANSA Economia)*
-  - 📌 **Sintesi:** In rialzo anche Francoforte (+1,05%) e Madrid (+0,53%)
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica globale costringe Roma e Bruxelles a ricalibrare le priorità di bilancio.
-- **[4] `🏦 Mercati Globali` [Soldato americano arrestato con l'accusa di spionaggio a favore della Russia](https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html)** — *(CNBC Global Economy)*
-  - 📌 **Sintesi:** L'uomo di 41 anni è detenuto a Londra ai sensi della legge sulla sicurezza nazionale del Regno Unito.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
-
-### 🕒 Ora `08:05 CET` — Ricerca Oraria (11/23)
-_Aggiornamento registrato il `2026-11-11 08:08 CET`_
-
-- **[1] `🌐 Scacchiere Globale` [Tre sospetti sostenuti dall'Iran hanno pianificato attacchi tra cui l'incidente della RAF Fairford, dicono gli Stati Uniti](https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
-  - 📌 **Sintesi:** Il Dipartimento di Giustizia degli Stati Uniti afferma che gli uomini erano coinvolti in una serie di complotti, incluso un grave incidente vicino alla base aerea britannica utilizzata dalle forze armate statunitensi.
+- **[1] `🌍 Geopolitica & Mondo` [Crack Ueno Bank in Paraguay, l'ex presidente accusato di associazione a delinquere](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/13/crack-ueno-bank-in-paraguay-lex-presidente-accusato-di-associazione-a-delinquere_0c7d4e58-7b8d-4006-8102-b5afb8b596eb.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Faceva parte di una struttura organizzata con l'obiettivo di favorire il Gruppo Vázquez'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌐 Scacchiere Globale` [Rosenberg: Uncompromising Putin ups demands for peace with Ukraine](https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
-- **[2] `🌍 Esteri & Analisi` [Come le filosofie africane hanno ispirato un nuovo approccio all'organizzazione di festival cinematografici a Manchester](https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester)** — *(The Guardian World)*
-  - 📌 **Sintesi:** See My World, un evento che mette in luce il pensiero panafricano attraverso film, poesia e danza, si basa sullo slancio suscitato da attivisti e creativi locali. Le filosofie africane, inclusa l'esplorazione di come le lezioni del passato possono plasmare il presente e il prossimo futuro, hanno ispirato un festival cinematografico in arrivo a Manchester. See My World, una giornata dedicata agli indipendenti...
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
-- **[3] `💶 Macro & Finanza UE` [Il gas si mantiene sopra gli 86 euro sulla piazza Ttf di Amsterdam](https://www.ansa.it/sito/notizie/economia/2026/11/11/il-gas-si-mantiene-sopra-gli-86-euro-sulla-piazza-ttf-di-amsterdam_39ad9825-1204-4979-89ab-84db6adb9c9e.html)** — *(ANSA Economia)*
-  - 📌 **Sintesi:** I contratti future sul mese di dicembre guadagnano l'1,5%
+- **[3] `🔭 Ricerca & Spazio` [Common forever chemicals linked to nearly double the rate of aggressive breast cancer](https://www.sciencedaily.com/releases/2026/11/261112025527.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** An NIH study found that women with high levels of two common “forever chemicals” had up to 93% higher rates of an aggressive form of breast cancer. The discovery raises concerns about the potential health effects of persistent chemicals found in everyday products.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[4] `🏛️ Filosofia & Idee` [A trip to upside-down world](https://aeon.co/videos/a-cubist-painting-becomes-two-kids-immersive-animated-world)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Goats everywhere! Three-hour handstands! Magical doorknobs! Discover a whole new way of looking at a Cubist masterpiece - by Aeon Video Watch on Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+
+### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-13 12:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [La casa di Brigitte Bardot a Saint-Tropez sarà aperta al pubblico in estate](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/la-casa-di-brigitte-bardot-a-saint-tropez-sara-aperta-al-pubblico-in-estate_ff23d420-a448-4a76-98f7-b14fdf2275d2.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** L'annuncio della sua fondazione. La Madrague venne acquistata dall'attrice nel 1958
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [EU climate chief hints bloc may drop clean power push at COP31](https://www.politico.eu/article/eu-climate-chief-wopke-hoekstra-hints-bloc-may-drop-clean-power-push-at-cop31/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** A "certain degree of pragmatism" on electrification is "probably" needed, Wopke Hoekstra told reporters at COP31.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
-- **[4] `🏦 Mercati Globali` [Gli investitori si orientano verso i titoli difensivi mentre i mercati entrano in uno “stato di allerta”](https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html)** — *(CNBC Global Economy)*
-  - 📌 **Sintesi:** I titoli tecnologici hanno perso slancio mentre i settori difensivi guadagnano terreno, mentre gli investitori rivalutano i rischi.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari e finanziari ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e transizione.
+- **[3] `🤖 IA & Frontiera Tech` [The FAA issues a nationwide ground stop for all US airports following "communication issues impacting multiple Air Route Traffic Control Centers" (Alex Fitzpatrick/Axios)](https://www.techmeme.com/261113/p30#a261113p30)** — *(Techmeme)*
+  - 📌 **Sintesi:** Alex Fitzpatrick / Axios : The FAA issues a nationwide ground stop for all US airports following “communication issues impacting multiple Air Route Traffic Control Centers” — The FAA issued an extremely rare nationwide ground stop at all airports due to “extraordinary circumstances” and “reasons of safety.”
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `💻 Tecnologia & Cyber` [Kalshi ditches Trump Jr. as advisor; CEO admitted "optics" weren't good](https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+
+### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-13 11:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Negoziati Ucraina, l'UE non sceglie un inviato ma una squadra: ci sono Italia e Polonia, Kallas resta fuori](https://it.euronews.com/2026/11/13/negoziati-ucraina-lue-non-sceglie-un-inviato-ma-una-squadra-ci-sono-italia-e-polonia-kalla)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** L'Europa ha deciso di creare una squadra congiunta per i colloqui di pace guidata da Francia, Germania, Regno Unito, Italia, Polonia, istituzioni UE e NATO. Nonostante le crescenti pressioni, i leader hanno rifiutato di nominare un unico inviato
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[2] `📈 Economia & Mercati` [Filiere strategiche, leva per la competitività del made in Italy](https://www.ilsole24ore.com/art/filiere-strategiche-leva-la-competitivita-made-italy-AJrshBEC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Da Sace
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` [Bombardieri, 'i tagli sulla scuola in manovra saltano'](https://www.ansa.it/sito/notizie/economia/2026/11/13/bombardieri-i-tagli-sulla-scuola-in-manovra-saltano_24f543df-c230-4e63-ab50-e7aa1b4f1d5d.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Il leader della Uil dopo l'incontro con il governo: 'C'è una buona notizia'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test](https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Like Apple, Nvidia now faces its own transition away from a founder-led company. But experts say Jensen Huang’s central role could make replacing him difficult.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+
+### 🕒 Ora `10:05 CET` — Ricerca Oraria (14/23)
+_Aggiornamento registrato il `2026-11-13 10:05 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [EU institutions survive Microsoft outage unscathed](https://www.politico.eu/article/eu-institutions-survive-microsoft-outage-unscathed/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Europe is working to reduce its use of big U.S. providers.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌐 Scacchiere Globale` [Watch: How a server outage took down Microsoft Teams and Outlook](https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[3] `💶 Macro & Finanza UE` [Apple sale in Borsa ai massimi storici di 360,83 dollari, vale più di 5.200 miliardi](https://www.ansa.it/sito/notizie/economia/2026/11/13/apple-sale-in-borsa-ai-massimi-storici-di-36083-dollari-vale-piu-di-5.200_c7708452-0558-47b2-9da6-26a2e6b08a8d.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Nvidia affonda, il cda avrebbe contattato il ceo di Arm Haas per il dopo Huang
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🏦 Mercati Globali` [AI risks are the biggest threat to the financial system, Fed survey finds](https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+
+### 🕒 Ora `09:05 CET` — Ricerca Oraria (13/23)
+_Aggiornamento registrato il `2026-11-13 09:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Biden attacca Bibi nel suo Memoir, 'ha anteposto i suoi interessi a quelli di Israele'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/biden-attacca-bibi-nel-suo-memoir-ha-anteposto-i-suoi-interessi-a-quelli_06924aac-1f36-4044-9e43-2ab86630b931.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Ha disatteso tutte le promesse per ridurre le sofferenze dei civili'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[2] `🇪🇺 Unione Europea & Policy` [Whitehall to increase face-to-face job interviews after surge in AI applications](https://www.politico.eu/article/whitehall-increase-in-person-job-interviews-after-ai-applications/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** In the most extreme cases, civil service leaders suspect that entire applications — including interviewees on a video calls — were generated by AI.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[3] `🔭 Ricerca & Spazio` [A new treasure map reveals where Earth's lost prehistoric life may be hiding](https://www.sciencedaily.com/releases/2026/11/261112025529.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** A sweeping analysis of 540 million years of marine fossils has revealed surprising gaps in our understanding of Earth's ancient life. Scientists discovered that some of the greatest opportunities for finding previously unknown species lie in relatively recent geological periods, rather than the distant past. By mapping unexplored fossil-rich regions...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🏛️ Filosofia & Idee` [Why anything exists](https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Here’s a new answer to the old question ‘why is there something rather than nothing?’ (It’s neither simple nor easy) - by Andrew T Brenner Read on Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+
+### 🕒 Ora `08:05 CET` — Ricerca Oraria (12/23)
+_Aggiornamento registrato il `2026-11-13 08:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Le truppe di Bukele prendono il controllo dello stadio di Port au Prince](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/13/le-truppe-di-bukele-prendono-il-controllo-dello-stadio-di-port-au-prince_601d9d6e-e45b-44bc-bdf7-bbf252a940a7.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Raid dei soldati di El Salvador che riescono a espugnare la roccaforte delle gang
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [What Vladimir Putin won in Abu Dhabi Ukraine peace talks](https://www.politico.eu/article/what-vladimir-putin-won-in-abu-dhabi-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Donald Trump’s envoys offered the Russian president what he wants: room to stall.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[3] `🤖 IA & Frontiera Tech` [Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO (Wall Street Journal)](https://www.techmeme.com/261113/p31#a261113p31)** — *(Techmeme)*
+  - 📌 **Sintesi:** Wall Street Journal : Sources: Moonshot AI is deactivating its Cayman holding company and moving investors' stakes to its primary operating entity in China to pave the way for an IPO — Chinese artificial-intelligence startup Moonshot AI is wrapping up a corporate restructuring that would pave the way for an initial public offering.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `💻 Tecnologia & Cyber` [In elephants, the resilience of communities has its limits](https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** In Sri Lanka, ecological change is shrinking a park's elephant population.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+
+### 🕒 Ora `07:05 CET` — Ricerca Oraria (11/23)
+_Aggiornamento registrato il `2026-11-13 07:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Viaggio del Papa: Leone XIV torna a Chiclayo, in Perù è ancora padre Roberto](https://it.euronews.com/2026/11/13/viaggio-del-papa-leone-xiv-torna-a-chiclayo-in-peru-e-ancora-padre-roberto)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Il pontefice torna nella diocesi che ha guidato per quasi un decennio, dove ha lasciato un segno profondo per la sua vicinanza ai più poveri. Alla messa di venerdì potrebbe partecipare fino a un milione di persone
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[2] `📈 Economia & Mercati` [Inaugurata a Capodimonte la mostra “Napoli dai Borbone alla Belle Epoque”](https://www.ilsole24ore.com/art/inaugurata-capodimonte-mostra-napoli-borbone-belle-epoque-AJlA7LEC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** La stretta relazione tra lo sviluppo culturale e artistico e quello economico industriale e sociale è una costante nella storia di Napoli, città che ha avuto nei secoli un ruolo...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `💶 Macro & Finanza UE` [Lo spread tra Btp e Bund chiude poco mosso a 104 punti base](https://www.ansa.it/sito/notizie/economia/2026/11/13/lo-spread-tra-btp-e-bund-chiude-poco-mosso-a-104-punti-base_afb5e3a1-e8bb-4da9-b684-bbb34a0424ba.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Il rendimento del prodotto del Tesoro è al 4,41%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates](https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Nvidia shares rebounded from its recent pressure and the latest inflation data came in slightly lighter than expected.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `06:05 CET` — Ricerca Oraria (10/23)
-_Aggiornamento registrato il `2026-11-11 06:57 CET`_
+_Aggiornamento registrato il `2026-11-13 06:05 CET`_
 
-- **[1] `🌍 Geopolitica & Mondo` [Interscambio Italia-Messico in espansione, +8,6% tra gennaio e settembre](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/11/interscambio-italia-messico-in-espansione-86-tra-gennaio-e-settembre_2b8694bb-1e74-4637-aaad-0bacaa48c6d6.html)** — *(ANSA Mondo)*
-  - 📌 **Sintesi:** In nove mesi otto miliardi di euro e vendite del Paese nordamericano a +29,8%
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
-- **[2] `🇪🇺 Unione Europea & Policy` [Come aggirare gli eurodeputati indisciplinati](https://www.politico.eu/podcast/brussels-playbook-podcast/how-to-bypass-unruly-meps/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
-  - 📌 **Sintesi:** Il Parlamento europeo ha capito come approvare una legislazione controversa… basta semplicemente aggirare il voto pieno di tutti i 720 deputati. Oggi nello show, Zoya Sheftalovich e Ian Wishart discutono di come i leader di tutti i partiti siano preoccupati che le mutevoli alleanze della plenaria – in particolare con l’ascesa dell’estrema destra – possano far saltare la legislazione […]
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
-- **[3] `🧠 Paradigmi & Lunghi Orizzonti` [Come l'America ha contribuito a plasmare l'uomo che ha attaccato Pearl Harbor](https://bigthink.com/history-society/admiral-yamamoto/)** — *(Big Think)*
-  - 📌 **Sintesi:** Gli adulti in città furono sorpresi. Isoroku Takano, in seguito Yamamoto*, era un bambino introverso. A scuola, di solito sedeva in silenzio con le braccia incrociate. Dopo la scuola non si è fermato a giocare con gli altri ragazzi, ma è andato direttamente a casa. Insolitamente, però, il ragazzo sembrò uscire dal suo guscio quando parlò con un americano arrivato di recente...
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
-- **[4] `🏦 Mercati Globali` [Secondo quanto riferito, Bessent si è trasferito in una base militare a causa delle minacce iraniane alla sua vita](https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html)** — *(CNBC Global Economy)*
-  - 📌 **Sintesi:** La mossa arriva mentre il Dipartimento di Giustizia ha dichiarato martedì scorso che tre cittadini iraniani sono stati incriminati con accuse legate al terrorismo.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[1] `🇪🇺 Unione Europea & Policy` [EU countries to announce deportation hub deal with Rwanda](https://www.politico.eu/article/eu-countries-to-announce-deportation-hub-deal-with-rwanda/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Austria, Denmark, Germany, Greece and the Netherlands aim to make the centers operational as of next year.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌐 Scacchiere Globale` [Why is Microsoft's outage lasting so long and will emails be lost?](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `💶 Macro & Finanza UE` [Il gas in calo (-3%) a 89 euro al Megawattora](https://www.ansa.it/sito/notizie/economia/2026/11/13/il-gas-in-calo-3-a-89-euro-al-megawattora_329fd1bb-baf4-4b4f-b477-455694ed149a.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Sul mercato di Amsterdam di riferimento per l'Europa
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[4] `🏦 Mercati Globali` [Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker](https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `05:05 CET` — Ricerca Oraria (9/23)
-_Aggiornamento registrato il `2026-11-11 05:57 CET`_
+_Aggiornamento registrato il `2026-11-13 05:05 CET`_
 
-- **[1] `🌍 Geopolitica & Mondo` [In Ecuador si chiude il coprifuoco di 10 giorni con oltre 2.600 arresti](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/11/in-ecuador-si-chiude-il-coprifuoco-di-10-giorni-con-oltre-2.600-arresti_a457a64c-dfc2-443c-bbf4-8fcc03f26eb7.html)** — *(ANSA Mondo)*
-  - 📌 **Sintesi:** Il presidente Noboa annuncia la fine delle restrizioni, recuperati anche 750 veicoli
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
-- **[2] `🇪🇺 Unione Europea & Policy` [Die dunkle Seite der Bundeswehr: Sexualisierte Gewalt gegen Frauen](https://www.politico.eu/podcast/berlin-playbook-podcast/die-dunkle-seite-der-bundeswehr-sexualisierte-gewalt-gegen-frauen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
-  - 📌 **Sintesi:** Präsentiert von YouTube.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
-- **[3] `🔭 Ricerca & Spazio` [Scientists discover a giant 66-pound rodent that lived 34 million years ago](https://www.sciencedaily.com/releases/2026/11/261110042532.htm)** — *(ScienceDaily)*
-  - 📌 **Sintesi:** Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought. Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
-- **[4] `🏛️ Filosofia & Idee` [The wholehearted life](https://aeon.co/essays/how-does-roshi-joan-halifax-make-sense-of-her-buddhist-life)** — *(Aeon Philosophy & Ideas)*
-  - 📌 **Sintesi:** Roshi Joan Halifax is an original, generous, gritty and profound Buddhist teacher. How does she look back on her life? - by Ben Daitz Read on Aeon
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
+- **[1] `🌍 Geopolitica & Mondo` [Authority trasporto aereo Usa dispone blocco nazionale per circostanze straordinarie](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/authority-trasporto-aereo-usa-dispone-blocco-nazionale-per-circostanze-straordinarie_0687956c-c205-47cc-ae5e-26338a22eb3c.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Media, misura adotta una sola volta dopo l'11 Settembre. 'Problemi alle comunicazioni'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Unione Europea & Policy` [Ex-Labour MP accused of sexual harassment joins Plaid Cymru](https://www.politico.eu/article/ex-labour-mp-accused-sexual-harassment-joins-plaid-cymru/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Geraint Davies has joined Wales' ruling party.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🔭 Ricerca & Spazio` [Scientists discover a hidden danger of viral infections that vaccines may prevent](https://www.sciencedaily.com/releases/2026/11/261112025531.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulnerable to future threats. Surprisingly, prior vaccination...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🏛️ Filosofia & Idee` [My grandfather been tell me a lot of story about Lasseter](https://aeon.co/videos/a-legendary-australian-gold-hunt-told-from-an-aboriginal-perspective)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** A strange man on camelback – the artist Nora Abbott retells her grandfather’s story of a prospector’s last ride - by Aeon Video Watch on Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
 ### 🕒 Ora `04:05 CET` — Ricerca Oraria (8/23)
-_Aggiornamento registrato il `2026-11-11 04:52 CET`_
+_Aggiornamento registrato il `2026-11-13 04:05 CET`_
 
-- **[1] `🌍 Geopolitica & Mondo` [Mosca, 'droni causano incendio in porto petrolifero sul Baltico'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/11/mosca-droni-causano-incendio-in-porto-petrolifero-sul-baltico_8cb92fd7-6549-4260-bbc5-73ef1040ce61.html)** — *(ANSA Mondo)*
-  - 📌 **Sintesi:** Il governatore su Telegram, 'colpito lo scalo di Ust-Luga'
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
-- **[2] `🇪🇺 Unione Europea & Policy` [Spanish election: How bad is the housing crisis?](https://www.politico.eu/article/spain-housing-crisis-election-rising-house-prices-rents/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
-  - 📌 **Sintesi:** Your 5-chart guide to the problem that could bring down the Spanish government.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
-- **[3] `⚡ Futuro & Deep Tech` [The Download: Pelosi’s successor targets AI and data centers face power woes](https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/)** — *(MIT Technology Review)*
-  - 📌 **Sintesi:** This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a…
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
-- **[4] `🧬 Scienza & Scoperte` [PhD funding mechanisms should protect the right to disagree with supervisors](https://www.nature.com/articles/d41586-026-03645-4)** — *(Nature Research)*
-  - 📌 **Sintesi:** Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03645-4 PhD funding mechanisms should protect the right to disagree with supervisors
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[1] `🌍 Geopolitica & Mondo` [Nvidia chiude a -2,01%, perso quasi il 13% nella settimana con lo scandalo Huang](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/nvidia-chiude-a-201-perso-quasi-il-13-nella-settimana-con-lo-scandalo-huang_0ef0bb95-d027-4753-b2a2-ca4a15fb94bb.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Mandati in fumo oltre 500 miliardi di capitalizzazione di Borsa
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[2] `🇪🇺 Unione Europea & Policy` [Microsoft outage renews European calls to detox from US tech](https://www.politico.eu/article/microsoft-outage-renews-european-calls-to-detox-from-us-tech/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Lawmakers across Europe call for action to reduce reliance on a handful of foreign tech companies.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US (Jeremy Hsu/Ars Technica)](https://www.techmeme.com/261113/p32#a261113p32)** — *(Techmeme)*
+  - 📌 **Sintesi:** Jeremy Hsu / Ars Technica : The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US — The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `💻 Tecnologia & Cyber` [FAA expands AI advice to manage air traffic congestion across entire US airspace](https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
-_Aggiornamento registrato il `2026-11-11 03:49 CET`_
+_Aggiornamento registrato il `2026-11-13 03:05 CET`_
 
-- **[1] `🌍 Geopolitica & Mondo` [Repubblica Dominicana, Abinader appoggia Bukele ma chiede più coordinamento ad Haiti](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/11/repubblica-dominicana-abinader-appoggia-bukele-ma-chiede-piu-coordinamento-ad-haiti_e7e114a3-f309-48d0-995e-51e1b321321a.html)** — *(ANSA Mondo)*
-  - 📌 **Sintesi:** Il presidente offre logistica e invita a unire le forze contro le bande
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
-- **[2] `🇪🇺 Unione Europea & Policy` [Brussels takes on the evils of online commerce](https://www.politico.eu/article/brussels-takes-on-the-evils-of-online-commerce-digital-fairness-act-commission/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
-  - 📌 **Sintesi:** The EU is proposing new rules that would fine companies that use manipulative online tactics like "dynamic pricing" and "addictive design" to lure consumers to buy and pay more.
+- **[1] `🇪🇺 Cronaca Europea` [A New Orleans scontro sul fiume Mississippi: soccorso i 129 passeggeri di una nave da crociera](https://it.euronews.com/2026/11/13/a-new-orleans-scontro-sul-fiume-mississippi-soccorso-i-129-passeggeri-di-una-nave-da-croci)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Una nave cisterna ha urtato e parzialmente affondato una nave da crociera fluviale a New Orleans con circa 129 passeggeri che era attraccata. Diverse persone sono state salvate mentre proseguono le operazioni di ricerca e soccorso
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[2] `📈 Economia & Mercati` [Export ancora avanti a settembre: in nove mesi (+4,7%) supera i 500 miliardi](https://www.ilsole24ore.com/art/export-ancora-avanti-settembre-nove-mesi-47percento-supera-500-miliardi-AJBB2HFC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Due miliardi in più a settembre, che portano il totale del Made in Italy a superare in nove mesi i 500 miliardi di euro. Il progresso dell’export nazionale prosegue, con...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[3] `💶 Macro & Finanza UE` [Borsa: Milano cauta con l'Europa in attesa della Fed, scivola Fincantieri](https://www.ansa.it/sito/notizie/economia/2026/11/13/borsa-milano-cauta-con-leuropa-in-attesa-della-fed-scivola-fincantieri_e98a131a-7975-4e7b-8f43-71bf52fafd8f.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Euro in leggero calo contro il dollaro a quota 1,102. Bene Banca Generali e Cucinelli
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [FAA grounds departing flights nationwide, citing air traffic communication system outage](https://www.cnbc.com/2026/11/13/faa-ground-stop.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, "due to extraordinary circumstances and for reasons of safety."
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
-- **[3] `🤖 IA & Frontiera Tech` [Anthropic opens its Australian retail IPO, giving individual investors access to Class A shares ahead of the company's planned Nasdaq listing (Jenny Lee/CNBC)](https://www.techmeme.com/261110/p63#a261110p63)** — *(Techmeme)*
-  - 📌 **Sintesi:** Jenny Lee / CNBC : Anthropic opens its Australian retail IPO, giving individual investors access to Class A shares ahead of the company's planned Nasdaq listing — Anthropic, the maker of AI chatbot Claude, opened its Australian retail initial public offering on Wednesday, giving individual investors access …
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
-- **[4] `💻 Tecnologia & Cyber` [Seagate's new hybrid drive raises some old questions](https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/)** — *(Ars Technica)*
-  - 📌 **Sintesi:** The FireCuda Forge revisits an old idea, with some familiar questions.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
 
 ### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
-_Aggiornamento registrato il `2026-11-11 02:59 CET`_
+_Aggiornamento registrato il `2026-11-13 02:05 CET`_
 
-- **[1] `🌍 Geopolitica & Mondo` [America Latina, Brasile e Messico ai vertici globali per gli investimenti esteri](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/11/america-latina-brasile-e-messico-ai-vertici-globali-per-gli-investimenti-esteri_e06864de-bbec-41ad-91ea-cd3b2dbe1553.html)** — *(ANSA Mondo)*
-  - 📌 **Sintesi:** Quarto e sesto posto al mondo con oltre 81 miliardi di dollari in sei mesi
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
-- **[2] `🇪🇺 Unione Europea & Policy` [Poland says Pentagon backs permanent US base, with Trump decision due in December](https://www.politico.eu/article/poland-says-pentagon-backs-permanent-us-base-with-trump-decision-due-in-december/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
-  - 📌 **Sintesi:** Warsaw is seeking a lasting American military commitment as NATO allies fear further U.S. troop withdrawals from Europe.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
-- **[3] `💶 Macro & Finanza UE` [Tim, 'ricavi e redditività crescono nei 9 mesi, guidance 2026 confermata' (2)](https://www.ansa.it/sito/notizie/economia/2026/11/10/tim-ricavi-e-redditivita-crescono-nei-9-mesi-guidance-2026-confermata-2_5113a739-5ec4-42b0-893d-7d8536f47052.html)** — *(ANSA Economia)*
-  - 📌 **Sintesi:** Approfondimento disponibile nella fonte originale collegata.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
-- **[4] `🏦 Mercati Globali` [Anthropic opens Australian retail IPO offering as AI scrutiny intensifies](https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html)** — *(CNBC Global Economy)*
-  - 📌 **Sintesi:** Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO.
+- **[1] `🇪🇺 Unione Europea & Policy` [Le Pen offers to meet Zelenskyy in Brussels](https://www.politico.eu/article/france-marine-le-pen-offers-to-meet-ukraine-volodymyr-zelenskyy-in-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** The Ukrainian leader wants to persuade the far-right leader to continue supporting Ukraine if she becomes president of France.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌐 Scacchiere Globale` [Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Experts say the event is a "stark reminder" of how heavily the world relies on a small group of big tech providers.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `💶 Macro & Finanza UE` [S&P conferma il rating sull'Italia: 'La crescita supererà le stime'. Giorgetti: 'È la strada giusta'](https://www.ansa.it/sito/notizie/economia/2026/11/13/sp-conferma-il-rating-sullitalia-la-crescita-superera-le-stime.-giorgetti-e-la-strada-giusta_968a7f83-4609-47b6-b8c7-0b1ab287d3a7.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Il ministro dell'Economia: 'Bene, in tempi difficili è un successo'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🏦 Mercati Globali` [Nvidia is done with Jensen Huang. The fallout in Washington is just beginning](https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `01:05 CET` — Ricerca Oraria (5/23)
-_Aggiornamento registrato il `2026-11-11 01:58 CET`_
+_Aggiornamento registrato il `2026-11-13 01:05 CET`_
 
-- **[1] `🇪🇺 Cronaca Europea` [Toledo, messa solenne per le 69 vittime del disastro ferroviario spagnolo](https://it.euronews.com/video/2026/11/10/toledo-messa-solenne-per-le-69-vittime-del-disastro-ferroviario-spagnolo)** — *(Euronews Italia)*
-  - 📌 **Sintesi:** Il re di Spagna Felipe VI e la regina Letizia hanno partecipato martedì 10 novembre a un funerale di Stato nella cattedrale di Toledo per le 69 vittime del devastante scontro tra treni ad alta velocità avvenuto il 28 ottobre vicino a Urda.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
-- **[2] `📈 Economia & Mercati` [Hera acquisisce Gigas Rete per crescere nel Nord Est](https://www.ilsole24ore.com/art/hera-acquisisce-gigas-rete-crescere-nord-est-AJ6ZKgBC)** — *(Il Sole 24 Ore)*
-  - 📌 **Sintesi:** Il risiko delle reti del gas si sposta nel Veronese, dove Hera mette a segno una nuova acquisizione e consolida la propria presenza nel Nord Est. La multiutility...
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
-- **[3] `💶 Macro & Finanza UE` [Interscambio Italia-Messico in espansione, +8,6% tra gennaio e settembre](https://www.ansa.it/sito/notizie/economia/2026/11/11/interscambio-italia-messico-in-espansione-86-tra-gennaio-e-settembre_329ff19a-3f22-4ebb-af3f-075a4727f90b.html)** — *(ANSA Economia)*
-  - 📌 **Sintesi:** In nove mesi otto miliardi di euro e vendite del Paese nordamericano a +29,8%
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
-- **[4] `🏦 Mercati Globali` [White House vows to press ahead with tariffs despite midterm backlash over rising prices](https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html)** — *(CNBC Global Economy)*
-  - 📌 **Sintesi:** Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[1] `🌍 Geopolitica & Mondo` ['Blocco aereo Usa per stop temporaneo sistemi tlc. Non è nuovo 11/9'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/blocco-aereo-usa-per-stop-temporaneo-sistemi-tlc.-non-e-nuovo_6308d6cf-a23c-4b35-a764-c7894af7aefc.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il segretario agli Interni Mullin: 'Sulle cause non si può escludere nulla'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🇪🇺 Unione Europea & Policy` [Why Europe failed to find a superhero to take on Putin](https://www.politico.eu/article/why-europe-failed-to-find-a-superhero-to-take-on-vladimir-putin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Europe’s seven-part team of Ukraine peace envoys must now agree their strategy for handling Russia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[3] `🔭 Ricerca & Spazio` [Stopping statins after 70 may be safer than expected, but there's a catch](https://www.sciencedaily.com/releases/2026/11/261112025534.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** A major study of nearly 1,900 older adults suggests that stopping statins after age 70 may be relatively safe in the short term for people who have never experienced a heart attack or stroke. However, a higher rate of serious cardiovascular events or death during longer follow-up raises questions about the risks of discontinuing these widely prescribed...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[4] `🏛️ Filosofia & Idee` [Fugitive imagination](https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Wherever people are confined, displaced, silenced or made disposable, fugitive forms of knowledge and imagination emerge - by Shahram Khosravi Read on Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `00:05 CET` — Ricerca Oraria (4/23)
-_Aggiornamento registrato il `2026-11-11 00:35 CET`_
+_Aggiornamento registrato il `2026-11-13 00:05 CET`_
 
-- **[1] `🌐 Scacchiere Globale` [Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor](https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
-  - 📌 **Sintesi:** The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.
+- **[1] `🌍 Geopolitica & Mondo` [Fbi, 'blocco aereo Usa non è dovuto ad attacco informatico o crimine'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/13/fbi-blocco-aereo-usa-non-e-dovuto-ad-attacco-informatico-o-crimine_62b6813b-2329-4978-90ab-c128f676be23.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Disagi nei vari aeroporti del Paese
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🇪🇺 Unione Europea & Policy` [EU deal on Ukraine talks overshadows AI-focused summit in Dublin](https://www.politico.eu/article/eu-deal-on-ukraine-talks-overshadows-ai-focused-summit-in-dublin/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** EU leaders have agreed that the E5 format — Germany, France, U.K, Italy and Poland — plus the European Commission and Council will represent the bloc at any future peace negotiations.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[3] `🤖 IA & Frontiera Tech` [Source: the FBI is probing whether the FAA outage was caused by a software update, and doesn't believe it was due to a cyberattack or criminality (Myles Miller/Bloomberg)](https://www.techmeme.com/261113/p33#a261113p33)** — *(Techmeme)*
+  - 📌 **Sintesi:** Myles Miller / Bloomberg : Source: the FBI is probing whether the FAA outage was caused by a software update, and doesn't believe it was due to a cyberattack or criminality — The Federal Bureau of Investigation doesn't believe the communication issue affecting air traffic control was due to a cyberattack or criminality, said a person familiar with the...
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
-- **[2] `🌍 Esteri & Analisi` [Collision of two trains in Egypt kills at least seven](https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision)** — *(The Guardian World)*
-  - 📌 **Sintesi:** President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train...
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
-- **[3] `💶 Macro & Finanza UE` [Fonti Lega, stupore di Salvini per le banche, possibile ulteriore contributo](https://www.ansa.it/sito/notizie/economia/2026/11/10/fonti-lega-stupore-di-salvini-per-le-banche-possibile-ulteriore-contributo_eff950b3-6e52-49b0-ad6e-64a1dd838e28.html)** — *(ANSA Economia)*
-  - 📌 **Sintesi:** Dividendi e utili record. Leader leghista 'determinato a trovare ulteriori risorse'
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e migratori gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
-- **[4] `🏦 Mercati Globali` [Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation](https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html)** — *(CNBC Global Economy)*
-  - 📌 **Sintesi:** Nvidia employees described the mood as "sad" as CEO Jensen Huang returned to the office after disclosing an affair.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `💻 Tecnologia & Cyber` [Millions of Americans are not taking their GLP-1 drugs as prescribed](https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Cost and access barriers are pushing people to modified use and unapproved versions.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
-### 🕒 Ora `23:05 CET` — Ricerca Oraria (3/23)
-_Aggiornamento registrato il `2026-11-10 23:40 CET`_
+### 🕒 Ora `19:05 CET` — Ricerca Oraria (3/23)
+_Aggiornamento registrato il `2026-11-12 19:08 CET`_
 
-- **[1] `🌍 Geopolitica & Mondo` [Nyt, 'Trump fu informato di Mr Nvidia e la spia cinese sul volo per Pechino'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/10/nyt-trump-fu-informato-di-mr-nvidia-e-la-spia-cinese-sul-volo-per-pechino_10070bd2-7df4-47bc-aa10-a6cfa560a7c2.html)** — *(ANSA Mondo)*
-  - 📌 **Sintesi:** 'Avvertito da Rubio poco prima che Huang si unisse al viaggio su invito del tycoon'
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
-- **[2] `🇪🇺 Unione Europea & Policy` [Zelenskyy tells Europe to hurry up and pick a rep for peace talks with Russia](https://www.politico.eu/article/zelenskyy-tells-europe-pick-negotiator-peace-talks-russia-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
-  - 📌 **Sintesi:** Ukraine's leader wants to be consulted on Europe's choice.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
-- **[3] `🤖 IA & Frontiera Tech` [Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions (Jake Bleiberg/Bloomberg)](https://www.techmeme.com/261110/p54#a261110p54)** — *(Techmeme)*
-  - 📌 **Sintesi:** Jake Bleiberg / Bloomberg : Sources and records: 11+ NSA and US Cyber Command personnel died by suicide over the 12 months to September, prompting White House and Congressional questions — At least 11 National Security Agency and US Cyber Command workers died by suicide over roughly the past year …
+- **[1] `🇪🇺 Cronaca Europea` [Roma, 15enne si toglie la vita: voleva diventare uomo, ipotesi di bullismo](https://it.euronews.com/2026/11/12/roma-15enne-si-toglie-la-vita-voleva-diventare-uomo-ipotesi-di-bullismo)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** La ragazza aveva confidato ai genitori il proprio disagio, legato anche al percorso di affermazione della sua identità di genere. Gli investigatori cercano di ricostruire il clima vissuto a scuola e tra i coetanei
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
+- **[2] `📈 Economia & Mercati` [«Serve equità, Fisco più leggero a favore del lavoro»](https://www.ilsole24ore.com/art/serve-equita-fisco-piu-leggero-favore-lavoro-AJ2SAbCC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Un sistema industriale locale da mantenere forte, mettendolo allo stesso tempo nelle condizioni di affrontare le grandi trasformazioni in atto. Il ragionamento di Matteo Zanetti ruota attorno a questa necessità,...
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
-- **[4] `💻 Tecnologia & Cyber` [Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr](https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/)** — *(Ars Technica)*
-  - 📌 **Sintesi:** Democrats accuse FCC nominee of evading questions about Carr, her current boss.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[3] `💶 Macro & Finanza UE` [Il prezzo del gas corre e sfiora i 94 euro con tensioni Medioriente](https://www.ansa.it/sito/notizie/economia/2026/11/12/il-prezzo-del-gas-corre-e-sfiora-i-94-euro-con-tensioni-medioriente_37283fb3-ab72-4cb0-bfb4-1aa473abdefa.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** I contratti Ttf ad Amsterdam segnano un +8 per cento
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[4] `🏦 Mercati Globali` [Aggiornamenti live di Nvidia: Jensen Huang accetta di testimoniare davanti al Congresso in seguito alle dimissioni](https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il CFO di Nvidia Colette Kress è stato nominato CEO ad interim durante la ricerca del sostituto di Huang.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
 
-### 🕒 Ora `22:05 CET` — Ricerca Oraria (2/23)
-_Aggiornamento registrato il `2026-11-10 22:39 CET`_
+### 🕒 Ora `10:05 CET` — Ricerca Oraria (2/23)
+_Aggiornamento registrato il `2026-11-12 10:41 CET`_
 
-- **[1] `🌍 Geopolitica & Mondo` [Usa incriminano tre agenti iraniani per l'attacco fallito a base aerea Gb](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/10/usa-incriminano-tre-agenti-iraniani-per-lattacco-fallito-a-base-aerea_e3e39d28-84b4-4648-a204-d364b43f9734.html)** — *(ANSA Mondo)*
-  - 📌 **Sintesi:** Dipartimento Giustizia, 'Mohammad Dawood Al-Saadi l'avrebbe diretto da carcere New York'
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
-- **[2] `🇪🇺 Unione Europea & Policy` [Nvidia hires Wachtell Lipton for Jensen Huang investigation](https://www.politico.eu/article/nvidia-hires-wachtell-lipton-for-jensen-huang-investigation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
-  - 📌 **Sintesi:** The independent investigation follows reports that the CEO had a romantic relationship with an alleged Chinese spy.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
-- **[3] `💶 Macro & Finanza UE` [Verso un nuovo vertice maggioranza sulla manovra per fare il punto sulle modifiche](https://www.ansa.it/sito/notizie/economia/2026/11/10/verso-un-nuovo-vertice-maggioranza-sulla-manovra-per-fare-il-punto-sulle_9858e388-b5a6-43c9-bf41-b913ad94cf54.html)** — *(ANSA Economia)*
-  - 📌 **Sintesi:** Richiesto da Salvini e Tajani, Meloni riflette sui tempi
+- **[1] `🌍 Geopolitica & Mondo` [Zelensky, il sistema Starshield ha di nuovo delle limitazioni](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/12/zelensky-il-sistema-starshield-ha-di-nuovo-delle-limitazioni_000e5532-3cf8-4979-ad40-85f15d2d5af8.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Non si tratta di errori casuali, ma di un limite di velocità imposto dal sistema'
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
-- **[4] `🏦 Mercati Globali` [Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security](https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html)** — *(CNBC Global Economy)*
-  - 📌 **Sintesi:** Rep. John Moolenaar, R-Mich., the Republican chairman of the Select Committee on China and told CNBC he expects answers about Jensen Huang's relationship.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
-
-### 🕒 Ora `21:05 CET` — Ricerca Oraria (1/23)
-_Aggiornamento registrato il `2026-11-10 21:44 CET`_
-
-- **[1] `🇪🇺 Cronaca Europea` [Web Summit di Lisbona, cancellato il secondo giorno per la tempesta Charles](https://it.euronews.com/2026/11/10/web-summit-di-lisbona-cancellato-il-secondo-giorno-per-la-tempesta-charles)** — *(Euronews Italia)*
-  - 📌 **Sintesi:** La conferenza sulla tecnologia ha chiuso i battenti il secondo giorno.
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
-- **[2] `📈 Economia & Mercati` [Banco Bpm, cassa sanitaria unica per i 19mila bancari](https://www.ilsole24ore.com/art/banco-bpm-cassa-sanitaria-unica-i-19mila-bancari-AJGmQnBC)** — *(Il Sole 24 Ore)*
-  - 📌 **Sintesi:** Accordo tra l’istituto e i sindacati per creare da febbraio 2027 una cassa di assistenza sola dove confluiranno FAS, CMA e FIAM. Dalla banca contributo annuo di 1.300 euro, dai dipendenti l’1,40% della retribuzione
-  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
-- **[3] `💶 Macro & Finanza UE` [Intesa pubblica prospetto e documento d'offerta dell'Opas per Mps](https://www.ansa.it/sito/notizie/economia/2026/11/10/intesa-pubblica-prospetto-e-documento-dofferta-dellopas-per-mps_e8e8b269-f089-42b0-99f3-bf63aeb01ba7.html)** — *(ANSA Economia)*
-  - 📌 **Sintesi:** Dopo il via libera della Consob dell'8 novembre scorso
+- **[2] `🇪🇺 Unione Europea & Policy` [La crisi travolge il governo olandese prima del voto cruciale sulle tasse](https://www.politico.eu/article/dutch-coalition-government-hangs-thread-crucial-tax-vote-jetten-cda-pro-volt/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il centrista D66 e il centrodestra CDA hanno stretto un accordo con i partiti di opposizione, mettendo da parte il fiscalmente conservatore VVD.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
-- **[4] `🏦 Mercati Globali` [Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem](https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html)** — *(CNBC Global Economy)*
-  - 📌 **Sintesi:** The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.
+- **[3] `⚡ Futuro & Deep Tech` [Cosa sapere sui colloqui sul clima delle Nazioni Unite di quest’anno](https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** È di nuovo quel periodo dell’anno: migliaia di delegati, lobbisti e giornalisti si riuniscono per i colloqui annuali delle Nazioni Unite sul clima, che si svolgono questa volta ad Antalya, in Turchia. La COP31 è iniziata ufficialmente l’8 novembre, segnando l’inizio dei negoziati su una delle più grandi fasi del mondo sul clima. La Turchia e l'Australia stanno co-ospitando questo...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[4] `🧬 Scienza & Scoperte` [Anche i serpenti a sonagli hanno personalità, con effetti velenosi](https://www.nature.com/articles/d41586-026-03536-8)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 11 novembre 2026; doi:10.1038/d41586-026-03536-8 L'atteggiamento difensivo di un serpente potrebbe influenzare la quantità di veleno che produce in un test di laboratorio.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+
+### 🕒 Ora `02:05 CET` — Ricerca Oraria (1/23)
+_Aggiornamento registrato il `2026-11-12 02:53 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Scontri scoppiano a Barcellona dopo che migliaia di persone si sono unite allo sciopero generale in Spagna](https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Decine di migliaia di persone hanno aderito allo sciopero indetto dai principali sindacati del Paese contro la casa e l'alto costo della vita.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[2] `🌍 Esteri & Analisi` [Due teschi probabilmente appartenenti a schiavi sono tornati in Brasile dopo che Harvard li ha utilizzati in studi eugenetici](https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil)** — *(The Guardian World)*
+  - 📌 **Sintesi:** Si ritiene che i resti appartenessero a africani o afro-brasiliani rimpatriati dopo essere stati riportati in aereo dai diplomatici Due teschi, tra cui quello di un uomo che si ritiene abbia preso parte alla più grande rivolta degli schiavi del Brasile ma i cui resti furono portati negli Stati Uniti e utilizzati in studi di eugenetica razzista all'Università di Harvard, sono stati rimpatriati mercoledì. IL...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
+- **[3] `💶 Macro & Finanza UE` [Giorgetti firma il decreto sugli aiuti per l'Ucraina](https://www.ansa.it/sito/notizie/economia/2026/11/11/giorgetti-firma-il-decreto-sugli-aiuti-per-lucraina_b648dcea-dfe2-46ea-a32a-cd39a42789cb.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Dopo aver verificato la coerenza con indirizzo parlamentare e compatibilità finanziaria,
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[4] `🏦 Mercati Globali` [Nvidia si prepara a cacciare Jensen Huang, riferisce WSJ – le azioni crollano](https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il rapporto arriva pochi giorni dopo che Huang ha ammesso di aver avuto una relazione con una donna che l’intelligence americana ritiene essere una spia cinese.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ---
