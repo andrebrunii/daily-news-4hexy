@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 12 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-4%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (4/23 ricerche orarie):**
-`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `08:05 CET` — Ricerca Oraria (5/23)
+_Aggiornamento registrato il `2026-11-13 08:47 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Mosca, 'la scorsa notte 467 droni ucraini diretti verso la capitale'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/13/mosca-la-scorsa-notte-467-droni-ucraini-diretti-verso-la-capitale_f3fe7d2a-98ed-4449-bb6d-2ed5b4f4086a.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il sindaco Sobyanin, 'maggior parte abbattuta dal sistema di difesa aereo'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🇪🇺 Unione Europea & Policy` [Secondo un sondaggio, i cittadini europei sono a stragrande maggioranza favorevoli alla creazione di un esercito europeo](https://www.politico.eu/article/european-citizens-overwhelmingly-back-creation-of-an-eu-army-survey-finds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Secondo il rapporto 2026 Trends di GLOBSEC, più di sette su dieci sostengono un esercito europeo, mentre quasi otto su dieci vorrebbero capacità di difesa europee più forti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🧬 Scienza & Scoperte` [Trovato: una proteina che guida l’invecchiamento senza scatenare infiammazioni](https://www.nature.com/articles/d41586-026-03638-3)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 12 novembre 2026; doi:10.1038/d41586-026-03638-3 Topi anziani progettati per essere privi del granzima K hanno migliorato la funzionalità cardiaca ed epatica e meno danni ai reni.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🔭 Ricerca & Spazio` [Una sorprendente differenza cerebrale potrebbe spiegare perché alcuni bambini hanno difficoltà con la matematica](https://www.sciencedaily.com/releases/2026/11/261112025542.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Ricercatori di Stanford hanno scoperto che i bambini che hanno difficoltà persistenti con la matematica possono avere differenze di fondo nel modo in cui il loro cervello gestisce le strategie di risoluzione dei problemi. I bambini con discalculia evolutiva erano più lenti nel cambiare strategia, meno reattivi ai cambiamenti di difficoltà e meno capaci di migliorare il loro approccio nel tempo. Distinto...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'IA può diventare un moltiplicatore vitale se accompagnata da riqualificazione reale.
 
 ### 🕒 Ora `01:05 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-13 01:06 CET`_
