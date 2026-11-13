@@ -1,0 +1,59 @@
+name: "⏱️ Meridiano 20:05 — Watchdog Anti-Skip (Backup Scheduler)"
+
+on:
+  schedule:
+    # Secondo scheduler indipendente su minuti alternati per garantire il risveglio orario
+    - cron: "14 * * * *"
+    - cron: "44 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hourly-news-updater
+  cancel-in-progress: false
+
+jobs:
+  watchdog-sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Configure Git Author (Privacy-Safe GitHub Contributions)
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
+
+      - name: Run Auto Catch-Up Engine
+        env:
+          TZ: "Europe/Rome"
+        run: |
+          python scripts/news_engine.py --mode auto --git-commit
+
+      - name: Push Commits to GitHub
+        env:
+          TZ: "Europe/Rome"
+        run: |
+          LOCAL_SHA=$(git rev-parse HEAD)
+          REMOTE_SHA=$(git rev-parse "origin/${{ github.ref_name }}")
+          if [ "$LOCAL_SHA" = "$REMOTE_SHA" ]; then
+            echo "Slot dell'ora già coperto dal workflow principale."
+          else
+            git pull --rebase origin "${{ github.ref_name }}" || true
+            git push origin HEAD:"${{ github.ref_name }}"
+          fi
