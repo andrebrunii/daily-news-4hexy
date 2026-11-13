@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 12 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `17:05 CET` — Ricerca Oraria (6/23)
+_Aggiornamento registrato il `2026-11-13 17:07 CET`_
+
+- **[1] `📈 Economia & Mercati` [Paffoni, prima donna alla guida di Avr](https://www.ilsole24ore.com/art/paffoni-prima-donna-guida-avr-AJ3SqRFC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Cambio della guardia al vertice dell’associazione degli imprenditori di rubinetteria e valvolame, che per la prima volta nomina al proprio vertice una donna. Francesca Paffoni è infatti la nuova presidente...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[2] `🌍 Geopolitica & Mondo` [Eisenkot, 'la minoranza araba in Israele va rispettata'](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/13/eisenkot-la-minoranza-araba-in-israele-va-rispettata_33c98628-87c4-4053-87df-85e091609133.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il leader di Yashar Gadi Eisenkot critico dopo gli attacchi di Netanyahu
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `💶 Macro & Finanza UE` [Le associazioni in piazza, stop alla proposta sulla caccia](https://www.ansa.it/sito/notizie/economia/2026/11/13/le-associazioni-in-piazza-stop-alla-proposta-sulla-caccia_36a5d6a0-fb08-4210-ba07-6c88e9ec8e34.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Il 26 novembre a Roma il presidio contro la proposta di legge "Sparatutto"
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🏦 Mercati Globali` [Bessent incolpa Lutnick's Commerce mentre denuncia la "perdita" di chip Nvidia in Cina](https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Jensen Huang si è dimesso dalla carica di CEO di Nvidia pochi giorni dopo aver ammesso di avere una relazione a seguito di un esame accurato della sua relazione con una donna ritenuta considerata una spia cinese.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
 
 ### 🕒 Ora `08:05 CET` — Ricerca Oraria (5/23)
 _Aggiornamento registrato il `2026-11-13 08:47 CET`_
