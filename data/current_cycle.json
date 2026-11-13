@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-11",
   "target_edition_date": "2026-11-13",
-  "last_slot_iso": "2026-11-13T10:05:00",
+  "last_slot_iso": "2026-11-13T11:05:00",
   "hourly_batches": [
     {
       "hour_label": "02:05 CET",
@@ -1148,6 +1148,88 @@
           "impact_eu_it": "Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
           "score": 14.0
+        }
+      ]
+    },
+    {
+      "hour_label": "11:05 CET",
+      "timestamp_str": "2026-11-13 11:05 CET",
+      "items": [
+        {
+          "title_orig": "Negoziati Ucraina, l'UE non sceglie un inviato ma una squadra: ci sono Italia e Polonia, Kallas resta fuori",
+          "summary_orig": "L'Europa ha deciso di creare una squadra congiunta per i colloqui di pace guidata da Francia, Germania, Regno Unito, Italia, Polonia, istituzioni UE e NATO. Nonostante le crescenti pressioni, i leader hanno rifiutato di nominare un unico inviato",
+          "link": "https://it.euronews.com/2026/11/13/negoziati-ucraina-lue-non-sceglie-un-inviato-ma-una-squadra-ci-sono-italia-e-polonia-kalla",
+          "published": "Fri, 13 Nov 2026 20:56:56 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "11:05 CET",
+          "title_it": "Negoziati Ucraina, l'UE non sceglie un inviato ma una squadra: ci sono Italia e Polonia, Kallas resta fuori",
+          "summary_it": "L'Europa ha deciso di creare una squadra congiunta per i colloqui di pace guidata da Francia, Germania, Regno Unito, Italia, Polonia, istituzioni UE e NATO. Nonostante le crescenti pressioni, i leader hanno rifiutato di nominare un unico inviato",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 33.0
+        },
+        {
+          "title_orig": "Filiere strategiche, leva per la competitività del made in Italy",
+          "summary_orig": "Da Sace",
+          "link": "https://www.ilsole24ore.com/art/filiere-strategiche-leva-la-competitivita-made-italy-AJrshBEC",
+          "published": "Fri, 13 Nov 2026 07:34:14 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "11:05 CET",
+          "title_it": "Filiere strategiche, leva per la competitività del made in Italy",
+          "summary_it": "Da Sace",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Bombardieri, 'i tagli sulla scuola in manovra saltano'",
+          "summary_orig": "Il leader della Uil dopo l'incontro con il governo: 'C'è una buona notizia'",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/bombardieri-i-tagli-sulla-scuola-in-manovra-saltano_24f543df-c230-4e63-ab50-e7aa1b4f1d5d.html",
+          "published": "Fri, 13 Nov 2026 18:35:42 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "11:05 CET",
+          "title_it": "Bombardieri, 'i tagli sulla scuola in manovra saltano'",
+          "summary_it": "Il leader della Uil dopo l'incontro con il governo: 'C'è una buona notizia'",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
+          "summary_orig": "Like Apple, Nvidia now faces its own transition away from a founder-led company. But experts say Jensen Huang’s central role could make replacing him difficult.",
+          "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
+          "published": "Fri, 13 Nov 2026 15:03:10 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "11:05 CET",
+          "title_it": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
+          "summary_it": "Like Apple, Nvidia now faces its own transition away from a founder-led company. But experts say Jensen Huang’s central role could make replacing him difficult.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 16.5
         }
       ]
     }
