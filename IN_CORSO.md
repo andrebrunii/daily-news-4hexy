@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 13 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-18%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (18/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
+_Aggiornamento registrato il `2026-11-13 15:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Capo del clan berlinese Issa Remmo ha partecipato a conferenza contro l'antisemitismo a Bruxelles](https://it.euronews.com/2026/11/13/capo-del-clan-berlinese-issa-remmo-ha-partecipato-a-conferenza-contro-lantisemitismo-a-bru)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Il capo dell'omonimo clan di Berlino, Issa Remo, ha partecipato ufficialmente a una conferenza al Parlamento europeo. La sua presenza ha causato un dibattito in Germania e a Bruxelles. Molti si chiedono come sia stato possibile invitare un boss criminale
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `📈 Economia & Mercati` [Ieg, ricavi e margini in forte crescita nel terzo trimestre](https://www.ilsole24ore.com/art/ieg-ricavi-e-margini-forte-crescita-terzo-trimestre-AJafMXEC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** I primi nove mesi dell’anno si sono chiusi con ricavi per 222,6 milioni di euro, in aumento del 16,7% rispetto allo stesso periodo dell’anno scorso
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💶 Macro & Finanza UE` [Borsa: l'Europa conclude in tenuta, Londra +0,3%](https://www.ansa.it/sito/notizie/economia/2026/11/13/borsa-leuropa-conclude-in-tenuta-londra-03_9fc40c72-8386-4006-967a-ad4a94f10600.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** In crescita dello 0,1% Parigi, Amsterdam piatta e Francoforte in calo dello 0,2%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🏦 Mercati Globali` [I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him](https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** CNBC's Arjun Kharpal, who interviewed Huang just a few weeks ago at GTC Berlin, unpacks how everything came crashing down for the popular CEO.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `14:05 CET` — Ricerca Oraria (18/23)
 _Aggiornamento registrato il `2026-11-13 14:05 CET`_

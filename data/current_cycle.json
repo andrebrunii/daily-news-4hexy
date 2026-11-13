@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-11",
   "target_edition_date": "2026-11-13",
-  "last_slot_iso": "2026-11-13T14:05:00",
+  "last_slot_iso": "2026-11-13T15:05:00",
   "hourly_batches": [
     {
       "hour_label": "02:05 CET",
@@ -1476,6 +1476,88 @@
           "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "15:05 CET",
+      "timestamp_str": "2026-11-13 15:05 CET",
+      "items": [
+        {
+          "title_orig": "Capo del clan berlinese Issa Remmo ha partecipato a conferenza contro l'antisemitismo a Bruxelles",
+          "summary_orig": "Il capo dell'omonimo clan di Berlino, Issa Remo, ha partecipato ufficialmente a una conferenza al Parlamento europeo. La sua presenza ha causato un dibattito in Germania e a Bruxelles. Molti si chiedono come sia stato possibile invitare un boss criminale",
+          "link": "https://it.euronews.com/2026/11/13/capo-del-clan-berlinese-issa-remmo-ha-partecipato-a-conferenza-contro-lantisemitismo-a-bru",
+          "published": "Fri, 13 Nov 2026 20:37:36 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "15:05 CET",
+          "title_it": "Capo del clan berlinese Issa Remmo ha partecipato a conferenza contro l'antisemitismo a Bruxelles",
+          "summary_it": "Il capo dell'omonimo clan di Berlino, Issa Remo, ha partecipato ufficialmente a una conferenza al Parlamento europeo. La sua presenza ha causato un dibattito in Germania e a Bruxelles. Molti si chiedono come sia stato possibile invitare un boss criminale",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 19.0
+        },
+        {
+          "title_orig": "Ieg, ricavi e margini in forte crescita nel terzo trimestre",
+          "summary_orig": "I primi nove mesi dell’anno si sono chiusi con ricavi per 222,6 milioni di euro, in aumento del 16,7% rispetto allo stesso periodo dell’anno scorso",
+          "link": "https://www.ilsole24ore.com/art/ieg-ricavi-e-margini-forte-crescita-terzo-trimestre-AJafMXEC",
+          "published": "Fri, 13 Nov 2026 06:57:34 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "15:05 CET",
+          "title_it": "Ieg, ricavi e margini in forte crescita nel terzo trimestre",
+          "summary_it": "I primi nove mesi dell’anno si sono chiusi con ricavi per 222,6 milioni di euro, in aumento del 16,7% rispetto allo stesso periodo dell’anno scorso",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Borsa: l'Europa conclude in tenuta, Londra +0,3%",
+          "summary_orig": "In crescita dello 0,1% Parigi, Amsterdam piatta e Francoforte in calo dello 0,2%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/borsa-leuropa-conclude-in-tenuta-londra-03_9fc40c72-8386-4006-967a-ad4a94f10600.html",
+          "published": "Fri, 13 Nov 2026 17:42:59 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "15:05 CET",
+          "title_it": "Borsa: l'Europa conclude in tenuta, Londra +0,3%",
+          "summary_it": "In crescita dello 0,1% Parigi, Amsterdam piatta e Francoforte in calo dello 0,2%",
+          "impact_eu_it": "Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him",
+          "summary_orig": "CNBC's Arjun Kharpal, who interviewed Huang just a few weeks ago at GTC Berlin, unpacks how everything came crashing down for the popular CEO.",
+          "link": "https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html",
+          "published": "Fri, 13 Nov 2026 12:46:12 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "15:05 CET",
+          "title_it": "I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him",
+          "summary_it": "CNBC's Arjun Kharpal, who interviewed Huang just a few weeks ago at GTC Berlin, unpacks how everything came crashing down for the popular CEO.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 16.5
         }
       ]
     }
