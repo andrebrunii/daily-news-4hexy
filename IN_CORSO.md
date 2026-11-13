@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 13 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-17%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (17/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `13:05 CET` — Ricerca Oraria (17/23)
+_Aggiornamento registrato il `2026-11-13 13:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Crack Ueno Bank in Paraguay, l'ex presidente accusato di associazione a delinquere](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/13/crack-ueno-bank-in-paraguay-lex-presidente-accusato-di-associazione-a-delinquere_0c7d4e58-7b8d-4006-8102-b5afb8b596eb.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Faceva parte di una struttura organizzata con l'obiettivo di favorire il Gruppo Vázquez'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌐 Scacchiere Globale` [Rosenberg: Uncompromising Putin ups demands for peace with Ukraine](https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `🔭 Ricerca & Spazio` [Common forever chemicals linked to nearly double the rate of aggressive breast cancer](https://www.sciencedaily.com/releases/2026/11/261112025527.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** An NIH study found that women with high levels of two common “forever chemicals” had up to 93% higher rates of an aggressive form of breast cancer. The discovery raises concerns about the potential health effects of persistent chemicals found in everyday products.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[4] `🏛️ Filosofia & Idee` [A trip to upside-down world](https://aeon.co/videos/a-cubist-painting-becomes-two-kids-immersive-animated-world)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Goats everywhere! Three-hour handstands! Magical doorknobs! Discover a whole new way of looking at a Cubist masterpiece - by Aeon Video Watch on Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
 _Aggiornamento registrato il `2026-11-13 12:05 CET`_
