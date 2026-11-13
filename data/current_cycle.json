@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-11",
   "target_edition_date": "2026-11-13",
-  "last_slot_iso": "2026-11-13T18:05:00",
+  "last_slot_iso": "2026-11-13T19:05:00",
   "hourly_batches": [
     {
       "hour_label": "02:05 CET",
@@ -1804,6 +1804,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 14.5
+        }
+      ]
+    },
+    {
+      "hour_label": "19:05 CET",
+      "timestamp_str": "2026-11-13 19:05 CET",
+      "items": [
+        {
+          "title_orig": "Russia invia delegazione di 70 imprenditori a Kabul per colloqui con il governo taliban",
+          "summary_orig": "Il vice primo ministro russo ha guidato una delegazione di 70 funzionari in Afghanistan, cercando accordi con i taliban su trasporti, logistica, agricoltura e prodotti sanitari.",
+          "link": "https://it.euronews.com/2026/11/13/russia-invia-delegazione-di-70-imprenditori-a-kabul-per-colloqui-con-il-governo-taliban",
+          "published": "Fri, 13 Nov 2026 19:37:30 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "19:05 CET",
+          "title_it": "Russia invia delegazione di 70 imprenditori a Kabul per colloqui con il governo taliban",
+          "summary_it": "Il vice primo ministro russo ha guidato una delegazione di 70 funzionari in Afghanistan, cercando accordi con i taliban su trasporti, logistica, agricoltura e prodotti sanitari.",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 22.5
+        },
+        {
+          "title_orig": "ATP Finals, Torino apre un nuovo ciclo: record di biglietti e sfida fino al 2030",
+          "summary_orig": "A pochi giorni dall’apertura del torneo sono stati venduti 184.033 biglietti, 5.447 in più rispetto allo stesso momento del 2025, con una crescita del 3,1%",
+          "link": "https://www.ilsole24ore.com/art/atp-finals-torino-apre-nuovo-ciclo-record-biglietti-e-sfida-fino-2030-AJPN2ZEC",
+          "published": "Fri, 13 Nov 2026 06:25:27 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "19:05 CET",
+          "title_it": "ATP Finals, Torino apre un nuovo ciclo: record di biglietti e sfida fino al 2030",
+          "summary_it": "A pochi giorni dall’apertura del torneo sono stati venduti 184.033 biglietti, 5.447 in più rispetto allo stesso momento del 2025, con una crescita del 3,1%",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Sinner a Torino, 'un bel pomeriggio alla Nuvola Lavazza'",
+          "summary_orig": "\"Un legame speciale, fatto di valori condivisi e soprattutto di persone\"",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/13/sinner-a-torino-un-bel-pomeriggio-alla-nuvola-lavazza_c0cb11b8-523a-49c0-861e-fd7bec079cd4.html",
+          "published": "Fri, 13 Nov 2026 16:54:15 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "19:05 CET",
+          "title_it": "Sinner a Torino, 'un bel pomeriggio alla Nuvola Lavazza'",
+          "summary_it": "\"Un legame speciale, fatto di valori condivisi e soprattutto di persone\"",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Why the data center slowdown concern is overblown. Two stocks to buy amid the fear",
+          "summary_orig": "Not one utility CEO we spoke with at the EEI conference is anticipating a slowdown in electricity growth expectations.",
+          "link": "https://www.cnbc.com/2026/11/13/data-center-slowdown-utility-stocks.html",
+          "published": "Fri, 13 Nov 2026 16:54:40 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "19:05 CET",
+          "title_it": "Why the data center slowdown concern is overblown. Two stocks to buy amid the fear",
+          "summary_it": "Not one utility CEO we spoke with at the EEI conference is anticipating a slowdown in electricity growth expectations.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 12.0
         }
       ]
     }
