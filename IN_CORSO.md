@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-8%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (8/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `04:05 CET` — Ricerca Oraria (8/23)
+_Aggiornamento registrato il `2026-11-14 04:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Casa Bianca, 'Trump discuterà di Iran con Xi e Putin, non di Ucraina'](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/casa-bianca-trump-discutera-di-iran-con-xi-e-putin-non-di-ucraina_864145b8-8539-4476-afaa-f64bca240844.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** In occasione dei colloqui trilaterali in programma a Shenzhen a margine dell'Apec
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[2] `🌐 Scacchiere Globale` [Microsoft è "profondamente dispiaciuta" per l'interruzione globale in quanto segnala un'ampia ripresa](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Gli esperti affermano che l’evento è un “forte promemoria” di quanto il mondo faccia affidamento su un piccolo gruppo di grandi fornitori di tecnologia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [L’impatto dell’intelligenza artificiale sulla matematica è un’anteprima di ciò che l’intelligenza artificiale farà alla ricerca sull’intelligenza artificiale, con l’intelligenza artificiale che corrisponderà ai migliori ricercatori umani potenzialmente solo tra un paio d’anni (Dwarkesh Patel/Dwarkesh Podcast)](https://www.techmeme.com/261113/p38#a261113p38)** — *(Techmeme)*
+  - 📌 **Sintesi:** Dwarkesh Patel / Dwarkesh Podcast: L'impatto dell'intelligenza artificiale sulla matematica è un'anteprima di ciò che l'intelligenza artificiale farà alla ricerca sull'intelligenza artificiale, con l'intelligenza artificiale che corrisponderà ai migliori ricercatori umani potenzialmente solo tra un paio d'anni - Mille grazie a Max Farrens, Gabe Fried e Thomas Larsen per aver collaborato con me durante parti significative della scrittura e della ricerca di questo saggio.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `💻 Tecnologia & Cyber` [Il volo Starship 15 entra in orbita: si prevede una possibile cattura sabato](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** In un modo o nell'altro, sabato l'azienda riceverà alcuni dati in più.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
 _Aggiornamento registrato il `2026-11-14 03:05 CET`_
