@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-13",
   "target_edition_date": "2026-11-14",
-  "last_slot_iso": "2026-11-14T16:05:00",
+  "last_slot_iso": "2026-11-14T17:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1640,6 +1640,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "17:05 CET",
+      "timestamp_str": "2026-11-14 17:05 CET",
+      "items": [
+        {
+          "title_orig": "Gruppi Lgbtq+ sfidano la repressione in Turchia per marciare con attivisti di Cop31",
+          "summary_orig": "I manifestanti formano un cordone per proteggerli dalla polizia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/gruppi-lgbtq-sfidano-la-repressione-in-turchia-per-marciare-con-attivisti-di-cop31_b1d53b91-0b63-4729-ada2-d782d90f4482.html",
+          "published": "Sat, 14 Nov 2026 18:03:36 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "17:05 CET",
+          "title_it": "Gruppi Lgbtq+ sfidano la repressione in Turchia per marciare con attivisti di Cop31",
+          "summary_it": "I manifestanti formano un cordone per proteggerli dalla polizia",
+          "impact_eu_it": "Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Italy hits Meta with €805m fine over privacy law violation",
+          "summary_orig": "It is the largest fine ever issued by Italy's data protection regulator.",
+          "link": "https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Sat, 14 Nov 2026 14:03:27 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "17:05 CET",
+          "title_it": "L'Italia colpisce Meta con una multa da 805 milioni di euro per violazione della legge sulla privacy",
+          "summary_it": "Si tratta della sanzione più grande mai comminata dal Garante italiano per la protezione dei dati.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 21.5
+        },
+        {
+          "title_orig": "A new fiber supplement could help millions suffering from irritable bowel syndrome",
+          "summary_orig": "Scientists have developed a promising new fiber supplement that improves gut health in people with irritable bowel syndrome (IBS) without worsening bloating, pain, or other digestive symptoms. The specially designed blend also improved gut-related anxiety and produced surprisingly rapid changes in gut bacteria, potentially offering a new way to manage IBS.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
+          "published": "Sat, 14 Nov 2026 07:35:36 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "17:05 CET",
+          "title_it": "Un nuovo integratore di fibre potrebbe aiutare milioni di persone che soffrono di sindrome dell’intestino irritabile",
+          "summary_it": "Gli scienziati hanno sviluppato un nuovo promettente integratore di fibre che migliora la salute dell’intestino nelle persone con sindrome dell’intestino irritabile (IBS) senza peggiorare gonfiore, dolore o altri sintomi digestivi. La miscela appositamente progettata ha anche migliorato l’ansia legata all’intestino e ha prodotto cambiamenti sorprendentemente rapidi nei batteri intestinali, offrendo potenzialmente un nuovo modo di gestire l’IBS.",
+          "impact_eu_it": "Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Listen: The imperfect world of pulsars",
+          "summary_orig": "Here in the Universe, there are a few things that are as close-to-perfect as can be. The Sun, for instance is the roundest object in the Universe, but other stars are rounder, with white dwarfs and neutron stars exhibiting even more perfectly roundness. Meanwhile, in terms of keeping time, we might think of the spinning Earth as a wonderful clock — after...",
+          "link": "https://bigthink.com/starts-with-a-bang/listen-imperfect-world-pulsars/",
+          "published": "Sat, 14 Nov 2026 07:08:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "17:05 CET",
+          "title_it": "Ascolta: Il mondo imperfetto delle pulsar",
+          "summary_it": "Qui nell’Universo, ci sono alcune cose che sono quanto di più vicine possibile alla perfezione. Il Sole, ad esempio, è l'oggetto più rotondo dell'Universo, ma altre stelle sono più rotonde, con le nane bianche e le stelle di neutroni che mostrano una rotondità ancora più perfetta. Nel frattempo, in termini di misurazione del tempo, potremmo pensare alla Terra che gira come a un meraviglioso orologio – dopo...",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
+          "score": 14.0
         }
       ]
     }

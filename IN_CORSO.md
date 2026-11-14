@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-21%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (21/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `17:05 CET` — Ricerca Oraria (21/23)
+_Aggiornamento registrato il `2026-11-14 17:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Gruppi Lgbtq+ sfidano la repressione in Turchia per marciare con attivisti di Cop31](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/gruppi-lgbtq-sfidano-la-repressione-in-turchia-per-marciare-con-attivisti-di-cop31_b1d53b91-0b63-4729-ada2-d782d90f4482.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** I manifestanti formano un cordone per proteggerli dalla polizia
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[2] `🇪🇺 Unione Europea & Policy` [L'Italia colpisce Meta con una multa da 805 milioni di euro per violazione della legge sulla privacy](https://www.politico.eu/article/italy-hits-meta-with-e805m-fine-over-privacy-law-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Si tratta della sanzione più grande mai comminata dal Garante italiano per la protezione dei dati.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🔭 Ricerca & Spazio` [Un nuovo integratore di fibre potrebbe aiutare milioni di persone che soffrono di sindrome dell’intestino irritabile](https://www.sciencedaily.com/releases/2026/11/261112230450.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati hanno sviluppato un nuovo promettente integratore di fibre che migliora la salute dell’intestino nelle persone con sindrome dell’intestino irritabile (IBS) senza peggiorare gonfiore, dolore o altri sintomi digestivi. La miscela appositamente progettata ha anche migliorato l’ansia legata all’intestino e ha prodotto cambiamenti sorprendentemente rapidi nei batteri intestinali, offrendo potenzialmente un nuovo modo di gestire l’IBS.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Ascolta: Il mondo imperfetto delle pulsar](https://bigthink.com/starts-with-a-bang/listen-imperfect-world-pulsars/)** — *(Big Think)*
+  - 📌 **Sintesi:** Qui nell’Universo, ci sono alcune cose che sono quanto di più vicine possibile alla perfezione. Il Sole, ad esempio, è l'oggetto più rotondo dell'Universo, ma altre stelle sono più rotonde, con le nane bianche e le stelle di neutroni che mostrano una rotondità ancora più perfetta. Nel frattempo, in termini di misurazione del tempo, potremmo pensare alla Terra che gira come a un meraviglioso orologio – dopo...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `16:05 CET` — Ricerca Oraria (20/23)
 _Aggiornamento registrato il `2026-11-14 16:05 CET`_
