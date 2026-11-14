@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-1%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-2%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (1/23 ricerche orarie):**
-`🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (2/23 ricerche orarie):**
+`🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `22:05 CET` — Ricerca Oraria (2/23)
+_Aggiornamento registrato il `2026-11-14 22:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Ministero Interno, '219 fermi in Francia e 10 agenti lievemente feriti'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/ministero-interno-219-fermi-in-francia-e-10-agenti-lievemente-feriti_3adc9bc0-0a5d-4592-bca1-914fedb78ba1.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Attivisti radicali e di estrema sinistra hanno tentato di far degenerare i cortei'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌐 Scacchiere Globale` [L’aggiornamento del filo di rame ha causato la sospensione dei voli a livello nazionale, afferma il segretario ai trasporti degli Stati Uniti](https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il governo americano sta cercando di scoprire se il caos è stato causato da "incompetenza" o da attrezzature difettose.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[3] `🤖 IA & Frontiera Tech` [Le stablecoin ancorate al dollaro statunitense stanno conquistando una quota crescente dell'attività crittografica dell'America Latina, fungendo da riserva di valore e da un efficiente sistema di pagamento transfrontaliero (Maria Clara Cobo/Bloomberg)](https://www.techmeme.com/261114/p19#a261114p19)** — *(Techmeme)*
+  - 📌 **Sintesi:** Maria Clara Cobo / Bloomberg: Le stablecoin ancorate al dollaro statunitense stanno conquistando una quota crescente dell'attività crittografica dell'America Latina, fungendo da riserva di valore e un efficiente sistema di pagamento transfrontaliero: le stablecoin si stanno rivelando utili non solo come riserva di valore ma come sistema di pagamento, anche per gli utenti che non sanno nulla della blockchain.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `💻 Tecnologia & Cyber` [È la fine del mondo come lo conosciamo, secondo la previsione di un fisico del 1960](https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Heinz von Foerster pensava che la popolazione sarebbe cresciuta in modo esponenziale e ci avrebbe "spremuti" tutti a morte.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `21:05 CET` — Ricerca Oraria (1/23)
 _Aggiornamento registrato il `2026-11-14 21:05 CET`_
