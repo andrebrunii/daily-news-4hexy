@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-4%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (4/23 ricerche orarie):**
-`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `01:05 CET` — Ricerca Oraria (5/23)
+_Aggiornamento registrato il `2026-11-14 01:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Cnn, 'ancora 700 aerei nei cieli Usa, più di 3.000 voli cancellati'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-ancora-700-aerei-nei-cieli-usa-piu-di-3.000-voli_1de7bb19-d7ff-49ff-b146-891c95e66c11.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Dopo lo stop disposto dall'Authority dei trasporti per motivi di sicurezza
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🇪🇺 Unione Europea & Policy` [Tagliata fuori dall’Europa, la Russia dovrà riorganizzare il suo commercio di gas artico](https://www.politico.eu/article/cut-off-europe-russia-rewire-arctic-gas-trade-lng-eu-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Dal 2027 l’Europa non acquisterà più il GNL russo da Yamal. Portare il gas in Asia significa viaggi più lunghi, navi più costose e soluzioni contrattuali.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[3] `🔭 Ricerca & Spazio` [Gli scienziati scoprono che uno zucchero comune può aiutare le cellule tumorali a liberarsi e a diffondersi](https://www.sciencedaily.com/releases/2026/11/261111221501.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati hanno scoperto un modo sorprendente in cui il fruttosio, uno zucchero comunemente presente negli alimenti e nelle bevande zuccherate, può aiutare la diffusione del cancro ovarico aggressivo. I ricercatori hanno scoperto che le cellule tumorali che sopravvivono alla chemioterapia rilasciano fruttosio che indebolisce i legami che tengono insieme le cellule tumorali vicine, facilitando la diffusione del cancro. Dieta alta...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🏛️ Filosofia & Idee` [I loro occhi](https://aeon.co/videos/meet-the-invisible-workers-who-teach-self-driving-cars-to-see)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** In Kenya, Filippine e Venezuela, la manodopera a bassa retribuzione alimenta il futuro senza conducente del Nord del mondo - di Aeon Video Watch su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
 ### 🕒 Ora `00:05 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-14 00:05 CET`_
