@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `08:05 CET` — Ricerca Oraria (12/23)
+_Aggiornamento registrato il `2026-11-14 08:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Zelensky, 'Usa propongono adesione Nato in cambio cessione territori ucraini'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/zelensky-usa-propongono-adesione-nato-in-cambio-cessione-territori-ucraini_2cbea256-a95e-4845-a60e-f4921bbb2325.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Nel caso, dovrò affrontare la questione con l'opinione pubblica'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Unione Europea & Policy` [Gli Stati Uniti hanno suggerito che l’Ucraina potrebbe rinunciare al Donbass per l’adesione alla NATO, dice Zelenskyy](https://www.politico.eu/article/us-suggested-ukraine-could-give-up-donbas-for-nato-membership-zelenskyy-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** "Questa era la prima volta che veniva sollevata una questione del genere", ha detto il presidente ucraino ai giornalisti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `🤖 IA & Frontiera Tech` [Microsoft afferma che tutti i prodotti Microsoft 365 sono operativi, ponendo fine a un'interruzione che ha sconvolto governi, commercianti, ospedali e aziende in tutto il mondo (Bloomberg)](https://www.techmeme.com/261114/p8#a261114p8)** — *(Techmeme)*
+  - 📌 **Sintesi:** Bloomberg: Microsoft afferma che tutti i prodotti Microsoft 365 sono operativi, ponendo fine a un'interruzione che ha interrotto governi, commercianti, ospedali e aziende in tutto il mondo. Microsoft Corp. ha affermato che l'accesso è stato completamente ripristinato al suo software di punta, ponendo fine a un'interruzione che ha paralizzato uffici governativi, commercianti e aziende in tutto il mondo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `💻 Tecnologia & Cyber` [La FAA ha revocato il suo terzo stop a terra a livello nazionale](https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Il segretario ai trasporti Sean Duffy ha accusato l'attrezzatura obsoleta dell'interruzione.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `07:05 CET` — Ricerca Oraria (11/23)
 _Aggiornamento registrato il `2026-11-14 07:05 CET`_
