@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-17%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (17/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `13:05 CET` — Ricerca Oraria (17/23)
+_Aggiornamento registrato il `2026-11-14 13:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Diaz-Canel, 'Cuba pronta a difendersi da una possibile aggressione Usa'](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/14/diaz-canel-cuba-pronta-a-difendersi-da-una-possibile-aggressione-usa_567b21c3-d8b4-4f2e-9930-0e55f667e35a.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il presidente risponde a Trump: preparati per respingere ogni attacco
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🌐 Scacchiere Globale` [Gli Stati Uniti hanno proposto all’Ucraina di cedere il Donbass per l’adesione alla NATO, dice Zelenskyj](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il presidente ucraino afferma che gli inviati statunitensi hanno pubblicizzato lo scambio come parte degli sforzi per porre fine alla guerra con la Russia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🔭 Ricerca & Spazio` [Gli scienziati scoprono che una semplice routine quotidiana è collegata a meno dolore e depressione](https://www.sciencedaily.com/releases/2026/11/261113231624.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Un semplice cambiamento nella tua routine quotidiana potrebbe fare una differenza sorprendente nel modo in cui ti senti, sia fisicamente che mentalmente. I ricercatori dell’Università del Missouri hanno scoperto che gli anziani che seguivano programmi giornalieri costanti riferivano meno dolore fisico e meno sintomi di depressione, anche quando lottavano con l’insonnia. Mantenere orari regolari per dormire,...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🏛️ Filosofia & Idee` [Credere e pensare](https://aeon.co/essays/the-psychology-of-separating-church-and-state)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** La separazione tra Chiesa e Stato ha una base psicologica inespressa: scegliamo ciò in cui crediamo, ma non ciò che pensiamo - di Neil Van Leeuwen e Jacob Eisler Leggi su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
 _Aggiornamento registrato il `2026-11-14 12:05 CET`_
