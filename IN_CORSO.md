@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-14%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-14 11:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Missili Aster all'Ucraina, l'Italia prende tempo: produzione e consegne in affanno](https://it.euronews.com/2026/11/14/missili-aster-allucraina-litalia-prende-tempo-produzione-e-consegne-in-affanno)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Il tredicesimo pacchetto italiano per Kiev riapre il caso degli Aster 30: Roma deve accelerare la produzione e il programma SAMP/T NG
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[2] `📈 Economia & Mercati` [Bureau veritas, allarme infrastrutture: «Più fragili col cambiamento climatico»](https://www.ilsole24ore.com/art/bureau-veritas-allarme-infrastrutture-piu-fragili-col-cambiamento-climatico-AJ1PuPFC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** L’ente di certificazione Bureau veritas lancia l’allarme sulla salute delle infrastrutture (quali viadotti, ferrovie e gallerie) in Italia: uno studio di Nexta, società d’ingegneria del gruppo, sostiene che non è...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[3] `💶 Macro & Finanza UE` [Conto alla rovescia per Black Friday, giro d'affari sale a 4,3 miliardi](https://www.ansa.it/sito/notizie/economia/2026/11/14/conto-alla-rovescia-per-black-friday-giro-daffari-sale-a-43-miliardi_f30271ef-561c-4cf9-a62e-cb88332b3758.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Codacons, 3 italiani su 4 anticiperanno i regali di Natale con l'aiuto dell'AI
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🏦 Mercati Globali` [Analisi: le aziende adorano un CEO “rockstar”. Fino a quando non dipendono da uno](https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L’uscita di Jensen Huang mette alla prova la pianificazione della successione e la governance di Nvidia e offre lezioni per le aziende che elevano i propri amministratori delegati allo status di rockstar.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `10:05 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-14 10:05 CET`_

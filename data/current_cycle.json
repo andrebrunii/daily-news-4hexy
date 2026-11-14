@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-13",
   "target_edition_date": "2026-11-14",
-  "last_slot_iso": "2026-11-14T10:05:00",
+  "last_slot_iso": "2026-11-14T11:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1148,6 +1148,88 @@
           "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "11:05 CET",
+      "timestamp_str": "2026-11-14 11:05 CET",
+      "items": [
+        {
+          "title_orig": "Missili Aster all'Ucraina, l'Italia prende tempo: produzione e consegne in affanno",
+          "summary_orig": "Il tredicesimo pacchetto italiano per Kiev riapre il caso degli Aster 30: Roma deve accelerare la produzione e il programma SAMP/T NG",
+          "link": "https://it.euronews.com/2026/11/14/missili-aster-allucraina-litalia-prende-tempo-produzione-e-consegne-in-affanno",
+          "published": "Sat, 14 Nov 2026 11:36:40 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "11:05 CET",
+          "title_it": "Missili Aster all'Ucraina, l'Italia prende tempo: produzione e consegne in affanno",
+          "summary_it": "Il tredicesimo pacchetto italiano per Kiev riapre il caso degli Aster 30: Roma deve accelerare la produzione e il programma SAMP/T NG",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 24.0
+        },
+        {
+          "title_orig": "Bureau veritas, allarme infrastrutture: «Più fragili col cambiamento climatico»",
+          "summary_orig": "L’ente di certificazione Bureau veritas lancia l’allarme sulla salute delle infrastrutture (quali viadotti, ferrovie e gallerie) in Italia: uno studio di Nexta, società d’ingegneria del gruppo, sostiene che non è...",
+          "link": "https://www.ilsole24ore.com/art/bureau-veritas-allarme-infrastrutture-piu-fragili-col-cambiamento-climatico-AJ1PuPFC",
+          "published": "Sat, 14 Nov 2026 09:00:00 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "11:05 CET",
+          "title_it": "Bureau veritas, allarme infrastrutture: «Più fragili col cambiamento climatico»",
+          "summary_it": "L’ente di certificazione Bureau veritas lancia l’allarme sulla salute delle infrastrutture (quali viadotti, ferrovie e gallerie) in Italia: uno studio di Nexta, società d’ingegneria del gruppo, sostiene che non è...",
+          "impact_eu_it": "Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Conto alla rovescia per Black Friday, giro d'affari sale a 4,3 miliardi",
+          "summary_orig": "Codacons, 3 italiani su 4 anticiperanno i regali di Natale con l'aiuto dell'AI",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/conto-alla-rovescia-per-black-friday-giro-daffari-sale-a-43-miliardi_f30271ef-561c-4cf9-a62e-cb88332b3758.html",
+          "published": "Sat, 14 Nov 2026 10:06:04 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "11:05 CET",
+          "title_it": "Conto alla rovescia per Black Friday, giro d'affari sale a 4,3 miliardi",
+          "summary_it": "Codacons, 3 italiani su 4 anticiperanno i regali di Natale con l'aiuto dell'AI",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
+          "summary_orig": "Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status.",
+          "link": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+          "published": "Sat, 14 Nov 2026 07:08:45 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "11:05 CET",
+          "title_it": "Analisi: le aziende adorano un CEO “rockstar”. Fino a quando non dipendono da uno",
+          "summary_it": "L’uscita di Jensen Huang mette alla prova la pianificazione della successione e la governance di Nvidia e offre lezioni per le aziende che elevano i propri amministratori delegati allo status di rockstar.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 16.5
         }
       ]
     }
