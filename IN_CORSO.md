@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
+_Aggiornamento registrato il `2026-11-14 02:05 CET`_
+
+- **[1] `🌐 Scacchiere Globale` ['Miracolo sul Mississippi' - Tutti i passeggeri salvati dopo la collisione di una nave da crociera a New Orleans](https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** La collisione lascia 32 persone in ospedale con ferite non gravi, ma nessuno disperso.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌍 Esteri & Analisi` [Adolescente prodigio, star di Netflix, prigioniero: la storia del dissidente di Hong Kong Joshua Wong – podcast](https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast)** — *(The Guardian World)*
+  - 📌 **Sintesi:** L'attivista pro-democrazia Nathan Law e il giornalista Danny Vincent sulla condanna dell'iconico attivista di Hong Kong Joshua Wong ad altri 10 anni di prigione. Invia i tuoi commenti e domande a tif.questions@theguardian.com Guida le proteste da quando aveva 14 anni. Joshua Wong è stato sulla copertina della rivista Time, al centro di un Netflix...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🏦 Mercati Globali` [Trump non ha intenzione di sollevare Nvidia, questione di spionaggio durante il viaggio in Cina: funzionari statunitensi](https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il CEO di Nvidia Jensen Huang si è dimesso questa settimana dopo aver riferito di molteplici affari, tra cui uno con una sospetta spia cinese, Alice Huang.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[4] `🤖 IA & Frontiera Tech` [Funzionari statunitensi affermano che Trump non dovrebbe sollevare accuse di un'operazione di intelligence cinese che coinvolge Jensen Huang durante il suo prossimo incontro con Xi (Dan Mangan/CNBC)](https://www.techmeme.com/261113/p40#a261113p40)** — *(Techmeme)*
+  - 📌 **Sintesi:** Dan Mangan / CNBC: funzionari statunitensi affermano che Trump non dovrebbe sollevare accuse di un'operazione di intelligence cinese che coinvolge Jensen Huang durante il suo prossimo incontro con Xi - Il presidente Donald Trump non dovrebbe sollevare accuse di un'operazione di intelligence cinese che coinvolge l'ex CEO di Nvidia Jensen Huang durante...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `01:05 CET` — Ricerca Oraria (5/23)
 _Aggiornamento registrato il `2026-11-14 01:05 CET`_
