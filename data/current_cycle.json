@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-13",
   "target_edition_date": "2026-11-14",
-  "last_slot_iso": "2026-11-14T14:05:00",
+  "last_slot_iso": "2026-11-14T15:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1476,6 +1476,88 @@
           "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "15:05 CET",
+      "timestamp_str": "2026-11-14 15:05 CET",
+      "items": [
+        {
+          "title_orig": "Premi del cinema europeo, annunciate a Salonicco le candidature: Fatherland in testa",
+          "summary_orig": "Il dramma sulla Guerra fredda di Pawel Pawlikowski guida con 11 candidature. I premi saranno consegnati ad Atene il 16 gennaio",
+          "link": "https://it.euronews.com/2026/11/14/premi-del-cinema-europeo-annunciate-a-salonicco-le-candidature-fatherland-in-testa",
+          "published": "Sat, 14 Nov 2026 14:27:12 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "15:05 CET",
+          "title_it": "Premi del cinema europeo, annunciate a Salonicco le candidature: Fatherland in testa",
+          "summary_it": "Il dramma sulla Guerra fredda di Pawel Pawlikowski guida con 11 candidature. I premi saranno consegnati ad Atene il 16 gennaio",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Super G, l’azienda che ha siglato l’accordo con Kfc portando il pollo fritto sulle piste da sci",
+          "summary_orig": "Dall’ospitalità alla ristorazione in montagna passando per l’intrattenimento. Il tutto con con l’integrazione di quelle che vengono definite «occasioni e consumo differenti». È il modello «sviluppato dalla Super...",
+          "link": "https://www.ilsole24ore.com/art/super-g-l-azienda-che-ha-siglato-l-accordo-kfc-portando-pollo-fritto-piste-sci-AJ8LkXGC",
+          "published": "Sat, 14 Nov 2026 13:45:30 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "15:05 CET",
+          "title_it": "Super G, l’azienda che ha siglato l’accordo con Kfc portando il pollo fritto sulle piste da sci",
+          "summary_it": "Dall’ospitalità alla ristorazione in montagna passando per l’intrattenimento. Il tutto con con l’integrazione di quelle che vengono definite «occasioni e consumo differenti». È il modello «sviluppato dalla Super...",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Marzocca (Kirey), in cyber attacchi a finanza tempo è decisivo. Ia come difesa",
+          "summary_orig": "'Serve processo gestione continua', il nodo fornitori",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/marzocca-kirey-in-cyber-attacchi-a-finanza-tempo-e-decisivo.-ia-come-difesa_d3b7ac9f-5f16-4ca0-b918-1b7adbde9b8e.html",
+          "published": "Sat, 14 Nov 2026 14:43:47 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "15:05 CET",
+          "title_it": "Marzocca (Kirey), in cyber attacchi a finanza tempo è decisivo. Ia come difesa",
+          "summary_it": "'Serve processo gestione continua', il nodo fornitori",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 19.0
+        },
+        {
+          "title_orig": "How Rockstar's 'GTA IV' release could reshape gaming, streaming and even paid time off",
+          "summary_orig": "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.",
+          "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+          "published": "Sat, 14 Nov 2026 14:00:01 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "15:05 CET",
+          "title_it": "Come il rilascio di \"GTA IV\" di Rockstar potrebbe rimodellare i giochi, lo streaming e persino il tempo libero retribuito",
+          "summary_it": "\"Grand Theft Auto VI\" verrà lanciato il 19 novembre con grandi aspettative. Il suo impatto potrebbe raggiungere i creatori, lo streaming, la musica, le ferie sul posto di lavoro, la consegna di cibo e il turismo.",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 14.0
         }
       ]
     }

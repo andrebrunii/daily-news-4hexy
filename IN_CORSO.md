@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-18%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (18/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
+_Aggiornamento registrato il `2026-11-14 15:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Premi del cinema europeo, annunciate a Salonicco le candidature: Fatherland in testa](https://it.euronews.com/2026/11/14/premi-del-cinema-europeo-annunciate-a-salonicco-le-candidature-fatherland-in-testa)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Il dramma sulla Guerra fredda di Pawel Pawlikowski guida con 11 candidature. I premi saranno consegnati ad Atene il 16 gennaio
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `📈 Economia & Mercati` [Super G, l’azienda che ha siglato l’accordo con Kfc portando il pollo fritto sulle piste da sci](https://www.ilsole24ore.com/art/super-g-l-azienda-che-ha-siglato-l-accordo-kfc-portando-pollo-fritto-piste-sci-AJ8LkXGC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Dall’ospitalità alla ristorazione in montagna passando per l’intrattenimento. Il tutto con con l’integrazione di quelle che vengono definite «occasioni e consumo differenti». È il modello «sviluppato dalla Super...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` [Marzocca (Kirey), in cyber attacchi a finanza tempo è decisivo. Ia come difesa](https://www.ansa.it/sito/notizie/economia/2026/11/14/marzocca-kirey-in-cyber-attacchi-a-finanza-tempo-e-decisivo.-ia-come-difesa_d3b7ac9f-5f16-4ca0-b918-1b7adbde9b8e.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** 'Serve processo gestione continua', il nodo fornitori
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[4] `🏦 Mercati Globali` [Come il rilascio di "GTA IV" di Rockstar potrebbe rimodellare i giochi, lo streaming e persino il tempo libero retribuito](https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** "Grand Theft Auto VI" verrà lanciato il 19 novembre con grandi aspettative. Il suo impatto potrebbe raggiungere i creatori, lo streaming, la musica, le ferie sul posto di lavoro, la consegna di cibo e il turismo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
 
 ### 🕒 Ora `14:05 CET` — Ricerca Oraria (18/23)
 _Aggiornamento registrato il `2026-11-14 14:05 CET`_
