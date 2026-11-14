@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-13%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-14%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (13/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (14/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `10:05 CET` — Ricerca Oraria (14/23)
+_Aggiornamento registrato il `2026-11-14 10:05 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Cosa sappiamo dell'arresto a terra e cosa fare se ne sei affetto](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Funzionari statunitensi affermano che l’interruzione è stata causata dal sovraccarico di vecchie apparecchiature e non da un attacco informatico.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Cronaca Europea` [Ucraina, gli Usa ipotizzano la cessione del Donbass alla Russia in cambio dell'ingresso di Kiev nella NATO](https://it.euronews.com/2026/11/14/ucraina-gli-usa-ipotizzano-la-cessione-del-donbass-alla-russia-in-cambio-dellingresso-di-k)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Nei colloqui per fermare la guerra, Washington ha sollevato per la prima volta l'ipotesi di un ritiro ucraino dal Donbas in cambio dell'ingresso nell'Alleanza atlantica. Zelensky chiede garanzie di sicurezza e coinvolgimento degli europei
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[3] `💶 Macro & Finanza UE` [Nelle case italiane 100 milioni di dispositivi connessi, 1 su 3 a rischio hacker](https://www.ansa.it/sito/notizie/economia/2026/11/14/nelle-case-italiane-100-milioni-di-dispositivi-connessi-1-su-3-a-rischio-hacker_b9486b33-f971-4f17-821b-97f048a3bcb8.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Consumers' Forum: 'Si moltiplicano smartphone, pc, smart tv, antifurti e speaker'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[4] `🏦 Mercati Globali` [I voli statunitensi riprendono dopo lo stop a terra della FAA, ma l’interruzione del viaggio continua](https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** I voli statunitensi stanno riprendendo dopo lo stop a terra della FAA, ma ritardi e cancellazioni continuano ad accumularsi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
 ### 🕒 Ora `09:05 CET` — Ricerca Oraria (13/23)
 _Aggiornamento registrato il `2026-11-14 09:05 CET`_
