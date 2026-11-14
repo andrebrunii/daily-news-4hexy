@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-14",
   "target_edition_date": "2026-11-15",
-  "last_slot_iso": "2026-11-14T23:05:00",
+  "last_slot_iso": "2026-11-15T00:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -246,6 +246,88 @@
           "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
           "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
           "score": 21.0
+        }
+      ]
+    },
+    {
+      "hour_label": "00:05 CET",
+      "timestamp_str": "2026-11-15 00:05 CET",
+      "items": [
+        {
+          "title_orig": "Eisenkot, proposta unità di Netanyahu 'ennesimo trucco, colloqui già programmati'",
+          "summary_orig": "I team negoziali del Likud e di Yashar si incontreranno domani",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/14/eisenkot-proposta-unita-di-netanyahu-ennesimo-trucco-colloqui-gia-programmati_a7695a35-330e-4682-9d66-8780442b6ff6.html",
+          "published": "Sat, 14 Nov 2026 20:07:52 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "00:05 CET",
+          "title_it": "Eisenkot, proposta unità di Netanyahu 'ennesimo trucco, colloqui già programmati'",
+          "summary_it": "I team negoziali del Likud e di Yashar si incontreranno domani",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Philippines wins first Eurovision Song Contest Asia",
+          "summary_orig": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+          "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 18:17:58 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "00:05 CET",
+          "title_it": "Le Filippine vincono il primo Eurovision Song Contest Asia",
+          "summary_it": "La favorita Carmelle esce vittoriosa con il suo inno sull'emancipazione femminile Sobra-Sobra.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 14.0
+        },
+        {
+          "title_orig": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+          "summary_orig": "Forbes : Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company — This voice experience is generated by AI. Learn more. — Many tech CEOs including Mark Zuckerberg, Michael Dell and Evan Spiegel have majority voting power.",
+          "link": "https://www.techmeme.com/261114/p20#a261114p20",
+          "published": "Sat, 14 Nov 2026 17:05:01 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "00:05 CET",
+          "title_it": "A differenza di altri fondatori tecnologici straordinari, Jensen Huang non aveva azioni con diritto di voto in Nvidia, il che gli ha reso più facile perdere il controllo dell'azienda (Forbes)",
+          "summary_it": "Forbes: A differenza di altri fondatori tecnologici straordinari, Jensen Huang non aveva quote di supervoto in Nvidia, il che gli ha reso più facile perdere il controllo dell'azienda: questa esperienza vocale è generata dall'intelligenza artificiale. Saperne di più. — Molti CEO del settore tecnologico, tra cui Mark Zuckerberg, Michael Dell ed Evan Spiegel, hanno la maggioranza del potere di voto.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 21.0
+        },
+        {
+          "title_orig": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+          "summary_orig": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries…",
+          "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+          "published": "Fri, 13 Nov 2026 13:10:00 +0000",
+          "source_id": "mit_tech",
+          "source_name": "MIT Technology Review",
+          "category": "tech_ia",
+          "badge": "⚡ Futuro & Deep Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.25,
+          "hour_slot": "00:05 CET",
+          "title_it": "Il download: il punto cieco della Silicon Valley e il piano di tracciamento dei chip di Nvidia",
+          "summary_it": "Questa è l'edizione di oggi di The Download, la nostra newsletter nei giorni feriali che fornisce una dose quotidiana di ciò che accade nel mondo della tecnologia. La Silicon Valley afferma di conoscere il futuro. Allora perché le elezioni intermedie sono state così sbagliate? —Aaron Zamost, consulente tecnologico in comunicazione ed ex dirigente di Square I sedicenti visionari...",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 20.5
         }
       ]
     }
