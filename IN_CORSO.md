@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-9%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-10%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (9/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (10/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `06:05 CET` — Ricerca Oraria (10/23)
+_Aggiornamento registrato il `2026-11-14 06:05 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Quello che sappiamo dello stop a terra più lungo dall'11 settembre](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Funzionari statunitensi affermano che l'interruzione è stata causata da un sovraccarico di vecchie apparecchiature e non da un attacco informatico o da un'interruzione di Microsoft.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Cronaca Europea` [COP31, i leader evitano di parlare di combustibili fossili nonostante l'allarme 1,5°C](https://it.euronews.com/2026/11/14/cop31-i-leader-evitano-di-parlare-di-combustibili-fossili-nonostante-lallarme-15c)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** L'abbandono dei combustibili fossili sembra essere diventato il grande non detto, mentre si chiude la prima settimana della COP31.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[3] `🏦 Mercati Globali` [La FAA revoca lo stop a terra dopo più di quattro ore, ma le cancellazioni dei voli si estenderanno fino al fine settimana](https://www.cnbc.com/2026/11/13/faa-ground-stop.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Venerdì pomeriggio la Federal Aviation Administration ha emesso uno stop a terra a livello nazionale, interrompendo migliaia di voli in partenza.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[4] `🤖 IA & Frontiera Tech` [Tendrils, con sede a Cambridge, nel Regno Unito, che sta progettando un'architettura CPU con migliaia di core che operano in parallelo, ha raccolto 30 milioni di dollari guidati da Benchmark (John Reynolds/Tech.eu)](https://www.techmeme.com/261114/p2#a261114p2)** — *(Techmeme)*
+  - 📌 **Sintesi:** John Reynolds / Tech.eu: Tendrils, con sede a Cambridge, nel Regno Unito, che sta progettando un'architettura CPU con migliaia di core che operano in parallelo, ha raccolto 30 milioni di dollari guidati da Benchmark: Tendrils Compute è una delle numerose startup di chip del Regno Unito sostenute dagli investitori. — Una startup britannica che sviluppa un tipo radicalmente diverso...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `05:05 CET` — Ricerca Oraria (9/23)
 _Aggiornamento registrato il `2026-11-14 05:05 CET`_
