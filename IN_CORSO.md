@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-17%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-18%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (17/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (18/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `14:05 CET` — Ricerca Oraria (18/23)
+_Aggiornamento registrato il `2026-11-14 14:05 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Trump, Putin e Xi pianificano uno storico incontro congiunto in Cina la prossima settimana, afferma la Casa Bianca](https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Trump discuterà della "riduzione delle armi nucleari" nel corso di colloqui senza precedenti, ha detto un portavoce.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🌍 Esteri & Analisi` [Incendi soffocanti, caldo mortale e inondazioni devastanti: il 2026 in condizioni meteorologiche estreme](https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026)** — *(The Guardian World)*
+  - 📌 **Sintesi:** Le persone in tutto il mondo hanno dovuto affrontare eventi meteorologici senza precedenti e i loro effetti fatali causati dalla catastrofe climatica. Dopo l’estate più calda del mondo da quando sono iniziate le registrazioni nel 1850, il bilancio delle vittime delle condizioni meteorologiche estreme nel 2026 è già di decine di migliaia. Si tratta di una stima conservativa e sicuramente aumenterà molto più in alto. Come Cop31...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[3] `💶 Macro & Finanza UE` [Agenzia per tutele, 'disservizi per caos voli non cancellano diritti passeggeri'](https://www.ansa.it/sito/notizie/economia/2026/11/14/agenzia-per-tutele-disservizi-per-caos-voli-non-cancellano-diritti_00bbd29a-c93b-4a85-84e3-a9ccb8346895.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** RimborsoAlVolo: cosa prevede normativa rimborsi e assistenza su collegamenti Italia-Usa
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[4] `🏦 Mercati Globali` [Continuano le interruzioni dei voli dopo che la FAA ha revocato lo stop a terra, alcune partite di football universitarie sono state ritardate](https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** I voli statunitensi stanno riprendendo dopo lo stop a terra della FAA, ma ritardi e cancellazioni continuano ad accumularsi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
 ### 🕒 Ora `13:05 CET` — Ricerca Oraria (17/23)
 _Aggiornamento registrato il `2026-11-14 13:05 CET`_

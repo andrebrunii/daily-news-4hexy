@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-13",
   "target_edition_date": "2026-11-14",
-  "last_slot_iso": "2026-11-14T13:05:00",
+  "last_slot_iso": "2026-11-14T14:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1394,6 +1394,88 @@
           "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
           "long_term_philosophy": "**Orizzonte generazionale:** Le trasformazioni più radicali della storia non iniziano nei parlamenti o nelle borse, ma nel cambio silenzioso delle categorie mentali con cui una civiltà interpreta ciò che è normale, giusto o desiderabile.\n> 🧠 **Lente Filosofica:** Come scriveva Seneca, *«nessun vento è favorevole per il marinaio che non sa a quale porto vuol approdare»*. In un'epoca ossessionata dall'accelerazione dei mezzi, fermarsi a interrogare i fini è l'atto più sovversivo e necessario.",
           "score": 15.0
+        }
+      ]
+    },
+    {
+      "hour_label": "14:05 CET",
+      "timestamp_str": "2026-11-14 14:05 CET",
+      "items": [
+        {
+          "title_orig": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+          "summary_orig": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 05:52:31 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "14:05 CET",
+          "title_it": "Trump, Putin e Xi pianificano uno storico incontro congiunto in Cina la prossima settimana, afferma la Casa Bianca",
+          "summary_it": "Trump discuterà della \"riduzione delle armi nucleari\" nel corso di colloqui senza precedenti, ha detto un portavoce.",
+          "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 24.5
+        },
+        {
+          "title_orig": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
+          "summary_orig": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe After the world’s hottest summer since records began in 1850, the death toll from extreme weather in 2026 is already in the high tens of thousands. That is a conservative estimate and is certain to rise much higher. As Cop31...",
+          "link": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
+          "published": "Sat, 14 Nov 2026 13:00:44 GMT",
+          "source_id": "guardian_world",
+          "source_name": "The Guardian World",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Esteri & Analisi",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "14:05 CET",
+          "title_it": "Incendi soffocanti, caldo mortale e inondazioni devastanti: il 2026 in condizioni meteorologiche estreme",
+          "summary_it": "Le persone in tutto il mondo hanno dovuto affrontare eventi meteorologici senza precedenti e i loro effetti fatali causati dalla catastrofe climatica. Dopo l’estate più calda del mondo da quando sono iniziate le registrazioni nel 1850, il bilancio delle vittime delle condizioni meteorologiche estreme nel 2026 è già di decine di migliaia. Si tratta di una stima conservativa e sicuramente aumenterà molto più in alto. Come Cop31...",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Agenzia per tutele, 'disservizi per caos voli non cancellano diritti passeggeri'",
+          "summary_orig": "RimborsoAlVolo: cosa prevede normativa rimborsi e assistenza su collegamenti Italia-Usa",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/agenzia-per-tutele-disservizi-per-caos-voli-non-cancellano-diritti_00bbd29a-c93b-4a85-84e3-a9ccb8346895.html",
+          "published": "Sat, 14 Nov 2026 14:10:55 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "14:05 CET",
+          "title_it": "Agenzia per tutele, 'disservizi per caos voli non cancellano diritti passeggeri'",
+          "summary_it": "RimborsoAlVolo: cosa prevede normativa rimborsi e assistenza su collegamenti Italia-Usa",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 19.0
+        },
+        {
+          "title_orig": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
+          "summary_orig": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
+          "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+          "published": "Sat, 14 Nov 2026 12:30:58 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "14:05 CET",
+          "title_it": "Continuano le interruzioni dei voli dopo che la FAA ha revocato lo stop a terra, alcune partite di football universitarie sono state ritardate",
+          "summary_it": "I voli statunitensi stanno riprendendo dopo lo stop a terra della FAA, ma ritardi e cancellazioni continuano ad accumularsi.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 12.0
         }
       ]
     }
