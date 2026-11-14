@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-2%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-3%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (2/23 ricerche orarie):**
-`🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (3/23 ricerche orarie):**
+`🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `23:05 CET` — Ricerca Oraria (3/23)
+_Aggiornamento registrato il `2026-11-14 23:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [SpaceX recupera per la prima volta nella storia un veicolo spaziale](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/spacex-recupera-per-la-prima-volta-nella-storia-un-veicolo-spaziale_63d70220-5db9-4ef4-9afa-8bf16afb3dd7.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Si è inserito con precisione tra i bracci meccanici sulla rampa di lancio n.2'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌐 Scacchiere Globale` ["Riesci a crederci?": SpaceX cattura parte del suo razzo Starship durante il ritorno sulla Terra](https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** SpaceX ha eseguito la storica cattura utilizzando bracci meccanici soprannominati "bacchette".
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🔭 Ricerca & Spazio` [Un gigantesco mondo ghiacciato nascosto oltre Plutone potrebbe essere il nostro sesto pianeta nano](https://www.sciencedaily.com/releases/2026/11/261112230447.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli astronomi hanno scoperto un nuovo pianeta nano potenzialmente enorme oltre Plutone, nascosto per anni in una delle regioni più affollate del cielo notturno. La scoperta di 2026 ED138 potrebbe espandere la famiglia ufficiale dei pianeti nani del sistema solare e suggerisce che mondi più misteriosi potrebbero essere in agguato ben oltre Nettuno.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Una proposta modesta: l’Europa dovrebbe dare il massimo](https://bigthink.com/strange-maps/europe-goes-bananas/)** — *(Big Think)*
+  - 📌 **Sintesi:** Sotto la mappa politica degli stati-nazione europei cova un’altra realtà: un groviglio di corridoi economici e logistici che trascendono i confini nazionali. La più conosciuta di queste è la Blue Banana. Molti altri non sono così visibili, e ciò è dovuto a un marketing inadeguato: mancano di un approccio altrettanto fantasioso. Da qui questa modesta proposta: Se l'Europa...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
 ### 🕒 Ora `22:05 CET` — Ricerca Oraria (2/23)
 _Aggiornamento registrato il `2026-11-14 22:05 CET`_

@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-14",
   "target_edition_date": "2026-11-15",
-  "last_slot_iso": "2026-11-14T22:05:00",
+  "last_slot_iso": "2026-11-14T23:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -164,6 +164,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "23:05 CET",
+      "timestamp_str": "2026-11-14 23:05 CET",
+      "items": [
+        {
+          "title_orig": "SpaceX recupera per la prima volta nella storia un veicolo spaziale",
+          "summary_orig": "'Si è inserito con precisione tra i bracci meccanici sulla rampa di lancio n.2'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/spacex-recupera-per-la-prima-volta-nella-storia-un-veicolo-spaziale_63d70220-5db9-4ef4-9afa-8bf16afb3dd7.html",
+          "published": "Sat, 14 Nov 2026 23:36:34 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "23:05 CET",
+          "title_it": "SpaceX recupera per la prima volta nella storia un veicolo spaziale",
+          "summary_it": "'Si è inserito con precisione tra i bracci meccanici sulla rampa di lancio n.2'",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+          "summary_orig": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+          "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 22:09:40 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "23:05 CET",
+          "title_it": "\"Riesci a crederci?\": SpaceX cattura parte del suo razzo Starship durante il ritorno sulla Terra",
+          "summary_it": "SpaceX ha eseguito la storica cattura utilizzando bracci meccanici soprannominati \"bacchette\".",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 14.0
+        },
+        {
+          "title_orig": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+          "summary_orig": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system's official dwarf planet family and hints that more mysterious worlds may be lurking far beyond Neptune.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+          "published": "Sat, 14 Nov 2026 06:58:42 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "23:05 CET",
+          "title_it": "Un gigantesco mondo ghiacciato nascosto oltre Plutone potrebbe essere il nostro sesto pianeta nano",
+          "summary_it": "Gli astronomi hanno scoperto un nuovo pianeta nano potenzialmente enorme oltre Plutone, nascosto per anni in una delle regioni più affollate del cielo notturno. La scoperta di 2026 ED138 potrebbe espandere la famiglia ufficiale dei pianeti nani del sistema solare e suggerisce che mondi più misteriosi potrebbero essere in agguato ben oltre Nettuno.",
+          "impact_eu_it": "Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "A modest proposal: Europe should go full bananas",
+          "summary_orig": "Underneath the political map of Europe’s nation-states simmers another reality: a tangle of economic and logistical corridors that transcend national borders. The best known of these is the Blue Banana. Many others aren’t as visible, and that is due to poor marketing: They lack an equally imaginative handle. Hence this modest proposal: If the European...",
+          "link": "https://bigthink.com/strange-maps/europe-goes-bananas/",
+          "published": "Fri, 13 Nov 2026 18:00:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "23:05 CET",
+          "title_it": "Una proposta modesta: l’Europa dovrebbe dare il massimo",
+          "summary_it": "Sotto la mappa politica degli stati-nazione europei cova un’altra realtà: un groviglio di corridoi economici e logistici che trascendono i confini nazionali. La più conosciuta di queste è la Blue Banana. Molti altri non sono così visibili, e ciò è dovuto a un marketing inadeguato: mancano di un approccio altrettanto fantasioso. Da qui questa modesta proposta: Se l'Europa...",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
+          "score": 21.0
         }
       ]
     }
