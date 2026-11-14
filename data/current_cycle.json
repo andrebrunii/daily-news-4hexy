@@ -1,6 +1,89 @@
 {
   "last_published_edition_date": "2026-11-14",
   "target_edition_date": "2026-11-15",
-  "last_slot_iso": "2026-11-14T20:05:00",
-  "hourly_batches": []
+  "last_slot_iso": "2026-11-14T21:05:00",
+  "hourly_batches": [
+    {
+      "hour_label": "21:05 CET",
+      "timestamp_str": "2026-11-14 21:05 CET",
+      "items": [
+        {
+          "title_orig": "Canada, accordo commerciale con le Filippine: Carney cerca alternative agli Usa di Trump",
+          "summary_orig": "Ottawa conclude i negoziati per un accordo di libero scambio con Manila e punta a diversificare i partner commerciali. Sullo sfondo le tensioni con Washington e la strategia per ridurre la dipendenza dagli Stati Uniti",
+          "link": "https://it.euronews.com/2026/11/14/canada-accordo-commerciale-con-le-filippine-carney-cerca-alternative-agli-usa-di-trump",
+          "published": "Sat, 14 Nov 2026 16:39:07 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "21:05 CET",
+          "title_it": "Canada, accordo commerciale con le Filippine: Carney cerca alternative agli Usa di Trump",
+          "summary_it": "Ottawa conclude i negoziati per un accordo di libero scambio con Manila e punta a diversificare i partner commerciali. Sullo sfondo le tensioni con Washington e la strategia per ridurre la dipendenza dagli Stati Uniti",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 26.0
+        },
+        {
+          "title_orig": "Trucillo adotta la tostatura del caffè senza acqua",
+          "summary_orig": "Nuova iniziativa di sostenibilità per Caffè Trucillo. La torrefazione campana, di proprietà dell’omonima famiglia da tre generazioni, ha introdotto una novità nel processo di produzione: non utilizzerà acqua nella tostatura...",
+          "link": "https://www.ilsole24ore.com/art/trucillo-adotta-tostatura-caffe-senza-acqua-AJw6RnFC",
+          "published": "Sat, 14 Nov 2026 08:02:00 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "21:05 CET",
+          "title_it": "Trucillo adotta la tostatura del caffè senza acqua",
+          "summary_it": "Nuova iniziativa di sostenibilità per Caffè Trucillo. La torrefazione campana, di proprietà dell’omonima famiglia da tre generazioni, ha introdotto una novità nel processo di produzione: non utilizzerà acqua nella tostatura...",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Confindustria convoca le Assise prima del voto. 'La politica ci ascolti'",
+          "summary_orig": "Orsini chiama le imprese a raccolta, è la quinta volta nella storia degli industriali",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/orsini-la-manovra-momento-complicato-ci-aspettiamo-risposte_e7e1de2d-a227-4024-9594-d9523aab3ffe.html",
+          "published": "Sat, 14 Nov 2026 18:00:03 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "21:05 CET",
+          "title_it": "Confindustria convoca le Assise prima del voto. 'La politica ci ascolti'",
+          "summary_it": "Orsini chiama le imprese a raccolta, è la quinta volta nella storia degli industriali",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "SpaceX launches Starship in key test flight of massive rocket",
+          "summary_orig": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
+          "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+          "published": "Sat, 14 Nov 2026 01:18:51 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "21:05 CET",
+          "title_it": "SpaceX lancia Starship durante un volo di prova chiave di un enorme razzo",
+          "summary_it": "Il volo di prova è il primo tentativo di SpaceX di catturare sia il booster Super Heavy che la navicella spaziale dello stadio superiore del razzo nel suo sito di lancio a Starbase, in Texas.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 14.0
+        }
+      ]
+    }
+  ]
 }
