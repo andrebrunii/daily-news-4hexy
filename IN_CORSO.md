@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-10%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (10/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `07:05 CET` — Ricerca Oraria (11/23)
+_Aggiornamento registrato il `2026-11-14 07:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Cinque destinazioni alpine da raggiungere con i nuovi treni invernali](https://it.euronews.com/2026/11/14/cinque-destinazioni-alpine-da-raggiungere-con-i-nuovi-treni-invernali)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Dalle Alpi francesi alle storiche località di montagna austriache, queste mete offrono piste impegnative, passeggiate sulla neve, ristoranti accoglienti e visite in città, mentre nuovi collegamenti ferroviari rendono il viaggio più semplice.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `📈 Economia & Mercati` [Dazn e Hbo Max fanno squadra nella battaglia dello streaming](https://www.ilsole24ore.com/art/dazn-e-hbo-max-fanno-squadra-battaglia-streaming-AJySIdEC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Harry Potter (da Hbo Max) accanto alla Serie A (su Dazn) passando per Jannik Sinner (su Eurosport). Un’alleanza fra film, serie Tv e sport per serrare i ranghi in una...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🏦 Mercati Globali` [Nvidia chiude sotto la capitalizzazione di mercato di 4 trilioni di dollari per la prima volta da luglio 2025 a causa delle conseguenze di Huang](https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Jensen Huang ha rassegnato le dimissioni da CEO di Nvidia giovedì dopo essere stato indagato per due relazioni extraconiugali.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🤖 IA & Frontiera Tech` [JD.com completa l'acquisizione del rivenditore tedesco di elettronica Ceconomy, dopo aver acquisito una quota di circa il 60% per circa 1,5 miliardi di dollari, a seguito dell'approvazione dell'accordo da parte dell'UE (Tomoko Wakasugi/Nikkei Asia)](https://www.techmeme.com/261114/p1#a261114p1)** — *(Techmeme)*
+  - 📌 **Sintesi:** Tomoko Wakasugi / Nikkei Asia: JD.com completa l'acquisizione del rivenditore tedesco di elettronica Ceconomy, dopo aver acquisito una quota di circa il 60% per circa 1,5 miliardi di dollari, in seguito all'approvazione dell'accordo da parte dell'UE — SHANGHAI — JD.com ha completato l'acquisizione del rivenditore tedesco di elettronica di consumo Ceconomy, con l'obiettivo di collegare i negozi fisici europei...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `06:05 CET` — Ricerca Oraria (10/23)
 _Aggiornamento registrato il `2026-11-14 06:05 CET`_

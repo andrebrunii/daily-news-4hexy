@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-13",
   "target_edition_date": "2026-11-14",
-  "last_slot_iso": "2026-11-14T06:05:00",
+  "last_slot_iso": "2026-11-14T07:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -819,6 +819,88 @@
           "summary_it": "John Reynolds / Tech.eu: Tendrils, con sede a Cambridge, nel Regno Unito, che sta progettando un'architettura CPU con migliaia di core che operano in parallelo, ha raccolto 30 milioni di dollari guidati da Benchmark: Tendrils Compute è una delle numerose startup di chip del Regno Unito sostenute dagli investitori. — Una startup britannica che sviluppa un tipo radicalmente diverso...",
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 22.0
+        }
+      ]
+    },
+    {
+      "hour_label": "07:05 CET",
+      "timestamp_str": "2026-11-14 07:05 CET",
+      "items": [
+        {
+          "title_orig": "Cinque destinazioni alpine da raggiungere con i nuovi treni invernali",
+          "summary_orig": "Dalle Alpi francesi alle storiche località di montagna austriache, queste mete offrono piste impegnative, passeggiate sulla neve, ristoranti accoglienti e visite in città, mentre nuovi collegamenti ferroviari rendono il viaggio più semplice.",
+          "link": "https://it.euronews.com/2026/11/14/cinque-destinazioni-alpine-da-raggiungere-con-i-nuovi-treni-invernali",
+          "published": "Sat, 14 Nov 2026 07:00:03 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "07:05 CET",
+          "title_it": "Cinque destinazioni alpine da raggiungere con i nuovi treni invernali",
+          "summary_it": "Dalle Alpi francesi alle storiche località di montagna austriache, queste mete offrono piste impegnative, passeggiate sulla neve, ristoranti accoglienti e visite in città, mentre nuovi collegamenti ferroviari rendono il viaggio più semplice.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Dazn e Hbo Max fanno squadra nella battaglia dello streaming",
+          "summary_orig": "Harry Potter (da Hbo Max) accanto alla Serie A (su Dazn) passando per Jannik Sinner (su Eurosport). Un’alleanza fra film, serie Tv e sport per serrare i ranghi in una...",
+          "link": "https://www.ilsole24ore.com/art/dazn-e-hbo-max-fanno-squadra-battaglia-streaming-AJySIdEC",
+          "published": "Fri, 13 Nov 2026 05:45:29 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "07:05 CET",
+          "title_it": "Dazn e Hbo Max fanno squadra nella battaglia dello streaming",
+          "summary_it": "Harry Potter (da Hbo Max) accanto alla Serie A (su Dazn) passando per Jannik Sinner (su Eurosport). Un’alleanza fra film, serie Tv e sport per serrare i ranghi in una...",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Nvidia closes below $4T market cap for first time since July 2025 in Huang fallout",
+          "summary_orig": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
+          "link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+          "published": "Fri, 13 Nov 2026 21:18:11 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "07:05 CET",
+          "title_it": "Nvidia chiude sotto la capitalizzazione di mercato di 4 trilioni di dollari per la prima volta da luglio 2025 a causa delle conseguenze di Huang",
+          "summary_it": "Jensen Huang ha rassegnato le dimissioni da CEO di Nvidia giovedì dopo essere stato indagato per due relazioni extraconiugali.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "JD.com completes its takeover of German electronics retailer Ceconomy, after acquiring a ~60% stake for ~$1.5B, following the EU's approval of the deal (Tomoko Wakasugi/Nikkei Asia)",
+          "summary_orig": "Tomoko Wakasugi / Nikkei Asia : JD.com completes its takeover of German electronics retailer Ceconomy, after acquiring a ~60% stake for ~$1.5B, following the EU's approval of the deal — SHANGHAI — JD.com has completed an acquisition of German consumer electronics retailer Ceconomy, aiming to link European physical …",
+          "link": "https://www.techmeme.com/261114/p1#a261114p1",
+          "published": "Sat, 14 Nov 2026 00:02:28 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "07:05 CET",
+          "title_it": "JD.com completa l'acquisizione del rivenditore tedesco di elettronica Ceconomy, dopo aver acquisito una quota di circa il 60% per circa 1,5 miliardi di dollari, a seguito dell'approvazione dell'accordo da parte dell'UE (Tomoko Wakasugi/Nikkei Asia)",
+          "summary_it": "Tomoko Wakasugi / Nikkei Asia: JD.com completa l'acquisizione del rivenditore tedesco di elettronica Ceconomy, dopo aver acquisito una quota di circa il 60% per circa 1,5 miliardi di dollari, in seguito all'approvazione dell'accordo da parte dell'UE — SHANGHAI — JD.com ha completato l'acquisizione del rivenditore tedesco di elettronica di consumo Ceconomy, con l'obiettivo di collegare i negozi fisici europei...",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 22.0
         }
       ]
