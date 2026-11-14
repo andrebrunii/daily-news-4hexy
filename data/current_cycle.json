@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-13",
   "target_edition_date": "2026-11-14",
-  "last_slot_iso": "2026-11-14T17:05:00",
+  "last_slot_iso": "2026-11-14T18:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1721,6 +1721,88 @@
           "summary_it": "Qui nell’Universo, ci sono alcune cose che sono quanto di più vicine possibile alla perfezione. Il Sole, ad esempio, è l'oggetto più rotondo dell'Universo, ma altre stelle sono più rotonde, con le nane bianche e le stelle di neutroni che mostrano una rotondità ancora più perfetta. Nel frattempo, in termini di misurazione del tempo, potremmo pensare alla Terra che gira come a un meraviglioso orologio – dopo...",
           "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
           "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
+          "score": 14.0
+        }
+      ]
+    },
+    {
+      "hour_label": "18:05 CET",
+      "timestamp_str": "2026-11-14 18:05 CET",
+      "items": [
+        {
+          "title_orig": "Italy fines Meta €805m over accessing users' photos",
+          "summary_orig": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+          "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 16:29:48 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "18:05 CET",
+          "title_it": "L'Italia multa Meta da 805 milioni di euro per aver avuto accesso alle foto degli utenti",
+          "summary_it": "Il colosso dei social media è accusato di non aver informato circa 20 milioni di utenti dell'accesso alle loro foto.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 21.0
+        },
+        {
+          "title_orig": "We Tomato Europe, cinque Paesi chiedono origine chiara del pomodoro UE: c'è anche l'Italia",
+          "summary_orig": "Confagricoltura, Confcooperative e Italia Ortofrutta aderiscono a We Tomato Europe: cinque Paesi chiedono più tutele per i produttori di pomodoro Ue",
+          "link": "https://it.euronews.com/2026/11/14/we-tomato-europe-cinque-paesi-chiedono-origine-chiara-del-pomodoro-ue-ce-anche-litalia",
+          "published": "Sat, 14 Nov 2026 17:49:47 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "18:05 CET",
+          "title_it": "We Tomato Europe, cinque Paesi chiedono origine chiara del pomodoro UE: c'è anche l'Italia",
+          "summary_it": "Confagricoltura, Confcooperative e Italia Ortofrutta aderiscono a We Tomato Europe: cinque Paesi chiedono più tutele per i produttori di pomodoro Ue",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 26.0
+        },
+        {
+          "title_orig": "Tesla apre le vendite del Cybercab a guida autonoma a 'clienti selezionati'",
+          "summary_orig": "Già in uso in alcune città statunitensi nell'ambito del servizio \"Robotaxi\"",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/tesla-apre-le-vendite-del-cybercab-a-guida-autonoma-a-clienti-selezionati_8d1d2cc3-6098-40b9-9c4b-dd61888ae407.html",
+          "published": "Sat, 14 Nov 2026 16:07:32 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "18:05 CET",
+          "title_it": "Tesla apre le vendite del Cybercab a guida autonoma a 'clienti selezionati'",
+          "summary_it": "Già in uso in alcune città statunitensi nell'ambito del servizio \"Robotaxi\"",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Ground stop followed updates to older L3Harris communication system: DOT’s Duffy",
+          "summary_orig": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
+          "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+          "published": "Sat, 14 Nov 2026 16:46:11 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "18:05 CET",
+          "title_it": "L'arresto a terra ha seguito gli aggiornamenti al vecchio sistema di comunicazione L3Harris: Duffy del DOT",
+          "summary_it": "L'arresto a terra della FAA è avvenuto dopo gli aggiornamenti di un vecchio sistema di comunicazione gestito da L3Harris Technologies, ha detto sabato il segretario ai trasporti Sean Duffy.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 14.0
         }
       ]

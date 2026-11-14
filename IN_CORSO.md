@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-21%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-22%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (21/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (22/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `18:05 CET` — Ricerca Oraria (22/23)
+_Aggiornamento registrato il `2026-11-14 18:05 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [L'Italia multa Meta da 805 milioni di euro per aver avuto accesso alle foto degli utenti](https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il colosso dei social media è accusato di non aver informato circa 20 milioni di utenti dell'accesso alle loro foto.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Cronaca Europea` [We Tomato Europe, cinque Paesi chiedono origine chiara del pomodoro UE: c'è anche l'Italia](https://it.euronews.com/2026/11/14/we-tomato-europe-cinque-paesi-chiedono-origine-chiara-del-pomodoro-ue-ce-anche-litalia)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Confagricoltura, Confcooperative e Italia Ortofrutta aderiscono a We Tomato Europe: cinque Paesi chiedono più tutele per i produttori di pomodoro Ue
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💶 Macro & Finanza UE` [Tesla apre le vendite del Cybercab a guida autonoma a 'clienti selezionati'](https://www.ansa.it/sito/notizie/economia/2026/11/14/tesla-apre-le-vendite-del-cybercab-a-guida-autonoma-a-clienti-selezionati_8d1d2cc3-6098-40b9-9c4b-dd61888ae407.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Già in uso in alcune città statunitensi nell'ambito del servizio "Robotaxi"
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[4] `🏦 Mercati Globali` [L'arresto a terra ha seguito gli aggiornamenti al vecchio sistema di comunicazione L3Harris: Duffy del DOT](https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L'arresto a terra della FAA è avvenuto dopo gli aggiornamenti di un vecchio sistema di comunicazione gestito da L3Harris Technologies, ha detto sabato il segretario ai trasporti Sean Duffy.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `17:05 CET` — Ricerca Oraria (21/23)
 _Aggiornamento registrato il `2026-11-14 17:05 CET`_
