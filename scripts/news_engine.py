@@ -698,7 +698,7 @@ def rotate_7day_archive(
         if not current_target.exists():
             current_target.write_text("", encoding="utf-8")
 
-    cutoff_date = (now_rome.date() - dt.timedelta(days=MAX_ARCHIVE_DAYS)).strftime("%Y-%m-%d")
+    cutoff_date = (now_rome.date() - dt.timedelta(days=MAX_ARCHIVE_DAYS - 1)).strftime("%Y-%m-%d")
     all_archives = sorted(ARCHIVE_DIR.glob("*.md"), key=lambda p: p.stem, reverse=True)
 
     kept_files: List[str] = []
@@ -1210,7 +1210,7 @@ def git_commit_slot(slot_dt: dt.datetime, is_top10: bool) -> None:
 
     try:
         subprocess.run(
-            ["git", "add", "README.md", "IN_CORSO.md", "archivio/", "data/"],
+            ["git", "add", "-A", "README.md", "IN_CORSO.md", "archivio/", "data/"],
             cwd=str(ROOT_DIR),
             check=False,
         )
