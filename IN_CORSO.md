@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-14 12:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Mondiali donne: accordo Brasile-Fifa, biglietti a partire da 5 euro](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/14/mondiali-donne-accordo-brasile-fifa-biglietti-a-partire-da-5-euro_107cbbb0-1716-4572-b031-f0c3a0682567.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Per il torneo iridato del 2027 obiettivo ampliare l'accesso di pubblico e famiglie
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [Quasi 20 milioni di euro in contanti trovati sepolti, nascosti in un caso di corruzione in Ungheria](https://www.politico.eu/article/nearly-e20m-in-cash-found-buried-hidden-in-hungary-corruption-case/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Le autorità ungheresi che indagano su un ex ministro per la corruzione affermano di aver scoperto un tesoro nascosto di denaro.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🤖 IA & Frontiera Tech` [Come la città svizzera di Lugano sta cercando di reinventarsi come hub crittografico per rilanciare la propria economia lanciando il proprio token LVGA, collaborando con Tether e altro ancora (Financial Times)](https://www.techmeme.com/261114/p9#a261114p9)** — *(Techmeme)*
+  - 📌 **Sintesi:** Financial Times: Come la città svizzera di Lugano sta cercando di reinventarsi come hub crittografico per rilanciare la propria economia lanciando il proprio token LVGA, collaborando con Tether e altro ancora - Lugano scommette sugli asset digitali e una joint venture con il gigante delle stablecoin può rilanciare la sua economia, ma alcuni avvertono dei pericoli
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `💻 Tecnologia & Cyber` [Il telescopio James Webb trova ghiaccio più vecchio della stella attorno a cui orbita](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Le radiazioni e le collisioni rimodellano i materiali da costruzione planetari.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-14 11:05 CET`_
