@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
+_Aggiornamento registrato il `2026-11-14 03:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Francia e Germania verso un accordo su De Cos alla guida della Bce: Ue conferma due candidati](https://it.euronews.com/2026/11/13/francia-e-germania-verso-un-accordo-su-de-cos-alla-guida-della-bce-ue-conferma-due-candida)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Sono due i candidati a succedere a Christine Lagarde alla BCE, ha riferito un funzionario UE, mentre Francia e Germania sarebbero vicine a un accordo che vede lo spagnolo Pablo Hernández de Cos favorito alla presidenza.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[2] `📈 Economia & Mercati` [Ortofrutta, Sicilia prima in Italia ma la filiera resta fragile](https://www.ilsole24ore.com/art/ortofrutta-sicilia-prima-italia-ma-filiera-resta-fragile-AJ4BmTEC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** La Sicilia è la prima regione italiana per valore della produzione ortofrutticola. Nel 2025 ha prodotto 4,4 milioni di tonnellate su 274mila ettari, per un valore di 2,73 miliardi di...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🏦 Mercati Globali` [La FAA revoca lo stop a terra dopo quattro ore, ma le cancellazioni dei voli si estenderanno fino al fine settimana](https://www.cnbc.com/2026/11/13/faa-ground-stop.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Venerdì pomeriggio la Federal Aviation Administration ha emesso uno stop a terra a livello nazionale, interrompendo migliaia di voli in partenza.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🤖 IA & Frontiera Tech` [Tesla afferma che "clienti selezionati" possono ora effettuare ordini per il suo Cybercab "per uso personale", per 30.000 dollari più un abbonamento di autonomia richiesto di 299 dollari al mese per funzionare (Kara Carlson/Bloomberg)](https://www.techmeme.com/261113/p39#a261113p39)** — *(Techmeme)*
+  - 📌 **Sintesi:** Kara Carlson / Bloomberg: Tesla afferma che "clienti selezionati" possono ora effettuare ordini per il suo Cybercab "per uso personale", per $ 30.000 più un abbonamento di autonomia richiesto di $ 299 al mese per funzionare - Tesla Inc. ha invitato clienti selezionati a effettuare ordini per il Cybercab in un passo verso il tentativo di rendere la sua auto senza conducente disponibile ai consumatori.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
 
 ### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
 _Aggiornamento registrato il `2026-11-14 02:05 CET`_
