@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-13%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (13/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `09:05 CET` — Ricerca Oraria (13/23)
+_Aggiornamento registrato il `2026-11-14 09:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Cnn, 'cancellati oltre 15.000 voli, oggi altri 3.000 annullati o in ritardo'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/cnn-cancellati-oltre-15.000-voli-oggi-altri-3.000-annullati-o-in-ritardo_0b264d6d-3a7c-4f81-9861-d18c025c9e7f.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Approfondimento disponibile nella fonte originale collegata.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [La Finlandia respinge la richiesta russa di lasciare la NATO come parte dei colloqui di pace](https://www.politico.eu/article/finland-rejects-reported-russian-demand-to-leave-nato-as-part-of-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** "È assolutamente scandaloso anche solo suggerire una cosa del genere", ha detto il ministro della Difesa Antti Häkkänen.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `🔭 Ricerca & Spazio` [Teschi di 5.000 anni rivelano un inquietante segreto dei primi re dell'antico Egitto](https://www.sciencedaily.com/releases/2026/11/261112025540.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Un mistero vecchio di 5.000 anni che circonda le tombe dei primi re d’Egitto ha preso una svolta inquietante. Gli scienziati, riesaminando 46 teschi antichi, hanno scoperto prove di lesioni alla testa potenzialmente fatali in 18, suggerendo che almeno il 39% di quelli studiati potrebbe essere stato ucciso deliberatamente. I risultati supportano una teoria vecchia di un secolo secondo cui gli assistenti reali erano...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🏛️ Filosofia & Idee` [Come gli alieni](https://aeon.co/videos/in-tiny-biospheres-an-artist-reflects-the-fragility-of-our-own)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Come metafore viventi, questi mondi autonomi in miniatura ci mostrano la meravigliosa e fragile bellezza della nostra biosfera - di Aeon Video Guarda su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `08:05 CET` — Ricerca Oraria (12/23)
 _Aggiornamento registrato il `2026-11-14 08:05 CET`_
