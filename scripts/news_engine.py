@@ -31,6 +31,7 @@ import json
 import os
 import re
 import subprocess
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -281,8 +282,8 @@ _TRANSLATE_CACHE: Dict[str, str] = {}
 
 def translate_to_italian(text: str, source_lang: str = "en") -> str:
     """
-    Traduce automaticamente dall'inglese all'italiano usando l'endpoint pubblico
-    gratuito di Google Translate (zero chiavi API richieste).
+    Traduce automaticamente dall'inglese all'italiano usando gli endpoint pubblici
+    gratuiti di Google Translate con fallback automatico e retry anti-rate-limit.
     """
     if not text or source_lang == "it":
         return text
@@ -293,34 +294,42 @@ def translate_to_italian(text: str, source_lang: str = "en") -> str:
         return _TRANSLATE_CACHE[clean]
 
     snippet = clean[:900]
-    url = (
-        "https://translate.googleapis.com/translate_a/single"
-        f"?client=gtx&sl={urllib.parse.quote(source_lang)}&tl=it&dt=t&q={urllib.parse.quote(snippet)}"
-    )
+    q_enc = urllib.parse.quote(snippet)
+    sl_enc = urllib.parse.quote(source_lang)
+
+    urls = [
+        f"https://translate.googleapis.com/translate_a/single?client=gtx&sl={sl_enc}&tl=it&dt=t&q={q_enc}",
+        f"https://clients5.google.com/translate_a/single?client=at&sl={sl_enc}&tl=it&dt=t&q={q_enc}",
+    ]
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Meridiano2005/2.0"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
     }
-    try:
-        if requests is not None:
-            resp = requests.get(url, headers=headers, timeout=4)
-            if resp.status_code == 200:
-                data = resp.json()
-                translated = "".join(part[0] for part in data[0] if part and part[0])
-                if translated:
-                    res = translated.strip()
-                    _TRANSLATE_CACHE[clean] = res
-                    return res
-        else:
-            req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req, timeout=4) as response:
-                data = json.loads(response.read().decode("utf-8"))
-                translated = "".join(part[0] for part in data[0] if part and part[0])
-                if translated:
-                    res = translated.strip()
-                    _TRANSLATE_CACHE[clean] = res
-                    return res
-    except Exception:
-        pass
+    for attempt, url in enumerate(urls):
+        try:
+            if attempt > 0:
+                time.sleep(0.35)
+            if requests is not None:
+                resp = requests.get(url, headers=headers, timeout=5)
+                if resp.status_code == 200:
+                    data = resp.json()
+                    if isinstance(data, list) and data and isinstance(data[0], list):
+                        translated = "".join(part[0] for part in data[0] if part and part[0])
+                        if translated:
+                            res = translated.strip()
+                            _TRANSLATE_CACHE[clean] = res
+                            return res
+            else:
+                req = urllib.request.Request(url, headers=headers)
+                with urllib.request.urlopen(req, timeout=5) as response:
+                    data = json.loads(response.read().decode("utf-8"))
+                    if isinstance(data, list) and data and isinstance(data[0], list):
+                        translated = "".join(part[0] for part in data[0] if part and part[0])
+                        if translated:
+                            res = translated.strip()
+                            _TRANSLATE_CACHE[clean] = res
+                            return res
+        except Exception:
+            continue
     return clean
 
 
@@ -573,8 +582,20 @@ def fetch_source_entries(source: Dict[str, Any], max_items: int = 10) -> List[Di
 
 def enrich_item(item: Dict[str, Any]) -> Dict[str, Any]:
     lang = item.get("lang", "it")
-    title_it = item.get("title_it") or translate_to_italian(item["title_orig"], lang)
-    summary_it = item.get("summary_it") or translate_to_italian(item["summary_orig"], lang)
+    orig_title = item.get("title_orig", "")
+    orig_summary = item.get("summary_orig", "")
+    existing_title_it = item.get("title_it", "")
+    existing_summary_it = item.get("summary_it", "")
+
+    if not existing_title_it or (lang != "it" and existing_title_it.strip() == orig_title.strip()):
+        title_it = translate_to_italian(orig_title, lang)
+    else:
+        title_it = existing_title_it
+
+    if not existing_summary_it or (lang != "it" and existing_summary_it.strip() == orig_summary.strip()):
+        summary_it = translate_to_italian(orig_summary, lang)
+    else:
+        summary_it = existing_summary_it
 
     item["title_it"] = title_it
     item["summary_it"] = summary_it
@@ -622,14 +643,60 @@ def load_seen_keys(now_rome: dt.datetime) -> Dict[str, str]:
     return {k: v for k, v in data.items() if str(v) >= cutoff}
 
 
-def rotate_7day_archive(now_rome: dt.datetime, previous_edition_date: Optional[str]) -> List[str]:
+def adapt_readme_for_archive(content: str, edition_date: str) -> str:
+    """Adatta i link relativi di README.md affinché funzionino correttamente dentro archivio/YYYY-MM-DD.md."""
+    adapted = content.replace("(./IN_CORSO.md)", "(../IN_CORSO.md)")
+    adapted = adapted.replace("(./archivio/", "(./")
+    adapted = adapted.replace(
+        "**Stai leggendo l'Edizione Ufficiale delle 20:05 CET.**<br>_Rimane visibile in prima pagina fino alle 20:04 del giorno successivo._",
+        f"**[Torna al `README.md` Principale](../README.md)**<br>_Stai consultando l'edizione archiviata del {edition_date}._",
+    )
+    return adapted
+
+
+def sync_archive_nav_bars() -> None:
+    """Aggiorna la barra di navigazione 'Ultimi 7 Giorni Archiviati' in tutti i file presenti in archivio/."""
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+    archives = sorted(ARCHIVE_DIR.glob("*.md"), key=lambda p: p.stem, reverse=True)[:MAX_ARCHIVE_DAYS]
+    if not archives:
+        return
+    local_pills = " · ".join(f"[📅 **{p.stem}**](./{p.name})" for p in archives)
+    new_line = f"📚 **Ultimi 7 Giorni Archiviati:** {local_pills}"
+    for arch_file in archives:
+        try:
+            txt = arch_file.read_text(encoding="utf-8")
+            updated = re.sub(
+                r"^📚 \*\*Ultimi 7 Giorni Archiviati:\*\*.*$",
+                new_line,
+                txt,
+                flags=re.MULTILINE,
+            )
+            if updated != txt:
+                arch_file.write_text(updated, encoding="utf-8")
+        except Exception:
+            pass
+
+
+def rotate_7day_archive(
+    now_rome: dt.datetime,
+    previous_edition_date: Optional[str],
+    current_edition_date: Optional[str] = None,
+) -> List[str]:
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
 
     if README_PATH.exists() and previous_edition_date:
         archive_target = ARCHIVE_DIR / f"{previous_edition_date}.md"
         content = README_PATH.read_text(encoding="utf-8")
         if content.strip() and not archive_target.exists():
-            archive_target.write_text(content, encoding="utf-8")
+            archive_target.write_text(
+                adapt_readme_for_archive(content, previous_edition_date),
+                encoding="utf-8",
+            )
+
+    if current_edition_date:
+        current_target = ARCHIVE_DIR / f"{current_edition_date}.md"
+        if not current_target.exists():
+            current_target.write_text("", encoding="utf-8")
 
     cutoff_date = (now_rome.date() - dt.timedelta(days=MAX_ARCHIVE_DAYS)).strftime("%Y-%m-%d")
     all_archives = sorted(ARCHIVE_DIR.glob("*.md"), key=lambda p: p.stem, reverse=True)
@@ -1217,6 +1284,18 @@ def run_hourly_update(slot_dt: dt.datetime) -> None:
     save_json(CYCLE_JSON_PATH, cycle_data)
     save_json(SEEN_JSON_PATH, seen_keys)
 
+    # Assicura che l'ultima edizione pubblicata sia sempre presente anche in archivio/
+    last_pub = cycle_data.get("last_published_edition_date")
+    if last_pub and README_PATH.exists():
+        last_arch = ARCHIVE_DIR / f"{last_pub}.md"
+        if not last_arch.exists():
+            ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+            last_arch.write_text(
+                adapt_readme_for_archive(README_PATH.read_text(encoding="utf-8"), last_pub),
+                encoding="utf-8",
+            )
+            sync_archive_nav_bars()
+
     live_md = build_live_in_corso_md(cycle_data, slot_dt)
     LIVE_PATH.write_text(live_md, encoding="utf-8")
     print(f"[OK] Ricerca oraria ({timestamp_str}) salvata in IN_CORSO.md ({len(hourly_batches)}/23).")
@@ -1258,11 +1337,13 @@ def run_daily_top10_publication(slot_dt: dt.datetime) -> None:
 
     all_candidates: List[Dict[str, Any]] = list(closing_items)
     for batch in hourly_batches:
-        all_candidates.extend(batch.get("items", []))
+        enriched_batch_items = [enrich_item(dict(it)) for it in batch.get("items", [])]
+        batch["items"] = enriched_batch_items
+        all_candidates.extend(enriched_batch_items)
 
     top_5_core, top_5_rotation = select_top_10(all_candidates)
 
-    rotate_7day_archive(slot_dt, previous_edition_date)
+    rotate_7day_archive(slot_dt, previous_edition_date, current_edition_date=edition_date)
 
     new_readme = build_main_readme(
         edition_date=edition_date,
@@ -1272,6 +1353,14 @@ def run_daily_top10_publication(slot_dt: dt.datetime) -> None:
         hourly_batches=hourly_batches,
     )
     README_PATH.write_text(new_readme, encoding="utf-8")
+
+    # Salva immediatamente una copia dell'edizione appena pubblicata anche in archivio/YYYY-MM-DD.md
+    current_archive_path = ARCHIVE_DIR / f"{edition_date}.md"
+    current_archive_path.write_text(
+        adapt_readme_for_archive(new_readme, edition_date),
+        encoding="utf-8",
+    )
+    sync_archive_nav_bars()
 
     next_target = (slot_dt + dt.timedelta(days=1)).strftime("%Y-%m-%d")
     new_cycle_data = {
@@ -1284,7 +1373,7 @@ def run_daily_top10_publication(slot_dt: dt.datetime) -> None:
     save_json(SEEN_JSON_PATH, seen_keys)
 
     LIVE_PATH.write_text(build_live_in_corso_md(new_cycle_data, slot_dt), encoding="utf-8")
-    print(f"[OK] TOP 10 delle 20:05 CET pubblicata in README.md per l'edizione {edition_date}!")
+    print(f"[OK] TOP 10 delle 20:05 CET pubblicata in README.md e archiviata in archivio/{edition_date}.md!")
 
 
 def infer_last_slot_dt(cycle_data: Dict[str, Any], now_rome: dt.datetime) -> dt.datetime:
@@ -1342,15 +1431,15 @@ def run_auto_with_catchup(now_rome: dt.datetime, do_git_commit: bool = False) ->
         )
         return
 
-    # Costruisci la sequenza di slot orari da recuperare (massimo ultime 24 ore per sicurezza)
+    # Costruisci la sequenza di slot orari da recuperare (fino a 72 ore per non perdere mai uno slot 20:05 CET)
     pending_slots: List[dt.datetime] = []
     probe = last_slot_dt + dt.timedelta(hours=1)
     while probe <= current_slot_dt:
         pending_slots.append(probe)
         probe += dt.timedelta(hours=1)
 
-    if len(pending_slots) > 24:
-        pending_slots = pending_slots[-24:]
+    if len(pending_slots) > 72:
+        pending_slots = pending_slots[-72:]
 
     print(f"[AUTO] {len(pending_slots)} slot orari da processare fino a {current_slot_dt.strftime('%Y-%m-%d %H:05 CET')}.")
 
