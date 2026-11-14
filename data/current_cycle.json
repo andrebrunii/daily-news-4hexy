@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-13",
   "target_edition_date": "2026-11-14",
-  "last_slot_iso": "2026-11-14T15:05:00",
+  "last_slot_iso": "2026-11-14T16:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1558,6 +1558,88 @@
           "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
           "score": 14.0
+        }
+      ]
+    },
+    {
+      "hour_label": "16:05 CET",
+      "timestamp_str": "2026-11-14 16:05 CET",
+      "items": [
+        {
+          "title_orig": ">ANSA-REPORTAGE/ In Gagauzia, la regione che vota tra eredità sovietica e futuro Ue",
+          "summary_orig": "Per la Moldavia è questione da risolvere dopo quella della Transnistria",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/ansa-reportage-in-gagauzia-la-regione-che-vota-tra-eredita-sovietica-e-futuro_0156db85-72a3-4441-b180-1c6b17409157.html",
+          "published": "Sat, 14 Nov 2026 18:11:22 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "16:05 CET",
+          "title_it": ">ANSA-REPORTAGE/ In Gagauzia, la regione che vota tra eredità sovietica e futuro Ue",
+          "summary_it": "Per la Moldavia è questione da risolvere dopo quella della Transnistria",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "EU reiterates ‘grave concern’ over Gaza humanitarian crisis as winter approaches",
+          "summary_orig": "The bloc's foreign policy chief Kaja Kallas has called on Israel to allow more humanitarian aid into Gaza as weather worsens living conditions.",
+          "link": "https://www.politico.eu/article/eu-reiterates-grave-concern-over-gaza-humanitarian-crisis-as-winter-approaches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Sat, 14 Nov 2026 16:28:36 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "16:05 CET",
+          "title_it": "L’UE ribadisce la “grave preoccupazione” per la crisi umanitaria di Gaza con l’avvicinarsi dell’inverno",
+          "summary_it": "Il capo della politica estera del blocco, Kaja Kallas, ha invitato Israele a consentire maggiori aiuti umanitari a Gaza poiché il clima peggiora le condizioni di vita.",
+          "impact_eu_it": "Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 27.0
+        },
+        {
+          "title_orig": "Sean Duffy blames Friday's FAA outage on copper-to-fiber wiring work at a remote facility, saying contractor L3Harris may have installed a \"faulty router\" (Joseph Pisani/Wall Street Journal)",
+          "summary_orig": "Joseph Pisani / Wall Street Journal : Sean Duffy blames Friday's FAA outage on copper-to-fiber wiring work at a remote facility, saying contractor L3Harris may have installed a “faulty router” — Work at a single remote location caused instability that led authorities to order nationwide groundstop; airlines continue to cancel flights as they rush to reset",
+          "link": "https://www.techmeme.com/261114/p14#a261114p14",
+          "published": "Sat, 14 Nov 2026 12:15:29 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "16:05 CET",
+          "title_it": "Sean Duffy attribuisce la colpa dell'interruzione della FAA di venerdì ai lavori di cablaggio da rame a fibra in una struttura remota, affermando che l'appaltatore L3Harris potrebbe aver installato un \"router difettoso\" (Joseph Pisani/Wall Street Journal)",
+          "summary_it": "Joseph Pisani / Wall Street Journal: Sean Duffy attribuisce la colpa dell'interruzione della FAA di venerdì ai lavori di cablaggio da rame a fibra in una struttura remota, affermando che l'appaltatore L3Harris potrebbe aver installato un \"router difettoso\" - Il lavoro in un'unica posizione remota ha causato instabilità che ha portato le autorità a ordinare un arresto a livello nazionale; le compagnie aeree continuano a cancellare i voli mentre si affrettano a ripristinare",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Winemakers are learning that conservation can be good for business",
+          "summary_orig": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+          "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+          "published": "Sat, 14 Nov 2026 12:05:51 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "16:05 CET",
+          "title_it": "I produttori di vino stanno imparando che la conservazione può essere positiva per gli affari",
+          "summary_it": "Suoli sani, piante autoctone e meno sostanze chimiche stanno aiutando i vigneti ad adattarsi.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 12.0
         }
       ]
     }

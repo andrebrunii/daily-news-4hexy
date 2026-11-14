@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `16:05 CET` — Ricerca Oraria (20/23)
+_Aggiornamento registrato il `2026-11-14 16:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [>ANSA-REPORTAGE/ In Gagauzia, la regione che vota tra eredità sovietica e futuro Ue](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/ansa-reportage-in-gagauzia-la-regione-che-vota-tra-eredita-sovietica-e-futuro_0156db85-72a3-4441-b180-1c6b17409157.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Per la Moldavia è questione da risolvere dopo quella della Transnistria
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [L’UE ribadisce la “grave preoccupazione” per la crisi umanitaria di Gaza con l’avvicinarsi dell’inverno](https://www.politico.eu/article/eu-reiterates-grave-concern-over-gaza-humanitarian-crisis-as-winter-approaches/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il capo della politica estera del blocco, Kaja Kallas, ha invitato Israele a consentire maggiori aiuti umanitari a Gaza poiché il clima peggiora le condizioni di vita.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[3] `🤖 IA & Frontiera Tech` [Sean Duffy attribuisce la colpa dell'interruzione della FAA di venerdì ai lavori di cablaggio da rame a fibra in una struttura remota, affermando che l'appaltatore L3Harris potrebbe aver installato un "router difettoso" (Joseph Pisani/Wall Street Journal)](https://www.techmeme.com/261114/p14#a261114p14)** — *(Techmeme)*
+  - 📌 **Sintesi:** Joseph Pisani / Wall Street Journal: Sean Duffy attribuisce la colpa dell'interruzione della FAA di venerdì ai lavori di cablaggio da rame a fibra in una struttura remota, affermando che l'appaltatore L3Harris potrebbe aver installato un "router difettoso" - Il lavoro in un'unica posizione remota ha causato instabilità che ha portato le autorità a ordinare un arresto a livello nazionale; le compagnie aeree continuano a cancellare i voli mentre si affrettano a ripristinare
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `💻 Tecnologia & Cyber` [I produttori di vino stanno imparando che la conservazione può essere positiva per gli affari](https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Suoli sani, piante autoctone e meno sostanze chimiche stanno aiutando i vigneti ad adattarsi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
 _Aggiornamento registrato il `2026-11-14 15:05 CET`_
