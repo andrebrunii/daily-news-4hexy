@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 14 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-22%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-23%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (22/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
+**Progresso verso la Top 10 delle 20:05 CET (23/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `19:05 CET` — Ricerca Oraria (23/23)
+_Aggiornamento registrato il `2026-11-14 19:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Le notizie del giorno | 14 novembre 2026 - Serale](https://it.euronews.com/video/2026/11/14/le-notizie-del-giorno-14-novembre-2026-serale)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Segui l'attualità dall'Europa e dal mondo del 14 novembre 2026. Ricevi le ultime notizie su economia, spettacolo, politica, cultura, viaggi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `📈 Economia & Mercati` [Stagione sciistica 2026/2027: aperture anticipate e innovazioni dal Piemonte al Trentino e Friuli](https://www.ilsole24ore.com/art/stagione-sciistica-20262027-aperture-anticipate-e-innovazioni-piemonte-trentino-e-friuli-AJfhhXGC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** In qualche località, come in Val d’Aosta , il debutto c’è già stato. Nelle altre, invece, per la stagione sciistica è iniziato il conto alla rovescia. A Madonna di Campiglio il...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `💶 Macro & Finanza UE` [Consumatori, prezzi dell'olio crollati, -26% sul picco del 2024](https://www.ansa.it/sito/notizie/economia/2026/11/14/consumatori-prezzi-dellolio-crollati-26-sul-picco-del-2024_6c4d96d7-5257-40a7-a7b5-c5b225e15a80.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** A fronte di riduzione dei prezzi cresce allarme su olio prodotto con olive straniere
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🏦 Mercati Globali` [L'arresto a terra a livello nazionale ha seguito l'aggiornamento dell'appaltatore al sistema di telecomunicazioni L3Harris: Duffy del DOT](https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L'arresto a terra della FAA è avvenuto dopo gli aggiornamenti di un vecchio sistema di comunicazione gestito da L3Harris Technologies, ha detto sabato il segretario ai trasporti Sean Duffy.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `18:05 CET` — Ricerca Oraria (22/23)
 _Aggiornamento registrato il `2026-11-14 18:05 CET`_
