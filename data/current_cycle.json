@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-15",
   "target_edition_date": "2026-11-16",
-  "last_slot_iso": "2026-11-15T22:05:00",
+  "last_slot_iso": "2026-11-15T23:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -164,6 +164,88 @@
           "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
           "score": 24.0
+        }
+      ]
+    },
+    {
+      "hour_label": "23:05 CET",
+      "timestamp_str": "2026-11-15 23:05 CET",
+      "items": [
+        {
+          "title_orig": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
+          "summary_orig": "Dichiarazione congiunta dei 4 ministri degli Esteri",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/italia-gb-australia-e-canada-israele-dia-accesso-umanitario-immediato-a-gaza_2df8254e-9539-4d8e-aa11-a00f70cfa78b.html",
+          "published": "Sun, 15 Nov 2026 21:20:04 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "23:05 CET",
+          "title_it": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
+          "summary_it": "Dichiarazione congiunta dei 4 ministri degli Esteri",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+          "summary_orig": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+          "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Nov 2026 19:32:39 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "23:05 CET",
+          "title_it": "Zelenskyj esorta gli Stati Uniti e Musk a revocare le restrizioni su Starlink e a stare dalla “parte giusta della storia”",
+          "summary_it": "Il presidente ucraino afferma che il rallentamento di Internet rende difficile fermare gli attacchi russi.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 17.5
+        },
+        {
+          "title_orig": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
+          "summary_orig": "The strange, wildly tilted magnetic fields of Uranus and Neptune have puzzled scientists since NASA's Voyager 2 spacecraft explored the planets in the 1980s. New simulations suggest that extreme conditions deep inside these icy giants create unusual electrical properties that could explain their magnetic fields. Remarkably, the models indicate that their...",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
+          "published": "Sun, 15 Nov 2026 08:43:22 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "23:05 CET",
+          "title_it": "I bizzarri campi magnetici di Urano e Nettuno possono finalmente essere spiegati",
+          "summary_it": "Gli strani campi magnetici incredibilmente inclinati di Urano e Nettuno hanno lasciato perplessi gli scienziati da quando la navicella spaziale Voyager 2 della NASA ha esplorato i pianeti negli anni '80. Nuove simulazioni suggeriscono che le condizioni estreme nelle profondità di questi giganti ghiacciati creano proprietà elettriche insolite che potrebbero spiegare i loro campi magnetici. Sorprendentemente, i modelli indicano che il loro...",
+          "impact_eu_it": "Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "The body keeps exposing how much we don’t understand",
+          "summary_orig": "“We have so much opportunity still and so much room to grow. Science is never done.” Inside the Nike Sport Research Lab, Chief Science Officer Matthew Nurse and his team chase the questions that hold athletes back. Drawing on biomechanics, physiology and neuroscience, they start with the problems every athlete knows: fatigue, injury, the moment the body...",
+          "link": "https://bigthink.com/sponsored/the-body-keeps-exposing-how-much-we-dont-understand/",
+          "published": "Thu, 12 Nov 2026 15:25:38 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "23:05 CET",
+          "title_it": "Il corpo continua a esporre quanto non capiamo",
+          "summary_it": "\"Abbiamo ancora così tante opportunità e così tanto spazio per crescere. La scienza non è mai finita.\" All'interno del Nike Sport Research Lab, il responsabile scientifico Matthew Nurse e il suo team inseguono le domande che frenano gli atleti. Attingendo alla biomeccanica, alla fisiologia e alle neuroscienze, iniziano con i problemi che ogni atleta conosce: la fatica, gli infortuni, il momento in cui il corpo...",
+          "impact_eu_it": "Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 16.5
         }
       ]
     }

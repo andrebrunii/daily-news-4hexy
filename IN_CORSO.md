@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Lunedì 16 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-2%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-3%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (2/23 ricerche orarie):**
-`🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (3/23 ricerche orarie):**
+`🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `23:05 CET` — Ricerca Oraria (3/23)
+_Aggiornamento registrato il `2026-11-15 23:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/italia-gb-australia-e-canada-israele-dia-accesso-umanitario-immediato-a-gaza_2df8254e-9539-4d8e-aa11-a00f70cfa78b.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Dichiarazione congiunta dei 4 ministri degli Esteri
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[2] `🌐 Scacchiere Globale` [Zelenskyj esorta gli Stati Uniti e Musk a revocare le restrizioni su Starlink e a stare dalla “parte giusta della storia”](https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il presidente ucraino afferma che il rallentamento di Internet rende difficile fermare gli attacchi russi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🔭 Ricerca & Spazio` [I bizzarri campi magnetici di Urano e Nettuno possono finalmente essere spiegati](https://www.sciencedaily.com/releases/2026/11/261114202204.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli strani campi magnetici incredibilmente inclinati di Urano e Nettuno hanno lasciato perplessi gli scienziati da quando la navicella spaziale Voyager 2 della NASA ha esplorato i pianeti negli anni '80. Nuove simulazioni suggeriscono che le condizioni estreme nelle profondità di questi giganti ghiacciati creano proprietà elettriche insolite che potrebbero spiegare i loro campi magnetici. Sorprendentemente, i modelli indicano che il loro...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Il corpo continua a esporre quanto non capiamo](https://bigthink.com/sponsored/the-body-keeps-exposing-how-much-we-dont-understand/)** — *(Big Think)*
+  - 📌 **Sintesi:** "Abbiamo ancora così tante opportunità e così tanto spazio per crescere. La scienza non è mai finita." All'interno del Nike Sport Research Lab, il responsabile scientifico Matthew Nurse e il suo team inseguono le domande che frenano gli atleti. Attingendo alla biomeccanica, alla fisiologia e alle neuroscienze, iniziano con i problemi che ogni atleta conosce: la fatica, gli infortuni, il momento in cui il corpo...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
 
 ### 🕒 Ora `22:05 CET` — Ricerca Oraria (2/23)
 _Aggiornamento registrato il `2026-11-15 22:05 CET`_
