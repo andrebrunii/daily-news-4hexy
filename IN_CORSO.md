@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-13%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (13/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `09:05 CET` — Ricerca Oraria (13/23)
+_Aggiornamento registrato il `2026-11-15 09:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Musk in campo a favore di Huang, 'torni alla guida di Nvidia'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/musk-in-campo-a-favore-di-huang-torni-alla-guida-di-nvidia_efe1f900-e9e8-4045-b305-0cc35c51cad4.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Firma petizione che lamenta la rimozione 'senza adeguato e corretto processo decisionale'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[2] `🌐 Scacchiere Globale` [Il giudice impedisce temporaneamente a Trump di chiudere il campo da golf di Washington DC per lavori di ristrutturazione](https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Si tratta dell'ultimo sviluppo di una sfida durata mesi ai piani del presidente per l'East Potomac Golf Links.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[3] `🔭 Ricerca & Spazio` [Euclide scopre antichi fari cosmici risalenti all'alba dei tempi, che brillano come trilioni di soli](https://www.sciencedaily.com/releases/2026/11/261112230504.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Il telescopio spaziale Euclid dell’ESA ha scoperto 31 antichi quasar, tra cui due oggetti da record che brillavano con la luminosità di un trilione di Soli quando l’Universo aveva appena 670 milioni di anni. Alimentati da buchi neri supermassicci, questi straordinari fari cosmici rivelano un’epoca in cui le prime galassie stavano ancora prendendo forma.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Perché le lotte politiche si trasformano in guerre di parole](https://bigthink.com/history-society/culture-wars-are-mostly-about-changing-words-not-policy/)** — *(Big Think)*
+  - 📌 **Sintesi:** Nell'agosto 2024 mi sono trasferito con la mia famiglia da Chicago, Illinois, a Milano, Italia, per provare a vivere all'estero per un anno. Nei mesi successivi al trasferimento, la corsa alle presidenziali americane ha preso una svolta senza precedenti, con l’allora vicepresidente Kamala Harris che ha ottenuto una candidatura tardiva alla lista democratica, Donald Trump che si è lanciato per vincere le elezioni e...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
 
 ### 🕒 Ora `08:05 CET` — Ricerca Oraria (12/23)
 _Aggiornamento registrato il `2026-11-15 08:05 CET`_

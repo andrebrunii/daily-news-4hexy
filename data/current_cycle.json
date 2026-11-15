@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-14",
   "target_edition_date": "2026-11-15",
-  "last_slot_iso": "2026-11-15T08:05:00",
+  "last_slot_iso": "2026-11-15T09:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -984,6 +984,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 17.0
+        }
+      ]
+    },
+    {
+      "hour_label": "09:05 CET",
+      "timestamp_str": "2026-11-15 09:05 CET",
+      "items": [
+        {
+          "title_orig": "Musk in campo a favore di Huang, 'torni alla guida di Nvidia'",
+          "summary_orig": "Firma petizione che lamenta la rimozione 'senza adeguato e corretto processo decisionale'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/musk-in-campo-a-favore-di-huang-torni-alla-guida-di-nvidia_efe1f900-e9e8-4045-b305-0cc35c51cad4.html",
+          "published": "Sat, 14 Nov 2026 17:21:05 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "09:05 CET",
+          "title_it": "Musk in campo a favore di Huang, 'torni alla guida di Nvidia'",
+          "summary_it": "Firma petizione che lamenta la rimozione 'senza adeguato e corretto processo decisionale'",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 16.0
+        },
+        {
+          "title_orig": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+          "summary_orig": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+          "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Nov 2026 03:21:04 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "09:05 CET",
+          "title_it": "Il giudice impedisce temporaneamente a Trump di chiudere il campo da golf di Washington DC per lavori di ristrutturazione",
+          "summary_it": "Si tratta dell'ultimo sviluppo di una sfida durata mesi ai piani del presidente per l'East Potomac Golf Links.",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 17.5
+        },
+        {
+          "title_orig": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+          "summary_orig": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the first galaxies were still taking shape.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
+          "published": "Sat, 14 Nov 2026 20:52:47 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "09:05 CET",
+          "title_it": "Euclide scopre antichi fari cosmici risalenti all'alba dei tempi, che brillano come trilioni di soli",
+          "summary_it": "Il telescopio spaziale Euclid dell’ESA ha scoperto 31 antichi quasar, tra cui due oggetti da record che brillavano con la luminosità di un trilione di Soli quando l’Universo aveva appena 670 milioni di anni. Alimentati da buchi neri supermassicci, questi straordinari fari cosmici rivelano un’epoca in cui le prime galassie stavano ancora prendendo forma.",
+          "impact_eu_it": "Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Why political fights devolve into wars about words",
+          "summary_orig": "In August 2024, I moved with my family from Chicago, Illinois, to Milan, Italy, to test out living overseas for a year. In the months after relocating, the American presidential race took an unprecedented turn with then-Vice President Kamala Harris navigating a late nomination to the Democratic ticket, Donald Trump surging to win the election, and...",
+          "link": "https://bigthink.com/history-society/culture-wars-are-mostly-about-changing-words-not-policy/",
+          "published": "Thu, 12 Nov 2026 19:53:53 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "09:05 CET",
+          "title_it": "Perché le lotte politiche si trasformano in guerre di parole",
+          "summary_it": "Nell'agosto 2024 mi sono trasferito con la mia famiglia da Chicago, Illinois, a Milano, Italia, per provare a vivere all'estero per un anno. Nei mesi successivi al trasferimento, la corsa alle presidenziali americane ha preso una svolta senza precedenti, con l’allora vicepresidente Kamala Harris che ha ottenuto una candidatura tardiva alla lista democratica, Donald Trump che si è lanciato per vincere le elezioni e...",
+          "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
+          "score": 21.0
         }
       ]
     }
