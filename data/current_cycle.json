@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-14",
   "target_edition_date": "2026-11-15",
-  "last_slot_iso": "2026-11-15T10:05:00",
+  "last_slot_iso": "2026-11-15T11:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1148,6 +1148,88 @@
           "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 14.0
+        }
+      ]
+    },
+    {
+      "hour_label": "11:05 CET",
+      "timestamp_str": "2026-11-15 11:05 CET",
+      "items": [
+        {
+          "title_orig": "Germania, autorizzato l'abbattimento di 10 lupi: si riaccende il dibattito",
+          "summary_orig": "Dopo il grave attacco a un bambino in un parco faunistico, i media hanno riportato il \"lupo pericoloso\" al centro dell'attenzione. In Brandeburgo dieci lupi selvatici ritenuti problematici potranno essere abbattuti. Uomo e lupo: chi minaccia chi?",
+          "link": "https://it.euronews.com/2026/11/15/germania-autorizzato-labbattimento-di-10-lupi-si-riaccende-il-dibattito",
+          "published": "Sun, 15 Nov 2026 11:39:27 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "11:05 CET",
+          "title_it": "Germania, autorizzato l'abbattimento di 10 lupi: si riaccende il dibattito",
+          "summary_it": "Dopo il grave attacco a un bambino in un parco faunistico, i media hanno riportato il \"lupo pericoloso\" al centro dell'attenzione. In Brandeburgo dieci lupi selvatici ritenuti problematici potranno essere abbattuti. Uomo e lupo: chi minaccia chi?",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Contratto bancari, negoziato sul rinnovo in stallo da mesi tra Opas e manovra",
+          "summary_orig": "Confronto tra Abi e sindacati in un contesto incerto, manca una risposta dei banchieri sull’aumento",
+          "link": "https://www.ilsole24ore.com/art/contratto-bancari-negoziato-rinnovo-stallo-mesi-opas-e-manovra-AJ9mkzGC",
+          "published": "Sun, 15 Nov 2026 09:39:47 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "11:05 CET",
+          "title_it": "Contratto bancari, negoziato sul rinnovo in stallo da mesi tra Opas e manovra",
+          "summary_it": "Confronto tra Abi e sindacati in un contesto incerto, manca una risposta dei banchieri sull’aumento",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 13.0
+        },
+        {
+          "title_orig": "Scende ancora il prezzo dei carburanti, benzina a 1,959 euro al litro",
+          "summary_orig": "Mimit, in media 2,209 euro al litro per il gasolio",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/scende-ancora-il-prezzo-dei-carburanti-benzina-a-1959-euro-al-litro_6844ad99-26c0-439e-baf9-f42a52e594aa.html",
+          "published": "Sun, 15 Nov 2026 09:26:38 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "11:05 CET",
+          "title_it": "Scende ancora il prezzo dei carburanti, benzina a 1,959 euro al litro",
+          "summary_it": "Mimit, in media 2,209 euro al litro per il gasolio",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "How Canadian stocks could be big winners of U.S. midterms",
+          "summary_orig": "Canadian stocks are up more than 1% since the vote, while the S&P 500 has sagged 0.5% in that time.",
+          "link": "https://www.cnbc.com/2026/11/14/canada-stocks-us-midterms-tariffs.html",
+          "published": "Sat, 14 Nov 2026 14:11:48 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "11:05 CET",
+          "title_it": "Come le azioni canadesi potrebbero essere grandi vincitori delle elezioni di medio termine statunitensi",
+          "summary_it": "Le azioni canadesi sono aumentate di oltre l’1% dal voto, mentre l’indice S&P 500 è crollato dello 0,5% nel frattempo.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 12.0
         }
       ]
     }
