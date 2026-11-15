@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-13%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-14%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (13/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (14/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `10:05 CET` — Ricerca Oraria (14/23)
+_Aggiornamento registrato il `2026-11-15 10:05 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Israele uccide il comandante di Hamas in un attacco a Gaza](https://www.politico.eu/article/israel-kills-hamas-commander-in-gaza-strike/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Samir Abu Younis, che ha contribuito a pianificare e supervisionare il massacro del 7 ottobre, ha preso il controllo della Brigata Rafah di Hamas solo due mesi fa.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[2] `🌐 Scacchiere Globale` [Il quinto soldato canadese muore per le ferite causate dal grande incendio in una base militare](https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Pte William Douglas Dal Bianco è morto venerdì per le ferite riportate, un mese dopo un incendio che ha devastato il CFB Wainwright.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💶 Macro & Finanza UE` [Bitcoin scende a 62.000 dollari, tocca i minimi da 4 mesi](https://www.ansa.it/sito/notizie/economia/2026/11/15/bitcoin-scende-a-62.000-dollari-tocca-i-minimi-da-4-mesi_29642167-4c39-40cf-9461-942d78d582a3.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Vendite su tutte le criptovalute. In una settimana Ether ha perso il 22%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[4] `🏦 Mercati Globali` [Il Bahrein intercetta gli attacchi aerei iraniani mentre Teheran afferma di aver attaccato la base americana](https://www.cnbc.com/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L'esercito del Bahrein ha affermato che le sue difese aeree hanno intercettato diversi attacchi aerei iraniani prima che raggiungessero i loro obiettivi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
 
 ### 🕒 Ora `09:05 CET` — Ricerca Oraria (13/23)
 _Aggiornamento registrato il `2026-11-15 09:05 CET`_
