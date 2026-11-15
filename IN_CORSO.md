@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-18%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (18/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
+_Aggiornamento registrato il `2026-11-15 15:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Documentario "Dans Gaza" sul lavoro dei reporter AFP premiato al festival Cinemania di Montréal](https://it.euronews.com/2026/11/15/documentario-dans-gaza-sul-lavoro-dei-reporter-afp-premiato-al-festival-cinemania-di-montr)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Diretto da Hélène Lam Trong, "Dans Gaza" ha vinto sabato il premio per il miglior documentario al festival Cinemania di Montréal. Il film di 72 minuti segue il quotidiano di quattro giornalisti palestinesi dell'AFP, che hanno coperto i primi mesi della guerra rischiando la vita.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[2] `📈 Economia & Mercati` [Contratti di lavoro da rinnovare per 2,5 milioni di lavoratori](https://www.ilsole24ore.com/art/contratti-lavoro-rinnovare-25-milioni-lavoratori-AJE1nzGC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Nell’industria oltre nove su dieci con contratto in vigore, a fine anno scadono calzature, grafici e autoferrotranvieri. Nei servizi accordi in scadenza in marzo per i 3 milioni del commercio
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[3] `💶 Macro & Finanza UE` [Negozi e ristoranti non sono più imprese per giovani, età media 52 anni](https://www.ansa.it/sito/notizie/economia/2026/11/15/negozi-e-ristoranti-non-sono-piu-imprese-per-giovani-eta-media_b5e17aae-e249-45be-aaaf-33d66d8e621d.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Confesercenti, la regione con gli imprenditori più anziani è la Liguria
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[4] `🏦 Mercati Globali` [Come l'uscita di "GTA VI" di Rockstar potrebbe rimodellare i giochi, lo streaming e persino il tempo libero retribuito](https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** "Grand Theft Auto VI" verrà lanciato il 19 novembre con grandi aspettative. Il suo impatto potrebbe raggiungere i creatori, lo streaming, la musica, le ferie sul posto di lavoro, la consegna di cibo e il turismo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
 
 ### 🕒 Ora `14:05 CET` — Ricerca Oraria (18/23)
 _Aggiornamento registrato il `2026-11-15 14:05 CET`_
