@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-4%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (4/23 ricerche orarie):**
-`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `01:05 CET` — Ricerca Oraria (5/23)
+_Aggiornamento registrato il `2026-11-15 01:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Stephen King ironizza, 'sono arrivati gli alieni, è questo il motivo del caos voli'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/stephen-king-ironizza-sono-arrivati-gli-alieni-e-questo-il-motivo-del_dce70d90-f403-426a-99a3-d47773440dbc.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il regista e scrittore horror lo scrive su X generando milioni di visualizzazioni
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌐 Scacchiere Globale` [Van Gogh, asta da 180 milioni di dollari, contestata da Sotheby's perché "venduto sotto costrizione"](https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Sotheby's afferma che lavorerà con gli eredi di una famiglia che in precedenza possedeva l'opera d'arte per cercare di raggiungere una soluzione.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🔭 Ricerca & Spazio` [Gli scienziati di Stanford scoprono segnali cerebrali nascosti che predicono l'Alzheimer anni prima dei sintomi](https://www.sciencedaily.com/releases/2026/11/261112230444.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** I ricercatori di Stanford hanno scoperto che i modelli nascosti dell'attività cerebrale possono prevedere il rischio di Alzheimer anni prima che compaiano i problemi di memoria, offrendo potenzialmente un avvertimento più precoce rispetto ai biomarcatori tradizionali. Gli stessi modelli rivelano anche quali cervelli sono insolitamente resistenti all’invecchiamento, suscitando speranze per trattamenti futuri che potrebbero aiutare a proteggere la memoria.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Una guida per principianti per innamorarsi della letteratura russa](https://bigthink.com/books/beginners-guide-to-russian-literature/)** — *(Big Think)*
+  - 📌 **Sintesi:** Pochi canoni letterari ispirano tanta riverenza e paura quanto quelli russi. La vastità e la complessità di romanzi come Guerra e pace (1867) di Leone Tolstoj e I fratelli Karamazov (1880) di Fëdor Dostoevskij hanno creato due gruppi di lettori: quelli che li hanno letti e quelli che dicono che li leggeranno, un giorno. Per un motivo o per l'altro, quel giorno mai...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
 
 ### 🕒 Ora `00:05 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-15 00:05 CET`_

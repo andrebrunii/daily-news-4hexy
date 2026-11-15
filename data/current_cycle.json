@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-14",
   "target_edition_date": "2026-11-15",
-  "last_slot_iso": "2026-11-15T00:05:00",
+  "last_slot_iso": "2026-11-15T01:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -328,6 +328,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 20.5
+        }
+      ]
+    },
+    {
+      "hour_label": "01:05 CET",
+      "timestamp_str": "2026-11-15 01:05 CET",
+      "items": [
+        {
+          "title_orig": "Stephen King ironizza, 'sono arrivati gli alieni, è questo il motivo del caos voli'",
+          "summary_orig": "Il regista e scrittore horror lo scrive su X generando milioni di visualizzazioni",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/stephen-king-ironizza-sono-arrivati-gli-alieni-e-questo-il-motivo-del_dce70d90-f403-426a-99a3-d47773440dbc.html",
+          "published": "Sat, 14 Nov 2026 19:09:18 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "01:05 CET",
+          "title_it": "Stephen King ironizza, 'sono arrivati gli alieni, è questo il motivo del caos voli'",
+          "summary_it": "Il regista e scrittore horror lo scrive su X generando milioni di visualizzazioni",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+          "summary_orig": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+          "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 18:00:10 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "01:05 CET",
+          "title_it": "Van Gogh, asta da 180 milioni di dollari, contestata da Sotheby's perché \"venduto sotto costrizione\"",
+          "summary_it": "Sotheby's afferma che lavorerà con gli eredi di una famiglia che in precedenza possedeva l'opera d'arte per cercare di raggiungere una soluzione.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 16.0
+        },
+        {
+          "title_orig": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+          "summary_orig": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hopes for future treatments that could help protect memory.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+          "published": "Sat, 14 Nov 2026 07:25:05 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "01:05 CET",
+          "title_it": "Gli scienziati di Stanford scoprono segnali cerebrali nascosti che predicono l'Alzheimer anni prima dei sintomi",
+          "summary_it": "I ricercatori di Stanford hanno scoperto che i modelli nascosti dell'attività cerebrale possono prevedere il rischio di Alzheimer anni prima che compaiano i problemi di memoria, offrendo potenzialmente un avvertimento più precoce rispetto ai biomarcatori tradizionali. Gli stessi modelli rivelano anche quali cervelli sono insolitamente resistenti all’invecchiamento, suscitando speranze per trattamenti futuri che potrebbero aiutare a proteggere la memoria.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 16.0
+        },
+        {
+          "title_orig": "A beginner’s guide to falling in love with Russian literature",
+          "summary_orig": "Few literary canons inspire as much reverence, and fear, as Russia’s. The sheer size and complexity of novels like Leo Tolstoy’s War and Peace (1867) and Fyodor Dostoevsky’s The Brothers Karamazov (1880) have created two groups of readers: Those who have read them, and those who say they will read them — one day. For one reason or another, that day never...",
+          "link": "https://bigthink.com/books/beginners-guide-to-russian-literature/",
+          "published": "Fri, 13 Nov 2026 15:30:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "01:05 CET",
+          "title_it": "Una guida per principianti per innamorarsi della letteratura russa",
+          "summary_it": "Pochi canoni letterari ispirano tanta riverenza e paura quanto quelli russi. La vastità e la complessità di romanzi come Guerra e pace (1867) di Leone Tolstoj e I fratelli Karamazov (1880) di Fëdor Dostoevskij hanno creato due gruppi di lettori: quelli che li hanno letti e quelli che dicono che li leggeranno, un giorno. Per un motivo o per l'altro, quel giorno mai...",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
+          "score": 14.0
         }
       ]
     }
