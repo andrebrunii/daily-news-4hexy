@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-14",
   "target_edition_date": "2026-11-15",
-  "last_slot_iso": "2026-11-15T18:05:00",
+  "last_slot_iso": "2026-11-15T19:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1804,6 +1804,88 @@
           "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 27.0
+        }
+      ]
+    },
+    {
+      "hour_label": "19:05 CET",
+      "timestamp_str": "2026-11-15 19:05 CET",
+      "items": [
+        {
+          "title_orig": "Mar Cinese Meridionale, Australia e Filippine firmano un nuovo patto di difesa per i pattugliamenti congiunti",
+          "summary_orig": "Le Filippine rafforzano i legami militari con Australia, Giappone e Stati Uniti, mentre aumentano le tensioni con la Cina nel Mar Cinese Meridionale. Le intese prevedono esercitazioni congiunte, sistemi di sorveglianza e maggiore coordinamento tra le forze",
+          "link": "https://it.euronews.com/2026/11/15/mar-cinese-meridionale-australia-e-filippine-firmano-un-nuovo-patto-di-difesa-per-i-pattug",
+          "published": "Sun, 15 Nov 2026 19:23:06 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "19:05 CET",
+          "title_it": "Mar Cinese Meridionale, Australia e Filippine firmano un nuovo patto di difesa per i pattugliamenti congiunti",
+          "summary_it": "Le Filippine rafforzano i legami militari con Australia, Giappone e Stati Uniti, mentre aumentano le tensioni con la Cina nel Mar Cinese Meridionale. Le intese prevedono esercitazioni congiunte, sistemi di sorveglianza e maggiore coordinamento tra le forze",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 26.0
+        },
+        {
+          "title_orig": "Imballaggi in legno, il paradosso della sostenibilità",
+          "summary_orig": "Il settore importa dall’estero il 90% della materia prima trasformata: appello delle imprese per valorizzare le foreste del Paese",
+          "link": "https://www.ilsole24ore.com/art/imballaggi-legno-paradosso-sostenibilita-AJko1TFC",
+          "published": "Sun, 15 Nov 2026 09:02:01 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "19:05 CET",
+          "title_it": "Imballaggi in legno, il paradosso della sostenibilità",
+          "summary_it": "Il settore importa dall’estero il 90% della materia prima trasformata: appello delle imprese per valorizzare le foreste del Paese",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 13.0
+        },
+        {
+          "title_orig": "La manovra alla prova delle modifiche, nuovo vertice di maggioranza",
+          "summary_orig": "Nodi dal superbonus alla scuola e sanità. Dalle opposizioni pacchetto di proposte unitarie",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/15/la-manovra-alla-prova-delle-modifiche-nuovo-vertice-di-maggioranza_5b6e09c6-e0a6-433f-8aa7-8b55e44afcff.html",
+          "published": "Sun, 15 Nov 2026 19:47:17 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "19:05 CET",
+          "title_it": "La manovra alla prova delle modifiche, nuovo vertice di maggioranza",
+          "summary_it": "Nodi dal superbonus alla scuola e sanità. Dalle opposizioni pacchetto di proposte unitarie",
+          "impact_eu_it": "Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
+          "summary_orig": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said.",
+          "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+          "published": "Sun, 15 Nov 2026 18:15:14 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "19:05 CET",
+          "title_it": "DOT Sez. Duffy collega il router nell'Arkansas meridionale a problemi che hanno portato a un arresto a livello nazionale",
+          "summary_it": "L'arresto a terra della FAA è avvenuto dopo l'aggiornamento di un vecchio sistema di comunicazione gestito da L3Harris Technologies, ha affermato il segretario ai trasporti Sean Duffy.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 14.0
         }
       ]
     }

@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-22%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-23%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (22/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
+**Progresso verso la Top 10 delle 20:05 CET (23/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `19:05 CET` — Ricerca Oraria (23/23)
+_Aggiornamento registrato il `2026-11-15 19:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Mar Cinese Meridionale, Australia e Filippine firmano un nuovo patto di difesa per i pattugliamenti congiunti](https://it.euronews.com/2026/11/15/mar-cinese-meridionale-australia-e-filippine-firmano-un-nuovo-patto-di-difesa-per-i-pattug)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Le Filippine rafforzano i legami militari con Australia, Giappone e Stati Uniti, mentre aumentano le tensioni con la Cina nel Mar Cinese Meridionale. Le intese prevedono esercitazioni congiunte, sistemi di sorveglianza e maggiore coordinamento tra le forze
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `📈 Economia & Mercati` [Imballaggi in legno, il paradosso della sostenibilità](https://www.ilsole24ore.com/art/imballaggi-legno-paradosso-sostenibilita-AJko1TFC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Il settore importa dall’estero il 90% della materia prima trasformata: appello delle imprese per valorizzare le foreste del Paese
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💶 Macro & Finanza UE` [La manovra alla prova delle modifiche, nuovo vertice di maggioranza](https://www.ansa.it/sito/notizie/economia/2026/11/15/la-manovra-alla-prova-delle-modifiche-nuovo-vertice-di-maggioranza_5b6e09c6-e0a6-433f-8aa7-8b55e44afcff.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Nodi dal superbonus alla scuola e sanità. Dalle opposizioni pacchetto di proposte unitarie
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[4] `🏦 Mercati Globali` [DOT Sez. Duffy collega il router nell'Arkansas meridionale a problemi che hanno portato a un arresto a livello nazionale](https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L'arresto a terra della FAA è avvenuto dopo l'aggiornamento di un vecchio sistema di comunicazione gestito da L3Harris Technologies, ha affermato il segretario ai trasporti Sean Duffy.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `18:05 CET` — Ricerca Oraria (22/23)
 _Aggiornamento registrato il `2026-11-15 18:05 CET`_
