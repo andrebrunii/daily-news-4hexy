@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-8%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-9%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (8/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (9/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `05:05 CET` — Ricerca Oraria (9/23)
+_Aggiornamento registrato il `2026-11-15 05:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Federal Aviation, più di 16.000 voli cancellati fra ieri e oggi](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/federal-aviation-piu-di-16.000-voli-cancellati-fra-ieri-e-oggi_cf6a376e-23ff-4edd-b753-881d92479b20.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** In seguito al blocco deciso venerdì pomeriggio
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [L’Ucraina miete migliaia di vittime russe e un rallentamento dell’avanzata del Cremlino](https://www.politico.eu/article/russian-army-is-slowing-down-as-ukrainian-forces-kill-thousands-of-kremlin-troops/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** L’Ucraina sta contrastando la narrazione russa del successo sul campo di battaglia attenuando gli attacchi del Cremlino.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🔭 Ricerca & Spazio` [L’Alzheimer potrebbe iniziare a restringersi due regioni del cervello anni prima della perdita di memoria](https://www.sciencedaily.com/releases/2026/11/261114202130.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati della Johns Hopkins hanno scoperto segnali premonitori nascosti del morbo di Alzheimer che possono comparire fino a un decennio prima che inizi la perdita di memoria. Le scansioni cerebrali hanno rivelato che due regioni coinvolte nella memoria e nelle emozioni iniziano a restringersi prima dell'ippocampo, l'area che i medici in genere esaminano per individuare i segni dell'Alzheimer. Questi primi cambiamenti sono collegati a anomalie...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Chiedi a Ethan: puoi scrivere una guida per principianti al Modello Standard?](https://bigthink.com/starts-with-a-bang/beginners-guide-standard-model/)** — *(Big Think)*
+  - 📌 **Sintesi:** Per migliaia di anni, l’umanità si sarebbe chiesta cosa fosse, a un livello fondamentale ed elementare, a costituire tutto ciò che vedevamo, sentivamo o con cui interagivamo in altro modo nell’Universo. Le idee dilagarono presto, spaziando dalla nozione di elementi a un'unica radice fondamentale di tutto, fino a minuscoli elementi costitutivi composti da una varietà di forme geometriche...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `04:05 CET` — Ricerca Oraria (8/23)
 _Aggiornamento registrato il `2026-11-15 04:05 CET`_

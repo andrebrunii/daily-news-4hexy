@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-14",
   "target_edition_date": "2026-11-15",
-  "last_slot_iso": "2026-11-15T04:05:00",
+  "last_slot_iso": "2026-11-15T05:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -656,6 +656,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 10.5
+        }
+      ]
+    },
+    {
+      "hour_label": "05:05 CET",
+      "timestamp_str": "2026-11-15 05:05 CET",
+      "items": [
+        {
+          "title_orig": "Federal Aviation, più di 16.000 voli cancellati fra ieri e oggi",
+          "summary_orig": "In seguito al blocco deciso venerdì pomeriggio",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/14/federal-aviation-piu-di-16.000-voli-cancellati-fra-ieri-e-oggi_cf6a376e-23ff-4edd-b753-881d92479b20.html",
+          "published": "Sat, 14 Nov 2026 17:30:51 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "05:05 CET",
+          "title_it": "Federal Aviation, più di 16.000 voli cancellati fra ieri e oggi",
+          "summary_it": "In seguito al blocco deciso venerdì pomeriggio",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Ukraine claims thousands of Russian casualties and a slowing Kremlin advance",
+          "summary_orig": "Ukraine is countering Russia's narrative of battlefield success by blunting the Kremlin's attacks.",
+          "link": "https://www.politico.eu/article/russian-army-is-slowing-down-as-ukrainian-forces-kill-thousands-of-kremlin-troops/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Sun, 15 Nov 2026 03:00:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "05:05 CET",
+          "title_it": "L’Ucraina miete migliaia di vittime russe e un rallentamento dell’avanzata del Cremlino",
+          "summary_it": "L’Ucraina sta contrastando la narrazione russa del successo sul campo di battaglia attenuando gli attacchi del Cremlino.",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 21.5
+        },
+        {
+          "title_orig": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+          "summary_orig": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are linked to abnormal...",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+          "published": "Sat, 14 Nov 2026 23:31:56 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "05:05 CET",
+          "title_it": "L’Alzheimer potrebbe iniziare a restringersi due regioni del cervello anni prima della perdita di memoria",
+          "summary_it": "Gli scienziati della Johns Hopkins hanno scoperto segnali premonitori nascosti del morbo di Alzheimer che possono comparire fino a un decennio prima che inizi la perdita di memoria. Le scansioni cerebrali hanno rivelato che due regioni coinvolte nella memoria e nelle emozioni iniziano a restringersi prima dell'ippocampo, l'area che i medici in genere esaminano per individuare i segni dell'Alzheimer. Questi primi cambiamenti sono collegati a anomalie...",
+          "impact_eu_it": "Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Ask Ethan: Can you write a beginner’s guide to the Standard Model?",
+          "summary_orig": "For thousands of years, humanity would wonder just what it was — at a fundamental, elementary level — that made up everything we saw, heard, or otherwise interacted with in the Universe. Ideas ran rampant early on, ranging from the notion of elements to a fundamental single root of everything to tiny building blocks composed of a variety of geometric...",
+          "link": "https://bigthink.com/starts-with-a-bang/beginners-guide-standard-model/",
+          "published": "Fri, 13 Nov 2026 07:00:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "05:05 CET",
+          "title_it": "Chiedi a Ethan: puoi scrivere una guida per principianti al Modello Standard?",
+          "summary_it": "Per migliaia di anni, l’umanità si sarebbe chiesta cosa fosse, a un livello fondamentale ed elementare, a costituire tutto ciò che vedevamo, sentivamo o con cui interagivamo in altro modo nell’Universo. Le idee dilagarono presto, spaziando dalla nozione di elementi a un'unica radice fondamentale di tutto, fino a minuscoli elementi costitutivi composti da una varietà di forme geometriche...",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Le trasformazioni più radicali della storia non iniziano nei parlamenti o nelle borse, ma nel cambio silenzioso delle categorie mentali con cui una civiltà interpreta ciò che è normale, giusto o desiderabile.\n> 🧠 **Lente Filosofica:** Come scriveva Seneca, *«nessun vento è favorevole per il marinaio che non sa a quale porto vuol approdare»*. In un'epoca ossessionata dall'accelerazione dei mezzi, fermarsi a interrogare i fini è l'atto più sovversivo e necessario.",
+          "score": 14.0
         }
       ]
     }
