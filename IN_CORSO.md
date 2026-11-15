@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Lunedì 16 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-3%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-4%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (3/23 ricerche orarie):**
-`🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (4/23 ricerche orarie):**
+`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `00:05 CET` — Ricerca Oraria (4/23)
+_Aggiornamento registrato il `2026-11-16 00:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Nyt, 'entro 24 ore la portaerei Roosevelt in Medio Oriente, è la terza nell'area'](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/nyt-entro-24-ore-la-portaerei-roosevelt-in-medio-oriente-e-la-terza-nellarea_7dfdbe44-45d8-41aa-ab7c-397bd05b75f8.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Si unirà alla Washington e alla Bush
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🌐 Scacchiere Globale` [Papa Leone viaggia nella cabina di pilotaggio di un elicottero durante il viaggio in Perù](https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il Papa ha preso il volo prima di arrivare a Cusco nel penultimo giorno del suo tour in America Latina.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [Fonti: l'IPO di Anthropic ha ricevuto richieste in eccesso di circa 7 volte; Anthropic e alcuni dei suoi sostenitori stanno cercando di raccogliere fino a 90,4 miliardi di dollari tramite l'IPO e un collocamento privato separato (Bloomberg)](https://www.techmeme.com/261115/p18#a261115p18)** — *(Techmeme)*
+  - 📌 **Sintesi:** Bloomberg: Fonti: l'IPO di Anthropic ha ricevuto richieste in eccesso di circa 7 volte; Anthropic e alcuni dei suoi sostenitori stanno cercando di raccogliere fino a 90,4 miliardi di dollari tramite l'IPO e un collocamento privato separato. La startup è pronta per la più grande IPO di tutti i tempi, mettendo le speranze, i sogni (e le paure) degli investitori di intelligenza artificiale su un creatore di modelli di frontiera.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `⚡ Futuro & Deep Tech` [Il download: la sfida climatica della COP31 e la ricerca dell’immortalità](https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** Questa è l'edizione di oggi di The Download, la nostra newsletter nei giorni feriali che fornisce una dose quotidiana di ciò che accade nel mondo della tecnologia. Cosa sapere sui colloqui sul clima delle Nazioni Unite di quest’anno Migliaia di delegati, lobbisti e giornalisti si sono riuniti ad Antalya, in Turchia, per la COP31, i colloqui annuali delle Nazioni Unite sul clima. Ma i negoziati di quest’anno…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
 
 ### 🕒 Ora `23:05 CET` — Ricerca Oraria (3/23)
 _Aggiornamento registrato il `2026-11-15 23:05 CET`_
