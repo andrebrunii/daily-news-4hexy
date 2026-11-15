@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-21%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (21/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `17:05 CET` — Ricerca Oraria (21/23)
+_Aggiornamento registrato il `2026-11-15 17:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [L'Estonia annuncia, da dicembre chiuso completamente il confine con la Russia](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/lestonia-annuncia-da-dicembre-chiuso-completamente-il-confine-con-la-russia_31af256e-893a-489e-8997-f30dff55d892.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Lo ha annunciato su X il ministro degli Esteri estone, Margus Tsahkna.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🌐 Scacchiere Globale` [La sospetta spia cinese legata all'ex capo di Nvidia se n'è andata nel 2025, dice Megaspeed](https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Lo scandalo Nvidia ha sollevato dubbi sul fatto che i chip IA avanzati siano finiti in Cina, nonostante le restrizioni statunitensi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[3] `🔭 Ricerca & Spazio` [La NASA avverte che il mostro El Niño di quest'anno potrebbe essere ancora più grande del leggendario evento del 1997](https://www.sciencedaily.com/releases/2026/11/261114202227.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati della NASA avvertono che El Niño nel 2026, in rapida intensificazione, potrebbe superare lo storico evento del 1997-98, che scatenò condizioni meteorologiche estreme devastanti in tutto il mondo. I dati satellitari rivelano sorprendenti somiglianze tra i due, aumentando la possibilità di forti piogge e inondazioni quest’inverno, anche se gli impatti esatti rimangono incerti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [La metrica del sonno più importante non sono le ore di sonno](https://bigthink.com/mind-behavior/the-most-important-sleep-metric-isnt-hours-slept/)** — *(Big Think)*
+  - 📌 **Sintesi:** Gli studenti universitari sono comode cavie. Vivendo nei campus dei principali istituti di ricerca e facilmente attratti da carte regalo e altri vantaggi una tantum, sono gli esseri umani più esaminati scientificamente nella storia, e gli studi che coinvolgono studenti universitari catalizzano regolarmente nuove idee per ulteriori ricerche. Una di queste idee, nata relativamente...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
 
 ### 🕒 Ora `16:05 CET` — Ricerca Oraria (20/23)
 _Aggiornamento registrato il `2026-11-15 16:05 CET`_
