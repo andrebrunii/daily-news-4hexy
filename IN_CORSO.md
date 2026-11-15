@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-15 12:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Nuovo sabato di manifestazioni in Francia, schierati 70.000 agenti](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/nuovo-sabato-di-manifestazioni-in-francia-schierati-70.000-agenti_791cdd53-cfda-4d76-9afa-74eaa411e067.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Al via il quinto atto della mobilitazione A Parigi corteo da République a Naton
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌐 Scacchiere Globale` [Tre uomini condannati a morte in Giordania per una sparatoria mortale in una chiesa](https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il mese scorso l'attacco al funerale di una chiesa greco-ortodossa ha ucciso nove persone e ne ha ferite altre 34.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🤖 IA & Frontiera Tech` [TSMC prevede di istituire un nuovo fondo da 500 milioni di dollari da investire in startup di chip, fornitori e altri partner a monte, affermando che "vogliamo anche supportare la Nvidia del futuro" (Cheng Ting-Fang/Nikkei Asia)](https://www.techmeme.com/261115/p4#a261115p4)** — *(Techmeme)*
+  - 📌 **Sintesi:** Cheng Ting-Fang / Nikkei Asia: TSMC prevede di istituire un nuovo fondo da 500 milioni di dollari per investire in startup di chip, fornitori e altri partner a monte, affermando che "vogliamo anche supportare la Nvidia del futuro" — TOKYO — Taiwan Semiconductor Manufacturing Co. prevede di utilizzare un nuovo fondo di rischio da 500 milioni di dollari per supportare promettenti startup di chip...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `⚡ Futuro & Deep Tech` [La Silicon Valley afferma di conoscere il futuro. Allora perché le elezioni intermedie sono state così sbagliate?](https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** I sedicenti visionari della Silicon Valley, leader come l’amministratore delegato di OpenAI Sam Altman e il capo di SpaceX Elon Musk, hanno costruito carriere sostenendo di vedere il futuro. La visione a lungo termine è la valuta: Mark Zuckerberg di Meta ha costruito una road map decennale per Facebook nel 2016, e Google, come è noto, ha detto agli investitori prima della sua offerta pubblica di non essere preoccupato...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-15 11:05 CET`_
