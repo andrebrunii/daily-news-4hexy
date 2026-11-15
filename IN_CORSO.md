@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-9%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-10%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (9/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (10/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `06:05 CET` — Ricerca Oraria (10/23)
+_Aggiornamento registrato il `2026-11-15 06:05 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Aggiornamento del filo di rame dietro la sospensione dei voli statunitensi, afferma il segretario ai trasporti](https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il governo americano sta cercando di scoprire se il caos è stato causato da "incompetenza" o da attrezzature difettose.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[2] `🌍 Esteri & Analisi` [I leader mondiali si recano in Asia per i vertici diplomatici consecutivi](https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean)** — *(The Guardian World)*
+  - 📌 **Sintesi:** Lotta per l’influenza mentre il commercio, la tecnologia e la sicurezza regionale saranno al centro degli incontri di Cina, Filippine e Cambogia Il centro di gravità politico globale sarà saldamente in Asia questa settimana mentre i leader mondiali voleranno per vertici di alto livello consecutivi sullo sfondo della lotta per l’influenza tra le superpotenze Cina e Stati Uniti. Pechino...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[3] `💶 Macro & Finanza UE` [Microsoft torna a funzionare, ma la conta dei danni è milionaria](https://www.ansa.it/sito/notizie/economia/2026/11/14/microsoft-ripristinati-tutti-i-servizi-dopo-il-blackout-globale-_7cecae08-705d-4f89-ac5c-293be818c58d.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Il nodo degli indennizzi. Esperto cyber: 'Assicurati non vuol dire protetti'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🏦 Mercati Globali` [Megaspeed afferma che Alice Huang se ne è andata nel 2025 mentre lancia un’indagine interna sui rapporti sulla sua attività](https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** La società di cloud computing con sede a Singapore ha dovuto affrontare un controllo più approfondito da quando i rapporti collegavano Jensen Huang di Nvidia all'ex dirigente di Megaspeed Alice Huang.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `05:05 CET` — Ricerca Oraria (9/23)
 _Aggiornamento registrato il `2026-11-15 05:05 CET`_
