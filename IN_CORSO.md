@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `08:05 CET` — Ricerca Oraria (12/23)
+_Aggiornamento registrato il `2026-11-15 08:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Farage suggella la rottura con Putin, 'Mosca è minacca numero 1 per Gb'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/14/farage-suggella-la-rottura-con-putin-mosca-e-minacca-numero-1-per-gb_6d53f2ff-51ca-4dc1-840a-194cdf7a2504.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Leader d'ultradestra si riallinea all'establishment e affida dossier a falco ex militare
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🌐 Scacchiere Globale` [Papa Leone parla della “sofferenza” della comunità durante la visita alla remota città andina](https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Santa Cruz de Succhabamba fa parte della diocesi di Chiclayo, dove il papa è stato vescovo dal 2015 al 2023.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🤖 IA & Frontiera Tech` [Nidus, che sta sviluppando tecnologia basata sull’intelligenza artificiale per la produzione di robot utilizzati dalle aziende industriali della difesa statunitensi, ha raccolto 30 milioni di dollari attraverso un pre-seed e un seed (Alex Konrad/Upstarts Media)](https://www.techmeme.com/261115/p5#a261115p5)** — *(Techmeme)*
+  - 📌 **Sintesi:** Alex Konrad / Upstarts Media: Nidus, che sta sviluppando tecnologia basata sull'intelligenza artificiale per la produzione di robot utilizzati dalle aziende industriali della difesa statunitensi, ha raccolto 30 milioni di dollari attraverso un pre-seed e un seed - La startup sostenuta da Kleiner Perkins e Costanoa afferma di aver raggiunto prenotazioni a "sette cifre" con clienti dell'industria della difesa in soli 4 mesi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[4] `⚡ Futuro & Deep Tech` [Più autonomia, meno NDA: i volontari hanno nuove richieste per sperimentazioni su impianti cerebrali](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** Gli scienziati lavorano da decenni su come decodificare l’attività cerebrale. I team hanno sviluppato impianti cerebrali che possono essere utilizzati per controllare arti robotici e computer e persino per “parlare”. Le persone che si offrono volontarie per le sperimentazioni di questi dispositivi svolgono un ruolo vitale in tale ricerca e dovrebbero essere riconosciute per il loro...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `07:05 CET` — Ricerca Oraria (11/23)
 _Aggiornamento registrato il `2026-11-15 07:05 CET`_
