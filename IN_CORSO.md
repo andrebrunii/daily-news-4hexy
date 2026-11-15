@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-21%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-22%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (21/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (22/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `18:05 CET` — Ricerca Oraria (22/23)
+_Aggiornamento registrato il `2026-11-15 18:05 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Israele uccide il comandante di Hamas in un attacco al campo di Gaza, dicono i funzionari](https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Sia funzionari di Hamas che dell'IDF confermano la morte di Samir Abu Younis, comandante della Brigata Rafah.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[2] `🌍 Esteri & Analisi` [160 domande, solo una sbagliata: il capocannoniere dell'esame fiscale della Corea del Sud ammette di aver imbrogliato con l'intelligenza artificiale](https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam)** — *(The Guardian World)*
+  - 📌 **Sintesi:** Timori per l'esame nazionale di ammissione all'università la prossima settimana, poiché il candidato ammette di aver inviato foto di domande allo strumento AI I voti ottenuti dal capocannoniere ⁠all'esame nazionale della Corea del Sud per aspiranti commercialisti quest'anno sembravano troppo belli per essere veri. Domenica, gli scettici hanno avuto ragione quando ha confessato di usare l'intelligenza artificiale generativa per imbrogliare. Lo scandalo ha...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[3] `💶 Macro & Finanza UE` [Stop ai bot nei call center, in Parlamento spinta per operatore umano](https://www.ansa.it/sito/notizie/economia/2026/11/15/stop-ai-bot-nei-call-center-in-parlamento-spinta-per-operatore-umano_eb5779a0-477f-42b1-b394-6a59515a6502.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Due proposte distinte di Fdi e Pd per evitare di rimanere intrappolati in risposte con AI
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🏦 Mercati Globali` [Bessent chiede un “drammatico sconvolgimento” di Nvidia e sollecita un CEO esterno](https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Bessent ha criticato il dipartimento di Howard Lutnick per la sospetta diversione di chip verso la Cina mentre difendeva la gestione della questione da parte del presidente Donald Trump.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `17:05 CET` — Ricerca Oraria (21/23)
 _Aggiornamento registrato il `2026-11-15 17:05 CET`_
