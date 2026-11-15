@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-14",
   "target_edition_date": "2026-11-15",
-  "last_slot_iso": "2026-11-15T01:05:00",
+  "last_slot_iso": "2026-11-15T02:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -409,6 +409,88 @@
           "summary_it": "Pochi canoni letterari ispirano tanta riverenza e paura quanto quelli russi. La vastità e la complessità di romanzi come Guerra e pace (1867) di Leone Tolstoj e I fratelli Karamazov (1880) di Fëdor Dostoevskij hanno creato due gruppi di lettori: quelli che li hanno letti e quelli che dicono che li leggeranno, un giorno. Per un motivo o per l'altro, quel giorno mai...",
           "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
           "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
+          "score": 14.0
+        }
+      ]
+    },
+    {
+      "hour_label": "02:05 CET",
+      "timestamp_str": "2026-11-15 02:05 CET",
+      "items": [
+        {
+          "title_orig": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+          "summary_orig": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+          "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 14 Nov 2026 00:03:52 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "02:05 CET",
+          "title_it": "Generali arrestati e un vicepresidente minacciato: il figlio del presidente alimenta la febbre della successione in Uganda",
+          "summary_it": "I post provocatori e le minacce militari del generale 52enne hanno alimentato le voci di una successione dinastica.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 14.0
+        },
+        {
+          "title_orig": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+          "summary_orig": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the first regional edition of the contest to be staged outside Europe. Eleven countries competed at...",
+          "link": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+          "published": "Sat, 14 Nov 2026 19:01:32 GMT",
+          "source_id": "guardian_world",
+          "source_name": "The Guardian World",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Esteri & Analisi",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "02:05 CET",
+          "title_it": "Carmelle delle Filippine vince il primo concorso Eurovision in Asia",
+          "summary_it": "La voce filippina, la canzone pop e rap Sobra-Sobra, porta la 19enne alla vittoria nella finale di Bangkok Carmelle Collado ha vinto il primo Eurovision Song Contest Asia, portando la voce filippina, Sobra-Sobra, alla vittoria a Bangkok sabato sera, nella prima edizione regionale del concorso che si terrà fuori dall'Europa. Undici paesi hanno gareggiato...",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Cgia, dall'inizio della guerra Usa-Iran l'inflazione è stata del +4,4%",
+          "summary_orig": "A crescere soprattutto energia e gas, auto e bus, cellulari e servizi alloggio",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/14/cgia-dallinizio-della-guerra-usa-iran-linflazione-e-stata-del-44_cc3b6e9a-d511-406b-b6a1-6311dea1643d.html",
+          "published": "Sat, 14 Nov 2026 09:57:24 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "02:05 CET",
+          "title_it": "Cgia, dall'inizio della guerra Usa-Iran l'inflazione è stata del +4,4%",
+          "summary_it": "A crescere soprattutto energia e gas, auto e bus, cellulari e servizi alloggio",
+          "impact_eu_it": "Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 26.0
+        },
+        {
+          "title_orig": "SpaceX catches upper stage of Starship rocket in historic first",
+          "summary_orig": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
+          "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+          "published": "Sat, 14 Nov 2026 23:10:14 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "02:05 CET",
+          "title_it": "SpaceX cattura per la prima volta lo stadio superiore del razzo Starship",
+          "summary_it": "Lo Starship Test Flight 15 ha segnato la prima volta in cui la compagnia di Elon Musk ha provato a catturare sia il booster che lo stadio superiore del razzo.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
           "score": 14.0
         }
       ]
