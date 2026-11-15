@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
+_Aggiornamento registrato il `2026-11-15 03:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Versailles, vice-presidente di università ferito con arma da taglio nel suo ufficio](https://it.euronews.com/2026/11/14/versailles-vice-presidente-di-universita-ferito-con-arma-da-taglio-nel-suo-ufficio)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** L'aggressione è avvenuta venerdì nel tardo pomeriggio, secondo il presidente dell'istituto. Il ministro dell'Istruzione superiore afferma che "si inserisce in un contesto di violenze nei campus". Il movente dell'aggressore non è ancora noto
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `📈 Economia & Mercati` [Ets, le regole europee dovranno misurare le specificità industriali](https://www.ilsole24ore.com/art/ets-regole-europee-dovranno-misurare-specificita-industriali-AJbKH6FC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** La ceramica italiana strappa a Bruxelles una correzione attesa: le regole europee sulle emissioni dovranno tenere conto delle specificità industriali. L’intesa raggiunta nel trilogo tra Parlamento, Consiglio e Commissione Ue...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[3] `💶 Macro & Finanza UE` [Al via a Genova Best, summit di Blue Media dedicato alla economia del mare](https://www.ansa.it/sito/notizie/economia/2026/11/14/al-via-a-genova-best-summit-di-blue-media-dedicato-alla-economia-del_15b2ad07-26d9-4bc8-be27-03a48405f4e3.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Dal 16 al 19 novembre oltre 30 sessioni tra armatori, istituzioni e centri ricerca
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🏦 Mercati Globali` [La “causa principale” dell’arresto a terra a livello nazionale è sconosciuta, afferma la FAA](https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Router e apparecchiature di rete potrebbero essere coinvolti nei problemi che hanno portato all'arresto a terra, ma non è stata stabilita una causa definitiva, hanno detto i funzionari.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
 _Aggiornamento registrato il `2026-11-15 02:05 CET`_
