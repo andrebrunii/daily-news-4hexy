@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Lunedì 16 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-1%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-2%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (1/23 ricerche orarie):**
-`🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (2/23 ricerche orarie):**
+`🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `22:05 CET` — Ricerca Oraria (2/23)
+_Aggiornamento registrato il `2026-11-15 22:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Oltre 400 mila in piazza a Praga a sostegno dei media pubblici](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/oltre-400-mila-in-piazza-a-praga-a-sostegno-dei-media-pubblici_bc940b57-5db5-4ef4-b337-65d08f089db6.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il premier Babis: 'I canoni saranno aboliti'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [Domenica sulla sicurezza: Der lange Weg zum Frieden in der Ukraine – mit Claudia Major](https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-der-lange-weg-zum-frieden-in-der-ukraine-mit-claudia-major/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Presente da YouTube.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `🤖 IA & Frontiera Tech` [Megaspeed afferma che Alice Huang se n'è andata nell'agosto 2025 e non ha alcun ruolo attuale, e che gestisce un "business legittimo e legale" mentre apre un'indagine interna (Associated Press)](https://www.techmeme.com/261115/p15#a261115p15)** — *(Techmeme)*
+  - 📌 **Sintesi:** Associated Press: Megaspeed afferma che Alice Huang se n'è andata nell'agosto 2025 e non ha alcun ruolo attuale, e che gestisce un "business legittimo e legale" mentre apre un'indagine interna - La società di cloud computing con sede a Singapore Megaspeed International ha detto domenica che l'imprenditrice cinese Alice Huang...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `⚡ Futuro & Deep Tech` [Nvidia ha confermato in privato di poter tracciare i chip per combattere il contrabbando, anche se l’industria ne metteva pubblicamente in dubbio la fattibilità](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** I rappresentanti di Nvidia hanno detto al rappresentante dell'Illinois Bill Foster che sarebbe tecnicamente possibile implementare le misure anti-contrabbando richieste nel Chip Security Act, ha detto Foster al MIT Technology Review in un'intervista giovedì, anche se un gruppo industriale ha affermato che erano "potenzialmente irrealizzabili". Foster, un democratico che serve...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `21:05 CET` — Ricerca Oraria (1/23)
 _Aggiornamento registrato il `2026-11-15 21:05 CET`_

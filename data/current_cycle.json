@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-15",
   "target_edition_date": "2026-11-16",
-  "last_slot_iso": "2026-11-15T21:05:00",
+  "last_slot_iso": "2026-11-15T22:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -82,6 +82,88 @@
           "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
           "score": 21.0
+        }
+      ]
+    },
+    {
+      "hour_label": "22:05 CET",
+      "timestamp_str": "2026-11-15 22:05 CET",
+      "items": [
+        {
+          "title_orig": "Oltre 400 mila in piazza a Praga a sostegno dei media pubblici",
+          "summary_orig": "Il premier Babis: 'I canoni saranno aboliti'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/15/oltre-400-mila-in-piazza-a-praga-a-sostegno-dei-media-pubblici_bc940b57-5db5-4ef4-b337-65d08f089db6.html",
+          "published": "Sun, 15 Nov 2026 21:40:17 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "22:05 CET",
+          "title_it": "Oltre 400 mila in piazza a Praga a sostegno dei media pubblici",
+          "summary_it": "Il premier Babis: 'I canoni saranno aboliti'",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Security Sunday: Der lange Weg zum Frieden in der Ukraine – mit Claudia Major",
+          "summary_orig": "Präsentiert von YouTube.",
+          "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-der-lange-weg-zum-frieden-in-der-ukraine-mit-claudia-major/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Sun, 15 Nov 2026 19:44:34 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "22:05 CET",
+          "title_it": "Domenica sulla sicurezza: Der lange Weg zum Frieden in der Ukraine – mit Claudia Major",
+          "summary_it": "Presente da YouTube.",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 20.0
+        },
+        {
+          "title_orig": "Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a \"legitimate and lawful business\" as it opens an internal probe (Associated Press)",
+          "summary_orig": "Associated Press : Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a “legitimate and lawful business” as it opens an internal probe — Singapore-based cloud computing company Megaspeed International said Sunday that Chinese businesswoman Alice Huang …",
+          "link": "https://www.techmeme.com/261115/p15#a261115p15",
+          "published": "Sun, 15 Nov 2026 15:02:17 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "22:05 CET",
+          "title_it": "Megaspeed afferma che Alice Huang se n'è andata nell'agosto 2025 e non ha alcun ruolo attuale, e che gestisce un \"business legittimo e legale\" mentre apre un'indagine interna (Associated Press)",
+          "summary_it": "Associated Press: Megaspeed afferma che Alice Huang se n'è andata nell'agosto 2025 e non ha alcun ruolo attuale, e che gestisce un \"business legittimo e legale\" mentre apre un'indagine interna - La società di cloud computing con sede a Singapore Megaspeed International ha detto domenica che l'imprenditrice cinese Alice Huang...",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+          "summary_orig": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on...",
+          "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+          "published": "Thu, 12 Nov 2026 20:16:24 +0000",
+          "source_id": "mit_tech",
+          "source_name": "MIT Technology Review",
+          "category": "tech_ia",
+          "badge": "⚡ Futuro & Deep Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.25,
+          "hour_slot": "22:05 CET",
+          "title_it": "Nvidia ha confermato in privato di poter tracciare i chip per combattere il contrabbando, anche se l’industria ne metteva pubblicamente in dubbio la fattibilità",
+          "summary_it": "I rappresentanti di Nvidia hanno detto al rappresentante dell'Illinois Bill Foster che sarebbe tecnicamente possibile implementare le misure anti-contrabbando richieste nel Chip Security Act, ha detto Foster al MIT Technology Review in un'intervista giovedì, anche se un gruppo industriale ha affermato che erano \"potenzialmente irrealizzabili\". Foster, un democratico che serve...",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 24.0
         }
       ]
     }
