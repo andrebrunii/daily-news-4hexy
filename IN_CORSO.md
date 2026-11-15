@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-17%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (17/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `13:05 CET` — Ricerca Oraria (17/23)
+_Aggiornamento registrato il `2026-11-15 13:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Trump, 'l'East Potomac Park è in uno stato di degrado spaventoso'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/trump-least-potomac-park-e-in-uno-stato-di-degrado-spaventoso_bf8f11e3-00b7-42ec-a844-26b021979d2a.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** E attacca lo stop alla chiusura dalla giudice federale: 'Nominata da Biden'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Unione Europea & Policy` [L’Estonia chiuderà il confine con la Russia dopo un “attacco di sabotaggio” contro un’impresa di difesa](https://www.politico.eu/article/estonia-accuses-russia-of-attempted-arson-attack-on-drone-maker/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il servizio di sicurezza interna di Tallinn ha affermato che un tentativo di incendio doloso è stato commissionato dall'agenzia di intelligence militare russa GRU.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `🔭 Ricerca & Spazio` [La vitamina C potrebbe aiutare a bloccare le sostanze chimiche legate al cancro nello stomaco, secondo uno studio](https://www.sciencedaily.com/releases/2026/11/261114202236.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati hanno scoperto che la vitamina C può aiutare a prevenire la formazione di sostanze chimiche potenzialmente cancerose nello stomaco dopo aver mangiato cibi contenenti nitrati e nitriti. Un nuovo modello matematico suggerisce che l’assunzione di vitamina C dopo i pasti potrebbe ridurre queste reazioni dannose, offrendo una possibile nuova strategia per ridurre il rischio di cancro.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Abbiamo costruito il nostro mondo su “Big Math”. Adesso non lo capiamo più.](https://bigthink.com/history-society/big-math/)** — *(Big Think)*
+  - 📌 **Sintesi:** La matematica è innegabilmente sfuggita alla mente umana e si è impiantata in quasi ogni angolo del mondo. Negli ultimi 75 anni, quando i computer sono diventati di uso comune e hanno acquisito maggiore potenza, ciò che una volta equivaleva a calcolo mentale è diventato qualcos’altro. Non è solo matematica; è "Big Math", troppo grande per il solo cervello umano. Il ramo di Big Math...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
 ### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
 _Aggiornamento registrato il `2026-11-15 12:05 CET`_

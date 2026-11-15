@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-14",
   "target_edition_date": "2026-11-15",
-  "last_slot_iso": "2026-11-15T12:05:00",
+  "last_slot_iso": "2026-11-15T13:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1312,6 +1312,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 17.0
+        }
+      ]
+    },
+    {
+      "hour_label": "13:05 CET",
+      "timestamp_str": "2026-11-15 13:05 CET",
+      "items": [
+        {
+          "title_orig": "Trump, 'l'East Potomac Park è in uno stato di degrado spaventoso'",
+          "summary_orig": "E attacca lo stop alla chiusura dalla giudice federale: 'Nominata da Biden'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/trump-least-potomac-park-e-in-uno-stato-di-degrado-spaventoso_bf8f11e3-00b7-42ec-a844-26b021979d2a.html",
+          "published": "Sun, 15 Nov 2026 16:26:58 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "13:05 CET",
+          "title_it": "Trump, 'l'East Potomac Park è in uno stato di degrado spaventoso'",
+          "summary_it": "E attacca lo stop alla chiusura dalla giudice federale: 'Nominata da Biden'",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Estonia to close border with Russia after ‘sabotage attack’ on defense firm",
+          "summary_orig": "Tallinn's Internal Security Service said an attempted arson attack was commissioned by Russia's GRU military intelligence agency.",
+          "link": "https://www.politico.eu/article/estonia-accuses-russia-of-attempted-arson-attack-on-drone-maker/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Sun, 15 Nov 2026 14:32:13 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "13:05 CET",
+          "title_it": "L’Estonia chiuderà il confine con la Russia dopo un “attacco di sabotaggio” contro un’impresa di difesa",
+          "summary_it": "Il servizio di sicurezza interna di Tallinn ha affermato che un tentativo di incendio doloso è stato commissionato dall'agenzia di intelligence militare russa GRU.",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 27.0
+        },
+        {
+          "title_orig": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+          "summary_orig": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possible new strategy for lowering cancer risk.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+          "published": "Sun, 15 Nov 2026 09:13:18 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "13:05 CET",
+          "title_it": "La vitamina C potrebbe aiutare a bloccare le sostanze chimiche legate al cancro nello stomaco, secondo uno studio",
+          "summary_it": "Gli scienziati hanno scoperto che la vitamina C può aiutare a prevenire la formazione di sostanze chimiche potenzialmente cancerose nello stomaco dopo aver mangiato cibi contenenti nitrati e nitriti. Un nuovo modello matematico suggerisce che l’assunzione di vitamina C dopo i pasti potrebbe ridurre queste reazioni dannose, offrendo una possibile nuova strategia per ridurre il rischio di cancro.",
+          "impact_eu_it": "Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "We built our world on “Big Math.” Now we no longer understand it.",
+          "summary_orig": "Math has undeniably escaped the human mind and implanted itself in nearly every corner of the world. Over the past 75 years, as computers became commonplace and grew in power, what once amounted to mental arithmetic has become something else entirely. It’s not just math; it’s “Big Math,” too large for the human brain alone. Big Math’s offshoot...",
+          "link": "https://bigthink.com/history-society/big-math/",
+          "published": "Thu, 12 Nov 2026 15:30:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "13:05 CET",
+          "title_it": "Abbiamo costruito il nostro mondo su “Big Math”. Adesso non lo capiamo più.",
+          "summary_it": "La matematica è innegabilmente sfuggita alla mente umana e si è impiantata in quasi ogni angolo del mondo. Negli ultimi 75 anni, quando i computer sono diventati di uso comune e hanno acquisito maggiore potenza, ciò che una volta equivaleva a calcolo mentale è diventato qualcos’altro. Non è solo matematica; è \"Big Math\", troppo grande per il solo cervello umano. Il ramo di Big Math...",
+          "impact_eu_it": "Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 16.5
         }
       ]
     }
