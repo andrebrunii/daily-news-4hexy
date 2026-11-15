@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-10%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (10/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `07:05 CET` — Ricerca Oraria (11/23)
+_Aggiornamento registrato il `2026-11-15 07:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Zelensky accusa SpaceX: Kiev fuorviata sui limiti di velocità di Starshield](https://it.euronews.com/2026/11/15/zelensky-accusa-spacex-kiev-fuorviata-sui-limiti-di-velocita-di-starshield)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Le restrizioni hanno inciso direttamente sulla capacità dell'Ucraina di intercettare droni d'attacco russi a reazione, ha dichiarato Zelenskyy in un intervento al vertice della Comunità politica europea a Dublino all’inizio della settimana.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `📈 Economia & Mercati` [Carriera, l’Ai taglia metà dei ruoli di ingresso in azienda e li trasforma](https://www.ilsole24ore.com/art/carriera-l-ai-taglia-meta-ruoli-ingresso-azienda-e-li-trasforma-AJoGl2FC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Secondo una ricerca di Valeur group nelle organizzazioni cresce il valore delle competenze soft. Sanità, insegnamento, leadership e gestione delle relazioni risultano gli ambiti dove è più difficile la sostituzione con l’AI
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[3] `🏦 Mercati Globali` [Potrebbe Budapest essere il prossimo hotspot dei nomadi digitali?](https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Con il suo mix di attrazioni, caffè e cultura, la capitale ungherese Budapest è diventata popolare tra coloro che abbracciano la tendenza del "lavoro da qualsiasi luogo".
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🤖 IA & Frontiera Tech` [Una Nvidia post-Jensen deve rimescolare la sua leadership, ripristinare i suoi legami con DC e riconoscere che anche l’azienda più preziosa degli Stati Uniti non può dettare la politica estera degli Stati Uniti (Chris Miller/Financial Times)](https://www.techmeme.com/261115/p6#a261115p6)** — *(Techmeme)*
+  - 📌 **Sintesi:** Chris Miller / Financial Times: Una Nvidia post-Jensen deve rimescolare la sua leadership, ripristinare i suoi legami con DC e riconoscere che anche l'azienda più preziosa degli Stati Uniti non può dettare la politica estera statunitense - L'azienda di chip può incolpare solo se stessa per una lunga lista di avversari - L'uscita di Jensen Huang da Nvidia, la società da lui co-fondata...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `06:05 CET` — Ricerca Oraria (10/23)
 _Aggiornamento registrato il `2026-11-15 06:05 CET`_

@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-14",
   "target_edition_date": "2026-11-15",
-  "last_slot_iso": "2026-11-15T06:05:00",
+  "last_slot_iso": "2026-11-15T07:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -820,6 +820,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 16.5
+        }
+      ]
+    },
+    {
+      "hour_label": "07:05 CET",
+      "timestamp_str": "2026-11-15 07:05 CET",
+      "items": [
+        {
+          "title_orig": "Zelensky accusa SpaceX: Kiev fuorviata sui limiti di velocità di Starshield",
+          "summary_orig": "Le restrizioni hanno inciso direttamente sulla capacità dell'Ucraina di intercettare droni d'attacco russi a reazione, ha dichiarato Zelenskyy in un intervento al vertice della Comunità politica europea a Dublino all’inizio della settimana.",
+          "link": "https://it.euronews.com/2026/11/15/zelensky-accusa-spacex-kiev-fuorviata-sui-limiti-di-velocita-di-starshield",
+          "published": "Sun, 15 Nov 2026 08:38:01 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "07:05 CET",
+          "title_it": "Zelensky accusa SpaceX: Kiev fuorviata sui limiti di velocità di Starshield",
+          "summary_it": "Le restrizioni hanno inciso direttamente sulla capacità dell'Ucraina di intercettare droni d'attacco russi a reazione, ha dichiarato Zelenskyy in un intervento al vertice della Comunità politica europea a Dublino all’inizio della settimana.",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 19.0
+        },
+        {
+          "title_orig": "Carriera, l’Ai taglia metà dei ruoli di ingresso in azienda e li trasforma",
+          "summary_orig": "Secondo una ricerca di Valeur group nelle organizzazioni cresce il valore delle competenze soft. Sanità, insegnamento, leadership e gestione delle relazioni risultano gli ambiti dove è più difficile la sostituzione con l’AI",
+          "link": "https://www.ilsole24ore.com/art/carriera-l-ai-taglia-meta-ruoli-ingresso-azienda-e-li-trasforma-AJoGl2FC",
+          "published": "Sun, 15 Nov 2026 08:02:02 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "07:05 CET",
+          "title_it": "Carriera, l’Ai taglia metà dei ruoli di ingresso in azienda e li trasforma",
+          "summary_it": "Secondo una ricerca di Valeur group nelle organizzazioni cresce il valore delle competenze soft. Sanità, insegnamento, leadership e gestione delle relazioni risultano gli ambiti dove è più difficile la sostituzione con l’AI",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Could Budapest be the next digital nomad hotspot?",
+          "summary_orig": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
+          "link": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+          "published": "Sun, 15 Nov 2026 06:00:01 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "07:05 CET",
+          "title_it": "Potrebbe Budapest essere il prossimo hotspot dei nomadi digitali?",
+          "summary_it": "Con il suo mix di attrazioni, caffè e cultura, la capitale ungherese Budapest è diventata popolare tra coloro che abbracciano la tendenza del \"lavoro da qualsiasi luogo\".",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 14.0
+        },
+        {
+          "title_orig": "A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US' most valuable company cannot dictate US foreign policy (Chris Miller/Financial Times)",
+          "summary_orig": "Chris Miller / Financial Times : A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US' most valuable company cannot dictate US foreign policy — The chip company has only itself to blame for a long list of adversaries — Jensen Huang's exit from Nvidia, the company he co-founded …",
+          "link": "https://www.techmeme.com/261115/p6#a261115p6",
+          "published": "Sun, 15 Nov 2026 02:01:35 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "07:05 CET",
+          "title_it": "Una Nvidia post-Jensen deve rimescolare la sua leadership, ripristinare i suoi legami con DC e riconoscere che anche l’azienda più preziosa degli Stati Uniti non può dettare la politica estera degli Stati Uniti (Chris Miller/Financial Times)",
+          "summary_it": "Chris Miller / Financial Times: Una Nvidia post-Jensen deve rimescolare la sua leadership, ripristinare i suoi legami con DC e riconoscere che anche l'azienda più preziosa degli Stati Uniti non può dettare la politica estera statunitense - L'azienda di chip può incolpare solo se stessa per una lunga lista di avversari - L'uscita di Jensen Huang da Nvidia, la società da lui co-fondata...",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 24.5
         }
       ]
     }
