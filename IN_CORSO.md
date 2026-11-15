@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 15 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md) · [📅 **2026-11-08**](./archivio/2026-11-08.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `16:05 CET` — Ricerca Oraria (20/23)
+_Aggiornamento registrato il `2026-11-15 16:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Porto di New Orleans fa causa dopo collisione tra petroliera e nave da crociera](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/porto-di-new-orleans-fa-causa-dopo-collisione-tra-petroliera-e-nave-da-crociera_ba3f9723-1731-4862-b9d4-58910d068f2f.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Chiesti un milione di dollari dopo che il mercantile ha colpito l'imbarcazione ormeggiata
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌐 Scacchiere Globale` [Il miglior risultato della Corea del Sud nell'esame di contabilità fiscale ammette di aver barato](https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Han Won-seok, 34 anni, ha confessato di aver utilizzato una telecamera nascosta e l'intelligenza artificiale per ottenere un voto quasi perfetto nel test significativo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[3] `🤖 IA & Frontiera Tech` [Scott Bessent esorta Nvidia ad assumere un CEO esterno e vuole risposte entro 10 giorni sul fatto se abbia spinto le vendite di chip "apparentemente illecite" in Cina per aumentare le entrate (Tony Czuczka/Bloomberg)](https://www.techmeme.com/261115/p8#a261115p8)** — *(Techmeme)*
+  - 📌 **Sintesi:** Tony Czuczka / Bloomberg: Scott Bessent esorta Nvidia ad assumere un CEO esterno e vuole risposte entro 10 giorni sul fatto se abbia spinto le vendite di chip "apparentemente illecite" in Cina per aumentare le entrate - Il segretario al Tesoro Scott Bessent ha affermato che Nvidia Corp. ha bisogno di un "drammatico cambiamento" nella leadership dopo la cacciata dell'amministratore delegato Jensen Huang.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[4] `💻 Tecnologia & Cyber` [Come sono cambiati gli incendi nel mondo mentre l’umanità era in pausa](https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** I lockdown per il Covid-19 hanno ridotto l’attività degli incendi a livello globale del 12,3%.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
 _Aggiornamento registrato il `2026-11-15 15:05 CET`_
