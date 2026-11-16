@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-15",
   "target_edition_date": "2026-11-16",
-  "last_slot_iso": "2026-11-16T05:05:00",
+  "last_slot_iso": "2026-11-16T06:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -738,6 +738,88 @@
           "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
           "long_term_philosophy": "**Orizzonte generazionale:** Le trasformazioni più radicali della storia non iniziano nei parlamenti o nelle borse, ma nel cambio silenzioso delle categorie mentali con cui una civiltà interpreta ciò che è normale, giusto o desiderabile.\n> 🧠 **Lente Filosofica:** Come scriveva Seneca, *«nessun vento è favorevole per il marinaio che non sa a quale porto vuol approdare»*. In un'epoca ossessionata dall'accelerazione dei mezzi, fermarsi a interrogare i fini è l'atto più sovversivo e necessario.",
           "score": 14.0
+        }
+      ]
+    },
+    {
+      "hour_label": "06:05 CET",
+      "timestamp_str": "2026-11-16 06:05 CET",
+      "items": [
+        {
+          "title_orig": "Feijóo: “Haré una auditoría a las cuentas públicas de España. No me creo los datos”",
+          "summary_orig": "Entrevista con el candidato del Partido Popular para las elecciones generales del 29N, Alberto Núñez Feijóo.",
+          "link": "https://www.politico.eu/article/feijoo-hare-una-auditoria-a-las-cuentas-publicas-de-espana-no-me-creo-los-datos/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Mon, 16 Nov 2026 05:00:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "06:05 CET",
+          "title_it": "Feijóo: \"Haré una auditoría a las cuentas públicas de España. No me creo los datos\"",
+          "summary_it": "Incontro con il candidato del Partido Popular per le elezioni generali del 29N, Alberto Núñez Feijóo.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+          "summary_orig": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Nov 2026 07:23:23 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "06:05 CET",
+          "title_it": "La ritirata delle forze yemenite lascia agli Houthi il controllo di un’area chiave sulla costa del corso d’acqua del Mar Rosso",
+          "summary_it": "Le forze sostenute dall’Arabia Saudita affermano che stanno spostando truppe dallo stretto di Bab al-Mandab per difendere la capitale provvisoria Aden.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 16.0
+        },
+        {
+          "title_orig": "Borsa: l'Europa apre debole, si guarda agli investimenti per l'Ia",
+          "summary_orig": "Londra (+0,21%), Parigi (+0,2%), Francoforte (+0,08%)",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borsa-leuropa-apre-debole-si-guarda-agli-investimenti-per-lia_a572e7b9-0c3d-4c30-bbf0-e83f2599f253.html",
+          "published": "Mon, 16 Nov 2026 09:17:29 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "06:05 CET",
+          "title_it": "Borsa: l'Europa apre debole, si guarda agli investimenti per l'Ia",
+          "summary_it": "Londra (+0,21%), Parigi (+0,2%), Francoforte (+0,08%)",
+          "impact_eu_it": "Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+          "summary_orig": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
+          "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+          "published": "Mon, 16 Nov 2026 04:34:00 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "06:05 CET",
+          "title_it": "La Cina conferma il vertice storico Xi-Trump-Putin. Cosa ci sarà all'ordine del giorno?",
+          "summary_it": "Si prevede che i colloqui si concentreranno su questioni quali la non proliferazione nucleare, la guerra in Medio Oriente, le politiche commerciali e, forse, la guerra in Ucraina.",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 31.5
         }
       ]
     }
