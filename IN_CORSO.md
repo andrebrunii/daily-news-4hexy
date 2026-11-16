@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Lunedì 16 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-14%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-16 11:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Gerard Depardieu ritira il ricorso: definitiva la condanna per aggressione sessuale](https://it.euronews.com/2026/11/16/gerard-depardieu-ritira-il-ricorso-definitiva-la-condanna-per-aggressione-sessuale)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Depardieu, che ha recitato in oltre 200 film e serie TV, è la figura più nota coinvolta nella risposta francese al movimento #MeToo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `📈 Economia & Mercati` [Montagna, avanza il ripopolamento: boom di residenti e turisti con il traino del Nord-Est](https://www.ilsole24ore.com/art/montagna-avanza-ripopolamento-boom-residenti-e-turisti-il-traino-nord-est-AJgTByHC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Tra il 2019 e il 2025 nelle terre alte si registrano 74.274 nuovi abitanti netti un segnale di comunità vive e di nuove energie sociali ed economiche
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💶 Macro & Finanza UE` [Revolut, piena collaborazione con autorità in Italia, nostri servizi non si fermano](https://www.ansa.it/sito/notizie/economia/2026/11/16/revolut-piena-collaborazione-con-autorita-in-italia-nostri-servizi-non-si-fermano_71f32bfd-b691-45a8-8026-997750ccb7fa.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Portavoce, nessuna interruzione per i clienti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[4] `🏦 Mercati Globali` [Futures azionari contrastanti mentre i trader si preparano per gli utili di Nvidia, IPO antropica questa settimana: aggiornamenti in tempo reale](https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Dow, S&P 500 e Nasdaq hanno registrato i maggiori guadagni settimanali da agosto, crescendo di oltre il 2% ciascuno.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `10:05 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-16 10:05 CET`_
