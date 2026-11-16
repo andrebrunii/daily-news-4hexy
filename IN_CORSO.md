@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Lunedì 16 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
+_Aggiornamento registrato il `2026-11-16 03:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Papa Leone XIV arriva in Amazzonia peruviana per difendere popoli indigeni e foresta](https://it.euronews.com/2026/11/15/papa-leone-xiv-arriva-in-amazzonia-peruviana-per-difendere-popoli-indigeni-e-foresta)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Leone XIV è arrivato domenica nell'Amazzonia peruviana, mettendo al centro del suo viaggio i popoli indigeni e la difesa della foresta. Dopo Cusco volerà a Pucallpa, dove l'estrazione illegale e la deforestazione minacciano territori ancestrali.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🌍 Geopolitica & Mondo` [Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/italia-gb-australia-e-canada-israele-dia-accesso-umanitario-immediato-a-gaza_944d4c6a-4c91-4a29-a789-e8fabae90b34.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Dichiarazione congiunta dei 4 ministri degli Esteri
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[3] `🏦 Mercati Globali` [Crescono le richieste del mondo tecnologico affinché Jensen Huang ritorni in Nvidia](https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Le richieste per il ritorno di Jensen Huang come CEO di Nvidia stanno crescendo, con i dirigenti tecnologici e i principali azionisti che sostengono un potenziale ritorno dopo le sue dimissioni.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🤖 IA & Frontiera Tech` [SK Hynix e il governo coreano intendono collaborare alla costruzione di Trinity Fab, una nuova struttura da 654 milioni di dollari per testare chip che consente ai fornitori di testare prodotti su wafer da 12 pollici (Yoolim Lee/Bloomberg)](https://www.techmeme.com/261115/p21#a261115p21)** — *(Techmeme)*
+  - 📌 **Sintesi:** Yoolim Lee / Bloomberg: SK Hynix e il governo coreano pianificano di collaborare per costruire Trinity Fab, un nuovo impianto di test di chip da 654 milioni di dollari che consente ai fornitori di testare prodotti su wafer da 12 pollici — SK Hynix Inc. prevede di aprire un impianto di test di semiconduttori il prossimo anno in collaborazione con il governo coreano...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
 _Aggiornamento registrato il `2026-11-16 02:05 CET`_

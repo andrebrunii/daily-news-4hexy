@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-15",
   "target_edition_date": "2026-11-16",
-  "last_slot_iso": "2026-11-16T02:05:00",
+  "last_slot_iso": "2026-11-16T03:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -492,6 +492,88 @@
           "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
           "score": 23.5
+        }
+      ]
+    },
+    {
+      "hour_label": "03:05 CET",
+      "timestamp_str": "2026-11-16 03:05 CET",
+      "items": [
+        {
+          "title_orig": "Papa Leone XIV arriva in Amazzonia peruviana per difendere popoli indigeni e foresta",
+          "summary_orig": "Leone XIV è arrivato domenica nell'Amazzonia peruviana, mettendo al centro del suo viaggio i popoli indigeni e la difesa della foresta. Dopo Cusco volerà a Pucallpa, dove l'estrazione illegale e la deforestazione minacciano territori ancestrali.",
+          "link": "https://it.euronews.com/2026/11/15/papa-leone-xiv-arriva-in-amazzonia-peruviana-per-difendere-popoli-indigeni-e-foresta",
+          "published": "Sun, 15 Nov 2026 18:13:03 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "03:05 CET",
+          "title_it": "Papa Leone XIV arriva in Amazzonia peruviana per difendere popoli indigeni e foresta",
+          "summary_it": "Leone XIV è arrivato domenica nell'Amazzonia peruviana, mettendo al centro del suo viaggio i popoli indigeni e la difesa della foresta. Dopo Cusco volerà a Pucallpa, dove l'estrazione illegale e la deforestazione minacciano territori ancestrali.",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 19.0
+        },
+        {
+          "title_orig": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
+          "summary_orig": "Dichiarazione congiunta dei 4 ministri degli Esteri",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/15/italia-gb-australia-e-canada-israele-dia-accesso-umanitario-immediato-a-gaza_944d4c6a-4c91-4a29-a789-e8fabae90b34.html",
+          "published": "Sun, 15 Nov 2026 21:20:17 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "03:05 CET",
+          "title_it": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
+          "summary_it": "Dichiarazione congiunta dei 4 ministri degli Esteri",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+          "summary_orig": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
+          "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+          "published": "Mon, 16 Nov 2026 01:54:56 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "03:05 CET",
+          "title_it": "Crescono le richieste del mondo tecnologico affinché Jensen Huang ritorni in Nvidia",
+          "summary_it": "Le richieste per il ritorno di Jensen Huang come CEO di Nvidia stanno crescendo, con i dirigenti tecnologici e i principali azionisti che sostengono un potenziale ritorno dopo le sue dimissioni.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 16.5
+        },
+        {
+          "title_orig": "SK Hynix and the Korean government plan to partner on building Trinity Fab, a new $654M chip testing facility letting suppliers test products on 12-inch wafers (Yoolim Lee/Bloomberg)",
+          "summary_orig": "Yoolim Lee / Bloomberg : SK Hynix and the Korean government plan to partner on building Trinity Fab, a new $654M chip testing facility letting suppliers test products on 12-inch wafers — SK Hynix Inc. plans to open a semiconductor testing facility next year in partnership with the Korean government …",
+          "link": "https://www.techmeme.com/261115/p21#a261115p21",
+          "published": "Sun, 15 Nov 2026 21:20:02 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "03:05 CET",
+          "title_it": "SK Hynix e il governo coreano intendono collaborare alla costruzione di Trinity Fab, una nuova struttura da 654 milioni di dollari per testare chip che consente ai fornitori di testare prodotti su wafer da 12 pollici (Yoolim Lee/Bloomberg)",
+          "summary_it": "Yoolim Lee / Bloomberg: SK Hynix e il governo coreano pianificano di collaborare per costruire Trinity Fab, un nuovo impianto di test di chip da 654 milioni di dollari che consente ai fornitori di testare prodotti su wafer da 12 pollici — SK Hynix Inc. prevede di aprire un impianto di test di semiconduttori il prossimo anno in collaborazione con il governo coreano...",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 25.5
         }
       ]
     }
