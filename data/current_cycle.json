@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-15",
   "target_edition_date": "2026-11-16",
-  "last_slot_iso": "2026-11-16T04:05:00",
+  "last_slot_iso": "2026-11-16T05:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -656,6 +656,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "05:05 CET",
+      "timestamp_str": "2026-11-16 05:05 CET",
+      "items": [
+        {
+          "title_orig": "Mine nello Stretto di Hormuz, 'altre due petroliere in fiamme'",
+          "summary_orig": "Teheran avverte: 'Puniremo le imbarcazioni che non rispettano le norme di transito'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/16/mine-nello-stretto-di-hormuz-altre-due-petroliere-in-fiamme_ffa45e18-6e1d-4bfa-97b9-c88f407ac0f5.html",
+          "published": "Mon, 16 Nov 2026 09:20:56 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "05:05 CET",
+          "title_it": "Mine nello Stretto di Hormuz, 'altre due petroliere in fiamme'",
+          "summary_it": "Teheran avverte: 'Puniremo le imbarcazioni che non rispettano le norme di transito'",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "How Brussels is learning to spot a spy",
+          "summary_orig": "When EU foreign ministers meet in Brussels today, the war in Ukraine will top the agenda, along with Gaza and Iran. Ministers will assess Russia’s maximalist demands from last week’s talks in Abu Dhabi, which have cast further doubt on the prospects for future negotiations involving Europe. They’ll also discuss how to respond to the […]",
+          "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/how-brussels-is-learning-to-spot-a-spy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Mon, 16 Nov 2026 05:05:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "05:05 CET",
+          "title_it": "Come Bruxelles sta imparando a individuare una spia",
+          "summary_it": "Quando i ministri degli Esteri dell’UE si incontreranno oggi a Bruxelles, la guerra in Ucraina sarà in cima all’agenda, insieme a Gaza e all’Iran. I ministri valuteranno le richieste massimaliste della Russia emerse dai colloqui della scorsa settimana ad Abu Dhabi, che hanno gettato ulteriori dubbi sulle prospettive dei futuri negoziati che coinvolgono l’Europa. Discuteranno anche come rispondere al […]",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 37.5
+        },
+        {
+          "title_orig": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+          "summary_orig": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+          "published": "Sun, 15 Nov 2026 09:03:39 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "05:05 CET",
+          "title_it": "Un farmaco comune contro l’osteoporosi ha bloccato il danno spinale in un nuovo sorprendente studio",
+          "summary_it": "Gli scienziati hanno scoperto una sorprendente connessione genetica con la degenerazione spinale e hanno scoperto che un farmaco esistente per l'osteoporosi può prevenire un dannoso accumulo di minerali nelle spine del pesce zebra. La scoperta potrebbe aprire la strada a nuovi trattamenti che rallentano o prevengono una delle principali cause del mal di schiena cronico.",
+          "impact_eu_it": "Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Astronomers weigh the Milky Way’s mass at long last",
+          "summary_orig": "Astronomers have long since mapped out the Milky Way’s starlight . Behind the dome of a series of European Southern Observatory telescopes, the Milky Way towers in the southern skies, flanked by the Large and Small Magellanic Clouds, at right. Although there are several thousand stars and the plane of the Milky Way all visible to human eyes, there are...",
+          "link": "https://bigthink.com/starts-with-a-bang/astronomers-weigh-milky-way/",
+          "published": "Mon, 16 Nov 2026 07:00:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "05:05 CET",
+          "title_it": "Gli astronomi finalmente misurano la massa della Via Lattea",
+          "summary_it": "Gli astronomi hanno da tempo mappato la luce stellare della Via Lattea. Dietro la cupola di una serie di telescopi dell'Osservatorio Europeo Australe, la Via Lattea troneggia nei cieli meridionali, fiancheggiata dalle Grandi e Piccole Nubi di Magellano, a destra. Sebbene ci siano diverse migliaia di stelle e il piano della Via Lattea tutti visibili agli occhi umani, ci sono...",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Le trasformazioni più radicali della storia non iniziano nei parlamenti o nelle borse, ma nel cambio silenzioso delle categorie mentali con cui una civiltà interpreta ciò che è normale, giusto o desiderabile.\n> 🧠 **Lente Filosofica:** Come scriveva Seneca, *«nessun vento è favorevole per il marinaio che non sa a quale porto vuol approdare»*. In un'epoca ossessionata dall'accelerazione dei mezzi, fermarsi a interrogare i fini è l'atto più sovversivo e necessario.",
+          "score": 14.0
         }
       ]
     }
