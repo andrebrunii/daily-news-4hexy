@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Lunedì 16 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-18%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (18/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
+_Aggiornamento registrato il `2026-11-16 15:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Qatar Sustainability Week: meno sprechi alimentari, emissioni tracciate e benessere](https://it.euronews.com/2026/11/16/qatar-sustainability-week-meno-sprechi-alimentari-emissioni-tracciate-e-benessere)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Ridurre gli sprechi e prendersi cura della nostra salute fisica e mentale sono stati tra i temi della Qatar Sustainability Week di quest’anno. Scuole, aziende e comunità hanno esplorato come le nostre scelte quotidiane influenzino ambiente e benessere.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
+- **[2] `📈 Economia & Mercati` [Tecnocem compra Meccanica Bruciatori e amplia la filiera immobiliare](https://www.ilsole24ore.com/art/tecnocem-compra-meccanica-bruciatori-e-amplia-filiera-immobiliare-AJEJeMIC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Dai cantieri alle centrali termiche, dalla costruzione di un edificio alla sua gestione quotidiana. Tecnocem allunga la propria filiera e acquisisce il 100% di Meccanica Bruciatori, impresa di Casalecchio di...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💶 Macro & Finanza UE` [Borsa: Milano debole con l'Europa, giù Technoprobe e Stellantis](https://www.ansa.it/sito/notizie/economia/2026/11/16/borsa-milano-debole-con-leuropa-giu-technoprobe-e-stellantis_bad2ac30-2e2c-4ed2-bbc8-f86b54822f0c.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Calme le banche, in rialzo Cucinelli e Avio. Scivola il gas, giù anche il petrolio
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [Ricaduta di Nvidia: il commercio prende di mira la scappatoia per l'utilizzo dei data center in Cina](https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** La norma è stata scritta dal Dipartimento del Tesoro e dal Consiglio di Sicurezza Nazionale dopo le critiche rivolte al Segretario al Commercio Howard Lutnick.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `14:05 CET` — Ricerca Oraria (18/23)
 _Aggiornamento registrato il `2026-11-16 14:05 CET`_

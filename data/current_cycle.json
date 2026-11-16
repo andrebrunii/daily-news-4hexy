@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-15",
   "target_edition_date": "2026-11-16",
-  "last_slot_iso": "2026-11-16T14:05:00",
+  "last_slot_iso": "2026-11-16T15:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1476,6 +1476,88 @@
           "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
           "score": 14.5
+        }
+      ]
+    },
+    {
+      "hour_label": "15:05 CET",
+      "timestamp_str": "2026-11-16 15:05 CET",
+      "items": [
+        {
+          "title_orig": "Qatar Sustainability Week: meno sprechi alimentari, emissioni tracciate e benessere",
+          "summary_orig": "Ridurre gli sprechi e prendersi cura della nostra salute fisica e mentale sono stati tra i temi della Qatar Sustainability Week di quest’anno. Scuole, aziende e comunità hanno esplorato come le nostre scelte quotidiane influenzino ambiente e benessere.",
+          "link": "https://it.euronews.com/2026/11/16/qatar-sustainability-week-meno-sprechi-alimentari-emissioni-tracciate-e-benessere",
+          "published": "Mon, 16 Nov 2026 18:45:05 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "15:05 CET",
+          "title_it": "Qatar Sustainability Week: meno sprechi alimentari, emissioni tracciate e benessere",
+          "summary_it": "Ridurre gli sprechi e prendersi cura della nostra salute fisica e mentale sono stati tra i temi della Qatar Sustainability Week di quest’anno. Scuole, aziende e comunità hanno esplorato come le nostre scelte quotidiane influenzino ambiente e benessere.",
+          "impact_eu_it": "Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Tecnocem compra Meccanica Bruciatori e amplia la filiera immobiliare",
+          "summary_orig": "Dai cantieri alle centrali termiche, dalla costruzione di un edificio alla sua gestione quotidiana. Tecnocem allunga la propria filiera e acquisisce il 100% di Meccanica Bruciatori, impresa di Casalecchio di...",
+          "link": "https://www.ilsole24ore.com/art/tecnocem-compra-meccanica-bruciatori-e-amplia-filiera-immobiliare-AJEJeMIC",
+          "published": "Mon, 16 Nov 2026 14:58:00 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "15:05 CET",
+          "title_it": "Tecnocem compra Meccanica Bruciatori e amplia la filiera immobiliare",
+          "summary_it": "Dai cantieri alle centrali termiche, dalla costruzione di un edificio alla sua gestione quotidiana. Tecnocem allunga la propria filiera e acquisisce il 100% di Meccanica Bruciatori, impresa di Casalecchio di...",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Borsa: Milano debole con l'Europa, giù Technoprobe e Stellantis",
+          "summary_orig": "Calme le banche, in rialzo Cucinelli e Avio. Scivola il gas, giù anche il petrolio",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borsa-milano-debole-con-leuropa-giu-technoprobe-e-stellantis_bad2ac30-2e2c-4ed2-bbc8-f86b54822f0c.html",
+          "published": "Mon, 16 Nov 2026 18:34:55 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "15:05 CET",
+          "title_it": "Borsa: Milano debole con l'Europa, giù Technoprobe e Stellantis",
+          "summary_it": "Calme le banche, in rialzo Cucinelli e Avio. Scivola il gas, giù anche il petrolio",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 26.0
+        },
+        {
+          "title_orig": "Nvidia fallout: Commerce targets loophole for China's data center use",
+          "summary_orig": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
+          "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+          "published": "Mon, 16 Nov 2026 17:22:11 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "15:05 CET",
+          "title_it": "Ricaduta di Nvidia: il commercio prende di mira la scappatoia per l'utilizzo dei data center in Cina",
+          "summary_it": "La norma è stata scritta dal Dipartimento del Tesoro e dal Consiglio di Sicurezza Nazionale dopo le critiche rivolte al Segretario al Commercio Howard Lutnick.",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 27.0
         }
       ]
     }
