@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Lunedì 16 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-16 12:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Ok dal Consiglio Ue a un nuovo pagamento da 8 miliardi a Kiev](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/ok-dal-consiglio-ue-a-un-nuovo-pagamento-da-8-miliardi-a-kiev_4a452eb8-fb3c-43d7-a916-c31861c4a62d.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Fonti Ue: 'Verso linee guida del Coreper ai negoziatori europei'. Madrid: 'Nulla si può decidere senza la Spagna al tavolo'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[2] `🇪🇺 Unione Europea & Policy` [I massimi organismi calcistici europei si trovano ad affrontare una denuncia antitrust da parte dell’UE](https://www.politico.eu/article/uefa-efc-face-eu-antitrust-complaint/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** L’Unione dei club europei ha affermato che il patto esclusivo dell’organo di governo UEFA con una potente organizzazione calcistica viola le leggi sulla concorrenza dell’UE.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [Baidu riporta che i ricavi del terzo trimestre sono scesi dell'1% su base annua a ~ 4,6 miliardi di dollari, il sesto calo trimestrale consecutivo delle vendite e un utile netto di ~ 210 milioni di dollari; Le aziende basate sull’intelligenza artificiale rappresentano ora oltre il 50% delle sue entrate (Bloomberg)](https://www.techmeme.com/261116/p12#a261116p12)** — *(Techmeme)*
+  - 📌 **Sintesi:** Bloomberg: Baidu riporta che i ricavi del terzo trimestre sono scesi dell'1% su base annua a ~4,6 miliardi di dollari, il sesto calo trimestrale consecutivo delle vendite e un utile netto di ~210 milioni di dollari; Le aziende basate sull’intelligenza artificiale rappresentano ora più del 50% delle sue entrate: Baidu Inc. ha registrato il sesto calo trimestrale consecutivo delle entrate, sottolineando l’urgenza dei suoi sforzi per commercializzare l’intelligenza artificiale per compensare un’attività di ricerca legacy vacillante.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `⚡ Futuro & Deep Tech` [La reazione negativa sui data center potrebbe in realtà riguardare solo l’elettricità](https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** Questa storia è apparsa originariamente su The Algorithm, la nostra newsletter settimanale sull'intelligenza artificiale. Per ricevere prima storie come questa nella tua casella di posta, iscriviti qui. La scorsa settimana, mentre gli elettori si recavano alle urne negli Stati Uniti, mi trovavo ad Ashburn, in Virginia, in quella che è conosciuta come Data Center Alley, il più grande hub di data center del mondo. È anche dove…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
 
 ### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-16 11:05 CET`_

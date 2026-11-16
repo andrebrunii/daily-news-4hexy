@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-15",
   "target_edition_date": "2026-11-16",
-  "last_slot_iso": "2026-11-16T11:05:00",
+  "last_slot_iso": "2026-11-16T12:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1230,6 +1230,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 17.0
+        }
+      ]
+    },
+    {
+      "hour_label": "12:05 CET",
+      "timestamp_str": "2026-11-16 12:05 CET",
+      "items": [
+        {
+          "title_orig": "Ok dal Consiglio Ue a un nuovo pagamento da 8 miliardi a Kiev",
+          "summary_orig": "Fonti Ue: 'Verso linee guida del Coreper ai negoziatori europei'. Madrid: 'Nulla si può decidere senza la Spagna al tavolo'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/ok-dal-consiglio-ue-a-un-nuovo-pagamento-da-8-miliardi-a-kiev_4a452eb8-fb3c-43d7-a916-c31861c4a62d.html",
+          "published": "Mon, 16 Nov 2026 11:17:33 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "12:05 CET",
+          "title_it": "Ok dal Consiglio Ue a un nuovo pagamento da 8 miliardi a Kiev",
+          "summary_it": "Fonti Ue: 'Verso linee guida del Coreper ai negoziatori europei'. Madrid: 'Nulla si può decidere senza la Spagna al tavolo'",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Europe’s top soccer bodies face EU antitrust complaint",
+          "summary_orig": "The Union of European Clubs said that governing body UEFA’s exclusive pact with a powerful soccer organization breaches EU competition law.",
+          "link": "https://www.politico.eu/article/uefa-efc-face-eu-antitrust-complaint/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Mon, 16 Nov 2026 10:59:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "12:05 CET",
+          "title_it": "I massimi organismi calcistici europei si trovano ad affrontare una denuncia antitrust da parte dell’UE",
+          "summary_it": "L’Unione dei club europei ha affermato che il patto esclusivo dell’organo di governo UEFA con una potente organizzazione calcistica viola le leggi sulla concorrenza dell’UE.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 30.5
+        },
+        {
+          "title_orig": "Baidu reports Q3 revenue down 1% YOY to ~$4.6B, its sixth straight quarterly sales decline, and net income of ~$210M; AI businesses are now 50%+ of its revenue (Bloomberg)",
+          "summary_orig": "Bloomberg : Baidu reports Q3 revenue down 1% YOY to ~$4.6B, its sixth straight quarterly sales decline, and net income of ~$210M; AI businesses are now 50%+ of its revenue — Baidu Inc. posted its sixth straight quarterly revenue drop, underscoring the urgency of its efforts to commercialize AI to offset a faltering legacy search business.",
+          "link": "https://www.techmeme.com/261116/p12#a261116p12",
+          "published": "Mon, 16 Nov 2026 05:40:00 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "12:05 CET",
+          "title_it": "Baidu riporta che i ricavi del terzo trimestre sono scesi dell'1% su base annua a ~ 4,6 miliardi di dollari, il sesto calo trimestrale consecutivo delle vendite e un utile netto di ~ 210 milioni di dollari; Le aziende basate sull’intelligenza artificiale rappresentano ora oltre il 50% delle sue entrate (Bloomberg)",
+          "summary_it": "Bloomberg: Baidu riporta che i ricavi del terzo trimestre sono scesi dell'1% su base annua a ~4,6 miliardi di dollari, il sesto calo trimestrale consecutivo delle vendite e un utile netto di ~210 milioni di dollari; Le aziende basate sull’intelligenza artificiale rappresentano ora più del 50% delle sue entrate: Baidu Inc. ha registrato il sesto calo trimestrale consecutivo delle entrate, sottolineando l’urgenza dei suoi sforzi per commercializzare l’intelligenza artificiale per compensare un’attività di ricerca legacy vacillante.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "The backlash about data centers might really just be about electricity",
+          "summary_orig": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where…",
+          "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+          "published": "Mon, 09 Nov 2026 19:35:33 +0000",
+          "source_id": "mit_tech",
+          "source_name": "MIT Technology Review",
+          "category": "tech_ia",
+          "badge": "⚡ Futuro & Deep Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.25,
+          "hour_slot": "12:05 CET",
+          "title_it": "La reazione negativa sui data center potrebbe in realtà riguardare solo l’elettricità",
+          "summary_it": "Questa storia è apparsa originariamente su The Algorithm, la nostra newsletter settimanale sull'intelligenza artificiale. Per ricevere prima storie come questa nella tua casella di posta, iscriviti qui. La scorsa settimana, mentre gli elettori si recavano alle urne negli Stati Uniti, mi trovavo ad Ashburn, in Virginia, in quella che è conosciuta come Data Center Alley, il più grande hub di data center del mondo. È anche dove…",
+          "impact_eu_it": "Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 24.0
         }
       ]
     }
