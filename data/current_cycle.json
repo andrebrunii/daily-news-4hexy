@@ -1,6 +1,89 @@
 {
   "last_published_edition_date": "2026-11-16",
   "target_edition_date": "2026-11-17",
-  "last_slot_iso": "2026-11-16T20:05:00",
-  "hourly_batches": []
+  "last_slot_iso": "2026-11-16T21:05:00",
+  "hourly_batches": [
+    {
+      "hour_label": "21:05 CET",
+      "timestamp_str": "2026-11-16 21:05 CET",
+      "items": [
+        {
+          "title_orig": "Germania, arriva la \"tassa sulle salsicce\" alle feste comunali: timori su Iva e burocrazia",
+          "summary_orig": "Cresce il dissenso contro il piano di applicare rigorosamente l’IVA sulle tipiche salsicce tedesche e altri prodotti nelle feste di paese a partire dal 2027",
+          "link": "https://it.euronews.com/2026/11/16/germania-arriva-la-tassa-sulle-salsicce-alle-feste-comunali-timori-su-iva-e-burocrazia",
+          "published": "Mon, 16 Nov 2026 21:00:08 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "21:05 CET",
+          "title_it": "Germania, arriva la \"tassa sulle salsicce\" alle feste comunali: timori su Iva e burocrazia",
+          "summary_it": "Cresce il dissenso contro il piano di applicare rigorosamente l’IVA sulle tipiche salsicce tedesche e altri prodotti nelle feste di paese a partire dal 2027",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Biffi: «La rappresentanza non è rendita di posizione, va dimostrata ogni giorno»",
+          "summary_orig": "Il futuro della rappresentanza. E’ il tema di fondo della terza edizione di Relind, Forum delle Relazioni industriali promosso congiuntamente da Assolombarda e Confindustria con il coinvolgimento delle Organizzazioni sindacali...",
+          "link": "https://www.ilsole24ore.com/art/biffi-la-rappresentanza-non-e-rendita-posizione-va-dimostrata-ogni-giorno-AJ12IPHC",
+          "published": "Mon, 16 Nov 2026 11:10:00 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "21:05 CET",
+          "title_it": "Biffi: «La rappresentanza non è rendita di posizione, va dimostrata ogni giorno»",
+          "summary_it": "Il futuro della rappresentanza. E’ il tema di fondo della terza edizione di Relind, Forum delle Relazioni industriali promosso congiuntamente da Assolombarda e Confindustria con il coinvolgimento delle Organizzazioni sindacali...",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Tassa di soggiorno verso il record di 1,3 miliardi nel 2026",
+          "summary_orig": "Assohotel-Jfc, sulle camere più economiche si paga in proporzione fino a 3,5 volte di più",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/tassa-di-soggiorno-verso-il-record-di-13-miliardi-nel-2026_6fb21b22-15cf-4ced-a92e-ce659b05db68.html",
+          "published": "Mon, 16 Nov 2026 17:49:19 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "21:05 CET",
+          "title_it": "Tassa di soggiorno verso il record di 1,3 miliardi nel 2026",
+          "summary_it": "Assohotel-Jfc, sulle camere più economiche si paga in proporzione fino a 3,5 volte di più",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+          "summary_orig": "Gerstner told CNBC that he's looking to put five time as much money into Anthropic as he's ever put into a prior IPO.",
+          "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+          "published": "Mon, 16 Nov 2026 19:11:41 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "21:05 CET",
+          "title_it": "Brad Gerstner di Altimeter punta a investire 5 miliardi di dollari nell'IPO antropica",
+          "summary_it": "Gerstner ha detto alla CNBC che sta cercando di investire in Anthropic cinque volte più soldi di quanto non abbia mai investito in una precedente IPO.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 16.5
+        }
+      ]
+    }
+  ]
 }
