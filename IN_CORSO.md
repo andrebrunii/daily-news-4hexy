@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Lunedì 16 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-22%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-23%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (22/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
+**Progresso verso la Top 10 delle 20:05 CET (23/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `19:05 CET` — Ricerca Oraria (23/23)
+_Aggiornamento registrato il `2026-11-16 19:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [La madre di Cristiano Ronaldo attacca il Portogallo e i giocatore della Nazionale: "Non è stato rispettato"](https://it.euronews.com/2026/11/16/la-madre-di-cristiano-ronaldo-attacca-il-portogallo-e-i-giocatore-della-nazionale-non-e-st)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Dolores Aveiro rivela che Ronaldo è triste per come la Federazione lo ha omaggiato e si dice "contenta" della sconfitta del Portogallo: "Se l'è meritata"
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `📈 Economia & Mercati` [Msc Crociere, nuova base nel porto di Singapore](https://www.ilsole24ore.com/art/msc-crociere-nuova-base-porto-singapore-AJw8W6HC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Msc Crociere e il Singapore Tourism Board hanno annunciato una partnership triennale che vedrà la compagnia di navigazione che fa capo alla famiglia Aponte utilizzare Singapore come homeport, a partire...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `💶 Macro & Finanza UE` [Il gas in forte calo (-7%) sotto gli 84 euro al Megawattora](https://www.ansa.it/sito/notizie/economia/2026/11/16/il-gas-in-forte-calo-7-sotto-gli-84-euro-al-megawattora_95855878-4fef-4866-b620-8a0c0baba7c2.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Sul mercato di Amsterdam di riferimento per l'Europa
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[4] `🏦 Mercati Globali` [Brad Gerstner di Altimeter investe 5 miliardi di dollari nell'IPO antropica](https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Gerstner ha detto alla CNBC che sta investendo in Anthropic cinque volte più denaro di quanto avesse mai investito in una precedente IPO.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `18:05 CET` — Ricerca Oraria (22/23)
 _Aggiornamento registrato il `2026-11-16 18:05 CET`_
