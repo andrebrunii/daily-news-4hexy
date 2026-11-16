@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-16",
   "target_edition_date": "2026-11-17",
-  "last_slot_iso": "2026-11-16T22:05:00",
+  "last_slot_iso": "2026-11-16T23:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -163,6 +163,88 @@
           "summary_it": "Lo studio tenta di calcolare il consumo energetico e le emissioni degli hyperscaler.",
           "impact_eu_it": "Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "23:05 CET",
+      "timestamp_str": "2026-11-16 23:05 CET",
+      "items": [
+        {
+          "title_orig": "Sanchez, 'il centro per migranti in Ruanda privo di futuro e di umanità'",
+          "summary_orig": "Approfondimento disponibile nella fonte originale collegata.",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/sanchez-il-centro-per-migranti-in-ruanda-privo-di-futuro-e-di-umanita_cf591a42-b14f-4ac2-af38-376749fcd3cf.html",
+          "published": "Mon, 16 Nov 2026 23:00:13 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "23:05 CET",
+          "title_it": "Sanchez, 'il centro per migranti in Ruanda privo di futuro e di umanità'",
+          "summary_it": "Approfondimento disponibile nella fonte originale collegata.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Europeans court China’s help to keep climate action on track",
+          "summary_orig": "Diplomats see China as key to breaking a deadlock holding up scientific reports.",
+          "link": "https://www.politico.eu/article/europe-china-talks-ipcc-climate-reports/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Mon, 16 Nov 2026 16:33:43 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "23:05 CET",
+          "title_it": "Gli europei chiedono l’aiuto della Cina per mantenere l’azione sul clima sulla buona strada",
+          "summary_it": "I diplomatici vedono la Cina come la chiave per sbloccare la situazione di stallo che ostacola i rapporti scientifici.",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 27.5
+        },
+        {
+          "title_orig": "Vitamin B12 may hold the key to treating a rare genetic disorder",
+          "summary_orig": "Scientists discovered that vitamin B12 largely reversed developmental abnormalities in worms carrying a genetic mutation linked to Verheij syndrome, a rare disorder that causes growth problems and developmental delays. Similar metabolic changes were identified in human patients, raising the possibility that this common vitamin could inspire new...",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261115085552.htm",
+          "published": "Mon, 16 Nov 2026 09:31:10 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "23:05 CET",
+          "title_it": "La vitamina B12 potrebbe essere la chiave per il trattamento di una rara malattia genetica",
+          "summary_it": "Gli scienziati hanno scoperto che la vitamina B12 ha in gran parte invertito le anomalie dello sviluppo nei vermi portatori di una mutazione genetica legata alla sindrome di Verheij, una malattia rara che causa problemi di crescita e ritardi nello sviluppo. Simili cambiamenti metabolici sono stati identificati in pazienti umani, aumentando la possibilità che questa vitamina comune possa ispirare nuove...",
+          "impact_eu_it": "Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Passo indietro della Lega su quota 64. Nuovo vertice sulla manovra",
+          "summary_orig": "'Ci sarà misura ad hoc'. Schillaci assicura fondi sulla sanità, la carica degli emendamenti",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/passo-indietro-della-lega-su-quota-64.-nuovo-vertice-sulla-manovra_3cb9d552-f79d-44b5-abd8-55c8263b801b.html",
+          "published": "Mon, 16 Nov 2026 21:08:59 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "23:05 CET",
+          "title_it": "Passo indietro della Lega su quota 64. Nuovo vertice sulla manovra",
+          "summary_it": "'Ci sarà misura ad hoc'. Schillaci assicura fondi sulla sanità, la carica degli emendamenti",
+          "impact_eu_it": "Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 12.0
         }
       ]

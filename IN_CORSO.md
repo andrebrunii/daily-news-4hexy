@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-2%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-3%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (2/23 ricerche orarie):**
-`🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (3/23 ricerche orarie):**
+`🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `23:05 CET` — Ricerca Oraria (3/23)
+_Aggiornamento registrato il `2026-11-16 23:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Sanchez, 'il centro per migranti in Ruanda privo di futuro e di umanità'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/sanchez-il-centro-per-migranti-in-ruanda-privo-di-futuro-e-di-umanita_cf591a42-b14f-4ac2-af38-376749fcd3cf.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Approfondimento disponibile nella fonte originale collegata.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [Gli europei chiedono l’aiuto della Cina per mantenere l’azione sul clima sulla buona strada](https://www.politico.eu/article/europe-china-talks-ipcc-climate-reports/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** I diplomatici vedono la Cina come la chiave per sbloccare la situazione di stallo che ostacola i rapporti scientifici.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[3] `🔭 Ricerca & Spazio` [La vitamina B12 potrebbe essere la chiave per il trattamento di una rara malattia genetica](https://www.sciencedaily.com/releases/2026/11/261115085552.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati hanno scoperto che la vitamina B12 ha in gran parte invertito le anomalie dello sviluppo nei vermi portatori di una mutazione genetica legata alla sindrome di Verheij, una malattia rara che causa problemi di crescita e ritardi nello sviluppo. Simili cambiamenti metabolici sono stati identificati in pazienti umani, aumentando la possibilità che questa vitamina comune possa ispirare nuove...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `💶 Macro & Finanza UE` [Passo indietro della Lega su quota 64. Nuovo vertice sulla manovra](https://www.ansa.it/sito/notizie/economia/2026/11/16/passo-indietro-della-lega-su-quota-64.-nuovo-vertice-sulla-manovra_3cb9d552-f79d-44b5-abd8-55c8263b801b.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** 'Ci sarà misura ad hoc'. Schillaci assicura fondi sulla sanità, la carica degli emendamenti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
 
 ### 🕒 Ora `22:05 CET` — Ricerca Oraria (2/23)
 _Aggiornamento registrato il `2026-11-16 22:05 CET`_
