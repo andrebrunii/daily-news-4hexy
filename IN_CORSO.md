@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Lunedì 16 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
+_Aggiornamento registrato il `2026-11-16 02:05 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Il guasto dello sterzo ha preceduto la collisione della nave da crociera di New Orleans, afferma NTSB](https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** I risultati preliminari degli investigatori del National Transportation Safety Board suggeriscono che la petroliera ha subito un "vittima alla guida" prima di entrare in collisione con la nave da crociera venerdì.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌍 Esteri & Analisi` [‘Il sangue di questi fratelli grida’: Papa Leone chiede giustizia per le persone uccise proteggendo l’Amazzonia](https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment)** — *(The Guardian World)*
+  - 📌 **Sintesi:** Il Pontefice pronuncia un discorso forte l'ultimo giorno in Perù mentre viaggia dalle Ande all'Amazzonia Papa Leone XIV ha chiesto giustizia per i difensori ambientali uccisi per aver protetto l'Amazzonia e ha sostenuto gli sforzi dei popoli indigeni per impedire che le loro terre vengano devastate dal disboscamento e dall'estrazione mineraria illegale. Nel penultimo giorno del suo Sud...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🏦 Mercati Globali` [L'economia giapponese si contrae inaspettatamente nel terzo trimestre a causa degli elevati costi energetici](https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Secondo quanto riferito, i sussidi energetici per le famiglie sarebbero scaduti a settembre, esponendo l’economia ai prezzi più elevati dell’energia causati dalla guerra con l’Iran.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[4] `🤖 IA & Frontiera Tech` [In che modo Samsung mira a diventare uno sportello unico che costruisce, gestisce e alimenta data center; fonti: il suo ramo IT è in trattative iniziali per firmare Anthropic e OpenAI come inquilini (Financial Times)](https://www.techmeme.com/261115/p19#a261115p19)** — *(Techmeme)*
+  - 📌 **Sintesi:** Financial Times: come Samsung mira a diventare uno sportello unico che costruisce, gestisce e alimenta data center; fonti: il suo ramo IT è in trattative iniziali per firmare Anthropic e OpenAI come inquilini: il conglomerato sudcoreano spera di replicare il successo con i semiconduttori nel suo vasto portafoglio di attività
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `01:05 CET` — Ricerca Oraria (5/23)
 _Aggiornamento registrato il `2026-11-16 01:05 CET`_

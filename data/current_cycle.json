@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-15",
   "target_edition_date": "2026-11-16",
-  "last_slot_iso": "2026-11-16T01:05:00",
+  "last_slot_iso": "2026-11-16T02:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -410,6 +410,88 @@
           "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
           "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
           "score": 14.0
+        }
+      ]
+    },
+    {
+      "hour_label": "02:05 CET",
+      "timestamp_str": "2026-11-16 02:05 CET",
+      "items": [
+        {
+          "title_orig": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+          "summary_orig": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+          "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 15 Nov 2026 22:57:27 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "02:05 CET",
+          "title_it": "Il guasto dello sterzo ha preceduto la collisione della nave da crociera di New Orleans, afferma NTSB",
+          "summary_it": "I risultati preliminari degli investigatori del National Transportation Safety Board suggeriscono che la petroliera ha subito un \"vittima alla guida\" prima di entrare in collisione con la nave da crociera venerdì.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 16.0
+        },
+        {
+          "title_orig": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+          "summary_orig": "Pontiff delivers forceful speech on final day in Peru as he travels from high in the Andes into the Amazon Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravaged by logging and illegal mining. On the penultimate day of his South...",
+          "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+          "published": "Mon, 16 Nov 2026 01:13:44 GMT",
+          "source_id": "guardian_world",
+          "source_name": "The Guardian World",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Esteri & Analisi",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "02:05 CET",
+          "title_it": "‘Il sangue di questi fratelli grida’: Papa Leone chiede giustizia per le persone uccise proteggendo l’Amazzonia",
+          "summary_it": "Il Pontefice pronuncia un discorso forte l'ultimo giorno in Perù mentre viaggia dalle Ande all'Amazzonia Papa Leone XIV ha chiesto giustizia per i difensori ambientali uccisi per aver protetto l'Amazzonia e ha sostenuto gli sforzi dei popoli indigeni per impedire che le loro terre vengano devastate dal disboscamento e dall'estrazione mineraria illegale. Nel penultimo giorno del suo Sud...",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+          "summary_orig": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+          "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+          "published": "Mon, 16 Nov 2026 01:02:48 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "02:05 CET",
+          "title_it": "L'economia giapponese si contrae inaspettatamente nel terzo trimestre a causa degli elevati costi energetici",
+          "summary_it": "Secondo quanto riferito, i sussidi energetici per le famiglie sarebbero scaduti a settembre, esponendo l’economia ai prezzi più elevati dell’energia causati dalla guerra con l’Iran.",
+          "impact_eu_it": "Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 17.5
+        },
+        {
+          "title_orig": "How Samsung aims to be a one-stop shop that builds, runs, and powers data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants (Financial Times)",
+          "summary_orig": "Financial Times : How Samsung aims to be a one-stop shop that builds, runs, and powers data centers; sources: its IT arm is in early talks to sign Anthropic and OpenAI as tenants — South Korean conglomerate hopes to replicate success with semiconductors across its sprawling portfolio of businesses",
+          "link": "https://www.techmeme.com/261115/p19#a261115p19",
+          "published": "Sun, 15 Nov 2026 20:15:01 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "02:05 CET",
+          "title_it": "In che modo Samsung mira a diventare uno sportello unico che costruisce, gestisce e alimenta data center; fonti: il suo ramo IT è in trattative iniziali per firmare Anthropic e OpenAI come inquilini (Financial Times)",
+          "summary_it": "Financial Times: come Samsung mira a diventare uno sportello unico che costruisce, gestisce e alimenta data center; fonti: il suo ramo IT è in trattative iniziali per firmare Anthropic e OpenAI come inquilini: il conglomerato sudcoreano spera di replicare il successo con i semiconduttori nel suo vasto portafoglio di attività",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 23.5
         }
       ]
     }
