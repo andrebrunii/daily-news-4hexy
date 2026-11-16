@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Lunedì 16 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `16:05 CET` — Ricerca Oraria (20/23)
+_Aggiornamento registrato il `2026-11-16 16:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Altman, 'difficile immaginare la rivoluzione IA senza Jensen Huang'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/16/altman-difficile-immaginare-la-rivoluzione-ia-senza-jensen-huang_1f906a5d-5880-4931-b035-42166002f4b8.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'E' da tempo un mio eroe, Nvidia ha scommesso su OpenAI fin dall'inizio'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[2] `🇪🇺 Unione Europea & Policy` [Le bras de fer entre Le Pen et les Constitutionnalistes](https://www.politico.eu/podcast/playbook-paris-podcast/le-bras-de-fer-entre-le-pen-et-les-constitutionnalistes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** L’iniziativa non è abituale: 110 professori di diritto hanno cosigné une tribune dans Le Monde, mercredi dernier, pour rappeler les règles prévues en matière révision de la Constitution. Leur message : modifier notre loi fondamentale via l’article 11, utilisé jadis par Charles de Gaulle, est irrégulier. Oppure Marine Le Pen prévoit d’y recourir pour […]
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [OpenAI annuncia strumenti per combattere il materiale pedopornografico, tra cui un classificatore di immagini e nuove schermate di avviso per impedire agli utenti di accedere a materiale che sessualizza i bambini (Ivan Mehta/TechCrunch)](https://www.techmeme.com/261116/p39#a261116p39)** — *(Techmeme)*
+  - 📌 **Sintesi:** Ivan Mehta / TechCrunch: OpenAI annuncia strumenti per combattere il materiale pedopornografico, tra cui un classificatore di immagini e nuove schermate di avviso per impedire agli utenti di accedere a materiale che sessualizza i bambini — OpenAI ha annunciato oggi nuovi strumenti per combattere il materiale pedopornografico (CSAM) in mezzo alle crescenti preoccupazioni sulla sicurezza legate all'uso degli strumenti di intelligenza artificiale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[4] `💻 Tecnologia & Cyber` [Gli Stati Uniti ora “si sentono a proprio agio” con i bambini che muoiono di morbillo mentre il bilancio delle vittime raggiunge quota 10](https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Martedì le autorità internazionali annunceranno che gli Stati Uniti hanno perso lo status di eliminazione.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
 
 ### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
 _Aggiornamento registrato il `2026-11-16 15:05 CET`_
