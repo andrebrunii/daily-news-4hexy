@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-15",
   "target_edition_date": "2026-11-16",
-  "last_slot_iso": "2026-11-16T13:05:00",
+  "last_slot_iso": "2026-11-16T14:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1394,6 +1394,88 @@
           "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
           "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
           "score": 15.0
+        }
+      ]
+    },
+    {
+      "hour_label": "14:05 CET",
+      "timestamp_str": "2026-11-16 14:05 CET",
+      "items": [
+        {
+          "title_orig": "UK hands Palantir two-year reprieve on NHS contract",
+          "summary_orig": "Health minister James Frith described the extension of Palantir's NHS contract as “a bridge, not the destination.”",
+          "link": "https://www.politico.eu/article/uk-hands-palantir-two-year-reprieve-on-nhs-contract/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Mon, 16 Nov 2026 18:12:39 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "14:05 CET",
+          "title_it": "Il Regno Unito concede a Palantir una proroga di due anni sul contratto del Servizio Sanitario Nazionale",
+          "summary_it": "Il ministro della Sanità James Frith ha descritto l’estensione del contratto NHS di Palantir come “un ponte, non la destinazione”.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "Five EU countries announce migrant deportation centre in Rwanda",
+          "summary_orig": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+          "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Nov 2026 16:27:24 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "14:05 CET",
+          "title_it": "Cinque paesi dell'UE annunciano un centro di deportazione per migranti in Ruanda",
+          "summary_it": "Germania, Danimarca, Austria, Grecia e Paesi Bassi hanno annunciato un “hub di ritorno” per i richiedenti asilo respinti.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 24.5
+        },
+        {
+          "title_orig": "Altman, 'difficile immaginare la rivoluzione IA senza Jensen Huang'",
+          "summary_orig": "'E' da tempo un mio eroe, Nvidia ha scommesso su OpenAI fin dall'inizio'",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/altman-difficile-immaginare-la-rivoluzione-ia-senza-jensen-huang_3f250b44-bccc-4f15-b535-54a0edac6cc0.html",
+          "published": "Mon, 16 Nov 2026 19:13:45 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "14:05 CET",
+          "title_it": "Altman, 'difficile immaginare la rivoluzione IA senza Jensen Huang'",
+          "summary_it": "'E' da tempo un mio eroe, Nvidia ha scommesso su OpenAI fin dall'inizio'",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+          "summary_orig": "Jensen Huang resigned from Nvidia last week after 33 years as CEO.",
+          "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+          "published": "Mon, 16 Nov 2026 18:22:06 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "14:05 CET",
+          "title_it": "Il consiglio di amministrazione di Nvidia non sta valutando la possibilità di riportare Jensen Huang come CEO, dice una fonte alla CNBC",
+          "summary_it": "Jensen Huang si è dimesso da Nvidia la scorsa settimana dopo 33 anni come CEO.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 14.5
         }
       ]
     }
