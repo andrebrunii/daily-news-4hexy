@@ -2,9 +2,11 @@ name: "⏱️ Meridiano 20:05 — Watchdog Anti-Skip (Backup Scheduler)"
 
 on:
   schedule:
-    # Secondo scheduler indipendente su minuti alternati per garantire il risveglio orario
-    - cron: "14 * * * *"
-    - cron: "44 * * * *"
+    # Secondo scheduler indipendente su minuti alternati + Keeper Loop di copertura
+    - cron: "12 * * * *"
+    - cron: "27 * * * *"
+    - cron: "42 * * * *"
+    - cron: "57 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,7 +19,7 @@ concurrency:
 jobs:
   watchdog-sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 340
 
     steps:
       - name: Checkout repository
@@ -39,21 +41,31 @@ jobs:
           git config user.name "${{ github.actor }}"
           git config user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
 
-      - name: Run Auto Catch-Up Engine
+      - name: Run Auto Catch-Up & 5-Hour Real-Time Keeper
         env:
           TZ: "Europe/Rome"
         run: |
-          python scripts/news_engine.py --mode auto --git-commit
+          BRANCH="${{ github.ref_name }}"
 
-      - name: Push Commits to GitHub
-        env:
-          TZ: "Europe/Rome"
-        run: |
-          LOCAL_SHA=$(git rev-parse HEAD)
-          REMOTE_SHA=$(git rev-parse "origin/${{ github.ref_name }}")
-          if [ "$LOCAL_SHA" = "$REMOTE_SHA" ]; then
-            echo "Slot dell'ora già coperto dal workflow principale."
-          else
-            git pull --rebase origin "${{ github.ref_name }}" || true
-            git push origin HEAD:"${{ github.ref_name }}"
-          fi
+          sync_and_push() {
+            git pull --rebase origin "$BRANCH" || true
+            python scripts/news_engine.py --mode auto --git-commit
+            LOCAL_SHA=$(git rev-parse HEAD)
+            REMOTE_SHA=$(git rev-parse "origin/$BRANCH")
+            if [ "$LOCAL_SHA" != "$REMOTE_SHA" ]; then
+              git pull --rebase origin "$BRANCH" || true
+              git push origin HEAD:"$BRANCH"
+              echo "[WATCHDOG PUSH] Aggiornamento inviato su origin/$BRANCH alle $(date '+%Y-%m-%d %H:%M:%S %Z')"
+            else
+              echo "[WATCHDOG OK] Slot corrente già coperto alle $(date '+%Y-%m-%d %H:%M:%S %Z')"
+            fi
+          }
+
+          sync_and_push
+
+          for CYCLE in 1 2 3 4 5; do
+            SLEEP_SECS=$(python -c "import datetime as dt; from zoneinfo import ZoneInfo; now=dt.datetime.now(ZoneInfo('Europe/Rome')); target=now.replace(minute=5, second=8, microsecond=0); target = target + dt.timedelta(hours=1) if target <= now else target; print(max(15, int((target - now).total_seconds())))")
+            echo "[WATCHDOG KEEPER $CYCLE/5] In attesa di ${SLEEP_SECS}s fino al prossimo slot delle :05 CET..."
+            sleep "$SLEEP_SECS"
+            sync_and_push
+          done
