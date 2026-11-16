@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-15",
   "target_edition_date": "2026-11-16",
-  "last_slot_iso": "2026-11-16T09:05:00",
+  "last_slot_iso": "2026-11-16T10:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1066,6 +1066,88 @@
           "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "10:05 CET",
+      "timestamp_str": "2026-11-16 10:05 CET",
+      "items": [
+        {
+          "title_orig": "Russia says Ukraine attacked Crimean bridge",
+          "summary_orig": "The Kremlin’s defense ministry said that more than 1,300 Ukrainian drones attacked Russia on Monday.",
+          "link": "https://www.politico.eu/article/russia-claims-ukraine-attacked-crimean-bridge-moscow/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Mon, 16 Nov 2026 10:36:44 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "10:05 CET",
+          "title_it": "La Russia afferma che l’Ucraina ha attaccato il ponte di Crimea",
+          "summary_it": "Il ministero della Difesa del Cremlino ha affermato che lunedì più di 1.300 droni ucraini hanno attaccato la Russia.",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 28.5
+        },
+        {
+          "title_orig": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+          "summary_orig": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+          "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+          "published": "Mon, 16 Nov 2026 08:56:04 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "10:05 CET",
+          "title_it": "Il Regno Unito e i suoi alleati chiedono a Israele di consentire un rapido accesso umanitario a Gaza",
+          "summary_it": "Regno Unito, Australia, Canada e Italia affermano che le autorità israeliane stanno trattenendo forniture vitali ai confini, comprese 150.00 tende.",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 19.5
+        },
+        {
+          "title_orig": "Meno del 4% camionisti è donna, racconto delle protagoniste di un mestiere al maschile",
+          "summary_orig": "Domani la presentazione del libro di Federtrasporti alla Camera",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/meno-del-4-camionisti-e-donna-racconto-delle-protagoniste-di-un-mestiere-al-maschile_84823d73-1fba-430e-aa9e-3053afc9708a.html",
+          "published": "Mon, 16 Nov 2026 11:38:03 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "10:05 CET",
+          "title_it": "Meno del 4% camionisti è donna, racconto delle protagoniste di un mestiere al maschile",
+          "summary_it": "Domani la presentazione del libro di Federtrasporti alla Camera",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "The tech world's calls for Jensen Huang to return to Nvidia are growing",
+          "summary_orig": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
+          "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+          "published": "Mon, 16 Nov 2026 10:31:09 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "10:05 CET",
+          "title_it": "Crescono le richieste del mondo tecnologico affinché Jensen Huang ritorni in Nvidia",
+          "summary_it": "Le richieste per il ritorno di Jensen Huang come CEO di Nvidia stanno crescendo, con i dirigenti tecnologici e i principali azionisti che sostengono un potenziale ritorno dopo le sue dimissioni.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 16.5
         }
       ]
     }

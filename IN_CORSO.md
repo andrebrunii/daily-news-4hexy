@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Lunedì 16 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-13%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-14%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (13/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (14/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `10:05 CET` — Ricerca Oraria (14/23)
+_Aggiornamento registrato il `2026-11-16 10:05 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [La Russia afferma che l’Ucraina ha attaccato il ponte di Crimea](https://www.politico.eu/article/russia-claims-ukraine-attacked-crimean-bridge-moscow/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il ministero della Difesa del Cremlino ha affermato che lunedì più di 1.300 droni ucraini hanno attaccato la Russia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🌐 Scacchiere Globale` [Il Regno Unito e i suoi alleati chiedono a Israele di consentire un rapido accesso umanitario a Gaza](https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Regno Unito, Australia, Canada e Italia affermano che le autorità israeliane stanno trattenendo forniture vitali ai confini, comprese 150.00 tende.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `💶 Macro & Finanza UE` [Meno del 4% camionisti è donna, racconto delle protagoniste di un mestiere al maschile](https://www.ansa.it/sito/notizie/economia/2026/11/16/meno-del-4-camionisti-e-donna-racconto-delle-protagoniste-di-un-mestiere-al-maschile_84823d73-1fba-430e-aa9e-3053afc9708a.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Domani la presentazione del libro di Federtrasporti alla Camera
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[4] `🏦 Mercati Globali` [Crescono le richieste del mondo tecnologico affinché Jensen Huang ritorni in Nvidia](https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Le richieste per il ritorno di Jensen Huang come CEO di Nvidia stanno crescendo, con i dirigenti tecnologici e i principali azionisti che sostengono un potenziale ritorno dopo le sue dimissioni.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `09:05 CET` — Ricerca Oraria (13/23)
 _Aggiornamento registrato il `2026-11-16 09:05 CET`_
