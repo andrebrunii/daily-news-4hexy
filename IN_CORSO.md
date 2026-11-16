@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Lunedì 16 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-4%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (4/23 ricerche orarie):**
-`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `01:05 CET` — Ricerca Oraria (5/23)
+_Aggiornamento registrato il `2026-11-16 01:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [America Latina, tre presidenti in viaggio per il vertice Apec](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/16/america-latina-tre-presidenti-in-viaggio-per-il-vertice-apec_c4b08a48-bc15-479f-99d0-ab10e6b379ac.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Sheinbaum, Kast e Fujimori in Cina per incontri istituzionali e commerciali
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🌐 Scacchiere Globale` [È morto all'età di 80 anni il signore della droga messicano Miguel Angel Felix Gallardo](https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Conosciuto come il "boss dei boss", era a capo dell'onnipotente cartello di Guadalajara negli anni '80 prima che il suo arresto distruggesse la sua organizzazione di narcotrafficanti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🔭 Ricerca & Spazio` [Gli astronomi scoprono una stella morta che ruota ogni 8 minuti e invia misteriosi impulsi radio](https://www.sciencedaily.com/releases/2026/11/261114202136.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati hanno scoperto una strana coppia stellare a più di 5.000 anni luce di distanza, dove una stella morta che ruota ogni otto minuti produce misteriosi impulsi radio mentre orbita attorno a una stella simile al Sole. La scoperta ha anche rivelato enormi tempeste magnetiche sulla stella compagna, offrendo nuovi indizi su uno dei misteri emergenti dell’astronomia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Gli studiosi non riescono ancora a definire la religione. Ecco perché](https://bigthink.com/series/conversations/andrew-henry-defining-religion/)** — *(Big Think)*
+  - 📌 **Sintesi:** Gli studiosi di religione non riescono ancora a mettersi d’accordo su cosa sia la religione, e Andrew Henry, creatore di Religion for Breakfast, pensa che questo ci dica qualcosa. In questa conversazione con Jonny Thomson, spiega perché guarda a cosa fanno le pratiche religiose piuttosto che a ciò che affermano, perché un canto da stadio e un credo di una chiesa possono essere più vicini di quanto sembri, e perché "vero...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `00:05 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-16 00:05 CET`_
