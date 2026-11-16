@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-15",
   "target_edition_date": "2026-11-16",
-  "last_slot_iso": "2026-11-16T08:05:00",
+  "last_slot_iso": "2026-11-16T09:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -984,6 +984,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 14.5
+        }
+      ]
+    },
+    {
+      "hour_label": "09:05 CET",
+      "timestamp_str": "2026-11-16 09:05 CET",
+      "items": [
+        {
+          "title_orig": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
+          "summary_orig": "Dichiarazione congiunta dei 4 ministri degli Esteri",
+          "link": "https://www.ansa.it/sito/notizie/mondo/oceania/2026/11/15/italia-gb-australia-e-canada-israele-dia-accesso-umanitario-immediato-a-gaza_64400f3d-50b3-4176-b113-bdd703a7b4d8.html",
+          "published": "Sun, 15 Nov 2026 21:20:21 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "09:05 CET",
+          "title_it": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
+          "summary_it": "Dichiarazione congiunta dei 4 ministri degli Esteri",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Accelerating the EU’s electric heavy-duty vehicle transition",
+          "summary_orig": "It’s time to look beyond public equipment. Making the most of depot and shared charging will make the transition work more effortlessly for operators.",
+          "link": "https://www.politico.eu/sponsored-content/accelerating-the-eus-electric-heavy-duty-vehicle-transition/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Mon, 16 Nov 2026 04:00:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "09:05 CET",
+          "title_it": "Accelerare la transizione dei veicoli pesanti elettrici nell’UE",
+          "summary_it": "È tempo di guardare oltre le attrezzature pubbliche. Sfruttare al meglio il deposito e la ricarica condivisa renderà la transizione più agevole per gli operatori.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 27.0
+        },
+        {
+          "title_orig": "A simple supplement could help your immune system fight cancer and viral infections",
+          "summary_orig": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with the immune system's ability to recognize dangerous cells, while increasing arginine intake reduced colon cancer tumors and improved...",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
+          "published": "Sun, 15 Nov 2026 07:36:52 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "09:05 CET",
+          "title_it": "Un semplice integratore potrebbe aiutare il tuo sistema immunitario a combattere il cancro e le infezioni virali",
+          "summary_it": "Una sorprendente scoperta della Rockefeller University suggerisce che un comune amminoacido potrebbe svolgere un ruolo potente nella protezione contro il cancro e le infezioni virali. Gli scienziati hanno scoperto che bassi livelli di arginina interferiscono con la capacità del sistema immunitario di riconoscere le cellule pericolose, mentre l'aumento dell'assunzione di arginina riduce i tumori del cancro al colon e migliora...",
+          "impact_eu_it": "Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Lo spread tra Btp e Bund apre stabile a 104 punti",
+          "summary_orig": "Il rendimento del decennale italiano è poco mosso al 4,41%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/lo-spread-tra-btp-e-bund-apre-stabile-a-104-punti_6fa4fd68-deac-40f4-ba1e-b00bc40ca1ac.html",
+          "published": "Mon, 16 Nov 2026 08:42:02 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "09:05 CET",
+          "title_it": "Lo spread tra Btp e Bund apre stabile a 104 punti",
+          "summary_it": "Il rendimento del decennale italiano è poco mosso al 4,41%",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 12.0
         }
       ]
     }
