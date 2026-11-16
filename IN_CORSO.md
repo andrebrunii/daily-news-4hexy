@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Lunedì 16 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-17%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (17/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `13:05 CET` — Ricerca Oraria (17/23)
+_Aggiornamento registrato il `2026-11-16 13:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Scure dell'Ue contro gli hacker russi, sanzioni anche a NoName057](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/scure-dellue-contro-gli-hacker-russi-sanzioni-anche-a-noname057-_4a452eb8-fb3c-43d7-a916-c31861c4a62d.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Trenta persone e 2 entità nella nuova black list di Bruxelles, c'è la moscovita Sda
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [Concorrenza: la UEFA e una federazione di grandi club di calcio europei visti da una pianura](https://www.politico.eu/article/concurrence-luefa-et-une-federation-de-grands-clubs-de-football-europeens-vises-par-une-plainte/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** L’Unione dei club europei ritiene che l’accordo di esclusività sia concluso tra la UEFA e una potente organizzazione di club di calcio che si avvale del diritto europeo della concorrenza.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🔭 Ricerca & Spazio` [La NASA si è schiantata contro un asteroide. Ora Hera ha rivelato uno strano nuovo mondo](https://www.sciencedaily.com/releases/2026/11/261116023351.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Una navicella spaziale europea ha rivelato un lato misterioso e coperto di crateri dell’asteroide Didymos mentre si prepara a indagare sulle conseguenze dello storico impatto dell’asteroide della NASA nel 2022. La missione potrebbe scoprire nuovi indizi sulla collisione e contribuire a trasformare la deviazione degli asteroidi in una potente difesa contro future minacce alla Terra.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[4] `🏛️ Filosofia & Idee` [L'ultimo Klavern](https://aeon.co/videos/how-a-texas-community-chose-to-transform-a-former-klan-headquarters)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** All'interno di una delle ultime sale americane del Ku Klux Klan, architetti, storici e residenti puntano a preservare il passato di Fort Worth - di Aeon Video Guarda su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
 ### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
 _Aggiornamento registrato il `2026-11-16 12:05 CET`_

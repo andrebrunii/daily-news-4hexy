@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-15",
   "target_edition_date": "2026-11-16",
-  "last_slot_iso": "2026-11-16T12:05:00",
+  "last_slot_iso": "2026-11-16T13:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1312,6 +1312,88 @@
           "impact_eu_it": "Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 24.0
+        }
+      ]
+    },
+    {
+      "hour_label": "13:05 CET",
+      "timestamp_str": "2026-11-16 13:05 CET",
+      "items": [
+        {
+          "title_orig": "Scure dell'Ue contro gli hacker russi, sanzioni anche a NoName057",
+          "summary_orig": "Trenta persone e 2 entità nella nuova black list di Bruxelles, c'è la moscovita Sda",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/scure-dellue-contro-gli-hacker-russi-sanzioni-anche-a-noname057-_4a452eb8-fb3c-43d7-a916-c31861c4a62d.html",
+          "published": "Mon, 16 Nov 2026 19:24:29 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "13:05 CET",
+          "title_it": "Scure dell'Ue contro gli hacker russi, sanzioni anche a NoName057",
+          "summary_it": "Trenta persone e 2 entità nella nuova black list di Bruxelles, c'è la moscovita Sda",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 20.5
+        },
+        {
+          "title_orig": "Concurrence : l’UEFA et une fédération de grands clubs de football européens visées par une plainte",
+          "summary_orig": "L’Union des clubs européens estime que l’accord d’exclusivité conclu entre l’UEFA et une puissante organisation de clubs de football enfreint le droit européen de la concurrence.",
+          "link": "https://www.politico.eu/article/concurrence-luefa-et-une-federation-de-grands-clubs-de-football-europeens-vises-par-une-plainte/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Mon, 16 Nov 2026 18:30:50 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "13:05 CET",
+          "title_it": "Concorrenza: la UEFA e una federazione di grandi club di calcio europei visti da una pianura",
+          "summary_it": "L’Unione dei club europei ritiene che l’accordo di esclusività sia concluso tra la UEFA e una potente organizzazione di club di calcio che si avvale del diritto europeo della concorrenza.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 16.5
+        },
+        {
+          "title_orig": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+          "summary_orig": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against future threats to Earth.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
+          "published": "Mon, 16 Nov 2026 08:40:11 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "13:05 CET",
+          "title_it": "La NASA si è schiantata contro un asteroide. Ora Hera ha rivelato uno strano nuovo mondo",
+          "summary_it": "Una navicella spaziale europea ha rivelato un lato misterioso e coperto di crateri dell’asteroide Didymos mentre si prepara a indagare sulle conseguenze dello storico impatto dell’asteroide della NASA nel 2022. La missione potrebbe scoprire nuovi indizi sulla collisione e contribuire a trasformare la deviazione degli asteroidi in una potente difesa contro future minacce alla Terra.",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "The last klavern",
+          "summary_orig": "Inside one of America’s last Ku Klux Klan halls, architects, historians and residents reckon with preserving Fort Worth’s past - by Aeon Video Watch on Aeon",
+          "link": "https://aeon.co/videos/how-a-texas-community-chose-to-transform-a-former-klan-headquarters",
+          "published": "Mon, 16 Nov 2026 11:01:00 GMT",
+          "source_id": "aeon",
+          "source_name": "Aeon Philosophy & Ideas",
+          "category": "filosofia",
+          "badge": "🏛️ Filosofia & Idee",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "13:05 CET",
+          "title_it": "L'ultimo Klavern",
+          "summary_it": "All'interno di una delle ultime sale americane del Ku Klux Klan, architetti, storici e residenti puntano a preservare il passato di Fort Worth - di Aeon Video Guarda su Aeon",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
+          "score": 15.0
         }
       ]
     }
