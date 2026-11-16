@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-15",
   "target_edition_date": "2026-11-16",
-  "last_slot_iso": "2026-11-16T03:05:00",
+  "last_slot_iso": "2026-11-16T04:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -574,6 +574,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 25.5
+        }
+      ]
+    },
+    {
+      "hour_label": "04:05 CET",
+      "timestamp_str": "2026-11-16 04:05 CET",
+      "items": [
+        {
+          "title_orig": "Colpito nella notte il ponte di Crimea, 'traffico bloccato'",
+          "summary_orig": "Mosca: 'Abbattuti 1.336 droni sulle regioni russe'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/colpito-nella-notte-il-ponte-di-cirmea-traffico-bloccato_4a452eb8-fb3c-43d7-a916-c31861c4a62d.html",
+          "published": "Mon, 16 Nov 2026 08:40:26 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "04:05 CET",
+          "title_it": "Colpito nella notte il ponte di Crimea, 'traffico bloccato'",
+          "summary_it": "Mosca: 'Abbattuti 1.336 droni sulle regioni russe'",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Burnham v Johnson and Cameron: Who wins?",
+          "summary_orig": "Is the prime minister about to face three major battles in one week – and does he have the political capital to win them? With the Milburn review, a crucial UK-EU summit and a looming decision on Rosebank, Andy Burnham is up against it. But with rebellions brewing inside Labour, can the PM hold his […]",
+          "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/burnham-v-johnson-and-cameron-who-wins/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Mon, 16 Nov 2026 08:22:59 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "04:05 CET",
+          "title_it": "Burnham contro Johnson e Cameron: chi vince?",
+          "summary_it": "Il primo ministro si appresta ad affrontare tre grandi battaglie in una settimana – e ha il capitale politico per vincerle? Con la revisione Milburn, un vertice cruciale tra Regno Unito e UE e una decisione incombente su Rosebank, Andy Burnham è contrario. Ma con le ribellioni che si stanno diffondendo all’interno del Labour, può il Primo Ministro mantenere il suo […]",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 20.0
+        },
+        {
+          "title_orig": "Delhi-based Bharat Semi, which is developing programmable image sensors combining capture, processing, and AI capabilities on a single chip, raised a $24M seed (Jagmeet Singh/TechCrunch)",
+          "summary_orig": "Jagmeet Singh / TechCrunch : Delhi-based Bharat Semi, which is developing programmable image sensors combining capture, processing, and AI capabilities on a single chip, raised a $24M seed — Bharat Semi, an Indian semiconductor startup, has raised $24 million in seed funding to develop AI-enabled image sensors …",
+          "link": "https://www.techmeme.com/261116/p6#a261116p6",
+          "published": "Mon, 16 Nov 2026 03:05:01 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "04:05 CET",
+          "title_it": "Bharat Semi, con sede a Delhi, che sta sviluppando sensori di immagini programmabili che combinano acquisizione, elaborazione e funzionalità di intelligenza artificiale su un singolo chip, ha raccolto un seme di 24 milioni di dollari (Jagmeet Singh/TechCrunch)",
+          "summary_it": "Jagmeet Singh / TechCrunch: Bharat Semi, con sede a Delhi, che sta sviluppando sensori di immagine programmabili che combinano acquisizione, elaborazione e funzionalità di intelligenza artificiale su un singolo chip, ha raccolto un seme di 24 milioni di dollari - Bharat Semi, una startup indiana di semiconduttori, ha raccolto 24 milioni di dollari in finanziamenti iniziali per sviluppare sensori di immagine abilitati all'intelligenza artificiale...",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 25.5
+        },
+        {
+          "title_orig": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+          "summary_orig": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+          "link": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+          "published": "Sun, 15 Nov 2026 23:11:54 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "04:05 CET",
+          "title_it": "Il razzo Vulcan fallisce durante il lancio, infliggendo un duro colpo ai concorrenti di SpaceX",
+          "summary_it": "Questo è stato il primo fallimento totale della missione nei 20 anni di storia della United Launch Alliance.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 12.0
         }
       ]
     }

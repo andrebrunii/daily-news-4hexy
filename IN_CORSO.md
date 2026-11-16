@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Lunedì 16 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-8%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (8/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md) · [📅 **2026-11-09**](./archivio/2026-11-09.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `04:05 CET` — Ricerca Oraria (8/23)
+_Aggiornamento registrato il `2026-11-16 04:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Colpito nella notte il ponte di Crimea, 'traffico bloccato'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/colpito-nella-notte-il-ponte-di-cirmea-traffico-bloccato_4a452eb8-fb3c-43d7-a916-c31861c4a62d.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Mosca: 'Abbattuti 1.336 droni sulle regioni russe'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🇪🇺 Unione Europea & Policy` [Burnham contro Johnson e Cameron: chi vince?](https://www.politico.eu/podcast/politics-at-sam-and-annes/burnham-v-johnson-and-cameron-who-wins/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il primo ministro si appresta ad affrontare tre grandi battaglie in una settimana – e ha il capitale politico per vincerle? Con la revisione Milburn, un vertice cruciale tra Regno Unito e UE e una decisione incombente su Rosebank, Andy Burnham è contrario. Ma con le ribellioni che si stanno diffondendo all’interno del Labour, può il Primo Ministro mantenere il suo […]
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Bharat Semi, con sede a Delhi, che sta sviluppando sensori di immagini programmabili che combinano acquisizione, elaborazione e funzionalità di intelligenza artificiale su un singolo chip, ha raccolto un seme di 24 milioni di dollari (Jagmeet Singh/TechCrunch)](https://www.techmeme.com/261116/p6#a261116p6)** — *(Techmeme)*
+  - 📌 **Sintesi:** Jagmeet Singh / TechCrunch: Bharat Semi, con sede a Delhi, che sta sviluppando sensori di immagine programmabili che combinano acquisizione, elaborazione e funzionalità di intelligenza artificiale su un singolo chip, ha raccolto un seme di 24 milioni di dollari - Bharat Semi, una startup indiana di semiconduttori, ha raccolto 24 milioni di dollari in finanziamenti iniziali per sviluppare sensori di immagine abilitati all'intelligenza artificiale...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `💻 Tecnologia & Cyber` [Il razzo Vulcan fallisce durante il lancio, infliggendo un duro colpo ai concorrenti di SpaceX](https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Questo è stato il primo fallimento totale della missione nei 20 anni di storia della United Launch Alliance.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
 _Aggiornamento registrato il `2026-11-16 03:05 CET`_
