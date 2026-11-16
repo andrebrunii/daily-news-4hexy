@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-15",
   "target_edition_date": "2026-11-16",
-  "last_slot_iso": "2026-11-16T07:05:00",
+  "last_slot_iso": "2026-11-16T08:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -902,6 +902,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 17.0
+        }
+      ]
+    },
+    {
+      "hour_label": "08:05 CET",
+      "timestamp_str": "2026-11-16 08:05 CET",
+      "items": [
+        {
+          "title_orig": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
+          "summary_orig": "Dichiarazione congiunta dei 4 ministri degli Esteri",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/15/italia-gb-australia-e-canada-israele-dia-accesso-umanitario-immediato-a-gaza_abcf4402-d5ee-4a09-aa68-7939f5803908.html",
+          "published": "Sun, 15 Nov 2026 21:20:19 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "08:05 CET",
+          "title_it": "Italia, Gb, Australia e Canada, 'Israele dia accesso umanitario immediato a Gaza'",
+          "summary_it": "Dichiarazione congiunta dei 4 ministri degli Esteri",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Warum Merz jetzt auf Söder setzt",
+          "summary_orig": "Friedrich Merz reist schon wieder zu Markus Söder nach München.Es geht um Stromsteuer, kalte Progression und politische Glaubwürdigkeit. Während die Union um Milliarden für die Mütterrente pokert, brodelt es in der SPD-Spitze. Manuela Schwesig könnte in Schwerin erklären, dass sie als SPD-Co-Chefin zur Verfügung steht. Hubertus Heil hat sich schon für...",
+          "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/warum-merz-jetzt-auf-soder-setzt/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Mon, 16 Nov 2026 04:30:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "08:05 CET",
+          "title_it": "Warum Merz jetzt auf Söder setzt",
+          "summary_it": "Friedrich Merz reist schon wieder zu Markus Söder nach München.Es geht um Stromsteuer, kalte Progression und politische Glaubwürdigkeit. Mentre l'Unione um Milliarden für die Mütterrente poker, il brodelt è in der SPD-Spitze. Manuela Schwesig könnte a Schwerin erklären, dass sie als SPD-Co-Chefin zur Verfügung steht. Hubertus Heil hat sich schon für...",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 16.5
+        },
+        {
+          "title_orig": "Zus Health, which is building an AI-native healthcare data platform, raised a $33M Series B led by Drive Capital, bringing its total funding to $100M+ (Heather Landi/Fierce Healthcare)",
+          "summary_orig": "Heather Landi / Fierce Healthcare : Zus Health, which is building an AI-native healthcare data platform, raised a $33M Series B led by Drive Capital, bringing its total funding to $100M+ — Jonathan Bush Zus Health Clinical Data Interoperability — As healthcare companies race to build AI copilots and agents …",
+          "link": "https://www.techmeme.com/261116/p5#a261116p5",
+          "published": "Mon, 16 Nov 2026 02:35:02 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "08:05 CET",
+          "title_it": "Zus Health, che sta costruendo una piattaforma di dati sanitari nativa per l’intelligenza artificiale, ha raccolto una serie B da 33 milioni di dollari guidata da Drive Capital, portando il suo finanziamento totale a oltre 100 milioni di dollari (Heather Landi/Fierce Healthcare)",
+          "summary_it": "Heather Landi / Fierce Healthcare: Zus Health, che sta costruendo una piattaforma di dati sanitari nativa per l'intelligenza artificiale, ha raccolto una serie B da 33 milioni di dollari guidata da Drive Capital, portando il suo finanziamento totale a oltre 100 milioni di dollari - Jonathan Bush Zus Health Clinical Data Interoperability - Mentre le aziende sanitarie corrono per costruire copiloti e agenti AI...",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "The Download: preserving minds and weighing open AI risks",
+          "summary_orig": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still…",
+          "link": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+          "published": "Wed, 11 Nov 2026 13:10:00 +0000",
+          "source_id": "mit_tech",
+          "source_name": "MIT Technology Review",
+          "category": "tech_ia",
+          "badge": "⚡ Futuro & Deep Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.25,
+          "hour_slot": "08:05 CET",
+          "title_it": "Il download: preservare le menti e valutare i rischi aperti dell’IA",
+          "summary_it": "Questa è l'edizione di oggi di The Download, la nostra newsletter nei giorni feriali che fornisce una dose quotidiana di ciò che accade nel mondo della tecnologia. Sei idee folli per perpetuare la tua mente Invecchiando, dimentichiamo la maggior parte di ciò che abbiamo vissuto, ma c'è ancora una continuità innegabile: a 30, o 50, o 70 anni, sarai ancora...",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 14.5
         }
       ]
     }
