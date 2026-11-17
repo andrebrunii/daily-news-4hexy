@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-16",
   "target_edition_date": "2026-11-17",
-  "last_slot_iso": "2026-11-17T05:05:00",
+  "last_slot_iso": "2026-11-17T06:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -738,6 +738,88 @@
           "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "06:05 CET",
+      "timestamp_str": "2026-11-17 06:05 CET",
+      "items": [
+        {
+          "title_orig": "Das Verhandlungsfinale um Strom und Sprit",
+          "summary_orig": "Kommt die Einigung zur Stromsteuer.Vor dem Koalitionsausschuss zeigt sich Friedrich Merz optimistisch, doch die SPD pocht auf eine harte Gegenfinanzierung. Während der Kanzler in Rücklagen greifen will, stehen Subventionen wie das Dienstwagenprivileg auf der Kippe.Ein Kampf um Milliarden, der auch die Rente erfassen könnte, wie Maximilian Stascheit und...",
+          "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/das-verhandlungsfinale-um-strom-und-sprit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Tue, 17 Nov 2026 04:30:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "06:05 CET",
+          "title_it": "Das Verhandlungsfinale um Strom und Sprit",
+          "summary_it": "Kommt die Einigung zur Stromsteuer.Vor dem Koalitionsausschuss zeigt sich Friedrich Merz optimistisch, doch die SPD pocht auf eine harte Gegenfinanzierung. Während der Kanzler in Rücklagen greifen will, stehen Subventionen wie das Dienstwagenprivileg auf der Kippe.Ein Kampf um Milliarden, der auch die Rente erfassen könnte, wie Maximilian Stascheit und...",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 16.5
+        },
+        {
+          "title_orig": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+          "summary_orig": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 02:37:53 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "06:05 CET",
+          "title_it": "Nvidia respinge la campagna \"Bring Jensen Back\" mentre Trump sostiene gli sforzi per reintegrare l'ex CEO",
+          "summary_it": "Numerose figure tecnologiche hanno sostenuto l’iniziativa di chiedere al colosso dei chip AI di restituire a Jensen Huang il suo lavoro.",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 23.5
+        },
+        {
+          "title_orig": "Assosharing, 'non confondere monopattini in condivisione con i privati'",
+          "summary_orig": "Licchelli: \"Evitare generalizzazioni dopo gli ultimi incidenti\"",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/assosharing-non-confondere-monopattini-in-condivisione-con-i-privati_6ce0866a-4268-45cb-aa24-d67cf736b294.html",
+          "published": "Mon, 16 Nov 2026 16:20:28 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "06:05 CET",
+          "title_it": "Assosharing, 'non confondere monopattini in condivisione con i privati'",
+          "summary_it": "Licchelli: \"Evitare generalizzazioni dopo gli ultimi incidenti\"",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
+          "summary_orig": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
+          "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+          "published": "Tue, 17 Nov 2026 04:50:19 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "06:05 CET",
+          "title_it": "L’arrivo della terza portaerei statunitense alimenta le preoccupazioni per i rinnovati conflitti con l’Iran",
+          "summary_it": "L’Iran ha intensificato le minacce contro le forze statunitensi con l’arrivo di una terza portaerei americana nel Golfo, alimentando i timori di una ripresa delle tensioni militari.",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 14.0
         }
       ]
     }

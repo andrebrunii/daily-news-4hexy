@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-9%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-10%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (9/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (10/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `06:05 CET` — Ricerca Oraria (10/23)
+_Aggiornamento registrato il `2026-11-17 06:05 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Das Verhandlungsfinale um Strom und Sprit](https://www.politico.eu/podcast/berlin-playbook-podcast/das-verhandlungsfinale-um-strom-und-sprit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Kommt die Einigung zur Stromsteuer.Vor dem Koalitionsausschuss zeigt sich Friedrich Merz optimistisch, doch die SPD pocht auf eine harte Gegenfinanzierung. Während der Kanzler in Rücklagen greifen will, stehen Subventionen wie das Dienstwagenprivileg auf der Kippe.Ein Kampf um Milliarden, der auch die Rente erfassen könnte, wie Maximilian Stascheit und...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌐 Scacchiere Globale` [Nvidia respinge la campagna "Bring Jensen Back" mentre Trump sostiene gli sforzi per reintegrare l'ex CEO](https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Numerose figure tecnologiche hanno sostenuto l’iniziativa di chiedere al colosso dei chip AI di restituire a Jensen Huang il suo lavoro.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[3] `💶 Macro & Finanza UE` [Assosharing, 'non confondere monopattini in condivisione con i privati'](https://www.ansa.it/sito/notizie/economia/2026/11/16/assosharing-non-confondere-monopattini-in-condivisione-con-i-privati_6ce0866a-4268-45cb-aa24-d67cf736b294.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Licchelli: "Evitare generalizzazioni dopo gli ultimi incidenti"
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[4] `🏦 Mercati Globali` [L’arrivo della terza portaerei statunitense alimenta le preoccupazioni per i rinnovati conflitti con l’Iran](https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L’Iran ha intensificato le minacce contro le forze statunitensi con l’arrivo di una terza portaerei americana nel Golfo, alimentando i timori di una ripresa delle tensioni militari.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
 
 ### 🕒 Ora `05:05 CET` — Ricerca Oraria (9/23)
 _Aggiornamento registrato il `2026-11-17 05:05 CET`_
