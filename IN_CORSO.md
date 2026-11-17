@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-4%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (4/23 ricerche orarie):**
-`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `01:05 CET` — Ricerca Oraria (5/23)
+_Aggiornamento registrato il `2026-11-17 01:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [El Salvador, 'la missione ad Haiti durerà fino al salvataggio dei soldati scomparsi'](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/el-salvador-la-missione-ad-haiti-durera-fino-al-salvataggio-dei-soldati-scomparsi_9e33fc44-4253-483d-a814-ee3b4a6bc18c.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** L'intesa bilaterale resterà segreta, Ulloa esclude un'occupazione
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [I rivali presidenziali francesi prendono di mira Le Pen nel dibattito](https://www.politico.eu/article/france-election-2027-presidential-candidates-target-marine-le-pen-tv-debate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il leader di estrema destra e altri quattro candidati sono stati interrogati sulla questione del costo della vita.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🔭 Ricerca & Spazio` [Gli scienziati scoprono che il cuore non invecchia come pensavamo](https://www.sciencedaily.com/releases/2026/11/261115085550.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati hanno scoperto che il cuore invecchia in modo non uniforme, con sorprendenti punti caldi di infiammazione e cicatrici concentrati nelle valvole e nei vasi sanguigni principali piuttosto che nel muscolo cardiaco. I risultati mettono in discussione le ipotesi di vecchia data sull’invecchiamento cardiaco e potrebbero aiutare i ricercatori a sviluppare nuovi modi per proteggere il cuore quando invecchiamo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `💶 Macro & Finanza UE` [Borsa: l'Europa conclude in lieve ribasso, Londra -0,2%](https://www.ansa.it/sito/notizie/economia/2026/11/16/borsa-leuropa-conclude-in-lieve-ribasso-londra-02_2b274cd5-9ff3-42a2-975d-d07294bb9176.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Più deboli Francoforte e Amsterdam, scese entrambe dello 0,6%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
 
 ### 🕒 Ora `00:05 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-17 00:05 CET`_

@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-16",
   "target_edition_date": "2026-11-17",
-  "last_slot_iso": "2026-11-17T00:05:00",
+  "last_slot_iso": "2026-11-17T01:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -328,6 +328,88 @@
           "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
           "score": 18.0
+        }
+      ]
+    },
+    {
+      "hour_label": "01:05 CET",
+      "timestamp_str": "2026-11-17 01:05 CET",
+      "items": [
+        {
+          "title_orig": "El Salvador, 'la missione ad Haiti durerà fino al salvataggio dei soldati scomparsi'",
+          "summary_orig": "L'intesa bilaterale resterà segreta, Ulloa esclude un'occupazione",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/el-salvador-la-missione-ad-haiti-durera-fino-al-salvataggio-dei-soldati-scomparsi_9e33fc44-4253-483d-a814-ee3b4a6bc18c.html",
+          "published": "Tue, 17 Nov 2026 02:28:08 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "01:05 CET",
+          "title_it": "El Salvador, 'la missione ad Haiti durerà fino al salvataggio dei soldati scomparsi'",
+          "summary_it": "L'intesa bilaterale resterà segreta, Ulloa esclude un'occupazione",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "French presidential rivals take aim at Le Pen in debate",
+          "summary_orig": "The far-right leader and four other candidates were quizzed on cost-of-living issues.",
+          "link": "https://www.politico.eu/article/france-election-2027-presidential-candidates-target-marine-le-pen-tv-debate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Mon, 16 Nov 2026 23:27:47 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "01:05 CET",
+          "title_it": "I rivali presidenziali francesi prendono di mira Le Pen nel dibattito",
+          "summary_it": "Il leader di estrema destra e altri quattro candidati sono stati interrogati sulla questione del costo della vita.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "Scientists discover that the heart doesn't age the way we thought",
+          "summary_orig": "Scientists have discovered that the heart ages unevenly, with surprising hotspots of inflammation and scarring concentrated in the valves and major blood vessels rather than the heart muscle. The findings challenge long-standing assumptions about cardiac aging and could help researchers develop new ways to protect the heart as we grow older.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261115085550.htm",
+          "published": "Mon, 16 Nov 2026 09:16:56 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "01:05 CET",
+          "title_it": "Gli scienziati scoprono che il cuore non invecchia come pensavamo",
+          "summary_it": "Gli scienziati hanno scoperto che il cuore invecchia in modo non uniforme, con sorprendenti punti caldi di infiammazione e cicatrici concentrati nelle valvole e nei vasi sanguigni principali piuttosto che nel muscolo cardiaco. I risultati mettono in discussione le ipotesi di vecchia data sull’invecchiamento cardiaco e potrebbero aiutare i ricercatori a sviluppare nuovi modi per proteggere il cuore quando invecchiamo.",
+          "impact_eu_it": "Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Borsa: l'Europa conclude in lieve ribasso, Londra -0,2%",
+          "summary_orig": "Più deboli Francoforte e Amsterdam, scese entrambe dello 0,6%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borsa-leuropa-conclude-in-lieve-ribasso-londra-02_2b274cd5-9ff3-42a2-975d-d07294bb9176.html",
+          "published": "Mon, 16 Nov 2026 17:45:01 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "01:05 CET",
+          "title_it": "Borsa: l'Europa conclude in lieve ribasso, Londra -0,2%",
+          "summary_it": "Più deboli Francoforte e Amsterdam, scese entrambe dello 0,6%",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.5
         }
       ]
     }
