@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-17%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (17/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `13:05 CET` — Ricerca Oraria (17/23)
+_Aggiornamento registrato il `2026-11-17 13:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Trump, raggiungeremo la Cina in 10 mesi sulle terre rare](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/trump-raggiungeremo-la-cina-in-10-mesi-sulle-terre-rare_53d4a7d8-4686-4a77-ac5b-3bff7b0198c1.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Approfondimento disponibile nella fonte originale collegata.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Unione Europea & Policy` [Il regolatore irlandese interrompe l'addestramento dell'IA di X con i dati raccolti dagli agenti](https://www.politico.eu/article/x-stops-training-ai-with-agents-data-after-ireland-intervened/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** L’autorità di regolamentazione afferma di nutrire notevoli preoccupazioni sull’uso dei dati personali raccolti dagli agenti di intelligenza artificiale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[3] `🔭 Ricerca & Spazio` [Un divario biologico nascosto può aiutare a spiegare l’Alzheimer e il dolore cronico](https://www.sciencedaily.com/releases/2026/11/261115085535.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Una nuova ricerca rivela che il sesso biologico, la genetica e la menopausa possono influenzare notevolmente il rischio di Alzheimer, le risposte al trattamento e le condizioni di dolore cronico come la fibromialgia. Gli scienziati hanno anche scoperto differenze sorprendenti nell’attività immunitaria e nelle interazioni intestino-cervello, aprendo la porta a trattamenti più personalizzati per i disturbi neurologici.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🏛️ Filosofia & Idee` [Sfilate e repressioni](https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Le donne a Teheran stanno cambiando la società vestendosi come scelgono, in numero troppo grande per essere fermato. Questa è "l'arte della presenza" - di Parisa Khoshnami Leggi su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
 ### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
 _Aggiornamento registrato il `2026-11-17 12:05 CET`_
