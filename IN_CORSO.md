@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
+_Aggiornamento registrato il `2026-11-17 02:05 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Entwurf des COP-Abkommens sieht “sofortigen” Ausstieg aus fossilen Brennstoffen vor](https://www.politico.eu/article/entwurf-des-cop-abkommens-sieht-sofortigen-ausstieg-aus-fossilen-brennstoffen-vor/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Der Textentwurf sorgte für Irritationen bei europäischen Diplomaten.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[2] `🌐 Scacchiere Globale` [L’avanzata dei ribelli Houthi nello Yemen potrebbe destabilizzare ulteriormente l’economia globale](https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Gli Houthi, sostenuti dall'Iran, stanno guadagnando terreno e la loro avanzata potrebbe avere conseguenze pericolose, scrive il corrispondente di sicurezza della BBC.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `💶 Macro & Finanza UE` [Borsa: Milano chiude in calo, Ftse Mib -0,65%](https://www.ansa.it/sito/notizie/economia/2026/11/16/borsa-milano-chiude-in-calo-ftse-mib-065_8e4c7e7d-14e7-4698-bc96-ef321ef7700b.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** L'indice dei titoli principali di Piazza Affari a 51.520 punti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [I conti di Trump sono stati scambiati fino a 97,5 milioni di dollari su Nvidia quando Huang ha ottenuto l’accesso alla Casa Bianca](https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** I conti di Trump hanno venduto fino a 1 milione di dollari in azioni Nvidia cinque giorni dopo essere stato informato della relazione di Jensen Huang con una sospetta spia cinese.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `01:05 CET` — Ricerca Oraria (5/23)
 _Aggiornamento registrato il `2026-11-17 01:05 CET`_
