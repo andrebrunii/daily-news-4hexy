@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-16",
   "target_edition_date": "2026-11-17",
-  "last_slot_iso": "2026-11-17T14:05:00",
+  "last_slot_iso": "2026-11-17T15:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1476,6 +1476,88 @@
           "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 15.5
+        }
+      ]
+    },
+    {
+      "hour_label": "15:05 CET",
+      "timestamp_str": "2026-11-17 15:05 CET",
+      "items": [
+        {
+          "title_orig": "Carta da macero, in Italia export +13%: metà va in India",
+          "summary_orig": "Carta da macero, cresce l’export in Italia. Nel primo semestre 2026 le vendite all’estero hanno sfiorato le 950mila tonnellate, con un incremento del 13% rispetto allo stesso periodo dell’anno precedente...",
+          "link": "https://www.ilsole24ore.com/art/carta-macero-italia-export-13percento-meta-va-india-AJJuwKJC",
+          "published": "Tue, 17 Nov 2026 10:42:27 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "15:05 CET",
+          "title_it": "Carta da macero, in Italia export +13%: metà va in India",
+          "summary_it": "Carta da macero, cresce l’export in Italia. Nel primo semestre 2026 le vendite all’estero hanno sfiorato le 950mila tonnellate, con un incremento del 13% rispetto allo stesso periodo dell’anno precedente...",
+          "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Turismo da record in Brasile, superato già a ottobre l'obiettivo 2026",
+          "summary_orig": "Il ministero: 'arrivi a quota 7,59 milioni, spesa estera in crescita del 10%'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/turismo-da-record-in-brasile-superato-gia-a-ottobre-lobiettivo-2026_fce733c2-cc97-4d17-a482-43cd1a8547d7.html",
+          "published": "Tue, 17 Nov 2026 13:38:09 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "15:05 CET",
+          "title_it": "Turismo da record in Brasile, superato già a ottobre l'obiettivo 2026",
+          "summary_it": "Il ministero: 'arrivi a quota 7,59 milioni, spesa estera in crescita del 10%'",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Inchiesta dei media su Deutsche Bank: 'Pratiche discutibili'",
+          "summary_orig": "Rivelazioni giornalistiche scaturite da una massiccia fuga di documenti interni, oltre 15 milioni, tra cui più di nove milioni di e-mail, oltre a relazioni, presentazioni e voci di calendario",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/berlino-deutsche-bank-deve-spiegare-in-modo-trasparente_411981b3-1c96-43d1-bfce-a2156ca0d793.html",
+          "published": "Tue, 17 Nov 2026 14:52:28 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "15:05 CET",
+          "title_it": "Inchiesta dei media su Deutsche Bank: 'Pratiche discutibili'",
+          "summary_it": "Rivelazioni giornalistiche scaturite da una massiccia fuga di documenti interni, oltre 15 milioni, tra cui più di nove milioni di e-mail, oltre a relazioni, presentazioni e voci di calendario",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 14.0
+        },
+        {
+          "title_orig": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
+          "summary_orig": "Ukraine attacked the Kerch Bridge linking Russia to occupied Crimea for a second consecutive day, delivering a symbolic blow to President Vladimir Putin.",
+          "link": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
+          "published": "Tue, 17 Nov 2026 12:48:14 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "15:05 CET",
+          "title_it": "L’Ucraina danneggia il prezioso ponte di Crimea di Putin mentre Zelenskyj elogia “un’operazione senza precedenti”",
+          "summary_it": "L’Ucraina ha attaccato per il secondo giorno consecutivo il ponte di Kerch che collega la Russia alla Crimea occupata, infliggendo un colpo simbolico al presidente Vladimir Putin.",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 24.5
         }
       ]
     }

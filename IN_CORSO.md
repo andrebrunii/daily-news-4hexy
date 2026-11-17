@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-18%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (18/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
+_Aggiornamento registrato il `2026-11-17 15:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Carta da macero, in Italia export +13%: metà va in India](https://www.ilsole24ore.com/art/carta-macero-italia-export-13percento-meta-va-india-AJJuwKJC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Carta da macero, cresce l’export in Italia. Nel primo semestre 2026 le vendite all’estero hanno sfiorato le 950mila tonnellate, con un incremento del 13% rispetto allo stesso periodo dell’anno precedente...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🌍 Geopolitica & Mondo` [Turismo da record in Brasile, superato già a ottobre l'obiettivo 2026](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/turismo-da-record-in-brasile-superato-gia-a-ottobre-lobiettivo-2026_fce733c2-cc97-4d17-a482-43cd1a8547d7.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il ministero: 'arrivi a quota 7,59 milioni, spesa estera in crescita del 10%'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` [Inchiesta dei media su Deutsche Bank: 'Pratiche discutibili'](https://www.ansa.it/sito/notizie/economia/2026/11/17/berlino-deutsche-bank-deve-spiegare-in-modo-trasparente_411981b3-1c96-43d1-bfce-a2156ca0d793.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Rivelazioni giornalistiche scaturite da una massiccia fuga di documenti interni, oltre 15 milioni, tra cui più di nove milioni di e-mail, oltre a relazioni, presentazioni e voci di calendario
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[4] `🏦 Mercati Globali` [L’Ucraina danneggia il prezioso ponte di Crimea di Putin mentre Zelenskyj elogia “un’operazione senza precedenti”](https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L’Ucraina ha attaccato per il secondo giorno consecutivo il ponte di Kerch che collega la Russia alla Crimea occupata, infliggendo un colpo simbolico al presidente Vladimir Putin.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
 
 ### 🕒 Ora `14:05 CET` — Ricerca Oraria (18/23)
 _Aggiornamento registrato il `2026-11-17 14:05 CET`_
