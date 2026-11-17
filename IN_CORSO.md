@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-2%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-3%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (2/23 ricerche orarie):**
-`🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (3/23 ricerche orarie):**
+`🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `23:05 CET` — Ricerca Oraria (3/23)
+_Aggiornamento registrato il `2026-11-17 23:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Ondata di violenza in Guatemala, attentato ad una magistrata](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/ondata-di-violenza-in-guatemala-attentato-ad-una-magistrata_12e8feb9-024d-4485-aaa8-67cd80642612.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** La pm Mazariegos aggredita da sicari in motocicletta nel centro della capitale
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [I 5 gruppi laburisti che contano mentre Burnham mostra il suo contributo al welfare](https://www.politico.eu/article/5-labour-group-matter-andy-burnham-welfare-social-security/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Le proposte del primo ministro per modificare la sicurezza sociale avranno bisogno del sostegno del suo partito parlamentare per avere successo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `🔭 Ricerca & Spazio` [Ozempic e Mounjaro potrebbero avere un effetto sorprendente sul tuo cervello](https://www.sciencedaily.com/releases/2026/11/261116023401.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Farmaci dimagranti di successo come Ozempic e Mounjaro potrebbero fare molto di più che aiutare le persone a perdere peso, con prove crescenti che suggeriscono che potrebbero anche influenzare la salute del cervello. Sebbene gli studi abbiano collegato i farmaci GLP-1 a un minor rischio di demenza, studi importanti hanno scoperto che semaglutide non ha rallentato la malattia di Alzheimer. Gli scienziati sospettano che questi farmaci possano essere...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Realizzato a nostra immagine: una conversazione dal vivo sull'intelligenza artificiale](https://bigthink.com/series/conversations/made-in-our-image-a-live-conversation-on-ai/)** — *(Big Think)*
+  - 📌 **Sintesi:** Big Think ha ospitato un evento dal vivo sul nostro ultimo numero, Made in Our Image, che esplora le filosofie dietro l'intelligenza artificiale e ciò che rivelano su di noi. Il produttore esecutivo Dan Hayes si è incontrato con gli autori della rivista per una conversazione sincera sul lato umano della tecnologia più importante di questo secolo, insieme a...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `22:05 CET` — Ricerca Oraria (2/23)
 _Aggiornamento registrato il `2026-11-17 22:05 CET`_

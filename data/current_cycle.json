@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-17",
   "target_edition_date": "2026-11-18",
-  "last_slot_iso": "2026-11-17T22:05:00",
+  "last_slot_iso": "2026-11-17T23:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -164,6 +164,88 @@
           "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 18.0
+        }
+      ]
+    },
+    {
+      "hour_label": "23:05 CET",
+      "timestamp_str": "2026-11-17 23:05 CET",
+      "items": [
+        {
+          "title_orig": "Ondata di violenza in Guatemala, attentato ad una magistrata",
+          "summary_orig": "La pm Mazariegos aggredita da sicari in motocicletta nel centro della capitale",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/ondata-di-violenza-in-guatemala-attentato-ad-una-magistrata_12e8feb9-024d-4485-aaa8-67cd80642612.html",
+          "published": "Tue, 17 Nov 2026 22:57:23 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "23:05 CET",
+          "title_it": "Ondata di violenza in Guatemala, attentato ad una magistrata",
+          "summary_it": "La pm Mazariegos aggredita da sicari in motocicletta nel centro della capitale",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "The 5 Labour groups that matter as Burnham shows his hand on welfare",
+          "summary_orig": "The prime minister’s proposals to alter social security will need support across his parliamentary party to succeed.",
+          "link": "https://www.politico.eu/article/5-labour-group-matter-andy-burnham-welfare-social-security/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Tue, 17 Nov 2026 18:04:31 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "23:05 CET",
+          "title_it": "I 5 gruppi laburisti che contano mentre Burnham mostra il suo contributo al welfare",
+          "summary_it": "Le proposte del primo ministro per modificare la sicurezza sociale avranno bisogno del sostegno del suo partito parlamentare per avere successo.",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 20.0
+        },
+        {
+          "title_orig": "Ozempic and Mounjaro may have a surprising effect on your brain",
+          "summary_orig": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzheimer's disease. Scientists suspect these drugs may be...",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
+          "published": "Tue, 17 Nov 2026 06:39:45 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "23:05 CET",
+          "title_it": "Ozempic e Mounjaro potrebbero avere un effetto sorprendente sul tuo cervello",
+          "summary_it": "Farmaci dimagranti di successo come Ozempic e Mounjaro potrebbero fare molto di più che aiutare le persone a perdere peso, con prove crescenti che suggeriscono che potrebbero anche influenzare la salute del cervello. Sebbene gli studi abbiano collegato i farmaci GLP-1 a un minor rischio di demenza, studi importanti hanno scoperto che semaglutide non ha rallentato la malattia di Alzheimer. Gli scienziati sospettano che questi farmaci possano essere...",
+          "impact_eu_it": "Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Made in Our Image: A Live Conversation on AI",
+          "summary_orig": "Big Think hosted a live event on our latest issue, Made in Our Image , which explores the philosophies behind artificial intelligence and what they reveal about us. Executive Producer Dan Hayes sat down with the writers behind the magazine for a candid conversation about the human side of this century’s most consequential technology, along with a...",
+          "link": "https://bigthink.com/series/conversations/made-in-our-image-a-live-conversation-on-ai/",
+          "published": "Tue, 17 Nov 2026 20:28:01 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "23:05 CET",
+          "title_it": "Realizzato a nostra immagine: una conversazione dal vivo sull'intelligenza artificiale",
+          "summary_it": "Big Think ha ospitato un evento dal vivo sul nostro ultimo numero, Made in Our Image, che esplora le filosofie dietro l'intelligenza artificiale e ciò che rivelano su di noi. Il produttore esecutivo Dan Hayes si è incontrato con gli autori della rivista per una conversazione sincera sul lato umano della tecnologia più importante di questo secolo, insieme a...",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 17.5
         }
       ]
     }
