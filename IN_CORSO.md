@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-17 12:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [La Tanzania non torna indietro, l'omosessualità resta un reato](https://www.ansa.it/sito/notizie/mondo/africa/2026/11/17/la-tanzania-non-torna-indietro-lomosessualita-resta-un-reato_ad3b6dd7-6013-4648-b9b7-6aac32df6616.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Respinte dal Paese africano 68 raccomandazioni dei Paesi Onu
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [Il peggioramento delle finanze pubbliche mette in ombra la crescita dell’UE](https://www.politico.eu/article/public-finances-eu-growth-eurozone-debt/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il debito dell’Eurozona aumenterà dall’89,6% della produzione economica quest’anno al 91,3% nel 2028.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[3] `🤖 IA & Frontiera Tech` [Documenti cinesi: il marito di Alice Huang, Kang Wei, ha costruito una rete di data center sostenuta dallo stato in Cina, con investimenti proposti superiori a 9 miliardi di dollari tra il 2021 e il 2024 (Lingling Wei/Wall Street Journal)](https://www.techmeme.com/261117/p12#a261117p12)** — *(Techmeme)*
+  - 📌 **Sintesi:** Lingling Wei / Wall Street Journal: Documenti cinesi: il marito di Alice Huang, Kang Wei, ha costruito una rete di data center sostenuta dallo stato in Cina, con un investimento proposto superiore a 9 miliardi di dollari tra il 2021 e il 2024 — Kang Wei ha sviluppato l'attività mentre sua moglie era coinvolta con l'allora CEO di Nvidia — Alice Huang e suo marito, Kang Wei...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[4] `💻 Tecnologia & Cyber` [Il "Wi-Fi alimentato a fibra" di Comcast è solo via cavo, afferma AT&T in un caso di falsa pubblicità](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** AT&T chiede a Comcast di concedere ad AT&T i profitti ricavati dalla pubblicità del cavo come fibra.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-17 11:05 CET`_
