@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-16",
   "target_edition_date": "2026-11-17",
-  "last_slot_iso": "2026-11-17T18:05:00",
+  "last_slot_iso": "2026-11-17T19:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1803,6 +1803,88 @@
           "summary_it": "Ha detto di aver visto il sostegno degli investitori e che i dipendenti erano disposti a tornare come CEO.",
           "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 14.5
+        }
+      ]
+    },
+    {
+      "hour_label": "19:05 CET",
+      "timestamp_str": "2026-11-17 19:05 CET",
+      "items": [
+        {
+          "title_orig": "Brescia accelera verso la zona Net-Zero",
+          "summary_orig": "Un’area di riferimento per l’industria Net-zero, sfruttando le opportunità messe in campo dalla Ue per creare un nuovo modello di sviluppo. L’industria bresciana punta a cambiare passo, provando ad affiancare...",
+          "link": "https://www.ilsole24ore.com/art/brescia-accelera-la-zona-net-zero-AJFYtZCC",
+          "published": "Tue, 17 Nov 2026 15:14:28 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "19:05 CET",
+          "title_it": "Brescia accelera verso la zona Net-Zero",
+          "summary_it": "Un’area di riferimento per l’industria Net-zero, sfruttando le opportunità messe in campo dalla Ue per creare un nuovo modello di sviluppo. L’industria bresciana punta a cambiare passo, provando ad affiancare...",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 22.0
+        },
+        {
+          "title_orig": "L'ippopotama celebrity Fiona ingoia un cappello, è sotto osservazione medica in Usa",
+          "summary_orig": "Era diventata famosa nel 2017 dopo nascita prematura allo zoo di Cincinnati, pesava 13 kg",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/lippopotama-celebrity-fiona-ingoia-un-cappello-e-sotto-osservazione-medica-in-usa_a6b87d96-c813-4cb2-af2f-9e64811dac6c.html",
+          "published": "Tue, 17 Nov 2026 18:39:35 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "19:05 CET",
+          "title_it": "L'ippopotama celebrity Fiona ingoia un cappello, è sotto osservazione medica in Usa",
+          "summary_it": "Era diventata famosa nel 2017 dopo nascita prematura allo zoo di Cincinnati, pesava 13 kg",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Il prezzo del gas poco mosso a 84,73 euro al megawattora",
+          "summary_orig": "Ad Amsterdam le quotazioni registrano una flessione dello 0,03%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/il-prezzo-del-gas-poco-mosso-a-8473-euro-al-megawattora_04f9b1c8-0775-4364-b5db-d35bd911e9bb.html",
+          "published": "Tue, 17 Nov 2026 18:44:39 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "19:05 CET",
+          "title_it": "Il prezzo del gas poco mosso a 84,73 euro al megawattora",
+          "summary_it": "Ad Amsterdam le quotazioni registrano una flessione dello 0,03%",
+          "impact_eu_it": "Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Dow falls 700 points as tech shares decline, traders eye reported NSA network outage: Live updates",
+          "summary_orig": "Traders on Tuesday reacted to several fresh earnings reports and awaited Nvidia's latest quarterly financial results.",
+          "link": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+          "published": "Tue, 17 Nov 2026 17:48:44 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "19:05 CET",
+          "title_it": "Il Dow scende di 700 punti mentre le azioni tecnologiche diminuiscono, i trader hanno segnalato un'interruzione della rete NSA: aggiornamenti in tempo reale",
+          "summary_it": "Martedì i trader hanno reagito a diversi nuovi rapporti sugli utili e hanno atteso gli ultimi risultati finanziari trimestrali di Nvidia.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 14.5
         }
       ]
