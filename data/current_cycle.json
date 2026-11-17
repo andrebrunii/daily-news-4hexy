@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-16",
   "target_edition_date": "2026-11-17",
-  "last_slot_iso": "2026-11-17T16:05:00",
+  "last_slot_iso": "2026-11-17T17:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1640,6 +1640,88 @@
           "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "17:05 CET",
+      "timestamp_str": "2026-11-17 17:05 CET",
+      "items": [
+        {
+          "title_orig": "Cnn, 'interruzione alla rete interna della Nsa, nessun segno cyberattacco'",
+          "summary_orig": "Nuovo incidente dopo Microsoft, il blocco degli aerei e disservizi banche",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/cnn-interruzione-alla-rete-interna-della-nsa-nessun-segno-cyberattacco_9e94f6df-18c6-4108-9a5a-7e5f8330351b.html",
+          "published": "Tue, 17 Nov 2026 16:50:03 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "17:05 CET",
+          "title_it": "Cnn, 'interruzione alla rete interna della Nsa, nessun segno cyberattacco'",
+          "summary_it": "Nuovo incidente dopo Microsoft, il blocco degli aerei e disservizi banche",
+          "impact_eu_it": "Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Crimea bridge destruction will impair Russian supply chains, says Ukraine",
+          "summary_orig": "The Ukrainian president gave details of a weeks-long operation aimed at crippling a crucial Russian transport route that also has symbolic meaning for Vladimir Putin.",
+          "link": "https://www.politico.eu/article/zelenskyy-gives-details-on-ukraine-crimea-bridge-operation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Tue, 17 Nov 2026 13:52:18 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "17:05 CET",
+          "title_it": "La distruzione del ponte in Crimea danneggerà le catene di approvvigionamento russe, afferma l’Ucraina",
+          "summary_it": "Il presidente ucraino ha fornito i dettagli di un'operazione durata settimane volta a paralizzare una via di trasporto russa cruciale che ha anche un significato simbolico per Vladimir Putin.",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 23.5
+        },
+        {
+          "title_orig": "This remarkable new material could solve a major carbon capture problem",
+          "summary_orig": "Scientists have developed a new carbon capture material that turns moisture from an obstacle into an advantage, potentially solving a major problem with removing CO2 from industrial emissions. The material works even in extremely humid conditions and can be reused repeatedly, offering a promising path toward cheaper, more effective carbon capture.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261116023405.htm",
+          "published": "Tue, 17 Nov 2026 06:29:36 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "17:05 CET",
+          "title_it": "Questo straordinario nuovo materiale potrebbe risolvere un grave problema di cattura del carbonio",
+          "summary_it": "Gli scienziati hanno sviluppato un nuovo materiale per la cattura del carbonio che trasforma l’umidità da un ostacolo in un vantaggio, risolvendo potenzialmente un grave problema relativo alla rimozione di CO2 dalle emissioni industriali. Il materiale funziona anche in condizioni estremamente umide e può essere riutilizzato ripetutamente, offrendo un percorso promettente verso una cattura del carbonio più economica ed efficace.",
+          "impact_eu_it": "Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "How to navigate the world with two halves of one brain",
+          "summary_orig": "Psychiatrist Iain McGilchrist has spent 35 years studying how the brain shapes consciousness. In this full interview, he explains why the two hemispheres attend to the world in radically different ways, and how one narrow, grasping mode has come to dominate Western civilization. He then explores the nature of reality: a creative cosmos that flows at the...",
+          "link": "https://bigthink.com/the-well/how-to-navigate-the-world-with-two-halves-of-one-brain/",
+          "published": "Tue, 17 Nov 2026 14:00:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "17:05 CET",
+          "title_it": "Come navigare nel mondo con due metà di un cervello",
+          "summary_it": "Lo psichiatra Iain McGilchrist ha trascorso 35 anni a studiare come il cervello modella la coscienza. In questa intervista completa, spiega perché i due emisferi si occupano del mondo in modi radicalmente diversi e come una modalità ristretta e avida sia arrivata a dominare la civiltà occidentale. Esplora quindi la natura della realtà: un cosmo creativo che scorre al...",
+          "impact_eu_it": "Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 21.5
         }
       ]
     }

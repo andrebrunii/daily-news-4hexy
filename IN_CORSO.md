@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-21%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (21/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `17:05 CET` — Ricerca Oraria (21/23)
+_Aggiornamento registrato il `2026-11-17 17:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Cnn, 'interruzione alla rete interna della Nsa, nessun segno cyberattacco'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/cnn-interruzione-alla-rete-interna-della-nsa-nessun-segno-cyberattacco_9e94f6df-18c6-4108-9a5a-7e5f8330351b.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Nuovo incidente dopo Microsoft, il blocco degli aerei e disservizi banche
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[2] `🇪🇺 Unione Europea & Policy` [La distruzione del ponte in Crimea danneggerà le catene di approvvigionamento russe, afferma l’Ucraina](https://www.politico.eu/article/zelenskyy-gives-details-on-ukraine-crimea-bridge-operation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il presidente ucraino ha fornito i dettagli di un'operazione durata settimane volta a paralizzare una via di trasporto russa cruciale che ha anche un significato simbolico per Vladimir Putin.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🔭 Ricerca & Spazio` [Questo straordinario nuovo materiale potrebbe risolvere un grave problema di cattura del carbonio](https://www.sciencedaily.com/releases/2026/11/261116023405.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati hanno sviluppato un nuovo materiale per la cattura del carbonio che trasforma l’umidità da un ostacolo in un vantaggio, risolvendo potenzialmente un grave problema relativo alla rimozione di CO2 dalle emissioni industriali. Il materiale funziona anche in condizioni estremamente umide e può essere riutilizzato ripetutamente, offrendo un percorso promettente verso una cattura del carbonio più economica ed efficace.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Come navigare nel mondo con due metà di un cervello](https://bigthink.com/the-well/how-to-navigate-the-world-with-two-halves-of-one-brain/)** — *(Big Think)*
+  - 📌 **Sintesi:** Lo psichiatra Iain McGilchrist ha trascorso 35 anni a studiare come il cervello modella la coscienza. In questa intervista completa, spiega perché i due emisferi si occupano del mondo in modi radicalmente diversi e come una modalità ristretta e avida sia arrivata a dominare la civiltà occidentale. Esplora quindi la natura della realtà: un cosmo creativo che scorre al...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
 
 ### 🕒 Ora `16:05 CET` — Ricerca Oraria (20/23)
 _Aggiornamento registrato il `2026-11-17 16:05 CET`_
