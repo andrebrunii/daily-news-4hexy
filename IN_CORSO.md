@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-3%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-4%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (3/23 ricerche orarie):**
-`🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (4/23 ricerche orarie):**
+`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `00:05 CET` — Ricerca Oraria (4/23)
+_Aggiornamento registrato il `2026-11-18 00:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Tenaris del gruppo Techint si aggiudica commessa da 2 miliardi su Vaca Muerta](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/tenaris-del-gruppo-techint-si-aggiudica-commessa-da-2-miliardi-su-vaca-muerta_d96e098a-c4db-40c5-a415-9961f74da75f.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Riguarda la fornitura di tubi per un polidotto di 527 km nel sud dell'Argentina
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [L’Uganda in trattative per ospitare un hub migratorio dell’UE](https://www.politico.eu/article/uganda-in-talks-to-host-eu-migration-hub/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** "La discussione è allo stadio di una tazza di caffè", ha detto il segretario permanente del Ministero degli Esteri.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🤖 IA & Frontiera Tech` [Le fonti descrivono in dettaglio come l'interruzione di Microsoft 365 sia iniziata in Svizzera e si sia diffusa man mano che i sistemi di failover hanno spostato il traffico, lasciando oltre l'80% dei server Exchange non rispondenti (Tom Warren/The Verge)](https://www.techmeme.com/261117/p60#a261117p60)** — *(Techmeme)*
+  - 📌 **Sintesi:** Tom Warren / The Verge: le fonti descrivono in dettaglio come l'interruzione di Microsoft 365 è iniziata in Svizzera e si è diffusa man mano che i sistemi di failover hanno spostato il traffico, lasciando oltre l'80% dei server Exchange non rispondenti: un bug ha bloccato i servizi di posta elettronica di Microsoft per milioni di persone in tutto il mondo. … Alle 9 di giovedì scorso tutto sembrava normale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `💻 Tecnologia & Cyber` [Ancora un’altra compagnia satellitare è alle prese con un razzo, ma questo ha senso](https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** "I governi hanno bisogno del controllo delle loro infrastrutture spaziali critiche, e l'Europa ne ha più bisogno."
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `23:05 CET` — Ricerca Oraria (3/23)
 _Aggiornamento registrato il `2026-11-17 23:05 CET`_
