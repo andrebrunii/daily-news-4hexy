@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-1%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-2%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (1/23 ricerche orarie):**
-`🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (2/23 ricerche orarie):**
+`🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `22:05 CET` — Ricerca Oraria (2/23)
+_Aggiornamento registrato il `2026-11-17 22:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [In una favela di Rio una fabbrica capace di produrre 3mila fucili](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/in-una-favela-di-rio-una-fabbrica-capace-di-produrre-3mila-fucili_7f9df3c5-3285-41e9-8ad6-5a38567323a3.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** L'officina era gestita da un uomo arrestato a giugno dalla polizia
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [Gli Stati Uniti rimproverano l’Ucraina per gli attacchi profondi in vista dei nuovi colloqui di pace con la Russia](https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il ministro della Difesa tedesco Boris Pistorius ha criticato le critiche americane definendole “una cosa stupida”.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🤖 IA & Frontiera Tech` [Fonti: AppLovin è tra le aziende in trattative per acquisire la società di tecnologia pubblicitaria Criteo, che ha una capitalizzazione di mercato di circa 1 miliardo di dollari dopo che le sue azioni sono scese di oltre il 50% negli ultimi cinque anni (Milana Vinn/Reuters)](https://www.techmeme.com/261117/p53#a261117p53)** — *(Techmeme)*
+  - 📌 **Sintesi:** Milana Vinn / Reuters : Fonti: AppLovin è tra le aziende in trattative per acquisire la società di tecnologia pubblicitaria Criteo, che ha una capitalizzazione di mercato di circa 1 miliardo di dollari dopo che le sue azioni sono scese di oltre il 50% negli ultimi cinque anni - La società statunitense di tecnologia pubblicitaria AppLovin (APP.O) è tra le società in trattative per acquisire Criteo, una società più piccola con sede a Parigi...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `💻 Tecnologia & Cyber` ["Trump era a letto con Jensen": i critici si oppongono al desiderio di Huang di tornare su Nvidia](https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** “Amo il nostro Paese”: le scuse di Jensen Huang arrivano nel mezzo delle crescenti indagini di Nvidia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
 
 ### 🕒 Ora `21:05 CET` — Ricerca Oraria (1/23)
 _Aggiornamento registrato il `2026-11-17 21:05 CET`_
