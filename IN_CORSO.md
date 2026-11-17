@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-17%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-18%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (17/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (18/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `14:05 CET` — Ricerca Oraria (18/23)
+_Aggiornamento registrato il `2026-11-17 14:05 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [La Germania è pronta a nominare Brunnermeier capo economista della BCE](https://www.politico.eu/article/germany-set-to-nominate-markus-brunnermeier-ecb-chief-economist/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La posizione di capo economista è uno dei tre posti di lavoro principali che i governi europei mirano a ricoprire entro la fine dell’anno.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[2] `🌐 Scacchiere Globale` [Il ponte di Putin in Crimea crolla in parte mentre Zelenskyj esalta l’attacco “senza precedenti” da parte dell’Ucraina](https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** L’Ucraina afferma che ci sono volute settimane per pianificare l’attacco, mentre il Cremlino promette di ricostruire il ponte strategico.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `💶 Macro & Finanza UE` [I Bar sono un mercato da 23 miliardi, 125mila imprese e 374mila lavoratori](https://www.ansa.it/sito/notizie/economia/2026/11/17/i-bar-sono-un-mercato-da-23-miliardi-125mila-imprese-e-374mila-lavoratori_889e0b6e-7b6a-452d-923c-2b61192619eb.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Fipe-Confcom, è un'infrastruttura chiave per il tessuto socio-economico del Paese
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🏦 Mercati Globali` [Trump è arrivato in Asia. Ecco cosa ha detto sull’Iran e sulla Deutsche Bank](https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Trump minaccia l’Iran e risponde a una segnalazione di fuga fiscale all’inizio del suo viaggio in Asia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `13:05 CET` — Ricerca Oraria (17/23)
 _Aggiornamento registrato il `2026-11-17 13:05 CET`_

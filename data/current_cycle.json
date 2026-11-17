@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-16",
   "target_edition_date": "2026-11-17",
-  "last_slot_iso": "2026-11-17T13:05:00",
+  "last_slot_iso": "2026-11-17T14:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1394,6 +1394,88 @@
           "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
           "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
           "score": 15.0
+        }
+      ]
+    },
+    {
+      "hour_label": "14:05 CET",
+      "timestamp_str": "2026-11-17 14:05 CET",
+      "items": [
+        {
+          "title_orig": "Germany poised to nominate Brunnermeier as ECB chief economist",
+          "summary_orig": "The chief economist’s position is one of three top jobs that European governments are aiming to fill by year-end.",
+          "link": "https://www.politico.eu/article/germany-set-to-nominate-markus-brunnermeier-ecb-chief-economist/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Tue, 17 Nov 2026 10:15:28 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "14:05 CET",
+          "title_it": "La Germania è pronta a nominare Brunnermeier capo economista della BCE",
+          "summary_it": "La posizione di capo economista è uno dei tre posti di lavoro principali che i governi europei mirano a ricoprire entro la fine dell’anno.",
+          "impact_eu_it": "Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 21.5
+        },
+        {
+          "title_orig": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+          "summary_orig": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 13:01:11 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "14:05 CET",
+          "title_it": "Il ponte di Putin in Crimea crolla in parte mentre Zelenskyj esalta l’attacco “senza precedenti” da parte dell’Ucraina",
+          "summary_it": "L’Ucraina afferma che ci sono volute settimane per pianificare l’attacco, mentre il Cremlino promette di ricostruire il ponte strategico.",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 21.0
+        },
+        {
+          "title_orig": "I Bar sono un mercato da 23 miliardi, 125mila imprese e 374mila lavoratori",
+          "summary_orig": "Fipe-Confcom, è un'infrastruttura chiave per il tessuto socio-economico del Paese",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/i-bar-sono-un-mercato-da-23-miliardi-125mila-imprese-e-374mila-lavoratori_889e0b6e-7b6a-452d-923c-2b61192619eb.html",
+          "published": "Tue, 17 Nov 2026 13:45:15 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "14:05 CET",
+          "title_it": "I Bar sono un mercato da 23 miliardi, 125mila imprese e 374mila lavoratori",
+          "summary_it": "Fipe-Confcom, è un'infrastruttura chiave per il tessuto socio-economico del Paese",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
+          "summary_orig": "Trump threatens Iran and responds to a tax leak report as his Asia trip begins.",
+          "link": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
+          "published": "Tue, 17 Nov 2026 12:35:58 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "14:05 CET",
+          "title_it": "Trump è arrivato in Asia. Ecco cosa ha detto sull’Iran e sulla Deutsche Bank",
+          "summary_it": "Trump minaccia l’Iran e risponde a una segnalazione di fuga fiscale all’inizio del suo viaggio in Asia.",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.5
         }
       ]
     }
