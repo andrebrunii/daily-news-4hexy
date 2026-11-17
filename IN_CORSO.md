@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-14%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-17 11:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Automotive, con l’elettrico 30% di chimica in più, ma la produzione si è dimezzata](https://www.ilsole24ore.com/art/automotive-l-elettrico-30percento-chimica-piu-ma-produzione-si-e-dimezzata-AJ9EnGIC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Ogni auto ha in media un contenuto di 4mila euro di chimica. La richiesta delle imprese è di considerare chimica e automotive parti della stessa politica industriale
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🌍 Geopolitica & Mondo` [Riunione a Mosca per ripristinare il Ponte di Crimea, immagini di crollo parziale](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/17/riunione-a-mosca-per-ripristinare-il-ponte-di-crimea-immagini-di-crollo-parziale_58bbedc2-1644-4047-9dbc-4316978c4132.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Dopo il secondo attacco in 24 ore delle forze armate ucraine all'infrastruttura
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `💶 Macro & Finanza UE` [Sciopero generale dalla scuola ai bus, niente stop per aerei e treni](https://www.ansa.it/sito/notizie/economia/2026/11/17/sciopero-generale-dalla-scuola-ai-bus-niente-stop-per-aerei-e-treni_01d5c5ed-72b4-4546-acc1-472847a25848.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** La protesta del 20 dai taxi ai porti. Da venerdì sera scatta un altro stop per le ferrovie
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🏦 Mercati Globali` [La Corea del Sud sospenderà tutte le operazioni degli aerei per 35 minuti e i mercati apriranno tardi. Ecco perché](https://www.cnbc.com/2026/11/17/south-korea-suspend-aircraft-exam-markets.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Giovedì la Corea del Sud sospenderà i decolli e gli atterraggi degli aerei a livello nazionale per 35 minuti per ridurre al minimo il rumore durante un esame di ammissione all’università.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
 
 ### 🕒 Ora `10:05 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-17 10:05 CET`_
