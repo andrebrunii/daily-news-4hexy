@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-13%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (13/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `09:05 CET` — Ricerca Oraria (13/23)
+_Aggiornamento registrato il `2026-11-17 09:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Cina condanna restrizioni Usa su chip e promette in risposta 'misure necessarie'](https://www.ansa.it/sito/notizie/mondo/asia/2026/11/17/cina-condanna-restrizioni-usa-su-chip-e-promette-in-risposta-misure-necessarie_9862febe-e813-439e-87a1-3837e4d51439.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Pechino denuncia l'abuso dei controlli sulle esportazioni da parte di Washington
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🇪🇺 Unione Europea & Policy` [Più che contanti: la spinta alla spesa per la difesa dell’UE è un “punto di svolta” per l’industria, afferma il responsabile delle armi](https://www.politico.eu/article/finnish-arms-company-patria-boss-keen-on-eu-defense-spending-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Panu Routila afferma che il prossimo bilancio settennale del blocco darebbe all’industria della difesa maggiore pianificazione e stabilità negli investimenti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[3] `🔭 Ricerca & Spazio` [La NASA offre 1 milione di dollari per idee audaci per aiutare a costruire una base lunare](https://www.sciencedaily.com/releases/2026/11/261115085542.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** La NASA offre 1 milione di dollari nella sua nuova Moon Base Challenge, invitando gli studenti statunitensi a sviluppare soluzioni innovative per costruire il primo avamposto lunare permanente dell’umanità. Dai sistemi energetici alla sicurezza degli astronauti, le loro idee potrebbero contribuire a rendere possibile la vita a lungo termine sulla Luna e aprire la strada verso Marte.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [8 confronti di dimensioni e distanze: dal subatomico al cosmico](https://bigthink.com/starts-with-a-bang/size-distance-comparison-subatomic-cosmic/)** — *(Big Think)*
+  - 📌 **Sintesi:** Qui in questo universo ci sono molti modi diversi di guardare tutto ciò che esiste in termini di dimensioni. Puoi osservare le dimensioni fisiche, o i volumi, occupati dagli oggetti e puoi farlo in vari modi. Per gli esseri umani, possiamo misurare le nostre dimensioni – cose come altezza, larghezza e profondità – o la quantità di volume che spostiamo quando siamo posizionati in un...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `08:05 CET` — Ricerca Oraria (12/23)
 _Aggiornamento registrato il `2026-11-17 08:05 CET`_

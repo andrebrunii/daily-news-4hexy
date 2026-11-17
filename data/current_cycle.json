@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-16",
   "target_edition_date": "2026-11-17",
-  "last_slot_iso": "2026-11-17T08:05:00",
+  "last_slot_iso": "2026-11-17T09:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -984,6 +984,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 15.5
+        }
+      ]
+    },
+    {
+      "hour_label": "09:05 CET",
+      "timestamp_str": "2026-11-17 09:05 CET",
+      "items": [
+        {
+          "title_orig": "Cina condanna restrizioni Usa su chip e promette in risposta 'misure necessarie'",
+          "summary_orig": "Pechino denuncia l'abuso dei controlli sulle esportazioni da parte di Washington",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/17/cina-condanna-restrizioni-usa-su-chip-e-promette-in-risposta-misure-necessarie_9862febe-e813-439e-87a1-3837e4d51439.html",
+          "published": "Tue, 17 Nov 2026 08:46:29 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "09:05 CET",
+          "title_it": "Cina condanna restrizioni Usa su chip e promette in risposta 'misure necessarie'",
+          "summary_it": "Pechino denuncia l'abuso dei controlli sulle esportazioni da parte di Washington",
+          "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 24.0
+        },
+        {
+          "title_orig": "More than cash: EU defense spending push is ‘game-changer’ for industry, says arms boss",
+          "summary_orig": "Panu Routila says the bloc's next seven-year budget would give the defense industry more planning and investment stability.",
+          "link": "https://www.politico.eu/article/finnish-arms-company-patria-boss-keen-on-eu-defense-spending-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Tue, 17 Nov 2026 03:00:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "09:05 CET",
+          "title_it": "Più che contanti: la spinta alla spesa per la difesa dell’UE è un “punto di svolta” per l’industria, afferma il responsabile delle armi",
+          "summary_it": "Panu Routila afferma che il prossimo bilancio settennale del blocco darebbe all’industria della difesa maggiore pianificazione e stabilità negli investimenti.",
+          "impact_eu_it": "Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 30.5
+        },
+        {
+          "title_orig": "NASA is offering $1 million for bold ideas to help build a Moon base",
+          "summary_orig": "NASA is offering $1 million in its new Moon Base Challenge, inviting U.S. students to develop innovative solutions for building humanity’s first permanent lunar outpost. From power systems to astronaut safety, their ideas could help make long-term life on the Moon possible and pave the way to Mars.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm",
+          "published": "Mon, 16 Nov 2026 09:02:10 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "09:05 CET",
+          "title_it": "La NASA offre 1 milione di dollari per idee audaci per aiutare a costruire una base lunare",
+          "summary_it": "La NASA offre 1 milione di dollari nella sua nuova Moon Base Challenge, invitando gli studenti statunitensi a sviluppare soluzioni innovative per costruire il primo avamposto lunare permanente dell’umanità. Dai sistemi energetici alla sicurezza degli astronauti, le loro idee potrebbero contribuire a rendere possibile la vita a lungo termine sulla Luna e aprire la strada verso Marte.",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 19.5
+        },
+        {
+          "title_orig": "8 size and distance comparisons: from subatomic to cosmic",
+          "summary_orig": "Here in this Universe, there are multiple different ways to look at all that exists in terms of size. You can look at the physical size, or volumes, that the objects occupy, and you can do that in a variety of ways. For humans, we can measure our dimensions — things like our height, width, and depth — or the amount of volume we displace when placed in a...",
+          "link": "https://bigthink.com/starts-with-a-bang/size-distance-comparison-subatomic-cosmic/",
+          "published": "Tue, 17 Nov 2026 07:00:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "09:05 CET",
+          "title_it": "8 confronti di dimensioni e distanze: dal subatomico al cosmico",
+          "summary_it": "Qui in questo universo ci sono molti modi diversi di guardare tutto ciò che esiste in termini di dimensioni. Puoi osservare le dimensioni fisiche, o i volumi, occupati dagli oggetti e puoi farlo in vari modi. Per gli esseri umani, possiamo misurare le nostre dimensioni – cose come altezza, larghezza e profondità – o la quantità di volume che spostiamo quando siamo posizionati in un...",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
+          "score": 14.0
         }
       ]
     }
