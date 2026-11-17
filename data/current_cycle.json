@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-16",
   "target_edition_date": "2026-11-17",
-  "last_slot_iso": "2026-11-17T07:05:00",
+  "last_slot_iso": "2026-11-17T08:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -902,6 +902,88 @@
           "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
           "score": 21.0
+        }
+      ]
+    },
+    {
+      "hour_label": "08:05 CET",
+      "timestamp_str": "2026-11-17 08:05 CET",
+      "items": [
+        {
+          "title_orig": "Il Messico indaga su un'opera di Frida Kahlo all'asta a New York",
+          "summary_orig": "Le autorità chiedono verifiche sulla provenienza del quadro da tre milioni di dollari",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/il-messico-indaga-su-unopera-di-frida-kahlo-allasta-a-new-york_40dbdadf-c69e-4351-98a5-24cc4be6ff24.html",
+          "published": "Tue, 17 Nov 2026 07:19:16 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "08:05 CET",
+          "title_it": "Il Messico indaga su un'opera di Frida Kahlo all'asta a New York",
+          "summary_it": "Le autorità chiedono verifiche sulla provenienza del quadro da tre milioni di dollari",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Will the EU’s next Russia sanctions bite?",
+          "summary_orig": "Europe’s sports rulebook is getting an update. EU Sports Commissioner Glenn Micallef joins us to discuss illegal sports streaming, the future of FIFA President Gianni Infantino and the controversy over Russian athletes returning to international competitions. Also on the podcast: Zoya and Ian discuss the EU’s upcoming 22nd round of sanctions against...",
+          "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/will-the-eus-next-russia-sanctions-bite/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Tue, 17 Nov 2026 05:05:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "08:05 CET",
+          "title_it": "Le prossime sanzioni dell’UE contro la Russia avranno un impatto?",
+          "summary_it": "Il regolamento sportivo europeo sta ricevendo un aggiornamento. Il commissario europeo per lo sport Glenn Micallef si unisce a noi per discutere dello streaming sportivo illegale, del futuro del presidente della FIFA Gianni Infantino e della controversia sul ritorno degli atleti russi alle competizioni internazionali. Anche nel podcast: Zoya e Ian discutono dell'imminente 22° ciclo di sanzioni dell'UE contro...",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 27.0
+        },
+        {
+          "title_orig": "Nvidia unveils its Rubin HPC GPU with \"more than 50,000\" CUDA cores, up from 28,672 in the current Rubin GPU, for agentic workflows and scientific simulations (Jeffrey Kampman/Tom's Hardware)",
+          "summary_orig": "Jeffrey Kampman / Tom's Hardware : Nvidia unveils its Rubin HPC GPU with “more than 50,000” CUDA cores, up from 28,672 in the current Rubin GPU, for agentic workflows and scientific simulations — Rubin HPC puts “over 50,000” CUDA cores on a chip, implies four-die layout — The Supercomputing 2026 conference is under way …",
+          "link": "https://www.techmeme.com/261117/p3#a261117p3",
+          "published": "Tue, 17 Nov 2026 01:20:00 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "08:05 CET",
+          "title_it": "Nvidia presenta la sua GPU Rubin HPC con \"più di 50.000\" core CUDA, rispetto ai 28.672 dell'attuale GPU Rubin, per flussi di lavoro agentici e simulazioni scientifiche (Jeffrey Kampman/Tom's Hardware)",
+          "summary_it": "Jeffrey Kampman / Tom's Hardware: Nvidia svela la sua GPU Rubin HPC con \"più di 50.000\" core CUDA, rispetto ai 28.672 dell'attuale GPU Rubin, per flussi di lavoro agentici e simulazioni scientifiche — Rubin HPC mette \"oltre 50.000\" core CUDA su un chip, implica un layout a quattro die — La conferenza Supercomputing 2026 è in corso...",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 21.0
+        },
+        {
+          "title_orig": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+          "summary_orig": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+          "link": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+          "published": "Mon, 16 Nov 2026 20:37:47 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "08:05 CET",
+          "title_it": "Gli azionisti fanno causa a Intel, al suo CEO e al CFO dopo che le azioni sono scese del 28,6% in un giorno",
+          "summary_it": "Il crollo delle vendite di PC “ha più che compensato” i guadagni del boom dell’intelligenza artificiale, dicono gli azionisti.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 15.5
         }
       ]
     }

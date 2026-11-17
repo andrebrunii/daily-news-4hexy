@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `08:05 CET` — Ricerca Oraria (12/23)
+_Aggiornamento registrato il `2026-11-17 08:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Il Messico indaga su un'opera di Frida Kahlo all'asta a New York](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/il-messico-indaga-su-unopera-di-frida-kahlo-allasta-a-new-york_40dbdadf-c69e-4351-98a5-24cc4be6ff24.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Le autorità chiedono verifiche sulla provenienza del quadro da tre milioni di dollari
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [Le prossime sanzioni dell’UE contro la Russia avranno un impatto?](https://www.politico.eu/podcast/brussels-playbook-podcast/will-the-eus-next-russia-sanctions-bite/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il regolamento sportivo europeo sta ricevendo un aggiornamento. Il commissario europeo per lo sport Glenn Micallef si unisce a noi per discutere dello streaming sportivo illegale, del futuro del presidente della FIFA Gianni Infantino e della controversia sul ritorno degli atleti russi alle competizioni internazionali. Anche nel podcast: Zoya e Ian discutono dell'imminente 22° ciclo di sanzioni dell'UE contro...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🤖 IA & Frontiera Tech` [Nvidia presenta la sua GPU Rubin HPC con "più di 50.000" core CUDA, rispetto ai 28.672 dell'attuale GPU Rubin, per flussi di lavoro agentici e simulazioni scientifiche (Jeffrey Kampman/Tom's Hardware)](https://www.techmeme.com/261117/p3#a261117p3)** — *(Techmeme)*
+  - 📌 **Sintesi:** Jeffrey Kampman / Tom's Hardware: Nvidia svela la sua GPU Rubin HPC con "più di 50.000" core CUDA, rispetto ai 28.672 dell'attuale GPU Rubin, per flussi di lavoro agentici e simulazioni scientifiche — Rubin HPC mette "oltre 50.000" core CUDA su un chip, implica un layout a quattro die — La conferenza Supercomputing 2026 è in corso...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `💻 Tecnologia & Cyber` [Gli azionisti fanno causa a Intel, al suo CEO e al CFO dopo che le azioni sono scese del 28,6% in un giorno](https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Il crollo delle vendite di PC “ha più che compensato” i guadagni del boom dell’intelligenza artificiale, dicono gli azionisti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `07:05 CET` — Ricerca Oraria (11/23)
 _Aggiornamento registrato il `2026-11-17 07:05 CET`_
