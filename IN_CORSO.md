@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-10%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (10/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `07:05 CET` — Ricerca Oraria (11/23)
+_Aggiornamento registrato il `2026-11-17 07:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Assobiotec, percorso al 2036 per trasformare la ricerca in industria](https://www.ilsole24ore.com/art/assobiotec-percorso-2036-trasformare-ricerca-industria-AJ4UNaHC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Quattro priorità: formazione, trasferimento tecnologico, ricerca e semplificazione. Il ministro Urso: il settore è tra quelli che nella Ue investe di più e genera più valore aggiunto. Greco: «Creare le condizioni affinché le idee possano trasformarsi in prodotti e innovazione»
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[2] `🌍 Geopolitica & Mondo` [Sindaco Kiev, 'due importanti ponti della capitale colpiti da attacchi russi'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/16/sindaco-kiev-due-importanti-ponti-della-capitale-colpiti-da-attacchi-russi_ef572b5e-f616-427f-b582-3f56a74a9539.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Danni alle infrastrutture critiche, in alcuni quartieri mancano acqua e riscaldamento'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🏦 Mercati Globali` [L’Iran intensifica le minacce mentre la terza portaerei americana arriva in Medio Oriente, petroliera colpita a Hormuz](https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L’Iran ha intensificato le minacce contro le forze statunitensi con l’arrivo di una terza portaerei americana nel Golfo, alimentando i timori di una ripresa delle tensioni militari.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[4] `🤖 IA & Frontiera Tech` [Il Dipartimento del Commercio degli Stati Uniti afferma di aver iniziato a indagare su Megaspeed nel 2024 su possibili violazioni delle regole sull’esportazione; Nvidia ha inserito Megaspeed nella sua lista "non venduto" nel giugno 2025 (Kanishka Singh/Reuters)](https://www.techmeme.com/261117/p2#a261117p2)** — *(Techmeme)*
+  - 📌 **Sintesi:** Kanishka Singh / Reuters: Il Dipartimento del Commercio degli Stati Uniti afferma di aver iniziato a indagare su Megaspeed nel 2024 su possibili violazioni delle regole sull'esportazione; Nvidia ha inserito Megaspeed nella sua lista "non vendibile" nel giugno 2025 - Il Dipartimento del Commercio e il Dipartimento di Giustizia degli Stati Uniti hanno rilasciato lunedì informazioni sulle indagini di Washington...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
 
 ### 🕒 Ora `06:05 CET` — Ricerca Oraria (10/23)
 _Aggiornamento registrato il `2026-11-17 06:05 CET`_
