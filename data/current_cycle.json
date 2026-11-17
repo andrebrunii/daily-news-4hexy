@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-16",
   "target_edition_date": "2026-11-17",
-  "last_slot_iso": "2026-11-17T02:05:00",
+  "last_slot_iso": "2026-11-17T03:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -492,6 +492,88 @@
           "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 20.0
+        }
+      ]
+    },
+    {
+      "hour_label": "03:05 CET",
+      "timestamp_str": "2026-11-17 03:05 CET",
+      "items": [
+        {
+          "title_orig": "La carovana di migranti 'Dios con nosotros' avanza nel Chiapas verso gli Stati Uniti",
+          "summary_orig": "Oltre mille persone in viaggio, puntano al confine nord per cercare lavoro",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/messico-oltre-mille-migranti-avanzano-nel-chiapas-verso-gli-usa_59019b36-e9ea-4923-ad32-2e30a2d67d33.html",
+          "published": "Tue, 17 Nov 2026 01:32:51 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "03:05 CET",
+          "title_it": "La carovana di migranti 'Dios con nosotros' avanza nel Chiapas verso gli Stati Uniti",
+          "summary_it": "Oltre mille persone in viaggio, puntano al confine nord per cercare lavoro",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 20.5
+        },
+        {
+          "title_orig": "SPONSORED EPISODE: Europe’s ambition to stop cancer",
+          "summary_orig": "Europe is a leader in cancer research. But turning that science into treatments that reach patients is another matter. Every minute, five people in Europe are diagnosed with cancer, and the disease costs the European economy more than €100 billion a year. Five years after its launch, Europe’s Beating Cancer Plan has been scrutinized by […]",
+          "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/sponsored-episode-europes-ambition-to-stop-cancer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Mon, 16 Nov 2026 15:00:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "03:05 CET",
+          "title_it": "EPISODIO SPONSORIZZATO: L’ambizione dell’Europa di fermare il cancro",
+          "summary_it": "L’Europa è leader nella ricerca sul cancro. Ma trasformare quella scienza in trattamenti che raggiungano i pazienti è un’altra questione. Ogni minuto, a cinque persone in Europa viene diagnosticato un cancro e la malattia costa all’economia europea più di 100 miliardi di euro all’anno. A cinque anni dal suo lancio, il Piano europeo di lotta contro il cancro è stato esaminato attentamente […]",
+          "impact_eu_it": "Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 23.5
+        },
+        {
+          "title_orig": "Aea, i costi legati al clima in Ue crescono velocemente",
+          "summary_orig": "Perdite stimate in circa 920 miliardi tra il 1980 e il 2025, oltre 270 negli ultimi 5 anni",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/aea-i-costi-legati-al-clima-in-ue-crescono-velocemente_6c1dc58f-836e-4162-9695-c555d4da51c1.html",
+          "published": "Mon, 16 Nov 2026 16:55:29 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "03:05 CET",
+          "title_it": "Aea, i costi legati al clima in Ue crescono velocemente",
+          "summary_it": "Perdite stimate in circa 920 miliardi tra il 1980 e il 2025, oltre 270 negli ultimi 5 anni",
+          "impact_eu_it": "Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 19.0
+        },
+        {
+          "title_orig": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+          "summary_orig": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+          "published": "Mon, 16 Nov 2026 22:14:47 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "03:05 CET",
+          "title_it": "JPMorgan Chase afferma che un bug temporaneo del software sta influenzando il settore bancario al consumo",
+          "summary_it": "Eamon Javers della CNBC ha riferito che non vi era alcuna indicazione di cattivi attori coinvolti e allo stesso modo nessuna indicazione che un bug stesse colpendo più banche contemporaneamente.",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 17.5
         }
       ]
     }

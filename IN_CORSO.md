@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
+_Aggiornamento registrato il `2026-11-17 03:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [La carovana di migranti 'Dios con nosotros' avanza nel Chiapas verso gli Stati Uniti](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/17/messico-oltre-mille-migranti-avanzano-nel-chiapas-verso-gli-usa_59019b36-e9ea-4923-ad32-2e30a2d67d33.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Oltre mille persone in viaggio, puntano al confine nord per cercare lavoro
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [EPISODIO SPONSORIZZATO: L’ambizione dell’Europa di fermare il cancro](https://www.politico.eu/podcast/brussels-playbook-podcast/sponsored-episode-europes-ambition-to-stop-cancer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** L’Europa è leader nella ricerca sul cancro. Ma trasformare quella scienza in trattamenti che raggiungano i pazienti è un’altra questione. Ogni minuto, a cinque persone in Europa viene diagnosticato un cancro e la malattia costa all’economia europea più di 100 miliardi di euro all’anno. A cinque anni dal suo lancio, il Piano europeo di lotta contro il cancro è stato esaminato attentamente […]
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[3] `💶 Macro & Finanza UE` [Aea, i costi legati al clima in Ue crescono velocemente](https://www.ansa.it/sito/notizie/economia/2026/11/16/aea-i-costi-legati-al-clima-in-ue-crescono-velocemente_6c1dc58f-836e-4162-9695-c555d4da51c1.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Perdite stimate in circa 920 miliardi tra il 1980 e il 2025, oltre 270 negli ultimi 5 anni
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
+- **[4] `🏦 Mercati Globali` [JPMorgan Chase afferma che un bug temporaneo del software sta influenzando il settore bancario al consumo](https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Eamon Javers della CNBC ha riferito che non vi era alcuna indicazione di cattivi attori coinvolti e allo stesso modo nessuna indicazione che un bug stesse colpendo più banche contemporaneamente.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
 
 ### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
 _Aggiornamento registrato il `2026-11-17 02:05 CET`_
