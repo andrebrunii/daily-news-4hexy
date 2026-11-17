@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-16",
   "target_edition_date": "2026-11-17",
-  "last_slot_iso": "2026-11-17T15:05:00",
+  "last_slot_iso": "2026-11-17T16:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1558,6 +1558,88 @@
           "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
           "score": 24.5
+        }
+      ]
+    },
+    {
+      "hour_label": "16:05 CET",
+      "timestamp_str": "2026-11-17 16:05 CET",
+      "items": [
+        {
+          "title_orig": "Media palestinesi, una donna uccisa e 10 feriti in attacco di coloni a Gerico",
+          "summary_orig": "Aattacco al villaggio di al-Duyuk al-Tahta, a ovest della città",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/17/media-palestinesi-una-donna-uccisa-e-10-feriti-in-attacco-di-coloni-a-gerico_6cd55c81-9f53-42cf-8233-3aa2448ce966.html",
+          "published": "Tue, 17 Nov 2026 15:11:28 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "16:05 CET",
+          "title_it": "Media palestinesi, una donna uccisa e 10 feriti in attacco di coloni a Gerico",
+          "summary_it": "Aattacco al villaggio di al-Duyuk al-Tahta, a ovest della città",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Polish far-right lawmaker Braun charged over hospital ‘citizen’s arrest’",
+          "summary_orig": "Grzegorz Braun faces up to five years in prison for allegedly detaining a doctor who had performed an abortion.",
+          "link": "https://www.politico.eu/article/poland-grzegorz-braun-charged-over-hospital-citizens-arrest/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Tue, 17 Nov 2026 14:10:09 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "16:05 CET",
+          "title_it": "Il deputato polacco di estrema destra Braun accusato di “arresto di cittadino” in ospedale",
+          "summary_it": "Grzegorz Braun rischia fino a cinque anni di carcere per aver arrestato un medico che aveva praticato un aborto.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "Neuralink co-founder Max Hodak's Science Corp, which offers a retinal implant for age-related macular degeneration, raised $400M at a $3.5B valuation (Ike Swetlitz/Bloomberg)",
+          "summary_orig": "Ike Swetlitz / Bloomberg : Neuralink co-founder Max Hodak's Science Corp, which offers a retinal implant for age-related macular degeneration, raised $400M at a $3.5B valuation — Science Corp, the company behind a retinal chip that restores some vision to people with an age-related form of blindness, is valued at $3.5 billion after a recent fundraising...",
+          "link": "https://www.techmeme.com/261117/p29#a261117p29",
+          "published": "Tue, 17 Nov 2026 09:45:00 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "16:05 CET",
+          "title_it": "Science Corp, co-fondatore di Neuralink, Max Hodak, che offre un impianto retinico per la degenerazione maculare legata all'età, ha raccolto 400 milioni di dollari per una valutazione di 3,5 miliardi di dollari (Ike Swetlitz/Bloomberg)",
+          "summary_it": "Ike Swetlitz / Bloomberg: Science Corp, co-fondatore di Neuralink, Max Hodak, che offre un impianto retinico per la degenerazione maculare legata all'età, ha raccolto 400 milioni di dollari per una valutazione di 3,5 miliardi di dollari - Science Corp, la società dietro un chip retinico che ripristina la vista alle persone con una forma di cecità legata all'età, è valutata 3,5 miliardi di dollari dopo una recente raccolta fondi...",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+          "summary_orig": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+          "link": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+          "published": "Tue, 17 Nov 2026 14:00:29 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "16:05 CET",
+          "title_it": "Grok Bot ha intrapreso azioni non approvate, ha ignorato l'ordine di fermarsi e poi ha negato",
+          "summary_it": "L'agente AI intraprende azioni non approvate anche quando il coperchio del laptop è chiuso e gli viene detto di non farlo.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 12.0
         }
       ]
     }
