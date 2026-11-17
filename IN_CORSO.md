@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Martedì 17 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-8%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-9%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (8/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (9/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md) · [📅 **2026-11-10**](./archivio/2026-11-10.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `05:05 CET` — Ricerca Oraria (9/23)
+_Aggiornamento registrato il `2026-11-17 05:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` ['007 Usa, Iran sta sviluppando piani per bomba sporca a Washington'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/007-usa-iran-sta-sviluppando-piani-per-bomba-sporca-a-washington_c9a41c6d-a84e-485c-8a1d-c7ce921b80ba.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Cnn, 'al momento pianificazione, nessun segnale di attacco imminente'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Unione Europea & Policy` [Cosa può imparare l’UE da Mark Carney sulla sovranità digitale](https://www.politico.eu/sponsored-content/what-the-eu-can-learn-from-mark-carney-on-digital-sovereignty/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Costruire l’autonomia non significa che i paesi debbano isolarsi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🔭 Ricerca & Spazio` [Il segreto per costruire basi lunari potrebbe nascondersi nelle coperte di emergenza](https://www.sciencedaily.com/releases/2026/11/261115085549.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati hanno trasformato la sottile plastica utilizzata nelle coperte di emergenza in un isolante straordinariamente resistente che potrebbe aiutare gli astronauti a sopravvivere alle temperature estreme della Luna. Costruito da centinaia di strati sovrapposti, il materiale resiste alla pressione schiacciante senza perdere la sua protezione termica, aprendo potenzialmente la strada a habitat lunari più resistenti e più duraturi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[4] `💶 Macro & Finanza UE` [Borsa: Milano rallenta (-0,5%) nel finale, scivola Stellantis](https://www.ansa.it/sito/notizie/economia/2026/11/16/borsa-milano-rallenta-05-nel-finale-scivola-stellantis_91afe244-e049-4db1-9712-0cd3ab1d5c59.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Spread Btp Bund in leggero aumento a 105 punti, euro calmo
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
 
 ### 🕒 Ora `04:05 CET` — Ricerca Oraria (8/23)
 _Aggiornamento registrato il `2026-11-17 04:05 CET`_

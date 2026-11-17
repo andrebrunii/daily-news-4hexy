@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-16",
   "target_edition_date": "2026-11-17",
-  "last_slot_iso": "2026-11-17T04:05:00",
+  "last_slot_iso": "2026-11-17T05:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -655,6 +655,88 @@
           "summary_it": "Un bug nascosto, lo spostamento del traffico e la capacità ridotta hanno portato a guasti a catena.",
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "05:05 CET",
+      "timestamp_str": "2026-11-17 05:05 CET",
+      "items": [
+        {
+          "title_orig": "'007 Usa, Iran sta sviluppando piani per bomba sporca a Washington'",
+          "summary_orig": "Cnn, 'al momento pianificazione, nessun segnale di attacco imminente'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/007-usa-iran-sta-sviluppando-piani-per-bomba-sporca-a-washington_c9a41c6d-a84e-485c-8a1d-c7ce921b80ba.html",
+          "published": "Tue, 17 Nov 2026 00:15:07 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "05:05 CET",
+          "title_it": "'007 Usa, Iran sta sviluppando piani per bomba sporca a Washington'",
+          "summary_it": "Cnn, 'al momento pianificazione, nessun segnale di attacco imminente'",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "What the EU can learn from Mark Carney on digital sovereignty",
+          "summary_orig": "Building autonomy does not mean countries need to isolate.",
+          "link": "https://www.politico.eu/sponsored-content/what-the-eu-can-learn-from-mark-carney-on-digital-sovereignty/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Tue, 17 Nov 2026 04:00:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "05:05 CET",
+          "title_it": "Cosa può imparare l’UE da Mark Carney sulla sovranità digitale",
+          "summary_it": "Costruire l’autonomia non significa che i paesi debbano isolarsi.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 21.5
+        },
+        {
+          "title_orig": "The secret to building Moon bases may be hiding in emergency blankets",
+          "summary_orig": "Scientists have turned the thin plastic used in emergency blankets into remarkably strong insulation that could help astronauts survive the Moon's extreme temperatures. Built from hundreds of stacked layers, the material withstands crushing pressure without losing its thermal protection, potentially paving the way for tougher, longer-lasting lunar habitats.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm",
+          "published": "Sun, 15 Nov 2026 22:51:01 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "05:05 CET",
+          "title_it": "Il segreto per costruire basi lunari potrebbe nascondersi nelle coperte di emergenza",
+          "summary_it": "Gli scienziati hanno trasformato la sottile plastica utilizzata nelle coperte di emergenza in un isolante straordinariamente resistente che potrebbe aiutare gli astronauti a sopravvivere alle temperature estreme della Luna. Costruito da centinaia di strati sovrapposti, il materiale resiste alla pressione schiacciante senza perdere la sua protezione termica, aprendo potenzialmente la strada a habitat lunari più resistenti e più duraturi.",
+          "impact_eu_it": "Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 16.0
+        },
+        {
+          "title_orig": "Borsa: Milano rallenta (-0,5%) nel finale, scivola Stellantis",
+          "summary_orig": "Spread Btp Bund in leggero aumento a 105 punti, euro calmo",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/16/borsa-milano-rallenta-05-nel-finale-scivola-stellantis_91afe244-e049-4db1-9712-0cd3ab1d5c59.html",
+          "published": "Mon, 16 Nov 2026 16:28:26 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "05:05 CET",
+          "title_it": "Borsa: Milano rallenta (-0,5%) nel finale, scivola Stellantis",
+          "summary_it": "Spread Btp Bund in leggero aumento a 105 punti, euro calmo",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 12.0
         }
       ]
