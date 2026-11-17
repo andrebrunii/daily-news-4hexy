@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-16",
   "target_edition_date": "2026-11-17",
-  "last_slot_iso": "2026-11-17T09:05:00",
+  "last_slot_iso": "2026-11-17T10:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1066,6 +1066,88 @@
           "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
           "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
           "score": 14.0
+        }
+      ]
+    },
+    {
+      "hour_label": "10:05 CET",
+      "timestamp_str": "2026-11-17 10:05 CET",
+      "items": [
+        {
+          "title_orig": "Russia hits 2 major Kyiv bridges in overnight strikes",
+          "summary_orig": "The attacks came as Ukraine carried out further strikes on a key bridge in Crimea.",
+          "link": "https://www.politico.eu/article/russian-missiles-hit-two-major-kyiv-bridges/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Tue, 17 Nov 2026 08:51:35 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "10:05 CET",
+          "title_it": "La Russia colpisce due importanti ponti di Kiev con attacchi notturni",
+          "summary_it": "Gli attacchi sono avvenuti mentre l’Ucraina effettuava ulteriori attacchi su un ponte chiave in Crimea.",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 21.5
+        },
+        {
+          "title_orig": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+          "summary_orig": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
+          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 08:06:32 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "10:05 CET",
+          "title_it": "Il ponte della Crimea è stato chiuso dopo la segnalazione di un attacco ucraino, mentre la Russia colpisce i valichi di Kiev",
+          "summary_it": "Secondo quanto riferito, il ponte che collega la Crimea e la Russia ha subito gravi danni, mentre due rotte attraverso Kiev sono chiuse.",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 17.5
+        },
+        {
+          "title_orig": "Via libera a Saipem per il progetto Longtail Guyana di ExxonMobil",
+          "summary_orig": "Valore complessivo del contratto tra 1 e 1,5 miliardi di dollari",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/via-libera-a-saipem-per-il-progetto-longtail-guyana-di-exxonmobil_f3315057-e069-48d9-b03a-aa606fdc2662.html",
+          "published": "Tue, 17 Nov 2026 09:44:03 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "10:05 CET",
+          "title_it": "Via libera a Saipem per il progetto Longtail Guyana di ExxonMobil",
+          "summary_it": "Valore complessivo del contratto tra 1 e 1,5 miliardi di dollari",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+          "summary_orig": "The U.S. Commerce Department is making moves to tighten export controls.",
+          "link": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+          "published": "Tue, 17 Nov 2026 07:07:35 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "10:05 CET",
+          "title_it": "Nvidia avverte gli acquirenti di chip dei rischi legali legati all'accesso all'intelligenza artificiale in Cina, riferiscono fonti alla CNBC",
+          "summary_it": "Il Dipartimento del Commercio degli Stati Uniti sta adottando misure per rafforzare i controlli sulle esportazioni.",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 32.0
         }
       ]
     }
