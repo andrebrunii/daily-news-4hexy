@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
+_Aggiornamento registrato il `2026-11-18 03:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Sardegna, l’appello per continuità territoriale marittima delle merci](https://www.ilsole24ore.com/art/sardegna-l-appello-continuita-territoriale-marittima-merci-AJzJ9qIC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** L’iniziativa di Confindustria Sardegna a sostegno delle imprese costrette a fare i conti con gli alti costi dei trasporti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌍 Geopolitica & Mondo` [Trump ritira la controversa nomina per la guida della Food and Drug Administration](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/18/trump-ritira-la-controversa-nomina-per-la-guida-della-food-and-drug_813f84b7-b0d6-4ca4-816a-e7d389f11b02.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Heidi Overton era criticata anche dai repubblicani
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[3] `💶 Macro & Finanza UE` [Fondo culle vuote, exit tax, sicurezza. Le possibili novità](https://www.ansa.it/sito/notizie/economia/2026/11/17/fondo-culle-vuote-exit-tax-sicurezza.-le-possibili-novita_44e5720e-044c-43c3-a7ec-96a3248d2c2d.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Ritocchi anche alle rivalutazioni delle pensioni e allo spalma Superbonus
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[4] `🏦 Mercati Globali` [Colette Kress di Nvidia dice a Cramer: Dipendenti e clienti non andranno da nessuna parte](https://www.cnbc.com/2026/11/17/nvidias-colette-kress-tells-cramer-customers-and-employees-are-not-going-anywhere.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il CEO ad interim Colette Kress ha dichiarato esclusivamente su "Mad Money" che i clienti e i dipendenti del produttore di chip rimangono impegnati nei confronti dell'azienda.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
 _Aggiornamento registrato il `2026-11-18 02:05 CET`_
