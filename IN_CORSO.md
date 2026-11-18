@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `16:05 CET` — Ricerca Oraria (20/23)
+_Aggiornamento registrato il `2026-11-18 16:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Scoperta una fabbrica di armi clandestina a Rio de Janeiro](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/18/scoperta-una-fabbrica-di-armi-clandestina-a-rio-de-janeiro_ba8dcf90-814f-4c66-9187-cda4e4387074.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Produceva ottomila fucili all'anno per il temuto Comando Vermelho
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[2] `🇪🇺 Unione Europea & Policy` [Il francese Philippe intensifica gli attacchi contro Le Pen e Mélenchon mentre i suoi numeri nei sondaggi diminuiscono](https://www.politico.eu/article/france-edouard-philippe-steps-up-attacks-on-marine-le-pen-and-jean-luc-melenchon-as-his-poll-numbers-slide/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il candidato presidenziale di centrodestra ha accusato i suoi rivali di nutrire un “fascino malsano” per il russo Vladimir Putin.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [GTA VI di Rockstar raggiunge un punteggio di 99/100 su Metacritic e 98/100 su OpenCritic, un record per entrambi, poiché IGN e GameSpot gli danno punteggi perfetti; TTWO salta del 6%+ (Jason Schreier/Bloomberg)](https://www.techmeme.com/261118/p26#a261118p26)** — *(Techmeme)*
+  - 📌 **Sintesi:** Jason Schreier / Bloomberg: GTA VI di Rockstar raggiunge un punteggio di 99/100 su Metacritic e 98/100 su OpenCritic, un record per entrambi, dato che IGN e GameSpot gli danno punteggi perfetti; TTWO balza del 6%+ — Il nuovo gioco Rockstar ha ottenuto un punteggio di 99 su 100 sul sito di aggregazione di recensioni Metacritic — L'attesissimo videogioco...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `💻 Tecnologia & Cyber` [Il Cybercab da $ 30.000 di Tesla viene fornito con una cattura mensile di $ 299](https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Tesla può limitare i luoghi in cui viaggiano i Cybercab e persino impedire ai proprietari di rivenderli.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
 _Aggiornamento registrato il `2026-11-18 15:05 CET`_
