@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-17%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (17/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `13:05 CET` — Ricerca Oraria (17/23)
+_Aggiornamento registrato il `2026-11-18 13:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` ['Comandante Centcom vede capo Idf per fare il punto in caso ripresa guerra'](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/18/comandante-centcom-vede-capo-idf-per-fare-il-punto-in-caso-ripresa_0f98d21e-137c-46d5-994a-0fb798212e57.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Media, 'Cooper e Zamir a Tel Aviv discutono sviluppi e prontezza degli eserciti'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[2] `🇪🇺 Unione Europea & Policy` [Da Bruxelles con amore: come l'UE ha usato Robert Pattinson per combattere i deepfake](https://www.politico.eu/article/robert-pattinson-eu-fight-deepfake/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il nuovo James Bond ha un legame con l’UE? Più o meno.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🔭 Ricerca & Spazio` [Vino, birra o liquori? Uno studio massiccio rivela un sorprendente divario sanitario](https://www.sciencedaily.com/releases/2026/11/261116015104.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Un vasto studio condotto su oltre 340.000 adulti ha rilevato che i bevitori moderati di vino avevano un rischio inferiore del 21% di morte cardiovascolare, mentre anche un consumo leggero di birra, sidro o superalcolici era collegato ad un aumento del rischio. Sebbene il consumo eccessivo di alcol sia dannoso indipendentemente dal tipo di bevanda, i risultati suggeriscono che il rapporto tra alcol e salute potrebbe essere più...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🏛️ Filosofia & Idee` [Sogni di uccelli](https://aeon.co/videos/a-physicists-audacious-plan-to-teach-birds-long-lost-songs)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Quando le popolazioni di uccelli diminuiscono, alcuni canti potrebbero andare perduti per sempre. La missione di un fisico è far rivivere melodie perdute - di Aeon Video Watch su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
 _Aggiornamento registrato il `2026-11-18 12:05 CET`_
