@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-21%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-22%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (21/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (22/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `18:05 CET` — Ricerca Oraria (22/23)
+_Aggiornamento registrato il `2026-11-18 18:05 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [L’après-Macron vu par les spions](https://www.politico.eu/podcast/playbook-paris-podcast/lapres-macron-vu-par-les-espions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Comment les services secrets se préparent-ils au “choc électoral” de 2027 ? Dans La nouvelle armée des ombres (Albin Michel), tre giornalisti ont enquêté sur la manière dont les espions français anticipent la campagne présidentielle mais aussi les jours et mois suivants l’alternance. Attacchi, operazioni di destabilizzazione, movimenti di protesta,...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌐 Scacchiere Globale` [All'interno del vecchio gasdotto dove l'Ucraina sta combattendo una guerra sotterranea con la Russia](https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Guarda: Jonathan Beale della BBC si unisce alle forze ucraine che hanno portato avanti la battaglia sotto terra e lontano dalla vista dei droni russi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `💶 Macro & Finanza UE` [Borsa: Europa debole in chiusura, Parigi -0,85%, Londra -1,3%](https://www.ansa.it/sito/notizie/economia/2026/11/18/borsa-europa-debole-in-chiusura-parigi-085-londra-13_154677ab-d744-4dff-a875-358226ec5fb3.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** In rosso anche Francoforte (-1,19%) e Madrid (-1,26%)
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [IPO antropica: il laboratorio AI considera di aumentare l'offerta man mano che la domanda degli investitori aumenta, dicono le fonti](https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Le azioni antropiche inizieranno a essere negoziate sul Nasdaq con il simbolo ANT giovedì.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `17:05 CET` — Ricerca Oraria (21/23)
 _Aggiornamento registrato il `2026-11-18 17:05 CET`_
