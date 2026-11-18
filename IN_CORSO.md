@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-10%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (10/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `07:05 CET` — Ricerca Oraria (11/23)
+_Aggiornamento registrato il `2026-11-18 07:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Black Friday e Natale, Umana apre le selezioni per 2.500 profili](https://www.ilsole24ore.com/art/black-friday-e-natale-umana-apre-selezioni-2500-profili-AJx64qJC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Dalla logistica alla moda alla grande distribuzione, l’agenzia avvia la selezione su scala nazionale per affiancare le aziende a gestire l’aumento delle attività
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌍 Geopolitica & Mondo` [Putin: 'Con Russia e Cina un ordine mondiale multipolare più giusto'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/putin-con-russia-e-cina-un-ordine-mondiale-multipolare-piu-giusto_ce390a21-ea39-4102-9cc6-76fa5198093e.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Xi: 'Un mondo più stabile grazie al rapporto Pechino-Mosca'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[3] `💶 Macro & Finanza UE` [Borsa: Milano chiude in calo dell'1,31%](https://www.ansa.it/sito/notizie/economia/2026/11/17/borsa-milano-chiude-in-calo-dell131_3d00378e-108a-45c4-a090-d90bd8caf0fe.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** L'ultimo indice Ftse Mib a 50.845 punti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [L’Iran afferma che l’esercito prende di mira i siti di droni e missili statunitensi in Kuwait mentre aumentano gli attacchi nel Golfo](https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L’Iran ha affermato che il suo esercito ha preso di mira le installazioni di droni e missili statunitensi nella base aerea di Ali Al Salem in Kuwait, estendendo una serie di attacchi contro gli stati del Golfo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
 
 ### 🕒 Ora `06:05 CET` — Ricerca Oraria (10/23)
 _Aggiornamento registrato il `2026-11-18 06:05 CET`_
