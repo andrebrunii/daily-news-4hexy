@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-18",
   "target_edition_date": "2026-11-19",
-  "last_slot_iso": "2026-11-18T21:05:00",
+  "last_slot_iso": "2026-11-18T22:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -82,6 +82,88 @@
           "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
           "score": 16.5
+        }
+      ]
+    },
+    {
+      "hour_label": "22:05 CET",
+      "timestamp_str": "2026-11-18 22:05 CET",
+      "items": [
+        {
+          "title_orig": "Al via in Argentina una nuova edizione dell'Open Week dell'Agenzia Spaziale Europea",
+          "summary_orig": "Annunciato il futuro potenziamento della stazione spaziale Deep Space 3 di Malargüe",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/18/al-via-in-argentina-una-nuova-edizione-dellopen-week-dellagenzia-spaziale-europea_0ba97972-acb4-4b4f-9cc9-895ef168d164.html",
+          "published": "Wed, 18 Nov 2026 19:33:32 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "22:05 CET",
+          "title_it": "Al via in Argentina una nuova edizione dell'Open Week dell'Agenzia Spaziale Europea",
+          "summary_it": "Annunciato il futuro potenziamento della stazione spaziale Deep Space 3 di Malargüe",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 16.0
+        },
+        {
+          "title_orig": "EPP moves to suspend Serbia’s former ruling party",
+          "summary_orig": "SNS will have 12 months to deliver on the EPP's demands, or face expulsion.",
+          "link": "https://www.politico.eu/article/epp-moves-to-suspend-serbias-former-ruling-party/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Wed, 18 Nov 2026 20:46:08 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "22:05 CET",
+          "title_it": "Il PPE si propone di sospendere l’ex partito al potere in Serbia",
+          "summary_it": "Il SNS avrà 12 mesi per soddisfare le richieste del PPE, pena l'espulsione.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "Sources: Bret Taylor's Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue (The Information)",
+          "summary_orig": "The Information : Sources: Bret Taylor's Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue — Sierra, the AI customer support startup founded by former Salesforce co-CEO Bret Taylor, has been in talks to raise new funding …",
+          "link": "https://www.techmeme.com/261118/p40#a261118p40",
+          "published": "Wed, 18 Nov 2026 16:01:02 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "22:05 CET",
+          "title_it": "Fonti: Sierra di Bret Taylor è in trattative per raccogliere ~$1,5 miliardi con una valutazione di ~$30 miliardi, in aumento rispetto ai $15,8 miliardi di maggio; ha affermato che in ottobre ha raggiunto oltre 400 milioni di dollari di entrate annualizzate (The Information)",
+          "summary_it": "L'informazione: Fonti: Sierra di Bret Taylor è in trattative per raccogliere ~$1,5 miliardi con una valutazione di ~$30 miliardi, in aumento rispetto ai $15,8 miliardi di maggio; ha affermato che in ottobre ha raggiunto oltre 400 milioni di dollari di entrate annualizzate: Sierra, la startup di assistenza clienti basata sull'intelligenza artificiale fondata dall'ex co-CEO di Salesforce Bret Taylor, è in trattative per raccogliere nuovi finanziamenti...",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Windows Server 2028 trades compatibility for out-of-the-box security",
+          "summary_orig": "Hardened defaults align with DoD standards, but there may be growing pains.",
+          "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+          "published": "Wed, 18 Nov 2026 20:41:12 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "22:05 CET",
+          "title_it": "Windows Server 2028 baratta la compatibilità con la sicurezza pronta all'uso",
+          "summary_it": "Le impostazioni predefinite rafforzate sono in linea con gli standard DoD, ma potrebbero esserci difficoltà crescenti.",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 15.5
         }
       ]
     }

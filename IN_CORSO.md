@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 19 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-1%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-2%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (1/23 ricerche orarie):**
-`🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (2/23 ricerche orarie):**
+`🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `22:05 CET` — Ricerca Oraria (2/23)
+_Aggiornamento registrato il `2026-11-18 22:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Al via in Argentina una nuova edizione dell'Open Week dell'Agenzia Spaziale Europea](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/18/al-via-in-argentina-una-nuova-edizione-dellopen-week-dellagenzia-spaziale-europea_0ba97972-acb4-4b4f-9cc9-895ef168d164.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Annunciato il futuro potenziamento della stazione spaziale Deep Space 3 di Malargüe
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [Il PPE si propone di sospendere l’ex partito al potere in Serbia](https://www.politico.eu/article/epp-moves-to-suspend-serbias-former-ruling-party/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il SNS avrà 12 mesi per soddisfare le richieste del PPE, pena l'espulsione.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Fonti: Sierra di Bret Taylor è in trattative per raccogliere ~$1,5 miliardi con una valutazione di ~$30 miliardi, in aumento rispetto ai $15,8 miliardi di maggio; ha affermato che in ottobre ha raggiunto oltre 400 milioni di dollari di entrate annualizzate (The Information)](https://www.techmeme.com/261118/p40#a261118p40)** — *(Techmeme)*
+  - 📌 **Sintesi:** L'informazione: Fonti: Sierra di Bret Taylor è in trattative per raccogliere ~$1,5 miliardi con una valutazione di ~$30 miliardi, in aumento rispetto ai $15,8 miliardi di maggio; ha affermato che in ottobre ha raggiunto oltre 400 milioni di dollari di entrate annualizzate: Sierra, la startup di assistenza clienti basata sull'intelligenza artificiale fondata dall'ex co-CEO di Salesforce Bret Taylor, è in trattative per raccogliere nuovi finanziamenti...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `💻 Tecnologia & Cyber` [Windows Server 2028 baratta la compatibilità con la sicurezza pronta all'uso](https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Le impostazioni predefinite rafforzate sono in linea con gli standard DoD, ma potrebbero esserci difficoltà crescenti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
 
 ### 🕒 Ora `21:05 CET` — Ricerca Oraria (1/23)
 _Aggiornamento registrato il `2026-11-18 21:05 CET`_
