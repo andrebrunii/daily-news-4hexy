@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-18 12:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Onu, nel mondo 3,4 miliardi di persone ancora senza servizi igienici](https://www.ansa.it/sito/notizie/mondo/africa/2026/11/18/onu-nel-mondo-34-miliardi-di-persone-ancora-senza-servizi-igienici_3823b817-f926-453e-8ca8-ffeda18bd4aa.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Guterres: 'Per milioni di donne significa affrontare mancanza di privacy ad aggressioni'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [Xi accoglie personalmente Trump in Cina per un vertice ad alto rischio](https://www.politico.eu/article/xi-jinping-donald-trump-china-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** I leader di Cina, Russia e Stati Uniti si riuniranno a Shenzhen per discutere delle loro future relazioni, oltre alla denuclearizzazione e all’Iran.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[3] `🤖 IA & Frontiera Tech` [KPMG utilizza oltre 100 agenti IA per condurre un audit parallelo di una società FTSE 250 in un progetto pilota, affermando che l'IA ha posto "domande migliori" e ha scavato più a fondo del personale umano (Financial Times)](https://www.techmeme.com/261118/p8#a261118p8)** — *(Techmeme)*
+  - 📌 **Sintesi:** Financial Times: KPMG utilizza oltre 100 agenti IA per condurre un audit parallelo di una società FTSE 250 in un progetto pilota, affermando che l'intelligenza artificiale ha posto "domande migliori" e ha scavato più a fondo rispetto al personale umano: la società Big Four ha utilizzato agenti IA per rivedere i rendiconti finanziari di una società FTSE 250, ma era necessario l'intervento umano
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `💻 Tecnologia & Cyber` [Centinaia di siti Web forniscono potenti cocktail di malware a visitatori ignari](https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Il cocktail di malware fornisce, tra le altre cose, carichi utili per il furto di criptovaluta e exploit iOS.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-18 11:05 CET`_
