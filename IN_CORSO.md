@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-21%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (21/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `17:05 CET` — Ricerca Oraria (21/23)
+_Aggiornamento registrato il `2026-11-18 17:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [La boxe come inclusione in Colombia, nasce il progetto 'Boxeo Sin Barreras'](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/18/la-boxe-come-inclusione-in-colombia-nasce-il-progetto-boxeo-sin-barreras_80bf1085-1672-43c0-b05b-3fe01023c1b9.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** L'iniziativa lanciata da Antonio Risa, tecnico della Federazione Pugilistica Italiana
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [Wie Björn Höcke die Geschichte umdeutet](https://www.politico.eu/podcast/inside-afd/wie-bjorn-hocke-die-geschichte-umdeutet/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Björn Höcke nutzt den Volkstrauertag für eine gezielte Provokation und präsentiert stark überhöhte deutsche Opferzahlen zu Flucht, Vertreibung und alliierten Luftangriffen. Die AfD fordert einen Schlussstrich unter die NS-Vergangenheit, ch wie funktioniert diese geschichtspolitische Umdeutung genau, und auf welche fragwürdigen Quellen stützt sich die...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🔭 Ricerca & Spazio` [Una malattia rara rivela un difetto nascosto nel sistema immunitario](https://www.sciencedaily.com/releases/2026/11/261117035052.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati hanno scoperto che un disturbo infiammatorio raro e potenzialmente pericoloso per la vita è causato dal malfunzionamento delle cellule immunitarie, ribaltando tre decenni di conoscenze scientifiche. La svolta punta a un nuovo trattamento promettente che utilizza i farmaci esistenti, con un bambino gravemente colpito che mostra già un miglioramento sostanziale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [La sorprendente scienza dello stupore e ciò che rivela sulla coscienza](https://bigthink.com/the-well/the-surprising-science-of-awe-and-what-it-reveals-about-consciousness/)** — *(Big Think)*
+  - 📌 **Sintesi:** Anni fa, mentre andavo in Nuova Zelanda per i miei studi di dottorato, mi fermai a Los Angeles per far visita a un amico. Ha organizzato un viaggio a Joshua Tree, dove abbiamo fatto un'escursione e ci siamo accampati. Al calar della notte, guardavo le stelle e le nuvole - o almeno così pensavo. Il mio amico ha sottolineato che la copertura nuvolosa era, in effetti, la Via Lattea. Non avevo realizzato che la nostra galassia fosse mai stata visibile a...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
 ### 🕒 Ora `16:05 CET` — Ricerca Oraria (20/23)
 _Aggiornamento registrato il `2026-11-18 16:05 CET`_

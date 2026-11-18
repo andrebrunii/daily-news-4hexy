@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-17",
   "target_edition_date": "2026-11-18",
-  "last_slot_iso": "2026-11-18T16:05:00",
+  "last_slot_iso": "2026-11-18T17:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1640,6 +1640,88 @@
           "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "17:05 CET",
+      "timestamp_str": "2026-11-18 17:05 CET",
+      "items": [
+        {
+          "title_orig": "La boxe come inclusione in Colombia, nasce il progetto 'Boxeo Sin Barreras'",
+          "summary_orig": "L'iniziativa lanciata da Antonio Risa, tecnico della Federazione Pugilistica Italiana",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/18/la-boxe-come-inclusione-in-colombia-nasce-il-progetto-boxeo-sin-barreras_80bf1085-1672-43c0-b05b-3fe01023c1b9.html",
+          "published": "Wed, 18 Nov 2026 16:29:37 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "17:05 CET",
+          "title_it": "La boxe come inclusione in Colombia, nasce il progetto 'Boxeo Sin Barreras'",
+          "summary_it": "L'iniziativa lanciata da Antonio Risa, tecnico della Federazione Pugilistica Italiana",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Wie Björn Höcke die Geschichte umdeutet",
+          "summary_orig": "Björn Höcke nutzt den Volkstrauertag für eine gezielte Provokation und präsentiert stark überhöhte deutsche Opferzahlen zu Flucht, Vertreibung und alliierten Luftangriffen. Die AfD fordert einen Schlussstrich unter die NS-Vergangenheit, doch wie funktioniert diese geschichtspolitische Umdeutung genau, und auf welche fragwürdigen Quellen stützt sich die...",
+          "link": "https://www.politico.eu/podcast/inside-afd/wie-bjorn-hocke-die-geschichte-umdeutet/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Wed, 18 Nov 2026 13:50:58 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "17:05 CET",
+          "title_it": "Wie Björn Höcke die Geschichte umdeutet",
+          "summary_it": "Björn Höcke nutzt den Volkstrauertag für eine gezielte Provokation und präsentiert stark überhöhte deutsche Opferzahlen zu Flucht, Vertreibung und alliierten Luftangriffen. Die AfD fordert einen Schlussstrich unter die NS-Vergangenheit, ch wie funktioniert diese geschichtspolitische Umdeutung genau, und auf welche fragwürdigen Quellen stützt sich die...",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 16.5
+        },
+        {
+          "title_orig": "A rare disease reveals a hidden flaw in the immune system",
+          "summary_orig": "Scientists have discovered that a rare, potentially life-threatening inflammatory disorder is driven by malfunctioning immune cells, overturning three decades of scientific understanding. The breakthrough points to a promising new treatment using existing medications, with one severely affected infant already showing substantial improvement.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261117035052.htm",
+          "published": "Wed, 18 Nov 2026 07:33:09 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "17:05 CET",
+          "title_it": "Una malattia rara rivela un difetto nascosto nel sistema immunitario",
+          "summary_it": "Gli scienziati hanno scoperto che un disturbo infiammatorio raro e potenzialmente pericoloso per la vita è causato dal malfunzionamento delle cellule immunitarie, ribaltando tre decenni di conoscenze scientifiche. La svolta punta a un nuovo trattamento promettente che utilizza i farmaci esistenti, con un bambino gravemente colpito che mostra già un miglioramento sostanziale.",
+          "impact_eu_it": "Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "The surprising science of awe — and what it reveals about consciousness",
+          "summary_orig": "Years ago on the way to New Zealand for my doctoral studies, I stopped in Los Angeles to visit a friend. He organized a trip to Joshua Tree, where we hiked and camped. Come nightfall, I gazed at the stars and clouds — or so I thought. My friend pointed out that the cloudcover was, in fact, the Milky Way. I didn’t realize our galaxy was ever visible to...",
+          "link": "https://bigthink.com/the-well/the-surprising-science-of-awe-and-what-it-reveals-about-consciousness/",
+          "published": "Wed, 18 Nov 2026 14:00:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "17:05 CET",
+          "title_it": "La sorprendente scienza dello stupore e ciò che rivela sulla coscienza",
+          "summary_it": "Anni fa, mentre andavo in Nuova Zelanda per i miei studi di dottorato, mi fermai a Los Angeles per far visita a un amico. Ha organizzato un viaggio a Joshua Tree, dove abbiamo fatto un'escursione e ci siamo accampati. Al calar della notte, guardavo le stelle e le nuvole - o almeno così pensavo. Il mio amico ha sottolineato che la copertura nuvolosa era, in effetti, la Via Lattea. Non avevo realizzato che la nostra galassia fosse mai stata visibile a...",
+          "impact_eu_it": "Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
+          "score": 19.0
         }
       ]
     }
