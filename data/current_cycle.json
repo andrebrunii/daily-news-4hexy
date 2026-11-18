@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-17",
   "target_edition_date": "2026-11-18",
-  "last_slot_iso": "2026-11-18T18:05:00",
+  "last_slot_iso": "2026-11-18T19:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1804,6 +1804,88 @@
           "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
           "score": 14.5
+        }
+      ]
+    },
+    {
+      "hour_label": "19:05 CET",
+      "timestamp_str": "2026-11-18 19:05 CET",
+      "items": [
+        {
+          "title_orig": "Acciaio, ex Ilva: Gozzi alla Camera svela il piano di rilancio di Arvedi. Ma resta il problema energia",
+          "summary_orig": "In audizione il 18 novembre alla commissione Industria alla Camera, Antonio Gozzi, presidente di Federacciai, svela come sarà la “nuova” Ilva di Giovanni Arvedi se l’imprenditore di Cremona,...",
+          "link": "https://www.ilsole24ore.com/art/ex-ilva-gozzi-camera-svela-piano-arvedi-ma-urge-affrontare-costo-energia-AJ1pH2KC",
+          "published": "Wed, 18 Nov 2026 17:35:00 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "19:05 CET",
+          "title_it": "Acciaio, ex Ilva: Gozzi alla Camera svela il piano di rilancio di Arvedi. Ma resta il problema energia",
+          "summary_it": "In audizione il 18 novembre alla commissione Industria alla Camera, Antonio Gozzi, presidente di Federacciai, svela come sarà la “nuova” Ilva di Giovanni Arvedi se l’imprenditore di Cremona,...",
+          "impact_eu_it": "Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 22.0
+        },
+        {
+          "title_orig": "Da Governo Gb vademecum anti fake news sull'accordo Ue, 'patatine al bacon salve'",
+          "summary_orig": "Londra assicura prima del vertice: 'Anche la marmellata d'arance resta sugli scaffali'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/da-governo-gb-vademecum-anti-fake-news-sullaccordo-ue-patatine-al-bacon-salve_17ca8d5f-4e90-4716-890d-030e5a7db2e8.html",
+          "published": "Wed, 18 Nov 2026 17:22:17 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "19:05 CET",
+          "title_it": "Da Governo Gb vademecum anti fake news sull'accordo Ue, 'patatine al bacon salve'",
+          "summary_it": "Londra assicura prima del vertice: 'Anche la marmellata d'arance resta sugli scaffali'",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 20.5
+        },
+        {
+          "title_orig": "Gusmeroli, emendamento Lega per aumentare di 3 punti l'Ires alle banche",
+          "summary_orig": "Una proposta di modifica anche per chiudere le liti fiscali",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/gusmeroli-emendamento-lega-per-aumentare-di-3-punti-lires-alle-banche_d66d7e74-1db8-4f74-8de9-63cb8032c937.html",
+          "published": "Wed, 18 Nov 2026 18:50:01 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "19:05 CET",
+          "title_it": "Gusmeroli, emendamento Lega per aumentare di 3 punti l'Ires alle banche",
+          "summary_it": "Una proposta di modifica anche per chiudere le liti fiscali",
+          "impact_eu_it": "Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+          "summary_orig": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
+          "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+          "published": "Wed, 18 Nov 2026 15:13:39 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "19:05 CET",
+          "title_it": "Waller della Fed afferma che la banca centrale potrebbe dover “scioccare la gente” con un aumento dei tassi di mezzo punto",
+          "summary_it": "Il perdurare dell'inflazione al di sopra dell'obiettivo del 2% della Fed sta spingendo i funzionari delle banche centrali ad un atteggiamento più aggressivo.",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 21.0
         }
       ]
     }

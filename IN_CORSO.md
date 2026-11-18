@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-22%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-23%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (22/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
+**Progresso verso la Top 10 delle 20:05 CET (23/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `19:05 CET` — Ricerca Oraria (23/23)
+_Aggiornamento registrato il `2026-11-18 19:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Acciaio, ex Ilva: Gozzi alla Camera svela il piano di rilancio di Arvedi. Ma resta il problema energia](https://www.ilsole24ore.com/art/ex-ilva-gozzi-camera-svela-piano-arvedi-ma-urge-affrontare-costo-energia-AJ1pH2KC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** In audizione il 18 novembre alla commissione Industria alla Camera, Antonio Gozzi, presidente di Federacciai, svela come sarà la “nuova” Ilva di Giovanni Arvedi se l’imprenditore di Cremona,...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[2] `🌍 Geopolitica & Mondo` [Da Governo Gb vademecum anti fake news sull'accordo Ue, 'patatine al bacon salve'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/da-governo-gb-vademecum-anti-fake-news-sullaccordo-ue-patatine-al-bacon-salve_17ca8d5f-4e90-4716-890d-030e5a7db2e8.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Londra assicura prima del vertice: 'Anche la marmellata d'arance resta sugli scaffali'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` [Gusmeroli, emendamento Lega per aumentare di 3 punti l'Ires alle banche](https://www.ansa.it/sito/notizie/economia/2026/11/18/gusmeroli-emendamento-lega-per-aumentare-di-3-punti-lires-alle-banche_d66d7e74-1db8-4f74-8de9-63cb8032c937.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Una proposta di modifica anche per chiudere le liti fiscali
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[4] `🏦 Mercati Globali` [Waller della Fed afferma che la banca centrale potrebbe dover “scioccare la gente” con un aumento dei tassi di mezzo punto](https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il perdurare dell'inflazione al di sopra dell'obiettivo del 2% della Fed sta spingendo i funzionari delle banche centrali ad un atteggiamento più aggressivo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
 
 ### 🕒 Ora `18:05 CET` — Ricerca Oraria (22/23)
 _Aggiornamento registrato il `2026-11-18 18:05 CET`_
