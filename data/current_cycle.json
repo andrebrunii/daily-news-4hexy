@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-18",
   "target_edition_date": "2026-11-19",
-  "last_slot_iso": "2026-11-18T23:05:00",
+  "last_slot_iso": "2026-11-19T00:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -246,6 +246,88 @@
           "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "00:05 CET",
+      "timestamp_str": "2026-11-19 00:05 CET",
+      "items": [
+        {
+          "title_orig": "Mosca, 'nuovo attacco degli ucraini al ponte in Crimea'",
+          "summary_orig": "Tass: 'Lo ha dichiarato il governatore'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/mosca-nuovo-attacco-degli-ucraini-al-ponte-in-crimea_1691202c-a4df-4ca1-8983-8c42e8d60188.html",
+          "published": "Wed, 18 Nov 2026 23:57:43 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "00:05 CET",
+          "title_it": "Mosca, 'nuovo attacco degli ucraini al ponte in Crimea'",
+          "summary_it": "Tass: 'Lo ha dichiarato il governatore'",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Grand Theft Auto VI is here. The EU has 6 reasons to pay attention.",
+          "summary_orig": "The long-awaited new installment of the GTA series is a global entertainment phenomenon. But it also has a policy plotline.",
+          "link": "https://www.politico.eu/article/eurocrats-meet-gamers-six-reasons-brussels-should-care-about-gta-vi/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Wed, 18 Nov 2026 18:35:37 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "00:05 CET",
+          "title_it": "Grand Theft Auto VI è qui. L’UE ha 6 ragioni per prestare attenzione.",
+          "summary_it": "Il tanto atteso nuovo capitolo della serie GTA è un fenomeno di intrattenimento globale. Ma ha anche una trama politica.",
+          "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 21.5
+        },
+        {
+          "title_orig": "Sources: Leopold Aschenbrenner discussed \"Situational Awareness 2.0\", a reboot using leverage and outside capital, four months after Citadel rescued his fund (Financial Times)",
+          "summary_orig": "Financial Times : Sources: Leopold Aschenbrenner discussed “Situational Awareness 2.0”, a reboot using leverage and outside capital, four months after Citadel rescued his fund — The 25-year-old AI trader has held talks about employing leverage again and raising funds after wipeout nearly toppled firm",
+          "link": "https://www.techmeme.com/261118/p46#a261118p46",
+          "published": "Wed, 18 Nov 2026 17:50:00 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "00:05 CET",
+          "title_it": "Fonti: Leopold Aschenbrenner ha discusso di \"Situational Awareness 2.0\", un riavvio utilizzando la leva finanziaria e il capitale esterno, quattro mesi dopo che Citadel ha salvato il suo fondo (Financial Times)",
+          "summary_it": "Financial Times: Fonti: Leopold Aschenbrenner ha parlato di \"Consapevolezza situazionale 2.0\", un riavvio utilizzando la leva finanziaria e il capitale esterno, quattro mesi dopo che Citadel ha salvato il suo fondo - Il trader venticinquenne di intelligenza artificiale ha parlato dell'utilizzo della leva finanziaria e della raccolta di fondi dopo che il wipeout ha quasi rovesciato l'azienda",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+          "summary_orig": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
+          "link": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+          "published": "Wed, 18 Nov 2026 22:08:57 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "00:05 CET",
+          "title_it": "Trump abbandona il suo candidato alla FDA e il Senato annulla il voto sulla sua scelta NSF",
+          "summary_it": "\"Questa volta richiede leadership e forza d'animo\", ha detto il senatore Bill Cassidy.",
+          "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 15.5
         }
       ]
     }
