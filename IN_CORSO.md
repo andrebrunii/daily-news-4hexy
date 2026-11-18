@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-18%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (18/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
+_Aggiornamento registrato il `2026-11-18 15:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Cantieri navali e spazio, due filiere sinergiche da 46 miliardi di business](https://www.ilsole24ore.com/art/cantieri-navali-e-spazio-due-filiere-sinergiche-46-miliardi-business-AJ0LqWJC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** I dati arrivano dal primo Rapporto nazionale space & blue economy di Ossermare e Tagliacarne. Acampora: «Nuovo strumento di analisi»
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[2] `🌍 Geopolitica & Mondo` ['Aragosta, cernia e vini del Dragone al banchetto offerto da Xi'](https://www.ansa.it/sito/notizie/mondo/asia/2026/11/18/aragosta-cernia-e-vini-del-dragone-al-banchetto-offerto-da-xi_6c0e60f4-ceda-4c28-b5dd-4afc328dda72.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Media: 'Menù ricco di specialità della cucina cinese'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💶 Macro & Finanza UE` [Università Torino, 'caro carburanti pesa di più sui più poveri'](https://www.ansa.it/sito/notizie/economia/2026/11/18/universita-torino-caro-carburanti-pesa-di-piu-sui-piu-poveri_0154b8e2-2eab-49d0-9623-10dac5910411.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Due studi mostrano doppia disuguaglianza
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[4] `🏦 Mercati Globali` [Kress di Nvidia si trova ad affrontare una forza lavoro divisa mentre alcuni dipendenti spingono per il ritorno di Huang](https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il CEO ad interim di Nvidia, Colette Kress, ha calmato gli investitori. Ora deve calmare i dipendenti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `14:05 CET` — Ricerca Oraria (18/23)
 _Aggiornamento registrato il `2026-11-18 14:05 CET`_
