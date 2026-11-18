@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-17",
   "target_edition_date": "2026-11-18",
-  "last_slot_iso": "2026-11-18T00:05:00",
+  "last_slot_iso": "2026-11-18T01:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -328,6 +328,88 @@
           "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
           "score": 15.5
+        }
+      ]
+    },
+    {
+      "hour_label": "01:05 CET",
+      "timestamp_str": "2026-11-18 01:05 CET",
+      "items": [
+        {
+          "title_orig": "Nvidia, 'il board non prevede di reintegrare Jensen Huang'",
+          "summary_orig": "Lo afferma il presidente Jones",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/nvidia-il-board-non-prevede-di-reintegrare-jensen-huang_66cfa26c-29e8-4112-aa51-72ab18bd4586.html",
+          "published": "Tue, 17 Nov 2026 23:40:24 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "01:05 CET",
+          "title_it": "Nvidia, 'il board non prevede di reintegrare Jensen Huang'",
+          "summary_it": "Lo afferma il presidente Jones",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "Russia’s Lavrov says French troops in Ukraine amount to ‘direct participation’ in war",
+          "summary_orig": "The Kremlin's foreign minister seized on a French media report to warn Europe against deploying troops to Ukraine.",
+          "link": "https://www.politico.eu/article/sergey-lavrov-france-soldiers-ukraine-direct-participation-war-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Tue, 17 Nov 2026 17:22:15 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "01:05 CET",
+          "title_it": "Il russo Lavrov afferma che le truppe francesi in Ucraina equivalgono a una “partecipazione diretta” alla guerra",
+          "summary_it": "Il ministro degli Esteri del Cremlino ha approfittato di un articolo dei media francesi per mettere in guardia l'Europa dallo schieramento di truppe in Ucraina.",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 30.5
+        },
+        {
+          "title_orig": "A mysterious twist in the universe’s oldest light could reveal new physics",
+          "summary_orig": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy. A new technique developed at UC San Diego could help rule out misleading telescope errors, bringing researchers closer to determining whether the strange signal is real.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
+          "published": "Tue, 17 Nov 2026 07:14:04 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "01:05 CET",
+          "title_it": "Una svolta misteriosa nella luce più antica dell’universo potrebbe rivelare una nuova fisica",
+          "summary_it": "Gli scienziati hanno individuato indizi di una misteriosa rotazione nella luce più antica dell’universo che potrebbe rivelare nuova fisica e far luce sulla materia oscura e sull’energia oscura. Una nuova tecnica sviluppata presso l’UC di San Diego potrebbe aiutare a escludere errori fuorvianti del telescopio, avvicinando i ricercatori alla determinazione se lo strano segnale è reale.",
+          "impact_eu_it": "Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Mr Invidia: 'Pronto a tornare'. Ma il board non prevede di reintegrare Jensen Huang",
+          "summary_orig": "L'ex ceo rompe il silenzio nel giorno dei conti. Dalla Trimestrale utili e ricavi oltre attese. Polemiche sulla figlia e sul marito di Alice. Kress: 'La nostra ambizione non è mai stata così grande'",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/mr-invidia-pronto-a-tornare.-ma-il-board-non-prevede-di-reintegrare-jensen-huang_ca04ab2c-2e9b-4bb7-b6ba-1d6938cb2d6e.html",
+          "published": "Wed, 18 Nov 2026 00:25:28 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "01:05 CET",
+          "title_it": "Mr Invidia: 'Pronto a tornare'. Ma il board non prevede di reintegrare Jensen Huang",
+          "summary_it": "L'ex ceo rompe il silenzio nel giorno dei conti. Dalla Trimestrale utili e ricavi oltre attese. Polemiche sulla figlia e sul marito di Alice. Kress: 'La nostra ambizione non è mai stata così grande'",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 14.0
         }
       ]
     }

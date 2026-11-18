@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-4%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (4/23 ricerche orarie):**
-`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `01:05 CET` — Ricerca Oraria (5/23)
+_Aggiornamento registrato il `2026-11-18 01:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Nvidia, 'il board non prevede di reintegrare Jensen Huang'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/17/nvidia-il-board-non-prevede-di-reintegrare-jensen-huang_66cfa26c-29e8-4112-aa51-72ab18bd4586.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Lo afferma il presidente Jones
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[2] `🇪🇺 Unione Europea & Policy` [Il russo Lavrov afferma che le truppe francesi in Ucraina equivalgono a una “partecipazione diretta” alla guerra](https://www.politico.eu/article/sergey-lavrov-france-soldiers-ukraine-direct-participation-war-russia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il ministro degli Esteri del Cremlino ha approfittato di un articolo dei media francesi per mettere in guardia l'Europa dallo schieramento di truppe in Ucraina.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `🔭 Ricerca & Spazio` [Una svolta misteriosa nella luce più antica dell’universo potrebbe rivelare una nuova fisica](https://www.sciencedaily.com/releases/2026/11/261116023348.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati hanno individuato indizi di una misteriosa rotazione nella luce più antica dell’universo che potrebbe rivelare nuova fisica e far luce sulla materia oscura e sull’energia oscura. Una nuova tecnica sviluppata presso l’UC di San Diego potrebbe aiutare a escludere errori fuorvianti del telescopio, avvicinando i ricercatori alla determinazione se lo strano segnale è reale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
+- **[4] `💶 Macro & Finanza UE` [Mr Invidia: 'Pronto a tornare'. Ma il board non prevede di reintegrare Jensen Huang](https://www.ansa.it/sito/notizie/economia/2026/11/17/mr-invidia-pronto-a-tornare.-ma-il-board-non-prevede-di-reintegrare-jensen-huang_ca04ab2c-2e9b-4bb7-b6ba-1d6938cb2d6e.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** L'ex ceo rompe il silenzio nel giorno dei conti. Dalla Trimestrale utili e ricavi oltre attese. Polemiche sulla figlia e sul marito di Alice. Kress: 'La nostra ambizione non è mai stata così grande'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
 ### 🕒 Ora `00:05 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-18 00:05 CET`_
