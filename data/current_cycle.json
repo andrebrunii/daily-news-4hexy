@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-17",
   "target_edition_date": "2026-11-18",
-  "last_slot_iso": "2026-11-18T04:05:00",
+  "last_slot_iso": "2026-11-18T05:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -655,6 +655,88 @@
           "summary_it": "Word, Excel e PowerPoint ora risiedono all'interno di Copilot; gli agenti sempre attivi sono i successivi.",
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "05:05 CET",
+      "timestamp_str": "2026-11-18 05:05 CET",
+      "items": [
+        {
+          "title_orig": "Putin: 'L'economia russa è la più grande d'Europa, le sanzioni costano all'Ue'",
+          "summary_orig": "Per lo zar, Bruxelles non è riuscita ad adattarsi alla perdita del mercato di Mosca",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/putin-leconomia-russa-e-la-piu-grande-deuropa-le-sanzioni-costano-allue_ea7fa662-cf1a-46b1-98f6-ce4c41fe98dc.html",
+          "published": "Wed, 18 Nov 2026 04:59:41 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "05:05 CET",
+          "title_it": "Putin: 'L'economia russa è la più grande d'Europa, le sanzioni costano all'Ue'",
+          "summary_it": "Per lo zar, Bruxelles non è riuscita ad adattarsi alla perdita del mercato di Mosca",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 24.0
+        },
+        {
+          "title_orig": "Europe fears Putin is stringing Trump along on Ukraine",
+          "summary_orig": "Officials worry peace talks are going nowhere. They'll take part anyway.",
+          "link": "https://www.politico.eu/article/europe-vladimir-putin-not-serious-about-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Wed, 18 Nov 2026 03:00:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "05:05 CET",
+          "title_it": "L’Europa teme che Putin stia trascinando Trump sull’Ucraina",
+          "summary_it": "I funzionari temono che i colloqui di pace non portino da nessuna parte. Parteciperanno comunque.",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 32.0
+        },
+        {
+          "title_orig": "The hidden language of psychopathy is not what scientists expected",
+          "summary_orig": "Scientists have discovered that psychopathic traits are associated with surprisingly different patterns of language, with some individuals using more positive words and others expressing greater negativity or less anxiety. The findings challenge familiar stereotypes about psychopathy and suggest that the stories people tell about their lives may offer...",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm",
+          "published": "Tue, 17 Nov 2026 06:51:35 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "05:05 CET",
+          "title_it": "Il linguaggio nascosto della psicopatia non è quello che gli scienziati si aspettavano",
+          "summary_it": "Gli scienziati hanno scoperto che i tratti psicopatici sono associati a modelli di linguaggio sorprendentemente diversi, con alcuni individui che usano parole più positive e altri che esprimono maggiore negatività o meno ansia. I risultati sfidano gli stereotipi familiari sulla psicopatia e suggeriscono che le storie che le persone raccontano sulla propria vita possono offrire...",
+          "impact_eu_it": "Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Lo spread tra Btp e Bund chiude in lieve calo a 105 punti",
+          "summary_orig": "Il rendimento del decennale italiano scende al 4,42%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/17/lo-spread-tra-btp-e-bund-chiude-in-lieve-calo-a-105-punti_2c82195f-486d-4273-b5dd-ece5a71ab9bc.html",
+          "published": "Tue, 17 Nov 2026 18:15:29 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "05:05 CET",
+          "title_it": "Lo spread tra Btp e Bund chiude in lieve calo a 105 punti",
+          "summary_it": "Il rendimento del decennale italiano scende al 4,42%",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 12.0
         }
       ]

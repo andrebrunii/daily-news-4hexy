@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-8%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-9%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (8/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (9/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `05:05 CET` — Ricerca Oraria (9/23)
+_Aggiornamento registrato il `2026-11-18 05:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Putin: 'L'economia russa è la più grande d'Europa, le sanzioni costano all'Ue'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/putin-leconomia-russa-e-la-piu-grande-deuropa-le-sanzioni-costano-allue_ea7fa662-cf1a-46b1-98f6-ce4c41fe98dc.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Per lo zar, Bruxelles non è riuscita ad adattarsi alla perdita del mercato di Mosca
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🇪🇺 Unione Europea & Policy` [L’Europa teme che Putin stia trascinando Trump sull’Ucraina](https://www.politico.eu/article/europe-vladimir-putin-not-serious-about-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** I funzionari temono che i colloqui di pace non portino da nessuna parte. Parteciperanno comunque.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[3] `🔭 Ricerca & Spazio` [Il linguaggio nascosto della psicopatia non è quello che gli scienziati si aspettavano](https://www.sciencedaily.com/releases/2026/11/261116023346.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati hanno scoperto che i tratti psicopatici sono associati a modelli di linguaggio sorprendentemente diversi, con alcuni individui che usano parole più positive e altri che esprimono maggiore negatività o meno ansia. I risultati sfidano gli stereotipi familiari sulla psicopatia e suggeriscono che le storie che le persone raccontano sulla propria vita possono offrire...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[4] `💶 Macro & Finanza UE` [Lo spread tra Btp e Bund chiude in lieve calo a 105 punti](https://www.ansa.it/sito/notizie/economia/2026/11/17/lo-spread-tra-btp-e-bund-chiude-in-lieve-calo-a-105-punti_2c82195f-486d-4273-b5dd-ece5a71ab9bc.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Il rendimento del decennale italiano scende al 4,42%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
 
 ### 🕒 Ora `04:05 CET` — Ricerca Oraria (8/23)
 _Aggiornamento registrato il `2026-11-18 04:05 CET`_
