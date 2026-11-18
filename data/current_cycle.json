@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-17",
   "target_edition_date": "2026-11-18",
-  "last_slot_iso": "2026-11-18T10:05:00",
+  "last_slot_iso": "2026-11-18T11:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1148,6 +1148,88 @@
           "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
           "score": 24.5
+        }
+      ]
+    },
+    {
+      "hour_label": "11:05 CET",
+      "timestamp_str": "2026-11-18 11:05 CET",
+      "items": [
+        {
+          "title_orig": "Rischio “squeezed” nel mondo per il 36% di zone turistiche",
+          "summary_orig": "Le stime arrivano dal Destination Climate RiskScan secondo cui entro il 2050 crescenti rischi climatici e condizioni meno favorevoli limiterebbero l’attrattività delle destinazioni",
+          "link": "https://www.ilsole24ore.com/art/rischio-squeezed-mondo-il-36percento-zone-turistiche-AJwWoQKC",
+          "published": "Wed, 18 Nov 2026 10:27:00 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "11:05 CET",
+          "title_it": "Rischio “squeezed” nel mondo per il 36% di zone turistiche",
+          "summary_it": "Le stime arrivano dal Destination Climate RiskScan secondo cui entro il 2050 crescenti rischi climatici e condizioni meno favorevoli limiterebbero l’attrattività delle destinazioni",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 17.5
+        },
+        {
+          "title_orig": "Onu, nel mondo 3,4 miliardi di persone ancora senza servizi igienici",
+          "summary_orig": "Guterres: 'Per milioni di donne significa affrontare mancanza di privacy ad aggressioni'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/18/onu-nel-mondo-34-miliardi-di-persone-ancora-senza-servizi-igienici_66750549-8664-4138-9239-ec587e6089e6.html",
+          "published": "Wed, 18 Nov 2026 11:24:14 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "11:05 CET",
+          "title_it": "Onu, nel mondo 3,4 miliardi di persone ancora senza servizi igienici",
+          "summary_it": "Guterres: 'Per milioni di donne significa affrontare mancanza di privacy ad aggressioni'",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Landini, 'giovani poveri anche quando lavorano, cambiare modello'",
+          "summary_orig": "Segretario Cgil: \"La precarietà è diventata una condizione diffusa\"",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/landini-giovani-poveri-anche-quando-lavorano-cambiare-modello_3fc813a6-2648-446e-8462-c46239cf0a19.html",
+          "published": "Wed, 18 Nov 2026 11:26:22 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "11:05 CET",
+          "title_it": "Landini, 'giovani poveri anche quando lavorano, cambiare modello'",
+          "summary_it": "Segretario Cgil: \"La precarietà è diventata una condizione diffusa\"",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Nvidia stock up nearly 4% as earnings beat expectations. Neoclouds surge",
+          "summary_orig": "The chip giant's earnings come at a tumultuous time for the company.",
+          "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+          "published": "Wed, 18 Nov 2026 10:00:17 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "11:05 CET",
+          "title_it": "Le azioni di Nvidia salgono di quasi il 4% poiché gli utili hanno superato le aspettative. Aumentano le neocloud",
+          "summary_it": "Gli utili del colosso dei chip arrivano in un momento tumultuoso per l'azienda.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 18.0
         }
       ]
     }

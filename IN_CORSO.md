@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-14%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-18 11:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Rischio “squeezed” nel mondo per il 36% di zone turistiche](https://www.ilsole24ore.com/art/rischio-squeezed-mondo-il-36percento-zone-turistiche-AJwWoQKC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Le stime arrivano dal Destination Climate RiskScan secondo cui entro il 2050 crescenti rischi climatici e condizioni meno favorevoli limiterebbero l’attrattività delle destinazioni
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌍 Geopolitica & Mondo` [Onu, nel mondo 3,4 miliardi di persone ancora senza servizi igienici](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/18/onu-nel-mondo-34-miliardi-di-persone-ancora-senza-servizi-igienici_66750549-8664-4138-9239-ec587e6089e6.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Guterres: 'Per milioni di donne significa affrontare mancanza di privacy ad aggressioni'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `💶 Macro & Finanza UE` [Landini, 'giovani poveri anche quando lavorano, cambiare modello'](https://www.ansa.it/sito/notizie/economia/2026/11/18/landini-giovani-poveri-anche-quando-lavorano-cambiare-modello_3fc813a6-2648-446e-8462-c46239cf0a19.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Segretario Cgil: "La precarietà è diventata una condizione diffusa"
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🏦 Mercati Globali` [Le azioni di Nvidia salgono di quasi il 4% poiché gli utili hanno superato le aspettative. Aumentano le neocloud](https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Gli utili del colosso dei chip arrivano in un momento tumultuoso per l'azienda.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `10:05 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-18 10:05 CET`_
