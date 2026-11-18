@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Mercoledì 18 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-13%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (13/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md) · [📅 **2026-11-11**](./archivio/2026-11-11.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `09:05 CET` — Ricerca Oraria (13/23)
+_Aggiornamento registrato il `2026-11-18 09:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Putin: 'Con Russia e Cina un ordine mondiale multipolare più giusto'](https://www.ansa.it/sito/notizie/mondo/asia/2026/11/18/putin-con-russia-e-cina-un-ordine-mondiale-multipolare-piu-giusto_ce4e5974-b083-4c70-8950-f58fee7bacb2.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Xi: 'Un mondo più stabile grazie al rapporto Pechino-Mosca'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Unione Europea & Policy` [Quando i posti di lavoro in politica estera dell’UE entrano in conflitto](https://www.politico.eu/podcast/brussels-playbook-podcast/when-eu-foreign-policy-jobs-collide/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Kaja Kallas potrebbe essere la massima diplomatica dell’UE, ma il suo ruolo nelle principali discussioni diplomatiche – sia sull’Ucraina che su Israele – rimane oscuro. Oggi nello show, Zoya Sheftalovich e Ian Wishart esaminano le descrizioni dei lavori sempre più sovrapposte di Kaja Kallas e del commissario UE per il Mediterraneo, Dubravka Šuica, e svelano ciò che dice […]
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🔭 Ricerca & Spazio` [La dipendenza da cannabis è collegata a una probabilità maggiore del 57% di pensieri suicidi](https://www.sciencedaily.com/releases/2026/11/261116023342.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Un vasto studio che ha coinvolto più di 415.000 americani ha scoperto una preoccupante connessione tra il disturbo da uso di cannabis e i pensieri suicidi. I ricercatori hanno scoperto che gli adulti affetti da questo disturbo avevano il 57% di probabilità in più di sperimentare pensieri suicidi, con donne e giovani adulti che affrontavano rischi particolarmente elevati.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Come la Voyager 1 è diventata la prima navicella spaziale a raggiungere il giorno luce](https://bigthink.com/starts-with-a-bang/voyager-1-one-light-day/)** — *(Big Think)*
+  - 📌 **Sintesi:** A partire dal 18 novembre 2026, se invii un segnale alla velocità della luce in direzione della Voyager 1, la navicella spaziale più distante dell’umanità, ci vorrà più di un giorno intero perché quel segnale arrivi. A quella distanza impressionante, più di tre volte la distanza da Plutone, oltre 16 miliardi di miglia e oltre 25,9 miliardi di chilometri di distanza, il Sole...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `08:05 CET` — Ricerca Oraria (12/23)
 _Aggiornamento registrato il `2026-11-18 08:05 CET`_

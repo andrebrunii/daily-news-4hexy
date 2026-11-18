@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-17",
   "target_edition_date": "2026-11-18",
-  "last_slot_iso": "2026-11-18T08:05:00",
+  "last_slot_iso": "2026-11-18T09:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -984,6 +984,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "09:05 CET",
+      "timestamp_str": "2026-11-18 09:05 CET",
+      "items": [
+        {
+          "title_orig": "Putin: 'Con Russia e Cina un ordine mondiale multipolare più giusto'",
+          "summary_orig": "Xi: 'Un mondo più stabile grazie al rapporto Pechino-Mosca'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/18/putin-con-russia-e-cina-un-ordine-mondiale-multipolare-piu-giusto_ce4e5974-b083-4c70-8950-f58fee7bacb2.html",
+          "published": "Wed, 18 Nov 2026 06:42:52 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "09:05 CET",
+          "title_it": "Putin: 'Con Russia e Cina un ordine mondiale multipolare più giusto'",
+          "summary_it": "Xi: 'Un mondo più stabile grazie al rapporto Pechino-Mosca'",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 20.5
+        },
+        {
+          "title_orig": "When EU foreign policy jobs collide",
+          "summary_orig": "Kaja Kallas may be the EU’s top diplomat, but her role in key diplomatic discussions —whether on Ukraine or Israel — remains murky. Today on the show, Zoya Sheftalovich and Ian Wishart examine the increasingly overlapping job descriptions of Kaja Kallas and the EU’s Commissioner for the Mediterranean, Dubravka Šuica, and unpack what that says […]",
+          "link": "https://www.politico.eu/podcast/brussels-playbook-podcast/when-eu-foreign-policy-jobs-collide/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Wed, 18 Nov 2026 05:05:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "09:05 CET",
+          "title_it": "Quando i posti di lavoro in politica estera dell’UE entrano in conflitto",
+          "summary_it": "Kaja Kallas potrebbe essere la massima diplomatica dell’UE, ma il suo ruolo nelle principali discussioni diplomatiche – sia sull’Ucraina che su Israele – rimane oscuro. Oggi nello show, Zoya Sheftalovich e Ian Wishart esaminano le descrizioni dei lavori sempre più sovrapposte di Kaja Kallas e del commissario UE per il Mediterraneo, Dubravka Šuica, e svelano ciò che dice […]",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 30.5
+        },
+        {
+          "title_orig": "Cannabis addiction linked to 57% higher odds of suicidal thoughts",
+          "summary_orig": "A massive study involving more than 415,000 Americans has uncovered a concerning connection between cannabis use disorder and suicidal thoughts. Researchers found that adults with the disorder had 57% higher odds of experiencing suicidal thoughts, with women and younger adults facing particularly elevated risks.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261116023342.htm",
+          "published": "Mon, 16 Nov 2026 21:57:22 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "09:05 CET",
+          "title_it": "La dipendenza da cannabis è collegata a una probabilità maggiore del 57% di pensieri suicidi",
+          "summary_it": "Un vasto studio che ha coinvolto più di 415.000 americani ha scoperto una preoccupante connessione tra il disturbo da uso di cannabis e i pensieri suicidi. I ricercatori hanno scoperto che gli adulti affetti da questo disturbo avevano il 57% di probabilità in più di sperimentare pensieri suicidi, con donne e giovani adulti che affrontavano rischi particolarmente elevati.",
+          "impact_eu_it": "Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "How Voyager 1 became the first spacecraft to reach one light-day",
+          "summary_orig": "As of November 18, 2026, if you send a signal out at the speed of light in the direction of Voyager 1 — humanity’s most distant spacecraft — it will now take more than a full day for that signal to arrive . At that impressive distance, more than three times the distance to Pluto, over 16 billion miles, and over 25.9 billion kilometers away, the Sun...",
+          "link": "https://bigthink.com/starts-with-a-bang/voyager-1-one-light-day/",
+          "published": "Wed, 18 Nov 2026 07:00:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "09:05 CET",
+          "title_it": "Come la Voyager 1 è diventata la prima navicella spaziale a raggiungere il giorno luce",
+          "summary_it": "A partire dal 18 novembre 2026, se invii un segnale alla velocità della luce in direzione della Voyager 1, la navicella spaziale più distante dell’umanità, ci vorrà più di un giorno intero perché quel segnale arrivi. A quella distanza impressionante, più di tre volte la distanza da Plutone, oltre 16 miliardi di miglia e oltre 25,9 miliardi di chilometri di distanza, il Sole...",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
+          "score": 14.0
         }
       ]
     }
