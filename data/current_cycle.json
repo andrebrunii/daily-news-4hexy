@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-17",
   "target_edition_date": "2026-11-18",
-  "last_slot_iso": "2026-11-18T01:05:00",
+  "last_slot_iso": "2026-11-18T02:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -410,6 +410,88 @@
           "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 14.0
+        }
+      ]
+    },
+    {
+      "hour_label": "02:05 CET",
+      "timestamp_str": "2026-11-18 02:05 CET",
+      "items": [
+        {
+          "title_orig": "Brussels signals unwillingness to be Burnham’s EU sounding board",
+          "summary_orig": "The British prime minister wants to gauge what's possible with the bloc before laying out options to voters back home. EU diplomats say it may not be so straightforward.",
+          "link": "https://www.politico.eu/article/brussels-andy-burnham-eu-options-brexit-reset/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Tue, 17 Nov 2026 17:05:05 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "02:05 CET",
+          "title_it": "Bruxelles segnala la riluttanza a fungere da cassa di risonanza dell’UE per Burnham",
+          "summary_it": "Il primo ministro britannico vuole valutare cosa è possibile fare con il blocco prima di presentare le opzioni agli elettori in patria. I diplomatici dell’UE affermano che potrebbe non essere così semplice.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 30.5
+        },
+        {
+          "title_orig": "How the attack on Crimean Bridge unfolded",
+          "summary_orig": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+          "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+          "published": "Tue, 17 Nov 2026 15:38:10 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "02:05 CET",
+          "title_it": "Come si è svolto l'attacco al ponte di Crimea",
+          "summary_it": "Uno dei simboli chiave dell'occupazione russa dell'Ucraina ha subito gravi danni dopo un attacco in sette fasi da parte di Kiev.",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 17.5
+        },
+        {
+          "title_orig": "Borsa: Tokyo, apertura in lieve rialzo (+0,25%)",
+          "summary_orig": "Nvidia ridà fiato al comparto dei chip dopo trimestrale",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/borsa-tokyo-apertura-in-lieve-rialzo-025_004051c6-0e8f-4a17-8349-2f99f58d6f13.html",
+          "published": "Wed, 18 Nov 2026 01:21:17 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "02:05 CET",
+          "title_it": "Borsa: Tokyo, apertura in lieve rialzo (+0,25%)",
+          "summary_it": "Nvidia ridà fiato al comparto dei chip dopo trimestrale",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 18.0
+        },
+        {
+          "title_orig": "Nvidia’s Kress tells CNBC's Jim Cramer that 'customers continue to be with us’ — Live updates",
+          "summary_orig": "Nvidia released fiscal third-quarter 2027 results on Tuesday, followed by its first earnings call since Huang's departure.",
+          "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+          "published": "Wed, 18 Nov 2026 00:45:43 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "02:05 CET",
+          "title_it": "Kress di Nvidia dice a Jim Cramer della CNBC che \"i clienti continuano a essere con noi\" - Aggiornamenti in tempo reale",
+          "summary_it": "Martedì Nvidia ha pubblicato i risultati fiscali del terzo trimestre 2027, seguiti dalla prima dichiarazione degli utili dalla partenza di Huang.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 16.5
         }
       ]
     }
