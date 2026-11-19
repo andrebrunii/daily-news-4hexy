@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-19",
   "target_edition_date": "2026-11-20",
-  "last_slot_iso": "2026-11-19T22:05:00",
+  "last_slot_iso": "2026-11-19T23:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -164,6 +164,88 @@
           "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 19.0
+        }
+      ]
+    },
+    {
+      "hour_label": "23:05 CET",
+      "timestamp_str": "2026-11-19 23:05 CET",
+      "items": [
+        {
+          "title_orig": "Argentina, la moglie dell'ex Br Bertulazzi respinge l'accusa di favoreggiamento",
+          "summary_orig": "'Mi sono accorta della fuga dopo l'arrivo della polizia'. L'avvocato, 'non ci sono prove'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/19/argentina-la-moglie-dellex-br-bertulazzi-respinge-laccusa-di-favoreggiamento_9a6f3df1-0aa8-4b66-8095-7e817378f98e.html",
+          "published": "Thu, 19 Nov 2026 22:17:49 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "23:05 CET",
+          "title_it": "Argentina, la moglie dell'ex Br Bertulazzi respinge l'accusa di favoreggiamento",
+          "summary_it": "'Mi sono accorta della fuga dopo l'arrivo della polizia'. L'avvocato, 'non ci sono prove'",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "The web is held together by volunteers. AI could tear it apart.",
+          "summary_orig": "As AI reveals deeply hidden vulnerabilities, idealist coders and non-profits say they’re running on fumes trying to maintain the web's core vitals.",
+          "link": "https://www.politico.eu/article/ai-internet-website-shutdown-hack-cyberattack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Thu, 19 Nov 2026 19:32:08 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "23:05 CET",
+          "title_it": "Il web è tenuto insieme da volontari. L’intelligenza artificiale potrebbe farlo a pezzi.",
+          "summary_it": "Mentre l’intelligenza artificiale rivela vulnerabilità profondamente nascoste, i programmatori idealisti e le organizzazioni no-profit affermano che stanno andando avanti nel tentativo di preservare gli elementi vitali fondamentali del web.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 20.0
+        },
+        {
+          "title_orig": "Is free will an illusion? New brain research reveals a surprising twist",
+          "summary_orig": "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act. The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still shape what we choose.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
+          "published": "Wed, 18 Nov 2026 20:21:35 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "23:05 CET",
+          "title_it": "Il libero arbitrio è un'illusione? Una nuova ricerca sul cervello rivela una svolta sorprendente",
+          "summary_it": "Una nuova ricerca rivela che il cervello fa scelte libere e decisioni forzate utilizzando processi neurali sorprendentemente simili, con attività che si sviluppano verso una decisione prima di agire. La scoperta mette in discussione le ipotesi sul libero arbitrio, suggerendo che le nostre preferenze ed esperienze personali continuano a modellare ciò che scegliamo.",
+          "impact_eu_it": "Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Why everyone should be doing therapy",
+          "summary_orig": "I would bet my house that you’re living with something. There is some sickness, pain, or condition you’ve learned to deal with. Because there is no such thing as “perfect” health. Everyone you talk to, everyone you see on the street, everyone in the line at the coffee shop, has something they have to adapt to. It might be something mild, like dry skin in...",
+          "link": "https://bigthink.com/mini-philosophy/why-everyone-should-be-doing-therapy/",
+          "published": "Thu, 19 Nov 2026 20:27:47 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "23:05 CET",
+          "title_it": "Perché tutti dovrebbero fare terapia",
+          "summary_it": "Scommetterei a casa mia che convivi con qualcosa. C’è qualche malattia, dolore o condizione che hai imparato ad affrontare. Perché non esiste una salute “perfetta”. Tutti quelli con cui parli, tutti quelli che vedi per strada, tutti in fila al bar, hanno qualcosa a cui devono adattarsi. Potrebbe essere qualcosa di lieve, come la pelle secca in...",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Le trasformazioni più radicali della storia non iniziano nei parlamenti o nelle borse, ma nel cambio silenzioso delle categorie mentali con cui una civiltà interpreta ciò che è normale, giusto o desiderabile.\n> 🧠 **Lente Filosofica:** Come scriveva Seneca, *«nessun vento è favorevole per il marinaio che non sa a quale porto vuol approdare»*. In un'epoca ossessionata dall'accelerazione dei mezzi, fermarsi a interrogare i fini è l'atto più sovversivo e necessario.",
+          "score": 14.0
         }
       ]
     }

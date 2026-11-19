@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-2%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-3%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (2/23 ricerche orarie):**
-`🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (3/23 ricerche orarie):**
+`🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `23:05 CET` — Ricerca Oraria (3/23)
+_Aggiornamento registrato il `2026-11-19 23:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Argentina, la moglie dell'ex Br Bertulazzi respinge l'accusa di favoreggiamento](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/19/argentina-la-moglie-dellex-br-bertulazzi-respinge-laccusa-di-favoreggiamento_9a6f3df1-0aa8-4b66-8095-7e817378f98e.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Mi sono accorta della fuga dopo l'arrivo della polizia'. L'avvocato, 'non ci sono prove'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [Il web è tenuto insieme da volontari. L’intelligenza artificiale potrebbe farlo a pezzi.](https://www.politico.eu/article/ai-internet-website-shutdown-hack-cyberattack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Mentre l’intelligenza artificiale rivela vulnerabilità profondamente nascoste, i programmatori idealisti e le organizzazioni no-profit affermano che stanno andando avanti nel tentativo di preservare gli elementi vitali fondamentali del web.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[3] `🔭 Ricerca & Spazio` [Il libero arbitrio è un'illusione? Una nuova ricerca sul cervello rivela una svolta sorprendente](https://www.sciencedaily.com/releases/2026/11/261118065524.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Una nuova ricerca rivela che il cervello fa scelte libere e decisioni forzate utilizzando processi neurali sorprendentemente simili, con attività che si sviluppano verso una decisione prima di agire. La scoperta mette in discussione le ipotesi sul libero arbitrio, suggerendo che le nostre preferenze ed esperienze personali continuano a modellare ciò che scegliamo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Perché tutti dovrebbero fare terapia](https://bigthink.com/mini-philosophy/why-everyone-should-be-doing-therapy/)** — *(Big Think)*
+  - 📌 **Sintesi:** Scommetterei a casa mia che convivi con qualcosa. C’è qualche malattia, dolore o condizione che hai imparato ad affrontare. Perché non esiste una salute “perfetta”. Tutti quelli con cui parli, tutti quelli che vedi per strada, tutti in fila al bar, hanno qualcosa a cui devono adattarsi. Potrebbe essere qualcosa di lieve, come la pelle secca in...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `22:05 CET` — Ricerca Oraria (2/23)
 _Aggiornamento registrato il `2026-11-19 22:05 CET`_
