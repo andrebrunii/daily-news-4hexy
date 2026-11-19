@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 19 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-17%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (17/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `13:05 CET` — Ricerca Oraria (17/23)
+_Aggiornamento registrato il `2026-11-19 13:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Corte internazionale giustizia, 'Myanmar ha commesso un genocidio contro Rohingya'](https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/corte-internazionale-giustizia-myanmar-ha-commesso-un-genocidio-contro-rohingya_4a4c6167-a3d4-47d9-877a-5e4fa3a2a4d4.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Approfondimento disponibile nella fonte originale collegata.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [Guarda: Il capo della sanità europea si è fatto gettare addosso delle “ceneri” per protestare contro le norme sui pesticidi](https://www.politico.eu/article/watch-eu-health-chief-has-ashes-thrown-over-him-in-protest-at-pesticide-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Olivér Várhelyi stava per parlare a un vertice sul cancro quando gli è stata lanciata addosso una sostanza grigia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🔭 Ricerca & Spazio` [Gli scienziati hanno testato 212 alimenti a base vegetale. Ognuno conteneva tossine fungine](https://www.sciencedaily.com/releases/2026/11/261118073749.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Un nuovo studio ha scoperto una preoccupazione sorprendente nascosta nei cibi e nelle bevande popolari a base vegetale. I ricercatori hanno testato 212 prodotti vegani e vegetariani venduti nel Regno Unito, tra cui alternative alla carne, latte di avena, latte di mandorle e latte di soia, e hanno scoperto che ognuno di essi conteneva almeno una tossina fungina potenzialmente dannosa. Conosciute come micotossine, queste naturalmente...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🏛️ Filosofia & Idee` [Camera delle meraviglie](https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Conchiglie di Nautilus, automi e corni di unicorno: le collezioni eclettiche che incarnavano il mondo in espansione dell'Europa della prima età moderna - di Aeon Video Guarda su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
 _Aggiornamento registrato il `2026-11-19 12:05 CET`_

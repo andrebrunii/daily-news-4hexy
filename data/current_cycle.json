@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-18",
   "target_edition_date": "2026-11-19",
-  "last_slot_iso": "2026-11-19T12:05:00",
+  "last_slot_iso": "2026-11-19T13:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1312,6 +1312,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "13:05 CET",
+      "timestamp_str": "2026-11-19 13:05 CET",
+      "items": [
+        {
+          "title_orig": "Corte internazionale giustizia, 'Myanmar ha commesso un genocidio contro Rohingya'",
+          "summary_orig": "Approfondimento disponibile nella fonte originale collegata.",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/corte-internazionale-giustizia-myanmar-ha-commesso-un-genocidio-contro-rohingya_4a4c6167-a3d4-47d9-877a-5e4fa3a2a4d4.html",
+          "published": "Thu, 19 Nov 2026 12:43:35 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "13:05 CET",
+          "title_it": "Corte internazionale giustizia, 'Myanmar ha commesso un genocidio contro Rohingya'",
+          "summary_it": "Approfondimento disponibile nella fonte originale collegata.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Watch: EU health chief has ‘ashes’ thrown over him in protest at pesticide rules",
+          "summary_orig": "Olivér Várhelyi was about to speak at a cancer summit when he had a grey substance thrown at him.",
+          "link": "https://www.politico.eu/article/watch-eu-health-chief-has-ashes-thrown-over-him-in-protest-at-pesticide-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Thu, 19 Nov 2026 11:29:04 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "13:05 CET",
+          "title_it": "Guarda: Il capo della sanità europea si è fatto gettare addosso delle “ceneri” per protestare contro le norme sui pesticidi",
+          "summary_it": "Olivér Várhelyi stava per parlare a un vertice sul cancro quando gli è stata lanciata addosso una sostanza grigia.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 18.0
+        },
+        {
+          "title_orig": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+          "summary_orig": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially harmful fungal toxin. Known as mycotoxins, these naturally...",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+          "published": "Thu, 19 Nov 2026 06:13:29 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "13:05 CET",
+          "title_it": "Gli scienziati hanno testato 212 alimenti a base vegetale. Ognuno conteneva tossine fungine",
+          "summary_it": "Un nuovo studio ha scoperto una preoccupazione sorprendente nascosta nei cibi e nelle bevande popolari a base vegetale. I ricercatori hanno testato 212 prodotti vegani e vegetariani venduti nel Regno Unito, tra cui alternative alla carne, latte di avena, latte di mandorle e latte di soia, e hanno scoperto che ognuno di essi conteneva almeno una tossina fungina potenzialmente dannosa. Conosciute come micotossine, queste naturalmente...",
+          "impact_eu_it": "Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Wunderkammer",
+          "summary_orig": "Nautilus shells, automata and unicorn horns – the eclectic collections that embodied early modern Europe’s expanding world - by Aeon Video Watch on Aeon",
+          "link": "https://aeon.co/videos/how-curiosity-cabinets-paved-the-way-for-modern-museums",
+          "published": "Thu, 19 Nov 2026 11:01:00 GMT",
+          "source_id": "aeon",
+          "source_name": "Aeon Philosophy & Ideas",
+          "category": "filosofia",
+          "badge": "🏛️ Filosofia & Idee",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "13:05 CET",
+          "title_it": "Camera delle meraviglie",
+          "summary_it": "Conchiglie di Nautilus, automi e corni di unicorno: le collezioni eclettiche che incarnavano il mondo in espansione dell'Europa della prima età moderna - di Aeon Video Guarda su Aeon",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
+          "score": 18.5
         }
       ]
     }
