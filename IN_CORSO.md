@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 19 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-19 12:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Concluso il trilaterale tra Xi, Putin e Trump](https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/concluso-il-trilaterale-tra-xi-putin-e-trump_40aae214-5c93-490a-b43a-8f182fb9a639.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Lo riporta la Cctv
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Unione Europea & Policy` [La corsa alle elezioni spagnole si fa più serrata in vista dell’ultima settimana della campagna elettorale, come mostra un nuovo sondaggio](https://www.politico.eu/article/spanish-election-race-tightens-final-week-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il partito conservatore popolare e i socialisti sono testa a testa, con l’estrema destra Vox in grado di fare da re.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Alibaba riporta ricavi del secondo trimestre in aumento del 10% a ~$40,7 miliardi, sopra la stima, e un utile netto in aumento di 3 volte a ~$9,68 miliardi, sopra ~$3,6 miliardi stimati, grazie al miglioramento della redditività dell'intelligenza artificiale e dell'e-commerce (Tracy Qu/Wall Street Journal)](https://www.techmeme.com/261119/p15#a261119p15)** — *(Techmeme)*
+  - 📌 **Sintesi:** Tracy Qu / Wall Street Journal: Alibaba riporta ricavi del secondo trimestre in aumento del 10% a ~$40,7 miliardi, sopra la stima, e un utile netto in aumento di 3 volte a ~$9,68 miliardi, sopra ~$3,6 miliardi stimati, grazie al miglioramento della redditività dell'intelligenza artificiale e dell'e-commerce — L'azienda sta preparando una quotazione a Hong Kong per la sua unità di chip, T-Head — Alibaba Group ha registrato un'impennata dell'utile fiscale del secondo trimestre…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `💻 Tecnologia & Cyber` [Il CEO di Netflix ammette che l'app potrebbe seppellire contenuti che desideri guardare sotto contenuti che non vuoi guardare](https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Il CEO Ted Sarandos discute le lacune nella realizzazione di programmi di successo che gli streamer possono trovare.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-19 11:05 CET`_

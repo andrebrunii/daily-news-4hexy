@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-18",
   "target_edition_date": "2026-11-19",
-  "last_slot_iso": "2026-11-19T11:05:00",
+  "last_slot_iso": "2026-11-19T12:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1230,6 +1230,88 @@
           "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 21.0
+        }
+      ]
+    },
+    {
+      "hour_label": "12:05 CET",
+      "timestamp_str": "2026-11-19 12:05 CET",
+      "items": [
+        {
+          "title_orig": "Concluso il trilaterale tra Xi, Putin e Trump",
+          "summary_orig": "Lo riporta la Cctv",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/concluso-il-trilaterale-tra-xi-putin-e-trump_40aae214-5c93-490a-b43a-8f182fb9a639.html",
+          "published": "Thu, 19 Nov 2026 11:01:56 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "12:05 CET",
+          "title_it": "Concluso il trilaterale tra Xi, Putin e Trump",
+          "summary_it": "Lo riporta la Cctv",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Spanish election race tightens ahead of campaign’s final week, new poll shows",
+          "summary_orig": "The conservative People's Party and Socialists are neck and neck, with the far-right Vox in position to play kingmaker.",
+          "link": "https://www.politico.eu/article/spanish-election-race-tightens-final-week-poll/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Thu, 19 Nov 2026 10:10:24 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "12:05 CET",
+          "title_it": "La corsa alle elezioni spagnole si fa più serrata in vista dell’ultima settimana della campagna elettorale, come mostra un nuovo sondaggio",
+          "summary_it": "Il partito conservatore popolare e i socialisti sono testa a testa, con l’estrema destra Vox in grado di fare da re.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "Alibaba reports Q2 revenue up 10% to ~$40.7B, above est., and net profit up 3x to ~$9.68B, above ~$3.6B est., as its AI and e-commerce profitability improves (Tracy Qu/Wall Street Journal)",
+          "summary_orig": "Tracy Qu / Wall Street Journal : Alibaba reports Q2 revenue up 10% to ~$40.7B, above est., and net profit up 3x to ~$9.68B, above ~$3.6B est., as its AI and e-commerce profitability improves — The company is preparing a Hong Kong listing for its chip unit, T-Head — Alibaba Group recorded a surge in fiscal second-quarter profit …",
+          "link": "https://www.techmeme.com/261119/p15#a261119p15",
+          "published": "Thu, 19 Nov 2026 06:01:37 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "12:05 CET",
+          "title_it": "Alibaba riporta ricavi del secondo trimestre in aumento del 10% a ~$40,7 miliardi, sopra la stima, e un utile netto in aumento di 3 volte a ~$9,68 miliardi, sopra ~$3,6 miliardi stimati, grazie al miglioramento della redditività dell'intelligenza artificiale e dell'e-commerce (Tracy Qu/Wall Street Journal)",
+          "summary_it": "Tracy Qu / Wall Street Journal: Alibaba riporta ricavi del secondo trimestre in aumento del 10% a ~$40,7 miliardi, sopra la stima, e un utile netto in aumento di 3 volte a ~$9,68 miliardi, sopra ~$3,6 miliardi stimati, grazie al miglioramento della redditività dell'intelligenza artificiale e dell'e-commerce — L'azienda sta preparando una quotazione a Hong Kong per la sua unità di chip, T-Head — Alibaba Group ha registrato un'impennata dell'utile fiscale del secondo trimestre…",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 22.0
+        },
+        {
+          "title_orig": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+          "summary_orig": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
+          "link": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+          "published": "Wed, 18 Nov 2026 21:29:24 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "12:05 CET",
+          "title_it": "Il CEO di Netflix ammette che l'app potrebbe seppellire contenuti che desideri guardare sotto contenuti che non vuoi guardare",
+          "summary_it": "Il CEO Ted Sarandos discute le lacune nella realizzazione di programmi di successo che gli streamer possono trovare.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 12.0
         }
       ]
     }
