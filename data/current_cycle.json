@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-18",
   "target_edition_date": "2026-11-19",
-  "last_slot_iso": "2026-11-19T07:05:00",
+  "last_slot_iso": "2026-11-19T08:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -902,6 +902,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 14.5
+        }
+      ]
+    },
+    {
+      "hour_label": "08:05 CET",
+      "timestamp_str": "2026-11-19 08:05 CET",
+      "items": [
+        {
+          "title_orig": "Cpi, 'Almasri in Libia è libero, non affronta la giustizia'",
+          "summary_orig": "Report semestrale della Corte: 'Può incontrare chi vuole, inclusi i ministri'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/africa/2026/11/18/cpi-almasri-in-libia-e-libero-non-affronta-la-giustizia_2a907fdf-2618-40e0-af57-8ae7b8d194c4.html",
+          "published": "Wed, 18 Nov 2026 19:17:21 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "08:05 CET",
+          "title_it": "Cpi, 'Almasri in Libia è libero, non affronta la giustizia'",
+          "summary_it": "Report semestrale della Corte: 'Può incontrare chi vuole, inclusi i ministri'",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Why depth beats breadth in Europe’s hunt for an AI edge",
+          "summary_orig": "At the European Resilience Summit, Mauro Capo, Accenture’s digital sovereignty lead for EMEA, shared the company’s view on Europe’s opportunities in AI’s next phase.",
+          "link": "https://www.politico.eu/sponsored-content/why-depth-beats-breadth-in-europes-hunt-for-an-ai-edge/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Thu, 19 Nov 2026 07:00:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "08:05 CET",
+          "title_it": "Perché la profondità batte l’ampiezza nella caccia europea al vantaggio dell’intelligenza artificiale",
+          "summary_it": "All’European Resilience Summit, Mauro Capo, responsabile della sovranità digitale di Accenture per l’area EMEA, ha condiviso il punto di vista dell’azienda sulle opportunità dell’Europa nella prossima fase dell’intelligenza artificiale.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 27.0
+        },
+        {
+          "title_orig": "Lenovo reports Q2 revenue up 48% YoY to $30.2B and a $640M net loss vs. $38M est., amid rising PC component costs; it posted its first operating loss since 2017 (Yuan Gao/Bloomberg)",
+          "summary_orig": "Yuan Gao / Bloomberg : Lenovo reports Q2 revenue up 48% YoY to $30.2B and a $640M net loss vs. $38M est., amid rising PC component costs; it posted its first operating loss since 2017 — Lenovo Group Ltd. reported a far larger-than-anticipated loss for the September quarter, reflecting accounting charges and the mounting cost of PC components.",
+          "link": "https://www.techmeme.com/261119/p3#a261119p3",
+          "published": "Thu, 19 Nov 2026 01:50:02 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "08:05 CET",
+          "title_it": "Lenovo segnala che i ricavi del secondo trimestre sono aumentati del 48% su base annua a 30,2 miliardi di dollari e una perdita netta di 640 milioni di dollari rispetto ai 38 milioni di dollari stimati, a fronte dell'aumento dei costi dei componenti del PC; ha registrato la prima perdita operativa dal 2017 (Yuan Gao/Bloomberg)",
+          "summary_it": "Yuan Gao / Bloomberg: Lenovo riporta ricavi del secondo trimestre in crescita del 48% su base annua a 30,2 miliardi di dollari e una perdita netta di 640 milioni di dollari rispetto ai 38 milioni di dollari stimati, a fronte dell'aumento dei costi dei componenti del PC; ha registrato la sua prima perdita operativa dal 2017: Lenovo Group Ltd. ha riportato una perdita molto maggiore del previsto per il trimestre di settembre, riflettendo le spese contabili e il crescente costo dei componenti del PC.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+          "summary_orig": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+          "link": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+          "published": "Wed, 18 Nov 2026 23:10:39 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "08:05 CET",
+          "title_it": "L’Ucraina ha fatto saltare in aria il ponte di Putin utilizzando droni relè per aggirare i limiti di Starlink",
+          "summary_it": "L’attacco dell’Ucraina ha utilizzato la tecnologia interna adattando al tempo stesso le lezioni apprese sul campo di battaglia dal suo avversario.",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 21.0
         }
       ]
     }

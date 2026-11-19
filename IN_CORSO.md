@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 19 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `08:05 CET` — Ricerca Oraria (12/23)
+_Aggiornamento registrato il `2026-11-19 08:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Cpi, 'Almasri in Libia è libero, non affronta la giustizia'](https://www.ansa.it/sito/notizie/mondo/africa/2026/11/18/cpi-almasri-in-libia-e-libero-non-affronta-la-giustizia_2a907fdf-2618-40e0-af57-8ae7b8d194c4.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Report semestrale della Corte: 'Può incontrare chi vuole, inclusi i ministri'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [Perché la profondità batte l’ampiezza nella caccia europea al vantaggio dell’intelligenza artificiale](https://www.politico.eu/sponsored-content/why-depth-beats-breadth-in-europes-hunt-for-an-ai-edge/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** All’European Resilience Summit, Mauro Capo, responsabile della sovranità digitale di Accenture per l’area EMEA, ha condiviso il punto di vista dell’azienda sulle opportunità dell’Europa nella prossima fase dell’intelligenza artificiale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[3] `🤖 IA & Frontiera Tech` [Lenovo segnala che i ricavi del secondo trimestre sono aumentati del 48% su base annua a 30,2 miliardi di dollari e una perdita netta di 640 milioni di dollari rispetto ai 38 milioni di dollari stimati, a fronte dell'aumento dei costi dei componenti del PC; ha registrato la prima perdita operativa dal 2017 (Yuan Gao/Bloomberg)](https://www.techmeme.com/261119/p3#a261119p3)** — *(Techmeme)*
+  - 📌 **Sintesi:** Yuan Gao / Bloomberg: Lenovo riporta ricavi del secondo trimestre in crescita del 48% su base annua a 30,2 miliardi di dollari e una perdita netta di 640 milioni di dollari rispetto ai 38 milioni di dollari stimati, a fronte dell'aumento dei costi dei componenti del PC; ha registrato la sua prima perdita operativa dal 2017: Lenovo Group Ltd. ha riportato una perdita molto maggiore del previsto per il trimestre di settembre, riflettendo le spese contabili e il crescente costo dei componenti del PC.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `💻 Tecnologia & Cyber` [L’Ucraina ha fatto saltare in aria il ponte di Putin utilizzando droni relè per aggirare i limiti di Starlink](https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** L’attacco dell’Ucraina ha utilizzato la tecnologia interna adattando al tempo stesso le lezioni apprese sul campo di battaglia dal suo avversario.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
 
 ### 🕒 Ora `07:05 CET` — Ricerca Oraria (11/23)
 _Aggiornamento registrato il `2026-11-19 07:05 CET`_
