@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-18",
   "target_edition_date": "2026-11-19",
-  "last_slot_iso": "2026-11-19T05:05:00",
+  "last_slot_iso": "2026-11-19T06:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -738,6 +738,88 @@
           "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
           "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
           "score": 15.0
+        }
+      ]
+    },
+    {
+      "hour_label": "06:05 CET",
+      "timestamp_str": "2026-11-19 06:05 CET",
+      "items": [
+        {
+          "title_orig": "Die Koalition der Wartenden: Europa blickt nach Shenzhen",
+          "summary_orig": "Donald Trump, Xi Jinping und Wladimir Putin verhandeln in Shenzhen womöglich über die neue Weltordnung – und Europa guckt zu. Eine „Koalition der Willigen“ aus Dutzenden Staats- und Regierungschefs sucht gleichzeitig in Berlin nach einer Antwort auf die drohende Verschiebung und plant ein weiteres finanzielles Signal an Moskau, damit Putin den...",
+          "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/die-koalition-der-wartenden-europa-blickt-nach-shenzhen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Thu, 19 Nov 2026 04:30:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "06:05 CET",
+          "title_it": "Die Koalition der Wartenden: l’Europa guarda verso Shenzhen",
+          "summary_it": "Donald Trump, Xi Jinping e Wladimir Putin si sono riuniti a Shenzhen per superare il nuovo mondo e l'Europa si è divertita. Eine \"Koalition der Willigen\" aus Dutzenden Staats- und Regierungschefs sucht gleichzeitig in Berlin nach einer Antwort auf die drohende Verschiebung und plant ein weiteres finanzielles Signal an Moskau, damit Putin den...",
+          "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 23.5
+        },
+        {
+          "title_orig": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+          "summary_orig": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+          "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Nov 2026 04:42:52 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "06:05 CET",
+          "title_it": "Questo è un momento diplomatico notevole per Xi in Cina, ma presenta delle insidie",
+          "summary_it": "L’incontro presenta delle sfide poiché ci sono cose che Xi non sembra desideroso di discutere con Putin e Trump.",
+          "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 24.5
+        },
+        {
+          "title_orig": "Arriva pensione dedicata per forze dell'ordine, calcolo con fino a 4 anni in più",
+          "summary_orig": "Bozza emendamento del governo alla manovra, subito coefficiente con 2 anni in più",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/18/arriva-pensione-dedicata-per-forze-dellordine-calcolo-con-fino-a-4-anni_5ba5c97f-8e09-434d-b81f-25e3e5473482.html",
+          "published": "Wed, 18 Nov 2026 18:58:50 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "06:05 CET",
+          "title_it": "Arriva pensione dedicata per forze dell'ordine, calcolo con fino a 4 anni in più",
+          "summary_it": "Bozza emendamento del governo alla manovra, subito coefficiente con 2 anni in più",
+          "impact_eu_it": "Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+          "summary_orig": "Elon Musk spoke about Jensen Huang, his U.S. midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit.",
+          "link": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+          "published": "Thu, 19 Nov 2026 02:49:35 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "06:05 CET",
+          "title_it": "Musk dice che Jensen Huang è insostituibile e si rammarica delle spese di medio termine",
+          "summary_it": "Elon Musk ha parlato di Jensen Huang, delle sue spese di metà mandato negli Stati Uniti e delle sovrapposizioni tra SpaceX e Tesla al Dealbook Summit.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 17.5
         }
       ]
     }
