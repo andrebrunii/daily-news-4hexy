@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-18",
   "target_edition_date": "2026-11-19",
-  "last_slot_iso": "2026-11-19T16:05:00",
+  "last_slot_iso": "2026-11-19T17:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1640,6 +1640,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "17:05 CET",
+      "timestamp_str": "2026-11-19 17:05 CET",
+      "items": [
+        {
+          "title_orig": "Mamdani firma la 'Romanch's Law', addio alle carozze a Central Park",
+          "summary_orig": "Il divieto entrerà in vigore il 1 giugno 2028, fine di un'era durata 165 anni",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/19/mamdani-firma-la-romanchs-law-addio-alle-carozze-a-central-park_a2202225-acba-48cc-a92f-04389f4aa350.html",
+          "published": "Thu, 19 Nov 2026 16:41:51 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "17:05 CET",
+          "title_it": "Mamdani firma la 'Romanch's Law', addio alle carozze a Central Park",
+          "summary_it": "Il divieto entrerà in vigore il 1 giugno 2028, fine di un'era durata 165 anni",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Britain shouldn’t rush to a second Brexit referendum, say pro-EU Lib Dems",
+          "summary_orig": "Al Pinkerton, the party's Europe spokesperson, says the public would have “an expectation” there would be a referendum on rejoining the bloc.",
+          "link": "https://www.politico.eu/article/britain-brexit-referendum-liberal-democrats-al-pinkerton/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Thu, 19 Nov 2026 15:51:21 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "17:05 CET",
+          "title_it": "La Gran Bretagna non dovrebbe affrettarsi a indire un secondo referendum sulla Brexit, affermano i LibDem pro-UE",
+          "summary_it": "Al Pinkerton, portavoce del partito per l'Europa, dice che il pubblico avrebbe “un'aspettativa” che ci fosse un referendum sulla riadesione al blocco.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 27.0
+        },
+        {
+          "title_orig": "This 6-million-year-old whale may have had the most crooked face in mammal history",
+          "summary_orig": "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal. Discovered in Peru, the extinct pygmy sperm whale Scaphokogia huachafo had an enormous downward-curving snout and a skull so distorted that researchers initially thought it had been...",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
+          "published": "Thu, 19 Nov 2026 05:59:55 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "17:05 CET",
+          "title_it": "Questa balena di 6 milioni di anni potrebbe aver avuto la faccia più storta nella storia dei mammiferi",
+          "summary_it": "Una bizzarra balena vissuta circa 6 milioni di anni fa aveva una faccia così drammaticamente storta che gli scienziati ritengono che potesse essere la più asimmetrica di qualsiasi mammifero. Scoperto in Perù, il capodoglio pigmeo estinto Scaphokogia huachafo aveva un enorme muso ricurvo verso il basso e un cranio così distorto che i ricercatori inizialmente pensarono che fosse...",
+          "impact_eu_it": "Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "At least it remembers",
+          "summary_orig": "Parents fear what AI will do to children. But for some, it’s the only steady presence they have – and that’s the real worry - by Tom Wooldridge Read on Aeon",
+          "link": "https://aeon.co/essays/what-would-parenting-by-ai-look-like",
+          "published": "Thu, 19 Nov 2026 11:00:00 GMT",
+          "source_id": "aeon",
+          "source_name": "Aeon Philosophy & Ideas",
+          "category": "filosofia",
+          "badge": "🏛️ Filosofia & Idee",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "17:05 CET",
+          "title_it": "Almeno ricorda",
+          "summary_it": "I genitori temono ciò che l’intelligenza artificiale farà ai bambini. Ma per alcuni è l'unica presenza stabile che hanno - e questa è la vera preoccupazione - di Tom Wooldridge Leggi su Aeon",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 18.5
         }
       ]
     }

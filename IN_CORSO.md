@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 19 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-21%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (21/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `17:05 CET` — Ricerca Oraria (21/23)
+_Aggiornamento registrato il `2026-11-19 17:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Mamdani firma la 'Romanch's Law', addio alle carozze a Central Park](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/19/mamdani-firma-la-romanchs-law-addio-alle-carozze-a-central-park_a2202225-acba-48cc-a92f-04389f4aa350.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il divieto entrerà in vigore il 1 giugno 2028, fine di un'era durata 165 anni
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [La Gran Bretagna non dovrebbe affrettarsi a indire un secondo referendum sulla Brexit, affermano i LibDem pro-UE](https://www.politico.eu/article/britain-brexit-referendum-liberal-democrats-al-pinkerton/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Al Pinkerton, portavoce del partito per l'Europa, dice che il pubblico avrebbe “un'aspettativa” che ci fosse un referendum sulla riadesione al blocco.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🔭 Ricerca & Spazio` [Questa balena di 6 milioni di anni potrebbe aver avuto la faccia più storta nella storia dei mammiferi](https://www.sciencedaily.com/releases/2026/11/261118065528.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Una bizzarra balena vissuta circa 6 milioni di anni fa aveva una faccia così drammaticamente storta che gli scienziati ritengono che potesse essere la più asimmetrica di qualsiasi mammifero. Scoperto in Perù, il capodoglio pigmeo estinto Scaphokogia huachafo aveva un enorme muso ricurvo verso il basso e un cranio così distorto che i ricercatori inizialmente pensarono che fosse...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[4] `🏛️ Filosofia & Idee` [Almeno ricorda](https://aeon.co/essays/what-would-parenting-by-ai-look-like)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** I genitori temono ciò che l’intelligenza artificiale farà ai bambini. Ma per alcuni è l'unica presenza stabile che hanno - e questa è la vera preoccupazione - di Tom Wooldridge Leggi su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `16:05 CET` — Ricerca Oraria (20/23)
 _Aggiornamento registrato il `2026-11-19 16:05 CET`_
