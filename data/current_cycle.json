@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-18",
   "target_edition_date": "2026-11-19",
-  "last_slot_iso": "2026-11-19T03:05:00",
+  "last_slot_iso": "2026-11-19T04:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -574,6 +574,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 14.5
+        }
+      ]
+    },
+    {
+      "hour_label": "04:05 CET",
+      "timestamp_str": "2026-11-19 04:05 CET",
+      "items": [
+        {
+          "title_orig": "Sheinbaum virale in Cina dopo l'arrivo al vertice Apec su un volo commerciale",
+          "summary_orig": "Oltre 10,2 milioni di visite su Weibo, elogiata la politica di austerità",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/19/sheinbaum-virale-in-cina-dopo-larrivo-al-vertice-apec-su-un-volo-commerciale_169284bc-a51a-4af9-b607-58f1953f6c62.html",
+          "published": "Thu, 19 Nov 2026 01:25:26 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "04:05 CET",
+          "title_it": "Sheinbaum virale in Cina dopo l'arrivo al vertice Apec su un volo commerciale",
+          "summary_it": "Oltre 10,2 milioni di visite su Weibo, elogiata la politica di austerità",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "EU lawmakers accuse Chinese officials of intimidation over Taiwan",
+          "summary_orig": "Parliament President Roberta Metsola is in touch with Chinese authorities “to ensure that further incidents can be avoided”",
+          "link": "https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Thu, 19 Nov 2026 03:00:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "04:05 CET",
+          "title_it": "I legislatori dell’UE accusano i funzionari cinesi di intimidazione nei confronti di Taiwan",
+          "summary_it": "La presidente del Parlamento Roberta Metsola è in contatto con le autorità cinesi “per garantire che si possano evitare ulteriori incidenti”",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 21.5
+        },
+        {
+          "title_orig": "Hackers compromised Microsoft's Agent Framework Python package on PyPI, publishing two versions designed to steal cloud credentials and other information (Bill Toulas/BleepingComputer)",
+          "summary_orig": "Bill Toulas / BleepingComputer : Hackers compromised Microsoft's Agent Framework Python package on PyPI, publishing two versions designed to steal cloud credentials and other information — Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed …",
+          "link": "https://www.techmeme.com/261118/p56#a261118p56",
+          "published": "Wed, 18 Nov 2026 21:50:01 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "04:05 CET",
+          "title_it": "Gli hacker hanno compromesso il pacchetto Python Agent Framework di Microsoft su PyPI, pubblicando due versioni progettate per rubare credenziali cloud e altre informazioni (Bill Toulas/BleepingComputer)",
+          "summary_it": "Bill Toulas / BleepingComputer : Gli hacker hanno compromesso il pacchetto Python Agent Framework di Microsoft su PyPI, pubblicando due versioni progettate per rubare credenziali cloud e altre informazioni — Gli hacker hanno compromesso il pacchetto Python ufficiale Agent Framework di Microsoft su PyPI, pubblicando due versioni dannose progettate...",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+          "summary_orig": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
+          "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+          "published": "Wed, 18 Nov 2026 23:25:04 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "04:05 CET",
+          "title_it": "Il comitato guidato da Ted Cruz approva 15-0 il candidato alla FCC di Trump mentre i democratici boicottano il voto",
+          "summary_it": "I democratici cercano di impedire il quorum, dicono che Thumann ha mentito sul fatto di non lavorare sulle questioni mediatiche.",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 15.5
         }
       ]
     }

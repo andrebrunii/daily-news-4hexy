@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 19 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-8%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (8/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `04:05 CET` — Ricerca Oraria (8/23)
+_Aggiornamento registrato il `2026-11-19 04:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Sheinbaum virale in Cina dopo l'arrivo al vertice Apec su un volo commerciale](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/19/sheinbaum-virale-in-cina-dopo-larrivo-al-vertice-apec-su-un-volo-commerciale_169284bc-a51a-4af9-b607-58f1953f6c62.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Oltre 10,2 milioni di visite su Weibo, elogiata la politica di austerità
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[2] `🇪🇺 Unione Europea & Policy` [I legislatori dell’UE accusano i funzionari cinesi di intimidazione nei confronti di Taiwan](https://www.politico.eu/article/eu-lawmakers-accuse-chinese-officials-of-intimidation-over-taiwan/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La presidente del Parlamento Roberta Metsola è in contatto con le autorità cinesi “per garantire che si possano evitare ulteriori incidenti”
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🤖 IA & Frontiera Tech` [Gli hacker hanno compromesso il pacchetto Python Agent Framework di Microsoft su PyPI, pubblicando due versioni progettate per rubare credenziali cloud e altre informazioni (Bill Toulas/BleepingComputer)](https://www.techmeme.com/261118/p56#a261118p56)** — *(Techmeme)*
+  - 📌 **Sintesi:** Bill Toulas / BleepingComputer : Gli hacker hanno compromesso il pacchetto Python Agent Framework di Microsoft su PyPI, pubblicando due versioni progettate per rubare credenziali cloud e altre informazioni — Gli hacker hanno compromesso il pacchetto Python ufficiale Agent Framework di Microsoft su PyPI, pubblicando due versioni dannose progettate...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `💻 Tecnologia & Cyber` [Il comitato guidato da Ted Cruz approva 15-0 il candidato alla FCC di Trump mentre i democratici boicottano il voto](https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** I democratici cercano di impedire il quorum, dicono che Thumann ha mentito sul fatto di non lavorare sulle questioni mediatiche.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
 _Aggiornamento registrato il `2026-11-19 03:05 CET`_
