@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-0%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-1%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,15 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (0/23 ricerche orarie):**
-`⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (1/23 ricerche orarie):**
+`🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
-### ⏳ Il nuovo ciclo di 24 ore è appena iniziato!
-_La Top 10 delle 20:05 CET è appena stata pubblicata nella [pagina principale (`README.md`)](./README.md). La prima ricerca oraria del nuovo ciclo apparirà qui alle **21:05 CET**._
+## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `21:05 CET` — Ricerca Oraria (1/23)
+_Aggiornamento registrato il `2026-11-19 21:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Mercato auto, in Italia si guarda al prezzo più che in altre aree del mondo](https://www.ilsole24ore.com/art/mercato-auto-italia-si-guarda-prezzo-piu-che-altre-aree-mondo-AJGmDerB)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Il 66% del campione italiano valuta il costo di una vettura come elemento fondamentale per la scelta, lo rivela il Global Auto Consumer Survey 2026 di Bain & Company - L’AI è entrata nelle fasi di ricerca e confronto tra modelli diversi
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🌍 Geopolitica & Mondo` [>>>ANSA/ 'Vladimir è un amico', scoppia la bufera sulle parole di Trump](https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/ansa-vladimir-e-un-amico-scoppia-la-bufera-sulle-parole-di-trump_a9fe610f-eab5-4d74-a9ee-d48436ce42db.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il debutto da anatra zoppa del tycoon, riporta a casa solo una foto opportunity
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[3] `💶 Macro & Finanza UE` [Anthropic vola all'esordio a Wall Street, vale 2.000 miliardi](https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-sale-fino-a-11510-dollari-per-azione-poi-scende-a-11022_f4eebc5e-1ae4-4922-8a55-eaee32ab7ab8.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** L'esordio col botto crea nuovi miliardari. Brindano le banche
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [L’IPO antropica creerà migliaia di dipendenti multimilionari](https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Secondo i documenti depositati dalla SEC e gli investitori, il dipendente medio di Anthropic potrebbe valere oltre 40 milioni di dollari dopo l'IPO della società.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ---
 
