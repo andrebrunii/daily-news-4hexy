@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-18",
   "target_edition_date": "2026-11-19",
-  "last_slot_iso": "2026-11-19T17:05:00",
+  "last_slot_iso": "2026-11-19T18:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1722,6 +1722,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 18.5
+        }
+      ]
+    },
+    {
+      "hour_label": "18:05 CET",
+      "timestamp_str": "2026-11-19 18:05 CET",
+      "items": [
+        {
+          "title_orig": "Zucman, le retour",
+          "summary_orig": "Un manifeste publié ce vendredi, un “sommet contre l’oligarchie internationale” samedi, une proposition de taxe supplémentaire : Gabriel Zucman est de retour au premier plan. Engagé dans une démarche de plus en plus politique, l’économiste français de 40 ans veut peser sur le débat de la présidentielle. Comment compte-t-il s’y prendre ? Pèse-t-il sur les […]",
+          "link": "https://www.politico.eu/podcast/playbook-paris-podcast/zucman-le-retour/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Thu, 19 Nov 2026 16:53:19 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "18:05 CET",
+          "title_it": "Zucman, il ritorno",
+          "summary_it": "Un manifeste publié ce vendredi, un “sommet contre l’oligarchie internationale” samedi, una proposition de taxe supplémentaire: Gabriel Zucman est de retour au premier plan. Impegnato in un'iniziativa di plus en plus politique, l'économiste français de 40 ans veut peser sur le débat de la présidentielle. Comment compte-t-il s’y prendre ? Pèse-t-il sur les […]",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 16.5
+        },
+        {
+          "title_orig": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+          "summary_orig": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+          "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+          "published": "Thu, 19 Nov 2026 16:55:57 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "18:05 CET",
+          "title_it": "Il Myanmar ha commesso un genocidio contro la minoranza Rohingya, stabilisce la massima corte delle Nazioni Unite",
+          "summary_it": "Il verdetto senza precedenti della Corte internazionale di giustizia riguarda una repressione militare del 2017 che ha ucciso migliaia di persone.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 16.0
+        },
+        {
+          "title_orig": "Esordio col botto per Anthropic a Wall Street a 111,50 dollari, +34%",
+          "summary_orig": "Nell'Ipo erano stati fissati 83 dollari. Vale oltre 2.000 miliardi",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/esordio-col-botto-per-anthropic-a-wall-street-a-11150-dollari-34_f4eebc5e-1ae4-4922-8a55-eaee32ab7ab8.html",
+          "published": "Thu, 19 Nov 2026 17:58:00 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "18:05 CET",
+          "title_it": "Esordio col botto per Anthropic a Wall Street a 111,50 dollari, +34%",
+          "summary_it": "Nell'Ipo erano stati fissati 83 dollari. Vale oltre 2.000 miliardi",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "Anthropic opens at $111.50 per share in record IPO: Live updates",
+          "summary_orig": "Anthropic IPO live updates: Follow ANT stock's Nasdaq debut, opening share price, valuation and investor reaction to the Claude AI maker.",
+          "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+          "published": "Thu, 19 Nov 2026 16:58:44 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "18:05 CET",
+          "title_it": "Anthropic apre a 111,50 dollari per azione in un'IPO record: aggiornamenti in tempo reale",
+          "summary_it": "Aggiornamenti in tempo reale sull'IPO antropica: segui il debutto al Nasdaq del titolo ANT, il prezzo di apertura delle azioni, la valutazione e la reazione degli investitori al produttore di Claude AI.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 16.5
         }
       ]
     }
