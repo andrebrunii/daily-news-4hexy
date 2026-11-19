@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 19 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-10%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (10/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `07:05 CET` — Ricerca Oraria (11/23)
+_Aggiornamento registrato il `2026-11-19 07:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Ferretti rilancia sul polo di Ancona](https://www.ilsole24ore.com/art/ferretti-rilancia-polo-ancona-AJTji9KC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Ad Ancona per crescere e restare, almeno per i prossimi trent’anni. Ferretti Group conferma la sua presenza nel porto dorico ed è pronta a raddoppiare la sua capacità produttiva nel...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌍 Geopolitica & Mondo` [Channel 12, 'Israele valuta attacco all'Iran nei prossimi giorni'](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/18/channel-12-israele-valuta-attacco-alliran-nei-prossimi-giorni_02e75191-af93-4050-ab1c-f2c66aea31d2.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** I leader del Blocco del Cambiamento hanno discusso dello stato di emergenza del Paese
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `💶 Macro & Finanza UE` [Saipem chiude i 9 mesi con ricavi per 11,5 miliardi, utile 210 milioni](https://www.ansa.it/sito/notizie/economia/2026/11/18/saipem-chiude-i-9-mesi-con-ricavi-per-115-miliardi-utile-210_b8ae00cc-e478-4b14-8e84-ef09c1931d8a.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Ordini acquisiti oltre gli 11 miliardi. Confermate le stime sul 2026
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[4] `🏦 Mercati Globali` [I futures Nasdaq-100 guadagnano mentre i trader si preparano per l’attesissimo debutto di Anthropic: aggiornamenti in tempo reale](https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** I trader si concentrano su come si comporterà Anthropic quando debutterà sul Nasdaq giovedì.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `06:05 CET` — Ricerca Oraria (10/23)
 _Aggiornamento registrato il `2026-11-19 06:05 CET`_
