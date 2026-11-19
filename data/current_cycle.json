@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-19",
   "target_edition_date": "2026-11-20",
-  "last_slot_iso": "2026-11-19T21:05:00",
+  "last_slot_iso": "2026-11-19T22:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -82,6 +82,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
           "score": 16.5
+        }
+      ]
+    },
+    {
+      "hour_label": "22:05 CET",
+      "timestamp_str": "2026-11-19 22:05 CET",
+      "items": [
+        {
+          "title_orig": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'",
+          "summary_orig": "Meloni con i Volenterosi: 'Mandato chiaro all'E5'. Zelensky: 'Garanzia è l'adesione Nato'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
+          "published": "Thu, 19 Nov 2026 21:34:24 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "22:05 CET",
+          "title_it": "Putin apre il tavolo agli europei. Trump li chiama, 'basta soldi a Kiev'",
+          "summary_it": "Meloni con i Volenterosi: 'Mandato chiaro all'E5'. Zelensky: 'Garanzia è l'adesione Nato'",
+          "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 24.0
+        },
+        {
+          "title_orig": "How to watch the UK-EU summit like a pro",
+          "summary_orig": "After more than two years of talks, can London and Brussels finally agree on a reset? Here’s what to look out for as their leaders meet.",
+          "link": "https://www.politico.eu/article/how-to-watch-the-uk-eu-summit-like-a-pro/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Thu, 19 Nov 2026 19:42:27 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "22:05 CET",
+          "title_it": "Come guardare il vertice Regno Unito-UE come un professionista",
+          "summary_it": "Dopo più di due anni di colloqui, Londra e Bruxelles riusciranno finalmente a mettersi d’accordo su un reset? Ecco a cosa prestare attenzione quando i loro leader si incontrano.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 27.0
+        },
+        {
+          "title_orig": "At a Senate hearing, Trump's CISA director nominee Michael LoSapio dodged questions about the agency's priorities, denied January 6 was an attack, and more (Eric Geller/Cybersecurity Dive)",
+          "summary_orig": "Eric Geller / Cybersecurity Dive : At a Senate hearing, Trump's CISA director nominee Michael LoSapio dodged questions about the agency's priorities, denied January 6 was an attack, and more — Michael LoSapio, a Palantir executive, also denied that the U.S. Capitol was attacked on Jan. 6, 2021.",
+          "link": "https://www.techmeme.com/261119/p50#a261119p50",
+          "published": "Thu, 19 Nov 2026 16:01:29 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "22:05 CET",
+          "title_it": "Durante un'audizione al Senato, il candidato direttore CISA di Trump, Michael LoSapio, ha eluso le domande sulle priorità dell'agenzia, ha negato che il 6 gennaio fosse un attacco e altro ancora (Eric Geller/Cybersecurity Dive)",
+          "summary_it": "Eric Geller / Cybersecurity Dive: Durante un'udienza al Senato, il candidato direttore della CISA di Trump, Michael LoSapio, ha eluso le domande sulle priorità dell'agenzia, ha negato che il 6 gennaio fosse un attacco e altro ancora: Michael LoSapio, un dirigente della Palantir, ha anche negato che il Campidoglio degli Stati Uniti sia stato attaccato il 6 gennaio 2021.",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 22.0
+        },
+        {
+          "title_orig": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+          "summary_orig": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+          "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+          "published": "Thu, 19 Nov 2026 20:29:46 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "22:05 CET",
+          "title_it": "Un uomo assunto dalla Russia ha spiato un'azienda tecnologica e di difesa della Silicon Valley, dicono i federali",
+          "summary_it": "25enne accusato di stalking nei confronti dei dipendenti di un bar e di un inseguimento automobilistico \"aggressivo\".",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 19.0
         }
       ]
     }
