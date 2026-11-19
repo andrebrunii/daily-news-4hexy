@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-18",
   "target_edition_date": "2026-11-19",
-  "last_slot_iso": "2026-11-19T15:05:00",
+  "last_slot_iso": "2026-11-19T16:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1558,6 +1558,88 @@
           "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
           "score": 16.5
+        }
+      ]
+    },
+    {
+      "hour_label": "16:05 CET",
+      "timestamp_str": "2026-11-19 16:05 CET",
+      "items": [
+        {
+          "title_orig": "Media, drone russo vicino all'ambasciata olandese a Kiev",
+          "summary_orig": "Vetri in frantumi, danneggiate auto e posto di guardia",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/media-drone-russo-vicino-allambasciata-olandese-a-kiev_869827b8-6c74-41e4-a966-6242ba4dcb5f.html",
+          "published": "Thu, 19 Nov 2026 15:14:23 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "16:05 CET",
+          "title_it": "Media, drone russo vicino all'ambasciata olandese a Kiev",
+          "summary_it": "Vetri in frantumi, danneggiate auto e posto di guardia",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Nigel Farage is back in Brussels",
+          "summary_orig": "The veteran Brexiteer is in town to attack Andy Burnham's efforts at building bridges with the EU.",
+          "link": "https://www.politico.eu/article/nigel-farage-is-back-in-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Thu, 19 Nov 2026 12:50:25 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "16:05 CET",
+          "title_it": "Nigel Farage è tornato a Bruxelles",
+          "summary_it": "Il veterano Brexiteer è in città per attaccare gli sforzi di Andy Burnham di costruire ponti con l'UE.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 25.0
+        },
+        {
+          "title_orig": "Leaked docs: right-wing X aggregator Visegrad24 used anti-migrant, pro-Israel content to become one of Elon Musk's top X news sources and raise tech funding (James Jackson/Wired)",
+          "summary_orig": "James Jackson / Wired : Leaked docs: right-wing X aggregator Visegrad24 used anti-migrant, pro-Israel content to become one of Elon Musk's top X news sources and raise tech funding — Documents reveal the sordid inner workings of Visegrad24, an obscure Polish influence operation that became one of Elon Musk's favorite sources of fake news.",
+          "link": "https://www.techmeme.com/261119/p34#a261119p34",
+          "published": "Thu, 19 Nov 2026 10:00:38 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "16:05 CET",
+          "title_it": "Documenti trapelati: l'aggregatore X di destra Visegrad24 ha utilizzato contenuti anti-migranti e pro-Israele per diventare una delle principali fonti di notizie X di Elon Musk e raccogliere finanziamenti tecnologici (James Jackson/Wired)",
+          "summary_it": "James Jackson / Wired: Documenti trapelati: l'aggregatore X di destra Visegrad24 ha utilizzato contenuti anti-migranti e filo-israeliani per diventare una delle principali fonti di notizie X di Elon Musk e raccogliere finanziamenti tecnologici — I documenti rivelano lo sordido funzionamento interno di Visegrad24, un'oscura operazione di influenza polacca che è diventata una delle fonti di notizie false preferite di Elon Musk.",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Mouse fight club might explain why we like to watch violent things",
+          "summary_orig": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+          "link": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+          "published": "Thu, 19 Nov 2026 14:04:38 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "16:05 CET",
+          "title_it": "Il club di lotta dei topi potrebbe spiegare perché ci piace guardare cose violente",
+          "summary_it": "Guardare i combattimenti non era bello quanto l'esperienza pratica, ma portava i topi a metà strada.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 12.0
         }
       ]
     }
