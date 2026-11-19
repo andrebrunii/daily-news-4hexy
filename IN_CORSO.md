@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 19 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-14%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-19 11:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Allarme Confagricoltura sulla sicurezza alimentare: troppi cibi a rischio scarsità](https://www.ilsole24ore.com/art/allarme-confagricoltura-sicurezza-alimentare-troppi-cibi-rischio-scarsita-AJdk55KC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Lo ha ricordato di recente il ministro dell’Agricoltura Francesco Lollobrigida: «Il cibo – ha sottolineato – a partire dalla guerra tra Russia e Ucraina viene sempre più spesso utilizzato come...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[2] `🌍 Geopolitica & Mondo` [Xi, armi nucleari da vietare e distruggere, obiettivo un mondo senza atomiche](https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/xi-armi-nucleari-da-vietare-e-distruggere-obiettivo-un-mondo-senza-atomiche_9a5f4583-49b1-4377-9e69-cfb247554130.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Una guerra nucleare non può essere vinta e non deve essere combattuta'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
+- **[3] `💶 Macro & Finanza UE` [Urso, da Ue ok a sito per stoccaggio materie prime a Porto Marghera](https://www.ansa.it/sito/notizie/economia/2026/11/19/urso-da-ue-ok-a-sito-per-stoccaggio-materie-prime-a-porto-marghera_7dd8a2b8-8910-479e-bf32-95ac9f764a19.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** La Commissione ha ritenuto il nostro progetto quello meglio attrezzato
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[4] `🏦 Mercati Globali` [Takaichi riceve una fredda accoglienza in Cina durante la prima visita di un leader giapponese dal 2019](https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Takaichi ha ricevuto un'accoglienza moderata nel suo viaggio per partecipare al vertice APEC, poiché Pechino mostra una scarsa propensione a ricucire i legami tesi dalla disputa con Taiwan.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
 
 ### 🕒 Ora `10:05 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-19 10:05 CET`_

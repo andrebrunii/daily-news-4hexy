@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-18",
   "target_edition_date": "2026-11-19",
-  "last_slot_iso": "2026-11-19T10:05:00",
+  "last_slot_iso": "2026-11-19T11:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1148,6 +1148,88 @@
           "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 29.5
+        }
+      ]
+    },
+    {
+      "hour_label": "11:05 CET",
+      "timestamp_str": "2026-11-19 11:05 CET",
+      "items": [
+        {
+          "title_orig": "Allarme Confagricoltura sulla sicurezza alimentare: troppi cibi a rischio scarsità",
+          "summary_orig": "Lo ha ricordato di recente il ministro dell’Agricoltura Francesco Lollobrigida: «Il cibo – ha sottolineato – a partire dalla guerra tra Russia e Ucraina viene sempre più spesso utilizzato come...",
+          "link": "https://www.ilsole24ore.com/art/allarme-confagricoltura-sicurezza-alimentare-troppi-cibi-rischio-scarsita-AJdk55KC",
+          "published": "Thu, 19 Nov 2026 09:00:00 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "11:05 CET",
+          "title_it": "Allarme Confagricoltura sulla sicurezza alimentare: troppi cibi a rischio scarsità",
+          "summary_it": "Lo ha ricordato di recente il ministro dell’Agricoltura Francesco Lollobrigida: «Il cibo – ha sottolineato – a partire dalla guerra tra Russia e Ucraina viene sempre più spesso utilizzato come...",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 25.5
+        },
+        {
+          "title_orig": "Xi, armi nucleari da vietare e distruggere, obiettivo un mondo senza atomiche",
+          "summary_orig": "'Una guerra nucleare non può essere vinta e non deve essere combattuta'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/xi-armi-nucleari-da-vietare-e-distruggere-obiettivo-un-mondo-senza-atomiche_9a5f4583-49b1-4377-9e69-cfb247554130.html",
+          "published": "Thu, 19 Nov 2026 10:26:03 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "11:05 CET",
+          "title_it": "Xi, armi nucleari da vietare e distruggere, obiettivo un mondo senza atomiche",
+          "summary_it": "'Una guerra nucleare non può essere vinta e non deve essere combattuta'",
+          "impact_eu_it": "Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Urso, da Ue ok a sito per stoccaggio materie prime a Porto Marghera",
+          "summary_orig": "La Commissione ha ritenuto il nostro progetto quello meglio attrezzato",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/urso-da-ue-ok-a-sito-per-stoccaggio-materie-prime-a-porto-marghera_7dd8a2b8-8910-479e-bf32-95ac9f764a19.html",
+          "published": "Thu, 19 Nov 2026 10:51:43 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "11:05 CET",
+          "title_it": "Urso, da Ue ok a sito per stoccaggio materie prime a Porto Marghera",
+          "summary_it": "La Commissione ha ritenuto il nostro progetto quello meglio attrezzato",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
+          "summary_orig": "Takaichi received a subdued welcome on her trip to attend the APEC summit, as Beijing shows limited appetite for repairing ties strained by Taiwan dispute.",
+          "link": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
+          "published": "Thu, 19 Nov 2026 07:38:29 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "11:05 CET",
+          "title_it": "Takaichi riceve una fredda accoglienza in Cina durante la prima visita di un leader giapponese dal 2019",
+          "summary_it": "Takaichi ha ricevuto un'accoglienza moderata nel suo viaggio per partecipare al vertice APEC, poiché Pechino mostra una scarsa propensione a ricucire i legami tesi dalla disputa con Taiwan.",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 21.0
         }
       ]
     }
