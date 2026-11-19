@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 19 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-18%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (18/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
+_Aggiornamento registrato il `2026-11-19 15:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Messico, crescita potenziale da 1,4 miliardi per il made in Italy](https://www.ilsole24ore.com/art/messico-crescita-potenziale-14-miliardi-il-made-italy-AJ6LtDLC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Un paese dove è già consistente la presenza delle nostre imprese: è il primo mercato per l’Italia in America Latina e la terza destinazione dell’export italiano nell’intero continente americano. L’interscambio...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[2] `🌍 Geopolitica & Mondo` [Gb espelle addetto militare del Myanmar dopo sentenza sul genocidio](https://www.ansa.it/sito/notizie/mondo/asia/2026/11/19/gb-espelle-addetto-militare-del-myanmar-dopo-sentenza-sul-genocidio_4665ed1c-62ab-4c57-9a0d-4ece6f8e52f3.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Miliband convoca l'incaricato d'affari e chiede riunione urgente all'Onu
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `💶 Macro & Finanza UE` [Confindustria, nella manovra servono più incentivi per crescita e aggregazioni](https://www.ansa.it/sito/notizie/economia/2026/11/19/confindustria-nella-manovra-servono-piu-incentivi-per-crescita-e-aggregazioni_9abcbec0-bb85-467d-97d0-c03415cc462b.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Da Torino appello per una politica industriale più incisiva
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[4] `🏦 Mercati Globali` [Aggiornamenti live IPO Anthropic: Dario e Daniela Amodei arrivano al Nasdaq prima del debutto](https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Aggiornamenti in tempo reale sull'IPO antropica: segui il debutto al Nasdaq del titolo ANT, il prezzo di apertura delle azioni, la valutazione e la reazione degli investitori al produttore di Claude AI.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `14:05 CET` — Ricerca Oraria (18/23)
 _Aggiornamento registrato il `2026-11-19 14:05 CET`_
