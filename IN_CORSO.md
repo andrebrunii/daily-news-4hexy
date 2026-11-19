@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 19 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
+_Aggiornamento registrato il `2026-11-19 03:05 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Garante privacy indaga su Deutsche Bank dopo maxi fuga di 15 milioni di dati interni](https://it.euronews.com/2026/11/18/garante-privacy-indaga-su-deutsche-bank-dopo-maxi-fuga-di-15-milioni-di-dati-interni)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Mercoledì un’autorità tedesca per la protezione dei dati di un Land ha avviato un’indagine su Deutsche Bank dopo una massiccia fuga di dati. L’autorità sta verificando possibili violazioni delle norme sulla protezione dei dati.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `📈 Economia & Mercati` [Pasta siciliana, cresce l’attesa per la Dop](https://www.ilsole24ore.com/art/pasta-siciliana-cresce-l-attesa-la-dop-AJgIanJC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Il grano duro fino vale poco più di 26 centesimi al chilo a Palermo e a Catania. È il prezzo all’origine rilevato da Ismea il 12 novembre, mentre i cerealicoltori...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `💶 Macro & Finanza UE` [Anthropic amplia la sua Ipo a 81 miliardi, batte quella di SpaceX di Musk](https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-amplia-la-sua-ipo-a-81-miliardi-batte-quella-di-spacex-di-musk_2cf9df65-bd5c-467f-896f-d1b00fa2056f.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** È la più grande della storia, la capitalizzazione si attesta intorno ai 1.500 miliardi
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🏦 Mercati Globali` [Il CEO ad interim di Nvidia, Kress, dice ai dipendenti "andiamo avanti" nel primo incontro collettivo dopo l'uscita di Jensen Huang](https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il CEO ad interim di Nvidia, Colette Kress, spinge il personale ad avanzare e offre aumenti di stipendio dopo l'uscita di Jensen Huang.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
 _Aggiornamento registrato il `2026-11-19 02:05 CET`_

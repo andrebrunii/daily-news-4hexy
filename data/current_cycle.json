@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-18",
   "target_edition_date": "2026-11-19",
-  "last_slot_iso": "2026-11-19T02:05:00",
+  "last_slot_iso": "2026-11-19T03:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -491,6 +491,88 @@
           "summary_it": "Le azioni antropiche inizieranno a essere negoziate sul Nasdaq con il simbolo ANT giovedì.",
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 14.5
+        }
+      ]
+    },
+    {
+      "hour_label": "03:05 CET",
+      "timestamp_str": "2026-11-19 03:05 CET",
+      "items": [
+        {
+          "title_orig": "Garante privacy indaga su Deutsche Bank dopo maxi fuga di 15 milioni di dati interni",
+          "summary_orig": "Mercoledì un’autorità tedesca per la protezione dei dati di un Land ha avviato un’indagine su Deutsche Bank dopo una massiccia fuga di dati. L’autorità sta verificando possibili violazioni delle norme sulla protezione dei dati.",
+          "link": "https://it.euronews.com/2026/11/18/garante-privacy-indaga-su-deutsche-bank-dopo-maxi-fuga-di-15-milioni-di-dati-interni",
+          "published": "Wed, 18 Nov 2026 22:45:32 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "03:05 CET",
+          "title_it": "Garante privacy indaga su Deutsche Bank dopo maxi fuga di 15 milioni di dati interni",
+          "summary_it": "Mercoledì un’autorità tedesca per la protezione dei dati di un Land ha avviato un’indagine su Deutsche Bank dopo una massiccia fuga di dati. L’autorità sta verificando possibili violazioni delle norme sulla protezione dei dati.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Pasta siciliana, cresce l’attesa per la Dop",
+          "summary_orig": "Il grano duro fino vale poco più di 26 centesimi al chilo a Palermo e a Catania. È il prezzo all’origine rilevato da Ismea il 12 novembre, mentre i cerealicoltori...",
+          "link": "https://www.ilsole24ore.com/art/pasta-siciliana-cresce-l-attesa-la-dop-AJgIanJC",
+          "published": "Wed, 18 Nov 2026 06:15:00 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "03:05 CET",
+          "title_it": "Pasta siciliana, cresce l’attesa per la Dop",
+          "summary_it": "Il grano duro fino vale poco più di 26 centesimi al chilo a Palermo e a Catania. È il prezzo all’origine rilevato da Ismea il 12 novembre, mentre i cerealicoltori...",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Anthropic amplia la sua Ipo a 81 miliardi, batte quella di SpaceX di Musk",
+          "summary_orig": "È la più grande della storia, la capitalizzazione si attesta intorno ai 1.500 miliardi",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-amplia-la-sua-ipo-a-81-miliardi-batte-quella-di-spacex-di-musk_2cf9df65-bd5c-467f-896f-d1b00fa2056f.html",
+          "published": "Thu, 19 Nov 2026 02:26:52 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "03:05 CET",
+          "title_it": "Anthropic amplia la sua Ipo a 81 miliardi, batte quella di SpaceX di Musk",
+          "summary_it": "È la più grande della storia, la capitalizzazione si attesta intorno ai 1.500 miliardi",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+          "summary_orig": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
+          "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+          "published": "Wed, 18 Nov 2026 23:45:50 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "03:05 CET",
+          "title_it": "Il CEO ad interim di Nvidia, Kress, dice ai dipendenti \"andiamo avanti\" nel primo incontro collettivo dopo l'uscita di Jensen Huang",
+          "summary_it": "Il CEO ad interim di Nvidia, Colette Kress, spinge il personale ad avanzare e offre aumenti di stipendio dopo l'uscita di Jensen Huang.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 14.5
         }
       ]
