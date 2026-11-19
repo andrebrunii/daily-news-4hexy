@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Giovedì 19 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-4%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (4/23 ricerche orarie):**
-`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md) · [📅 **2026-11-12**](./archivio/2026-11-12.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `01:05 CET` — Ricerca Oraria (5/23)
+_Aggiornamento registrato il `2026-11-19 01:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Principe Harry, 'Russia minaccia preoccupante, pronto a tornare nelle Forze Armate'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/18/principe-harry-russia-minaccia-preoccupante-pronto-a-tornare-nelle-forze-armate_c677f3ad-1515-4e53-ade3-7b4db62df64b.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Intervista al Telegraph: 'Regno Unito in conflitto con Mosca ormai da un decennio'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🇪🇺 Unione Europea & Policy` [La Commissione UE accusata di aver nascosto e-mail sull'eliminazione della legge sui brevetti](https://www.politico.eu/article/commission-accused-of-withholding-emails-on-killing-patent-law/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** I legislatori hanno suggerito che l’inversione di rotta sia avvenuta in seguito a un incontro tra JD Vance e Ursula von der Leyen.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🔭 Ricerca & Spazio` [Bizzarri pesci di acque profonde con una testa trasparente catturati in uno straordinario 4K](https://www.sciencedaily.com/releases/2026/11/261117033917.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Ricercatori di acque profonde hanno catturato nuove straordinarie riprese di un pesce straordinariamente raro con una testa trasparente e occhi rotanti a quasi 2.000 piedi sotto la superficie dell'oceano. Conosciuto come il pesce botte, questa bizzarra creatura usa i suoi occhi rivolti verso l'alto per individuare la preda prima di ruotarli in avanti per seguire il suo prossimo pasto, il tutto mentre una cupola trasparente...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[4] `🏛️ Filosofia & Idee` [Decodificazione dei fossili ediacarani](https://aeon.co/videos/how-a-palaeontologist-decodes-fossils-from-the-dawn-of-complex-life)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Antichi esemplari rivelano come gli animali iniziarono a muoversi mezzo miliardo di anni fa - e persino il primo esempio conosciuto di "manualità" - di Aeon Video Watch su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `00:05 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-19 00:05 CET`_
