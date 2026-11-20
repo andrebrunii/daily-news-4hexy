@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-19",
   "target_edition_date": "2026-11-20",
-  "last_slot_iso": "2026-11-20T06:05:00",
+  "last_slot_iso": "2026-11-20T07:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -820,6 +820,88 @@
           "impact_eu_it": "Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 16.5
+        }
+      ]
+    },
+    {
+      "hour_label": "07:05 CET",
+      "timestamp_str": "2026-11-20 07:05 CET",
+      "items": [
+        {
+          "title_orig": "COP31: 23 motivi di ottimismo sul clima dal vertice ONU",
+          "summary_orig": "Nuove alleanze, impegni e finanziamenti potrebbero aiutare a proteggere i Paesi insulari del Pacifico, ripristinare le torbiere degradate e affrontare lo spreco alimentare globale.",
+          "link": "https://it.euronews.com/2026/11/20/cop31-23-motivi-di-ottimismo-sul-clima-dal-vertice-onu",
+          "published": "Fri, 20 Nov 2026 07:02:00 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "07:05 CET",
+          "title_it": "COP31: 23 motivi di ottimismo sul clima dal vertice ONU",
+          "summary_it": "Nuove alleanze, impegni e finanziamenti potrebbero aiutare a proteggere i Paesi insulari del Pacifico, ripristinare le torbiere degradate e affrontare lo spreco alimentare globale.",
+          "impact_eu_it": "Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 19.0
+        },
+        {
+          "title_orig": "Contratto bancari, Abi sposta il rinnovo al 2027 per un accordo migliore",
+          "summary_orig": "Troppa incertezza tra opas e manovra. Il negoziato prosegue in un rinnovato clima positivo, i sindacati chiedono gli arretrati: i prossimi incontri l’11 e il 21 dicembre",
+          "link": "https://www.ilsole24ore.com/art/contratto-bancari-abi-sposta-rinnovo-2027-un-accordo-migliore-AJR5wPMC",
+          "published": "Fri, 20 Nov 2026 06:00:00 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "07:05 CET",
+          "title_it": "Contratto bancari, Abi sposta il rinnovo al 2027 per un accordo migliore",
+          "summary_it": "Troppa incertezza tra opas e manovra. Il negoziato prosegue in un rinnovato clima positivo, i sindacati chiedono gli arretrati: i prossimi incontri l’11 e il 21 dicembre",
+          "impact_eu_it": "Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Borsa: l'Europa peggiora con Wall street, Milano -0,1%",
+          "summary_orig": "Gira in negativo Technoprobe, scivolano Tim e Nexi",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/borsa-leuropa-peggiora-con-wall-street-milano-01_abf8202d-0d4a-4646-b12e-c8ed86c7f16f.html",
+          "published": "Thu, 19 Nov 2026 16:52:35 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "07:05 CET",
+          "title_it": "Borsa: l'Europa peggiora con Wall street, Milano -0,1%",
+          "summary_it": "Gira in negativo Technoprobe, scivolano Tim e Nexi",
+          "impact_eu_it": "Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+          "summary_orig": "Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.",
+          "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
+          "published": "Fri, 20 Nov 2026 06:00:01 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "07:05 CET",
+          "title_it": "Dimenticate l’antropologia: in Europa, l’hype dell’IPO riguarda una laguna blu",
+          "summary_it": "La famosa spa geotermica islandese Blue Lagoon si quota in borsa con una IPO da 110 milioni di dollari, stimolando l’interesse degli investitori per il turismo e il settore del benessere in forte espansione.",
+          "impact_eu_it": "Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 23.5
         }
       ]
     }
