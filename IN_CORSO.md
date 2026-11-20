@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
+_Aggiornamento registrato il `2026-11-20 03:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Tagliacarne, Le guerre generano incertezza in più del 57% delle imprese italiane](https://www.ilsole24ore.com/art/tagliacarne-guerre-generano-incertezza-piu-57percento-imprese-italiane-AJqrmsKC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Guerre, tensioni geopolitiche, instabilità energetica e restrizioni commerciali condizionano le scelte e l’attività delle imprese italiane. Il 58,6% delle aziende del Centro-Nord e il 57,9% di quelle del Mezzogiorno dichiarano...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌍 Geopolitica & Mondo` [Ue, Hansen annuncia investimenti in Messico per cinque miliardi di euro](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/20/ue-hansen-annuncia-investimenti-in-messico-per-cinque-miliardi-di-euro_90331501-dfe5-419a-9998-10702111fcf9.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il nuovo accordo bilaterale eliminerà il 95% dei dazi agroalimentari e tutelerà 568 Ig
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[3] `💶 Macro & Finanza UE` [Lo spread tra Btp e Bund chiude in rialzo a 107 punti base](https://www.ansa.it/sito/notizie/economia/2026/11/19/lo-spread-tra-btp-e-bund-chiude-in-rialzo-a-107-punti-base_6dc6d4dc-fc4b-4b8d-9407-3bba09094553.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Il rendimento del prodotto del Tesoro è al 4,47%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [SoftBank crolla di oltre il 16% mentre il sell-off dell'intelligenza artificiale colpisce i titoli tecnologici asiatici dopo il debutto di Anthropic](https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Venerdì le azioni di SoftBank sono crollate di oltre il 16% mentre i titoli tecnologici giapponesi e sudcoreani sono crollati bruscamente.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
 _Aggiornamento registrato il `2026-11-20 02:05 CET`_
