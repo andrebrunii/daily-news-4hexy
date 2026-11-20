@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-13%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (13/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `09:05 CET` — Ricerca Oraria (13/23)
+_Aggiornamento registrato il `2026-11-20 09:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Forze armate polacche, verifiche su una possibile violazione dello spazio aereo](https://www.ansa.it/sito/notizie/mondo/2026/11/20/forze-armate-polacche-verifiche-su-una-possibile-violazione-dello-spazio-aereo_6104402c-305d-441e-a983-2c8dfb41bd5e.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Attacco su Kiev, tre morti e colpiti i ponti cittadini
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[2] `🇪🇺 Unione Europea & Policy` [Accumulare scorte in Gran Bretagna: Westminster sa qualcosa che noi non sappiamo?](https://www.politico.eu/podcast/westminster-insider/stockpiling-britain-does-westminster-know-something-we-dont/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Un “evento Black Sky” – un grave blackout che potrebbe interrompere le comunicazioni, interrompere le forniture alimentari e paralizzare la vita di tutti i giorni – è tra gli scenari di cui si preoccupano i pianificatori di emergenza. Ora la nuova campagna del governo “Be Ready” esorta i cittadini britannici ad accumulare cibo, acqua e altri beni di prima necessità. Ma perché all’improvviso i politici sono così […]
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🔭 Ricerca & Spazio` [Perché i farmaci dimagranti come Ozempic e Wegovy non funzionano per tutti?](https://www.sciencedaily.com/releases/2026/11/261118065518.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Perché Ozempic e Wegovy producono una notevole perdita di peso per alcune persone ma risultati deludenti per altre? Gli scienziati stanno studiando se la risposta nascosta di risparmio energetico del corpo potrebbe aiutare a spiegare la differenza e sbloccare trattamenti dimagranti più efficaci e personalizzati.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Chiedi a Ethan: gli aloni radioattivi del polonio supportano una Terra giovane?](https://bigthink.com/starts-with-a-bang/polonium-radiohalos-young-earth/)** — *(Big Think)*
+  - 📌 **Sintesi:** Una delle cose più belle della scienza è che se arriva anche una sola prova solida che contraddice anche le nostre idee più profondamente radicate sulla realtà, significa che il nostro attuale modo di pensare alle cose deve essere rivisto. Le osservazioni dell’orbita di Mercurio alla fine del 1800 portarono al rovesciamento della gravità newtoniana; IL...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
 
 ### 🕒 Ora `08:05 CET` — Ricerca Oraria (12/23)
 _Aggiornamento registrato il `2026-11-20 08:05 CET`_

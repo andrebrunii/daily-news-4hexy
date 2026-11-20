@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-19",
   "target_edition_date": "2026-11-20",
-  "last_slot_iso": "2026-11-20T08:05:00",
+  "last_slot_iso": "2026-11-20T09:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -984,6 +984,88 @@
           "impact_eu_it": "Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 15.5
+        }
+      ]
+    },
+    {
+      "hour_label": "09:05 CET",
+      "timestamp_str": "2026-11-20 09:05 CET",
+      "items": [
+        {
+          "title_orig": "Forze armate polacche, verifiche su una possibile violazione dello spazio aereo",
+          "summary_orig": "Attacco su Kiev, tre morti e colpiti i ponti cittadini",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/forze-armate-polacche-verifiche-su-una-possibile-violazione-dello-spazio-aereo_6104402c-305d-441e-a983-2c8dfb41bd5e.html",
+          "published": "Fri, 20 Nov 2026 09:02:05 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "09:05 CET",
+          "title_it": "Forze armate polacche, verifiche su una possibile violazione dello spazio aereo",
+          "summary_it": "Attacco su Kiev, tre morti e colpiti i ponti cittadini",
+          "impact_eu_it": "Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 16.0
+        },
+        {
+          "title_orig": "Stockpiling Britain: Does Westminster know something we don’t?",
+          "summary_orig": "A ‘Black Sky event’ — a major blackout that could knock out communications, disrupt food supplies and bring everyday life to a standstill — is among the scenarios emergency planners worry about. Now the government’s new ‘Be Ready’ campaign is urging Britons to stockpile food, water and other essentials. But why are politicians suddenly so […]",
+          "link": "https://www.politico.eu/podcast/westminster-insider/stockpiling-britain-does-westminster-know-something-we-dont/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Fri, 20 Nov 2026 03:00:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "09:05 CET",
+          "title_it": "Accumulare scorte in Gran Bretagna: Westminster sa qualcosa che noi non sappiamo?",
+          "summary_it": "Un “evento Black Sky” – un grave blackout che potrebbe interrompere le comunicazioni, interrompere le forniture alimentari e paralizzare la vita di tutti i giorni – è tra gli scenari di cui si preoccupano i pianificatori di emergenza. Ora la nuova campagna del governo “Be Ready” esorta i cittadini britannici ad accumulare cibo, acqua e altri beni di prima necessità. Ma perché all’improvviso i politici sono così […]",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 20.0
+        },
+        {
+          "title_orig": "Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?",
+          "summary_orig": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body's hidden energy-saving response could help explain the difference and unlock more effective, personalized weight-loss treatments.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261118065518.htm",
+          "published": "Thu, 19 Nov 2026 03:43:56 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "09:05 CET",
+          "title_it": "Perché i farmaci dimagranti come Ozempic e Wegovy non funzionano per tutti?",
+          "summary_it": "Perché Ozempic e Wegovy producono una notevole perdita di peso per alcune persone ma risultati deludenti per altre? Gli scienziati stanno studiando se la risposta nascosta di risparmio energetico del corpo potrebbe aiutare a spiegare la differenza e sbloccare trattamenti dimagranti più efficaci e personalizzati.",
+          "impact_eu_it": "Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Ask Ethan: Do polonium radiohalos support a young Earth?",
+          "summary_orig": "One of the most beautiful things about science is that if even one single piece of robust evidence comes along that contradicts even our most deeply held ideas about reality, it means that our current way of thinking about things must be revised. The observations of Mercury’s orbit in the late 1800s led to the overthrow of Newtonian gravity; the...",
+          "link": "https://bigthink.com/starts-with-a-bang/polonium-radiohalos-young-earth/",
+          "published": "Fri, 20 Nov 2026 07:00:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "09:05 CET",
+          "title_it": "Chiedi a Ethan: gli aloni radioattivi del polonio supportano una Terra giovane?",
+          "summary_it": "Una delle cose più belle della scienza è che se arriva anche una sola prova solida che contraddice anche le nostre idee più profondamente radicate sulla realtà, significa che il nostro attuale modo di pensare alle cose deve essere rivisto. Le osservazioni dell’orbita di Mercurio alla fine del 1800 portarono al rovesciamento della gravità newtoniana; IL...",
+          "impact_eu_it": "Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Le trasformazioni più radicali della storia non iniziano nei parlamenti o nelle borse, ma nel cambio silenzioso delle categorie mentali con cui una civiltà interpreta ciò che è normale, giusto o desiderabile.\n> 🧠 **Lente Filosofica:** Come scriveva Seneca, *«nessun vento è favorevole per il marinaio che non sa a quale porto vuol approdare»*. In un'epoca ossessionata dall'accelerazione dei mezzi, fermarsi a interrogare i fini è l'atto più sovversivo e necessario.",
+          "score": 14.0
         }
       ]
     }
