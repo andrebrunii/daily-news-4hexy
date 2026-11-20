@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-20 12:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Ministro polacco: "Due missili e un drone russo caduti sul nostro territorio"](https://www.ansa.it/sito/notizie/mondo/2026/11/20/ministro-polacco-due-missili-e-un-drone-russo-caduti-sul-nostro-territorio_6104402c-305d-441e-a983-2c8dfb41bd5e.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Chiusi due aeroporti, ora riaperti. Verifiche su una possibile violazione dello spazio aereo
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[2] `🇪🇺 Unione Europea & Policy` [“Il personale merita risposte” sull’attacco informatico della Commissione, afferma il sindacato](https://www.politico.eu/article/staff-deserve-answers-eu-commission-cyberattack-union-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** L'esecutivo dell'UE "non ha ancora inviato un unico aggiornamento a tutto il personale" sul recente attacco informatico, afferma un'e-mail del sindacato.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [Signal afferma che limiterà gli screenshot per impostazione predefinita per impedire agli agenti AI di leggere le chat private sui telefoni, ma avverte che le sue nuove protezioni sono "incomplete" (Katie Paul/Reuters)](https://www.techmeme.com/261120/p9#a261120p9)** — *(Techmeme)*
+  - 📌 **Sintesi:** Katie Paul / Reuters: Signal afferma che limiterà gli screenshot per impostazione predefinita per impedire agli agenti AI di leggere le chat private sui telefoni, ma avverte che le sue nuove protezioni sono "incomplete" - Il servizio di messaggistica crittografato Signal ha detto venerdì che limiterà gli screenshot per impedire agli agenti AI di leggere le chat private sui telefoni...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `💻 Tecnologia & Cyber` [Google si rivolge a Blue Origin per un razzo, ma il suo problema a lungo termine rimane](https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** "Il Progetto Suncatcher è un lancio sulla Luna a lungo termine."
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-20 11:05 CET`_

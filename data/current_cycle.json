@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-19",
   "target_edition_date": "2026-11-20",
-  "last_slot_iso": "2026-11-20T11:05:00",
+  "last_slot_iso": "2026-11-20T12:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1230,6 +1230,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 20.5
+        }
+      ]
+    },
+    {
+      "hour_label": "12:05 CET",
+      "timestamp_str": "2026-11-20 12:05 CET",
+      "items": [
+        {
+          "title_orig": "Ministro polacco: \"Due missili e un drone russo caduti sul nostro territorio\"",
+          "summary_orig": "Chiusi due aeroporti, ora riaperti. Verifiche su una possibile violazione dello spazio aereo",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/ministro-polacco-due-missili-e-un-drone-russo-caduti-sul-nostro-territorio_6104402c-305d-441e-a983-2c8dfb41bd5e.html",
+          "published": "Fri, 20 Nov 2026 11:51:58 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "12:05 CET",
+          "title_it": "Ministro polacco: \"Due missili e un drone russo caduti sul nostro territorio\"",
+          "summary_it": "Chiusi due aeroporti, ora riaperti. Verifiche su una possibile violazione dello spazio aereo",
+          "impact_eu_it": "Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 16.0
+        },
+        {
+          "title_orig": "‘Staff deserve answers’ on Commission cyberattack, union says",
+          "summary_orig": "EU executive “yet to send a single update to all staff\" about recent cyberattack, union email says.",
+          "link": "https://www.politico.eu/article/staff-deserve-answers-eu-commission-cyberattack-union-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Fri, 20 Nov 2026 10:04:39 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "12:05 CET",
+          "title_it": "“Il personale merita risposte” sull’attacco informatico della Commissione, afferma il sindacato",
+          "summary_it": "L'esecutivo dell'UE \"non ha ancora inviato un unico aggiornamento a tutto il personale\" sul recente attacco informatico, afferma un'e-mail del sindacato.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 20.0
+        },
+        {
+          "title_orig": "Signal says it will restrict screenshots by default to stop AI agents from reading private chats on phones but warns its new protections are \"incomplete\" (Katie Paul/Reuters)",
+          "summary_orig": "Katie Paul / Reuters : Signal says it will restrict screenshots by default to stop AI agents from reading private chats on phones but warns its new protections are “incomplete” — Encrypted messaging service Signal said on Friday it would restrict screenshots to stop AI agents from reading private chats on phones …",
+          "link": "https://www.techmeme.com/261120/p9#a261120p9",
+          "published": "Fri, 20 Nov 2026 06:00:39 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "12:05 CET",
+          "title_it": "Signal afferma che limiterà gli screenshot per impostazione predefinita per impedire agli agenti AI di leggere le chat private sui telefoni, ma avverte che le sue nuove protezioni sono \"incomplete\" (Katie Paul/Reuters)",
+          "summary_it": "Katie Paul / Reuters: Signal afferma che limiterà gli screenshot per impostazione predefinita per impedire agli agenti AI di leggere le chat private sui telefoni, ma avverte che le sue nuove protezioni sono \"incomplete\" - Il servizio di messaggistica crittografato Signal ha detto venerdì che limiterà gli screenshot per impedire agli agenti AI di leggere le chat private sui telefoni...",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+          "summary_orig": "\"Project Suncatcher is a long-term moonshot.\"",
+          "link": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+          "published": "Thu, 19 Nov 2026 19:52:54 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "12:05 CET",
+          "title_it": "Google si rivolge a Blue Origin per un razzo, ma il suo problema a lungo termine rimane",
+          "summary_it": "\"Il Progetto Suncatcher è un lancio sulla Luna a lungo termine.\"",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 12.0
         }
       ]
     }
