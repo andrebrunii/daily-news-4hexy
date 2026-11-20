@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-20",
   "target_edition_date": "2026-11-21",
-  "last_slot_iso": "2026-11-20T23:05:00",
+  "last_slot_iso": "2026-11-21T00:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -246,6 +246,88 @@
           "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
           "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
           "score": 14.0
+        }
+      ]
+    },
+    {
+      "hour_label": "00:05 CET",
+      "timestamp_str": "2026-11-21 00:05 CET",
+      "items": [
+        {
+          "title_orig": "Giudice Usa, 'la Bayer pagherà 7,25 miliardi alle vittime del diserbante Roundup'",
+          "summary_orig": "E' uno dei più grandi risarcimenti collettivi della storia americana",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/giudice-usa-la-bayer-paghera-725-miliardi-alle-vittime-del-diserbante_b5e32c77-675d-454f-aefc-caaff9ebacfe.html",
+          "published": "Fri, 20 Nov 2026 23:35:44 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "00:05 CET",
+          "title_it": "Giudice Usa, 'la Bayer pagherà 7,25 miliardi alle vittime del diserbante Roundup'",
+          "summary_it": "E' uno dei più grandi risarcimenti collettivi della storia americana",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Latvian leader calls for closure of EU borders to all Russians",
+          "summary_orig": "Andris Kulbergs warned that Europe cannot screen hundreds of thousands of Russian tourists as Moscow escalates its hybrid attacks.",
+          "link": "https://www.politico.eu/article/latvian-leader-andris-kulbergs-calls-for-closure-of-eu-borders-to-all-russians/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Fri, 20 Nov 2026 16:28:09 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "00:05 CET",
+          "title_it": "Il leader lettone chiede la chiusura dei confini dell'UE a tutti i russi",
+          "summary_it": "Andris Kulbergs ha avvertito che l’Europa non può proteggere centinaia di migliaia di turisti russi mentre Mosca intensifica i suoi attacchi ibridi.",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 27.0
+        },
+        {
+          "title_orig": "Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to \"geopolitical risk\"; Cursor's Composer 2 was built on Kimi K2.5 (Kai Nicol-Schwarz/CNBC)",
+          "summary_orig": "Kai Nicol-Schwarz / CNBC : Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to “geopolitical risk”; Cursor's Composer 2 was built on Kimi K2.5 — SpaceX's artificial-intelligence coding platform, Cursor, is considering moving away from using of Chinese AI models due to “geopolitical risk,” CNBC has learned.",
+          "link": "https://www.techmeme.com/261120/p39#a261120p39",
+          "published": "Fri, 20 Nov 2026 18:00:01 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "00:05 CET",
+          "title_it": "Cursor dice ai legislatori che sta valutando la possibilità di eliminare gradualmente i modelli cinesi di intelligenza artificiale a peso aperto a causa del “rischio geopolitico”; Cursor's Composer 2 è stato realizzato su Kimi K2.5 (Kai Nicol-Schwarz/CNBC)",
+          "summary_it": "Kai Nicol-Schwarz / CNBC: Cursor dice ai legislatori che sta valutando la possibilità di eliminare gradualmente i modelli cinesi di intelligenza artificiale a peso aperto a causa del “rischio geopolitico”; Cursor's Composer 2 è stato costruito su Kimi K2.5: la piattaforma di codifica di intelligenza artificiale di SpaceX, Cursor, sta valutando la possibilità di abbandonare l'uso di modelli di intelligenza artificiale cinese a causa del \"rischio geopolitico\", ha appreso la CNBC.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Trump FCC declares California isn't allowed to enforce phone service rules",
+          "summary_orig": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+          "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+          "published": "Fri, 20 Nov 2026 22:28:24 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "00:05 CET",
+          "title_it": "La Trump FCC dichiara che alla California non è consentito applicare le regole del servizio telefonico",
+          "summary_it": "La FCC anticipa le norme statali che richiedono ad AT&T di continuare a offrire il servizio di telefonia domestica.",
+          "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 15.5
         }
       ]
     }

@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 21 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-3%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-4%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (3/23 ricerche orarie):**
-`🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (4/23 ricerche orarie):**
+`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `00:05 CET` — Ricerca Oraria (4/23)
+_Aggiornamento registrato il `2026-11-21 00:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Giudice Usa, 'la Bayer pagherà 7,25 miliardi alle vittime del diserbante Roundup'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/giudice-usa-la-bayer-paghera-725-miliardi-alle-vittime-del-diserbante_b5e32c77-675d-454f-aefc-caaff9ebacfe.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** E' uno dei più grandi risarcimenti collettivi della storia americana
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Unione Europea & Policy` [Il leader lettone chiede la chiusura dei confini dell'UE a tutti i russi](https://www.politico.eu/article/latvian-leader-andris-kulbergs-calls-for-closure-of-eu-borders-to-all-russians/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Andris Kulbergs ha avvertito che l’Europa non può proteggere centinaia di migliaia di turisti russi mentre Mosca intensifica i suoi attacchi ibridi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[3] `🤖 IA & Frontiera Tech` [Cursor dice ai legislatori che sta valutando la possibilità di eliminare gradualmente i modelli cinesi di intelligenza artificiale a peso aperto a causa del “rischio geopolitico”; Cursor's Composer 2 è stato realizzato su Kimi K2.5 (Kai Nicol-Schwarz/CNBC)](https://www.techmeme.com/261120/p39#a261120p39)** — *(Techmeme)*
+  - 📌 **Sintesi:** Kai Nicol-Schwarz / CNBC: Cursor dice ai legislatori che sta valutando la possibilità di eliminare gradualmente i modelli cinesi di intelligenza artificiale a peso aperto a causa del “rischio geopolitico”; Cursor's Composer 2 è stato costruito su Kimi K2.5: la piattaforma di codifica di intelligenza artificiale di SpaceX, Cursor, sta valutando la possibilità di abbandonare l'uso di modelli di intelligenza artificiale cinese a causa del "rischio geopolitico", ha appreso la CNBC.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `💻 Tecnologia & Cyber` [La Trump FCC dichiara che alla California non è consentito applicare le regole del servizio telefonico](https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** La FCC anticipa le norme statali che richiedono ad AT&T di continuare a offrire il servizio di telefonia domestica.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
 
 ### 🕒 Ora `23:05 CET` — Ricerca Oraria (3/23)
 _Aggiornamento registrato il `2026-11-20 23:05 CET`_
