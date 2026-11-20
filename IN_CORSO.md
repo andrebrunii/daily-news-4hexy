@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-8%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-9%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (8/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (9/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `05:05 CET` — Ricerca Oraria (9/23)
+_Aggiornamento registrato il `2026-11-20 05:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Attacco missilistico su Kiev, incendi in più quartieri](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/attacco-missilistico-su-kiev-incendi-in-piu-quartieri_dc4d87e1-c1a6-4cb5-826f-a0985aa6e723.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Colpita anche zona vicino a un ponte
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [Das Zaudern der Manuela Schwesig](https://www.politico.eu/podcast/berlin-playbook-podcast/das-zaudern-der-manuela-schwesig/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Wer übernimmt die Macht in der SPD? Als wiedergewählte Ministerpräsidentin von Mecklenburg-Vorpommern ist Manuela Schwesig die ungekrönte Königin der Partei, doch bei der Frage nach dem Vorsitz taktiert sie noch. Rasmus Buchsteiner analysiert, warum sie zögert, wie sich Hubertus Heil in Stellung Bringt und was das für Lars Klingbeil bedeutet. Auf den...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🔭 Ricerca & Spazio` [Il composto sperimentale brucia i grassi senza sacrificare i muscoli](https://www.sciencedaily.com/releases/2026/11/261118073918.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** I ricercatori dell'UC Berkeley hanno identificato un composto che potrebbe trasformare il trattamento dimagrante aiutando il corpo a bruciare più energia invece di sopprimere l'appetito come Ozempic e Wegovy. Nei topi, il composto ha aumentato il dispendio energetico fino al 18%, ha migliorato il controllo dello zucchero nel sangue, ha ridotto il grasso del fegato e ha promosso la perdita di peso senza un significativo aumento della massa muscolare.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[4] `💶 Macro & Finanza UE` [Borsa: l'Europa conclude in ribasso, Londra -0,9%](https://www.ansa.it/sito/notizie/economia/2026/11/19/borsa-leuropa-conclude-in-ribasso-londra-09_587bb1ab-9592-4b0f-9f61-4210ee34ef2f.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Deboli Francoforte e Madrid, più cauta Amsterdam
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
 
 ### 🕒 Ora `04:05 CET` — Ricerca Oraria (8/23)
 _Aggiornamento registrato il `2026-11-20 04:05 CET`_

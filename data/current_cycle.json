@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-19",
   "target_edition_date": "2026-11-20",
-  "last_slot_iso": "2026-11-20T04:05:00",
+  "last_slot_iso": "2026-11-20T05:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -656,6 +656,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "05:05 CET",
+      "timestamp_str": "2026-11-20 05:05 CET",
+      "items": [
+        {
+          "title_orig": "Attacco missilistico su Kiev, incendi in più quartieri",
+          "summary_orig": "Colpita anche zona vicino a un ponte",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/attacco-missilistico-su-kiev-incendi-in-piu-quartieri_dc4d87e1-c1a6-4cb5-826f-a0985aa6e723.html",
+          "published": "Fri, 20 Nov 2026 03:10:07 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "05:05 CET",
+          "title_it": "Attacco missilistico su Kiev, incendi in più quartieri",
+          "summary_it": "Colpita anche zona vicino a un ponte",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Das Zaudern der Manuela Schwesig",
+          "summary_orig": "Wer übernimmt die Macht in der SPD? Als wiedergewählte Ministerpräsidentin von Mecklenburg-Vorpommern ist Manuela Schwesig die ungekrönte Königin der Partei, doch bei der Frage nach dem Vorsitz taktiert sie noch. Rasmus Buchsteiner analysiert, warum sie zögert, wie sich Hubertus Heil in Stellung bringt und was das für Lars Klingbeil bedeutet. Auf den...",
+          "link": "https://www.politico.eu/podcast/berlin-playbook-podcast/das-zaudern-der-manuela-schwesig/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Fri, 20 Nov 2026 04:02:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "05:05 CET",
+          "title_it": "Das Zaudern der Manuela Schwesig",
+          "summary_it": "Wer übernimmt die Macht in der SPD? Als wiedergewählte Ministerpräsidentin von Mecklenburg-Vorpommern ist Manuela Schwesig die ungekrönte Königin der Partei, doch bei der Frage nach dem Vorsitz taktiert sie noch. Rasmus Buchsteiner analysiert, warum sie zögert, wie sich Hubertus Heil in Stellung Bringt und was das für Lars Klingbeil bedeutet. Auf den...",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 16.5
+        },
+        {
+          "title_orig": "Experimental compound burns fat without sacrificing muscle",
+          "summary_orig": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle...",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+          "published": "Thu, 19 Nov 2026 19:19:49 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "05:05 CET",
+          "title_it": "Il composto sperimentale brucia i grassi senza sacrificare i muscoli",
+          "summary_it": "I ricercatori dell'UC Berkeley hanno identificato un composto che potrebbe trasformare il trattamento dimagrante aiutando il corpo a bruciare più energia invece di sopprimere l'appetito come Ozempic e Wegovy. Nei topi, il composto ha aumentato il dispendio energetico fino al 18%, ha migliorato il controllo dello zucchero nel sangue, ha ridotto il grasso del fegato e ha promosso la perdita di peso senza un significativo aumento della massa muscolare.",
+          "impact_eu_it": "Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Borsa: l'Europa conclude in ribasso, Londra -0,9%",
+          "summary_orig": "Deboli Francoforte e Madrid, più cauta Amsterdam",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/borsa-leuropa-conclude-in-ribasso-londra-09_587bb1ab-9592-4b0f-9f61-4210ee34ef2f.html",
+          "published": "Thu, 19 Nov 2026 17:42:00 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "05:05 CET",
+          "title_it": "Borsa: l'Europa conclude in ribasso, Londra -0,9%",
+          "summary_it": "Deboli Francoforte e Madrid, più cauta Amsterdam",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 15.5
         }
       ]
     }
