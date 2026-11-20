@@ -1,6 +1,89 @@
 {
   "last_published_edition_date": "2026-11-20",
   "target_edition_date": "2026-11-21",
-  "last_slot_iso": "2026-11-20T20:05:00",
-  "hourly_batches": []
+  "last_slot_iso": "2026-11-20T21:05:00",
+  "hourly_batches": [
+    {
+      "hour_label": "21:05 CET",
+      "timestamp_str": "2026-11-20 21:05 CET",
+      "items": [
+        {
+          "title_orig": "Orario di lavoro ridotto a parità di stipendio: sperimentazioni per 900mila dipendenti",
+          "summary_orig": "Sono oltre 900mila i dipendenti di aziende coinvolti a vario titolo da operazioni di riduzione dell’orario di lavoro a parità di salario: in prevalenza lavorano nel privato, tra i settori...",
+          "link": "https://www.ilsole24ore.com/art/orario-lavoro-ridotto-parita-stipendio-sperimentazioni-900mila-dipendenti-AJeyDyLC",
+          "published": "Fri, 20 Nov 2026 07:07:49 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "21:05 CET",
+          "title_it": "Orario di lavoro ridotto a parità di stipendio: sperimentazioni per 900mila dipendenti",
+          "summary_it": "Sono oltre 900mila i dipendenti di aziende coinvolti a vario titolo da operazioni di riduzione dell’orario di lavoro a parità di salario: in prevalenza lavorano nel privato, tra i settori...",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "L'Argentina approva il maxi investimento sul Gnl di Eni, Ypf e Xrg",
+          "summary_orig": "La decisione finale di investimento verrà siglata il 30 novembre a Buenos Aires",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/20/largentina-approva-il-maxi-investimento-sul-gnl-di-eni-ypf-e-xrg_3f88f05d-a87c-4f54-90a7-4176495b1ea4.html",
+          "published": "Fri, 20 Nov 2026 20:16:36 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "21:05 CET",
+          "title_it": "L'Argentina approva il maxi investimento sul Gnl di Eni, Ypf e Xrg",
+          "summary_it": "La decisione finale di investimento verrà siglata il 30 novembre a Buenos Aires",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Il petrolio chiude in rialzo a New York a 84,03 dollari",
+          "summary_orig": "Crescita dello 0,99%",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/il-petrolio-chiude-in-rialzo-a-new-york-a-8403-dollari_1bb340dd-a096-44c7-aab0-880c11445568.html",
+          "published": "Fri, 20 Nov 2026 20:37:17 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "21:05 CET",
+          "title_it": "Il petrolio chiude in rialzo a New York a 84,03 dollari",
+          "summary_it": "Crescita dello 0,99%",
+          "impact_eu_it": "Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 14.0
+        },
+        {
+          "title_orig": "Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis",
+          "summary_orig": "Once the most valuable company in the world, Nvidia now ranks third behind Apple and Microsoft.",
+          "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+          "published": "Fri, 20 Nov 2026 19:54:31 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "21:05 CET",
+          "title_it": "Le azioni di Nvidia crollano del 12%, cavalcando la serie di perdite settimanali più lunga dalla crisi finanziaria del 2008",
+          "summary_it": "Un tempo l’azienda di maggior valore al mondo, Nvidia è ora al terzo posto dietro Apple e Microsoft.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 14.5
+        }
+      ]
+    }
+  ]
 }
