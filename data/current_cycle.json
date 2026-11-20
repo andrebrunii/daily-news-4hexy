@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-19",
   "target_edition_date": "2026-11-20",
-  "last_slot_iso": "2026-11-20T13:05:00",
+  "last_slot_iso": "2026-11-20T14:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1394,6 +1394,88 @@
           "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
           "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
           "score": 15.0
+        }
+      ]
+    },
+    {
+      "hour_label": "14:05 CET",
+      "timestamp_str": "2026-11-20 14:05 CET",
+      "items": [
+        {
+          "title_orig": "Tusk: Russian cruise missile incursion into Poland seems ‘intentional’",
+          "summary_orig": "“This doesn’t look like an accident,” the Polish prime minister warned.",
+          "link": "https://www.politico.eu/article/russian-missile-incursion-into-poland-seems-intentional-tusk-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Fri, 20 Nov 2026 12:43:31 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "14:05 CET",
+          "title_it": "Tusk: l’incursione russa di missili da crociera in Polonia sembra “intenzionale”",
+          "summary_it": "“Non sembra un incidente”, ha avvertito il primo ministro polacco.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+          "summary_orig": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+          "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Nov 2026 13:01:16 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "14:05 CET",
+          "title_it": "La Russia prende di mira i valichi di Kiev pochi giorni dopo che l’Ucraina ha colpito il ponte di Crimea",
+          "summary_it": "La Russia ha lanciato uno dei suoi più grandi attacchi aerei finora rifiutando la prospettiva di garanzie di sicurezza per l’Ucraina.",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 28.0
+        },
+        {
+          "title_orig": "Anthropic in rosso nel premarket, perde quasi il 10% dopo il balzo di ieri",
+          "summary_orig": "Titolo poco sopra 87 dollari, in chiusura era a 97",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/anthropic-in-rosso-nel-premarket-perde-quasi-il-10-dopo-il-balzo-di-ieri_3be1ef5c-6763-496d-b7e8-51f75ecf5def.html",
+          "published": "Fri, 20 Nov 2026 13:31:53 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "14:05 CET",
+          "title_it": "Anthropic in rosso nel premarket, perde quasi il 10% dopo il balzo di ieri",
+          "summary_it": "Titolo poco sopra 87 dollari, in chiusura era a 97",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
+          "summary_orig": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+          "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+          "published": "Fri, 20 Nov 2026 12:45:11 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "14:05 CET",
+          "title_it": "Anthropic sfida le probabilità, mantenendo un record di IPO nonostante un mercato “massicciamente dirompente”.",
+          "summary_it": "Anthropic ha dovuto affrontare una svendita del mercato, un furioso sentimento anti-IA e una crisi di Nvidia nel portare a termine la più grande IPO mai registrata.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 19.0
         }
       ]
     }
