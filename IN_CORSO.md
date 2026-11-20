@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-8%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (8/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `04:05 CET` — Ricerca Oraria (8/23)
+_Aggiornamento registrato il `2026-11-20 04:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` ['Trump agli europei, Putin vuole la fine della guerra'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/trump-agli-europei-putin-vuole-la-fine-della-guerra_fad02026-ed79-4ad6-a2a0-59790fcd1a0c.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Lo riporta Axios
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🇪🇺 Unione Europea & Policy` [Ritardare un altro giorno: come James Bond può salvare l'UE](https://www.politico.eu/article/delay-another-day-james-bond-help-robert-pattinson-save-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Una serie di film di 007 a tema europeo? Sì, per favore.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Documenti: a partire da maggio 2026, il Dipartimento del Commercio degli Stati Uniti ha approvato la vendita di oltre 879.000 chip AI a società cinesi, comprese le entità presenti nella Chinese Military-Linked List (CNBC) del DOD.](https://www.techmeme.com/261119/p59#a261119p59)** — *(Techmeme)*
+  - 📌 **Sintesi:** CNBC: Documenti: a partire da maggio 2026, il Dipartimento del Commercio degli Stati Uniti ha approvato la vendita di oltre 879.000 chip AI a società cinesi, comprese le entità presenti nell'elenco collegato all'esercito cinese del DOD - La sottoagenzia del Dipartimento del Commercio che regola e impone le esportazioni ha approvato la vendita di oltre 879.000 chip AI...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[4] `💻 Tecnologia & Cyber` [Il rapporto mostra che il MAHA PAC ha speso più per bistecche e club di lusso che per candidati](https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** L'esperto ha definito la spesa del MAHA "piuttosto insolita" per un PAC.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
 _Aggiornamento registrato il `2026-11-20 03:05 CET`_
