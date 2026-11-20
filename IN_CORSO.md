@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `08:05 CET` — Ricerca Oraria (12/23)
+_Aggiornamento registrato il `2026-11-20 08:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Tre morti e due feriti a Kiev per gli attacchi russi della notte](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/20/tre-morti-e-due-feriti-a-kiev-per-gli-attacchi-russi-della_ab21f2f0-1d1c-4c4e-856c-ac8da6d5dde9.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Lo ha reso noto l'amministrazione militare della capitale ucraina
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[2] `🇪🇺 Unione Europea & Policy` [5 punti salienti del dibattito elettorale spagnolo](https://www.politico.eu/article/spain-election-debate-5-takeaways-pedro-sanchez-alberto-nunez-feijoo/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** I due principali leader del partito si sono scontrati su corruzione, migrazione ed economia, mentre i sondaggi indicano un possibile governo conservatore sostenuto dall’estrema destra.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Fonti: DayOne, con sede a Singapore, sospende i suoi piani IPO negli Stati Uniti per raccogliere fino a 5 miliardi di dollari già nel quarto trimestre, a causa della volatilità del mercato e delle preoccupazioni sulla valutazione delle infrastrutture AI (Bloomberg)](https://www.techmeme.com/261120/p5#a261120p5)** — *(Techmeme)*
+  - 📌 **Sintesi:** Bloomberg: Fonti: DayOne, con sede a Singapore, sospende i suoi piani IPO negli Stati Uniti per raccogliere fino a 5 miliardi di dollari già nel quarto trimestre, a causa della volatilità del mercato e delle preoccupazioni sulla valutazione dell'infrastruttura AI - DayOne Data Centers Ltd. ha sospeso i piani per la sua offerta pubblica iniziale multimiliardaria negli Stati Uniti, hanno detto persone che hanno familiarità con la questione...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `💻 Tecnologia & Cyber` [Adolescenti traumatizzati fanno causa alla scuola, i poliziotti dopo che la borsa di Dorito fa scattare l'allarme della pistola AI](https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Causa: oltre il 99% degli avvisi di armi da intelligenza artificiale del sistema scolastico erano falsi positivi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
 
 ### 🕒 Ora `07:05 CET` — Ricerca Oraria (11/23)
 _Aggiornamento registrato il `2026-11-20 07:05 CET`_
