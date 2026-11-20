@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `16:05 CET` — Ricerca Oraria (20/23)
+_Aggiornamento registrato il `2026-11-20 16:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Eisenkot, 'se negoziati falliscono, formerò governo di emergenza'](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/20/eisenkot-se-negoziati-falliscono-formero-governo-di-emergenza_abecde7b-cc93-42fa-8039-5b2127f43925.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Esecutivo sarà ampliato prima o dopo l'insediamento'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [Il partito di Marine Le Pen è sotto esame per presunte fughe di notizie dal Ministero degli Interni](https://www.politico.eu/article/marine-le-pen-national-rally-party-alleged-interior-ministry-leaks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Un alto funzionario pubblico è sotto inchiesta per aver riferito di aver trasmesso informazioni giudiziarie riservate al Raduno Nazionale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🤖 IA & Frontiera Tech` [Fonte: Coinbase punta al primo semestre del 2027 per iniziare a offrire contratti per eventi interni negli Stati Uniti; attualmente offre mercati di previsione attraverso una partnership Kalshi (Bloomberg)](https://www.techmeme.com/261120/p15#a261120p15)** — *(Techmeme)*
+  - 📌 **Sintesi:** Bloomberg: Fonte: Coinbase punta al primo semestre del 2027 per iniziare a offrire contratti per eventi interni negli Stati Uniti; attualmente offre mercati di previsione attraverso una partnership con Kalshi: Coinbase Global Inc. punta alla prima metà del 2027 per iniziare a offrire contratti per eventi interni negli Stati Uniti, secondo una persona che ha familiarità con la questione.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[4] `💻 Tecnologia & Cyber` [Come la FAA può modernizzare il sistema dello spazio aereo nazionale degli Stati Uniti senza arresti di emergenza a terra](https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Ex insider della FAA sulla riduzione dei rischi derivanti dall'aggiornamento di una rete vecchia di decenni.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
 _Aggiornamento registrato il `2026-11-20 15:05 CET`_
