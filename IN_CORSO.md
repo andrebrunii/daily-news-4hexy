@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-4%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (4/23 ricerche orarie):**
-`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `01:05 CET` — Ricerca Oraria (5/23)
+_Aggiornamento registrato il `2026-11-20 01:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Meloni, la Cina usi la sua influenza per spingere Mosca alla pace](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/meloni-la-cina-usi-la-sua-influenza-per-spingere-mosca-alla-pace_c114559e-be7d-44fd-bf85-808bd723b4e3.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Bene dichiarazione di Shenzen ma non parla di Ucraina: non c'è pace senza Kiev ed Europa'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[2] `🇪🇺 Unione Europea & Policy` [Vertice UE-Regno Unito: aggiornamenti in tempo reale](https://www.politico.eu/article/eu-uk-summit-live-updates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il Primo Ministro britannico è a Bruxelles per siglare una serie di accordi post-Brexit e iniziare a parlare di ciò che verrà dopo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🔭 Ricerca & Spazio` [Perché le scorregge hanno un cattivo odore? Il segreto sta fermentando nel tuo intestino](https://www.sciencedaily.com/releases/2026/11/261118065521.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Il segreto delle scoregge dall’odore davvero terribile risiede in piccole quantità di gas contenenti zolfo prodotti dai batteri intestinali mentre digeriscono il cibo. Gli scienziati rivelano perché alcuni cibi peggiorano l'odore delle scoregge, perché le scoregge rumorose non sono sempre le più puzzolenti e come il nostro naso si è evoluto per rilevare questi odori potenti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[4] `💶 Macro & Finanza UE` [Anthropic vola all'esordio a Wall Street, sale del 17%](https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-sale-fino-a-11510-dollari-per-azione-poi-scende-a-11022_f4eebc5e-1ae4-4922-8a55-eaee32ab7ab8.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Arriva a valere 2.000 miliardi. Listini in calo, per S 500 la serie più lunga dal 2024
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `00:05 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-20 00:05 CET`_

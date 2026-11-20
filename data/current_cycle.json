@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-19",
   "target_edition_date": "2026-11-20",
-  "last_slot_iso": "2026-11-20T00:05:00",
+  "last_slot_iso": "2026-11-20T01:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -328,6 +328,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "01:05 CET",
+      "timestamp_str": "2026-11-20 01:05 CET",
+      "items": [
+        {
+          "title_orig": "Meloni, la Cina usi la sua influenza per spingere Mosca alla pace",
+          "summary_orig": "'Bene dichiarazione di Shenzen ma non parla di Ucraina: non c'è pace senza Kiev ed Europa'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/meloni-la-cina-usi-la-sua-influenza-per-spingere-mosca-alla-pace_c114559e-be7d-44fd-bf85-808bd723b4e3.html",
+          "published": "Thu, 19 Nov 2026 18:44:59 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "01:05 CET",
+          "title_it": "Meloni, la Cina usi la sua influenza per spingere Mosca alla pace",
+          "summary_it": "'Bene dichiarazione di Shenzen ma non parla di Ucraina: non c'è pace senza Kiev ed Europa'",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 27.5
+        },
+        {
+          "title_orig": "EU-UK summit — live updates",
+          "summary_orig": "The British PM is in Brussels to ink a host of post-Brexit agreements — and start talking about what comes next.",
+          "link": "https://www.politico.eu/article/eu-uk-summit-live-updates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Thu, 19 Nov 2026 23:05:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "01:05 CET",
+          "title_it": "Vertice UE-Regno Unito: aggiornamenti in tempo reale",
+          "summary_it": "Il Primo Ministro britannico è a Bruxelles per siglare una serie di accordi post-Brexit e iniziare a parlare di ciò che verrà dopo.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 25.0
+        },
+        {
+          "title_orig": "Why do farts smell so bad? The secret is brewing in your gut",
+          "summary_orig": "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food. Scientists reveal why some foods make farts smell worse, why loud farts aren't always the stinkiest, and how our noses evolved to detect these powerful odors.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
+          "published": "Wed, 18 Nov 2026 06:55:21 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "01:05 CET",
+          "title_it": "Perché le scorregge hanno un cattivo odore? Il segreto sta fermentando nel tuo intestino",
+          "summary_it": "Il segreto delle scoregge dall’odore davvero terribile risiede in piccole quantità di gas contenenti zolfo prodotti dai batteri intestinali mentre digeriscono il cibo. Gli scienziati rivelano perché alcuni cibi peggiorano l'odore delle scoregge, perché le scoregge rumorose non sono sempre le più puzzolenti e come il nostro naso si è evoluto per rilevare questi odori potenti.",
+          "impact_eu_it": "Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "Anthropic vola all'esordio a Wall Street, sale del 17%",
+          "summary_orig": "Arriva a valere 2.000 miliardi. Listini in calo, per S 500 la serie più lunga dal 2024",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-sale-fino-a-11510-dollari-per-azione-poi-scende-a-11022_f4eebc5e-1ae4-4922-8a55-eaee32ab7ab8.html",
+          "published": "Thu, 19 Nov 2026 22:56:02 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "01:05 CET",
+          "title_it": "Anthropic vola all'esordio a Wall Street, sale del 17%",
+          "summary_it": "Arriva a valere 2.000 miliardi. Listini in calo, per S 500 la serie più lunga dal 2024",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 14.5
         }
       ]
     }
