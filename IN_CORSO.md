@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 21 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-2%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-3%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (2/23 ricerche orarie):**
-`🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (3/23 ricerche orarie):**
+`🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `23:05 CET` — Ricerca Oraria (3/23)
+_Aggiornamento registrato il `2026-11-20 23:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/wall-street-chiude-in-forte-calo.-dj-203-nasdaq-537_2c113fa1-01eb-4131-adfa-0de0775416b0.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** S500 -3,81%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [Francia e Germania completano l’accordo politico per la leadership della Bce](https://www.politico.eu/article/france-germany-complete-political-deal-for-ecb-leadership/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il nuovo portafoglio di operazioni di mercato di Parigi presso la Banca Centrale Europea potrebbe diventare cruciale in una crisi del debito francese.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[3] `🔭 Ricerca & Spazio` [Due stelle massicce potrebbero alimentare segretamente il buco nero supermassiccio della Via Lattea](https://www.sciencedaily.com/releases/2026/11/261119194605.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli astronomi hanno rintracciato misteriose nubi di gas vicino al buco nero supermassiccio centrale della Via Lattea fino a un’enorme coppia di stelle i cui venti in collisione sembrano creare densi ammassi di materiale. Queste nubi potrebbero eventualmente alimentare il buco nero, rivelando una sorprendente connessione tra l’attività stellare e la crescita dei giganti cosmici.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Il paradosso dell’informazione del buco nero](https://bigthink.com/series/full-interview/black-holes-greene/)** — *(Big Think)*
+  - 📌 **Sintesi:** Nel 1915, un astronomo di stanza sul fronte russo avrebbe dovuto calcolare le traiettorie dell'artiglieria. Invece, Karl Schwarzschild risolse le nuove equazioni della relatività generale di Einstein prima che lo stesso Einstein potesse farlo, e così facendo scoprì la matematica dei buchi neri, oggetti su cui Einstein insisteva per decenni che non potessero esistere. Il fisico Brian...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `22:05 CET` — Ricerca Oraria (2/23)
 _Aggiornamento registrato il `2026-11-20 22:05 CET`_

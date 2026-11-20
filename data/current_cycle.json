@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-20",
   "target_edition_date": "2026-11-21",
-  "last_slot_iso": "2026-11-20T22:05:00",
+  "last_slot_iso": "2026-11-20T23:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -164,6 +164,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 15.5
+        }
+      ]
+    },
+    {
+      "hour_label": "23:05 CET",
+      "timestamp_str": "2026-11-20 23:05 CET",
+      "items": [
+        {
+          "title_orig": "Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%",
+          "summary_orig": "S500 -3,81%",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/20/wall-street-chiude-in-forte-calo.-dj-203-nasdaq-537_2c113fa1-01eb-4131-adfa-0de0775416b0.html",
+          "published": "Fri, 20 Nov 2026 22:16:33 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "23:05 CET",
+          "title_it": "Wall Street chiude in forte calo. Dj -2,03%, Nasdaq -5,37%",
+          "summary_it": "S500 -3,81%",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "France and Germany complete political deal for ECB leadership",
+          "summary_orig": "Paris’ new market-operations portfolio at the European Central Bank could become pivotal in a French debt crisis.",
+          "link": "https://www.politico.eu/article/france-germany-complete-political-deal-for-ecb-leadership/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Fri, 20 Nov 2026 16:50:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "23:05 CET",
+          "title_it": "Francia e Germania completano l’accordo politico per la leadership della Bce",
+          "summary_it": "Il nuovo portafoglio di operazioni di mercato di Parigi presso la Banca Centrale Europea potrebbe diventare cruciale in una crisi del debito francese.",
+          "impact_eu_it": "Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 27.0
+        },
+        {
+          "title_orig": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+          "summary_orig": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity and the growth of cosmic giants.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
+          "published": "Fri, 20 Nov 2026 00:41:16 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "23:05 CET",
+          "title_it": "Due stelle massicce potrebbero alimentare segretamente il buco nero supermassiccio della Via Lattea",
+          "summary_it": "Gli astronomi hanno rintracciato misteriose nubi di gas vicino al buco nero supermassiccio centrale della Via Lattea fino a un’enorme coppia di stelle i cui venti in collisione sembrano creare densi ammassi di materiale. Queste nubi potrebbero eventualmente alimentare il buco nero, rivelando una sorprendente connessione tra l’attività stellare e la crescita dei giganti cosmici.",
+          "impact_eu_it": "Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "The black hole information paradox",
+          "summary_orig": "In 1915, an astronomer stationed on the Russian front was supposed to be calculating artillery trajectories. Instead, Karl Schwarzschild solved Einstein’s new equations of general relativity before Einstein himself could, and in doing so he uncovered the math of black holes, objects Einstein spent decades insisting could not exist. Physicist Brian...",
+          "link": "https://bigthink.com/series/full-interview/black-holes-greene/",
+          "published": "Fri, 20 Nov 2026 05:00:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "23:05 CET",
+          "title_it": "Il paradosso dell’informazione del buco nero",
+          "summary_it": "Nel 1915, un astronomo di stanza sul fronte russo avrebbe dovuto calcolare le traiettorie dell'artiglieria. Invece, Karl Schwarzschild risolse le nuove equazioni della relatività generale di Einstein prima che lo stesso Einstein potesse farlo, e così facendo scoprì la matematica dei buchi neri, oggetti su cui Einstein insisteva per decenni che non potessero esistere. Il fisico Brian...",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
+          "score": 14.0
         }
       ]
     }
