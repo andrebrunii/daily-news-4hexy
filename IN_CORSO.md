@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-17%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (17/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `13:05 CET` — Ricerca Oraria (17/23)
+_Aggiornamento registrato il `2026-11-20 13:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Dominique de Villepin annuncia la sua candidatura per l'Eliseo](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/dominique-de-villepin-annuncia-la-sua-candidatura-per-leliseo_54331604-ad00-4263-87fd-575586b1d67b.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Approfondimento disponibile nella fonte originale collegata.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [Il ministro della Difesa tedesco si scusa per aver definito “stupide” le critiche americane agli attacchi ucraini](https://www.politico.eu/article/pistorius-apologizes-for-calling-us-criticism-of-ukraine-strikes-stupid/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Boris Pistorius ha ritrattato la scelta delle parole, ma ha mantenuto il suo sostegno agli attacchi ucraini in Russia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `🔭 Ricerca & Spazio` [Qualcosa di strano vive sotto la pelle dei maiali delle profondità marine](https://www.sciencedaily.com/releases/2026/11/261118065512.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati hanno scoperto uno strano batterio che si nasconde sotto la pelle di creature degli abissi conosciuti come maiali marini, rivelando un'inaspettata partnership biologica. Il microbo ha un genoma insolitamente piccolo, ma più di un quarto del suo DNA è dedicato alla produzione di proteine ​​di superficie, alcune delle quali eccezionalmente grandi. I ricercatori sospettano che dipenda fortemente dalla sua...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[4] `🏛️ Filosofia & Idee` [Mia nonna era una foca](https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Molte famiglie irlandesi credevano di discendere dai selkie. Le loro storie rivelano la violenza e il dolore nella nostra affinità con la natura - di Jordan Lee Borgman Leggi su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
 _Aggiornamento registrato il `2026-11-20 12:05 CET`_

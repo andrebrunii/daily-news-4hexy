@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-19",
   "target_edition_date": "2026-11-20",
-  "last_slot_iso": "2026-11-20T12:05:00",
+  "last_slot_iso": "2026-11-20T13:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1312,6 +1312,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "13:05 CET",
+      "timestamp_str": "2026-11-20 13:05 CET",
+      "items": [
+        {
+          "title_orig": "Dominique de Villepin annuncia la sua candidatura per l'Eliseo",
+          "summary_orig": "Approfondimento disponibile nella fonte originale collegata.",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/dominique-de-villepin-annuncia-la-sua-candidatura-per-leliseo_54331604-ad00-4263-87fd-575586b1d67b.html",
+          "published": "Fri, 20 Nov 2026 12:03:02 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "13:05 CET",
+          "title_it": "Dominique de Villepin annuncia la sua candidatura per l'Eliseo",
+          "summary_it": "Approfondimento disponibile nella fonte originale collegata.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "German defense minister apologizes for calling US criticism of Ukraine strikes ‘stupid’",
+          "summary_orig": "Boris Pistorius walked back his choice of words but stood by his support for Ukrainian strikes inside Russia.",
+          "link": "https://www.politico.eu/article/pistorius-apologizes-for-calling-us-criticism-of-ukraine-strikes-stupid/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Fri, 20 Nov 2026 12:01:55 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "13:05 CET",
+          "title_it": "Il ministro della Difesa tedesco si scusa per aver definito “stupide” le critiche americane agli attacchi ucraini",
+          "summary_it": "Boris Pistorius ha ritrattato la scelta delle parole, ma ha mantenuto il suo sostegno agli attacchi ucraini in Russia.",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 25.0
+        },
+        {
+          "title_orig": "Something strange is living beneath the skin of deep-sea pigs",
+          "summary_orig": "Scientists have discovered a strange bacterium hiding beneath the skin of deep-sea creatures known as sea pigs, revealing an unexpected biological partnership. The microbe has an unusually tiny genome, yet more than a quarter of its DNA is devoted to making surface proteins, some of them exceptionally large. Researchers suspect it depends heavily on its...",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
+          "published": "Thu, 19 Nov 2026 05:33:03 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "13:05 CET",
+          "title_it": "Qualcosa di strano vive sotto la pelle dei maiali delle profondità marine",
+          "summary_it": "Gli scienziati hanno scoperto uno strano batterio che si nasconde sotto la pelle di creature degli abissi conosciuti come maiali marini, rivelando un'inaspettata partnership biologica. Il microbo ha un genoma insolitamente piccolo, ma più di un quarto del suo DNA è dedicato alla produzione di proteine ​​di superficie, alcune delle quali eccezionalmente grandi. I ricercatori sospettano che dipenda fortemente dalla sua...",
+          "impact_eu_it": "Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "My grandmother was a seal",
+          "summary_orig": "Many Irish families believed they descended from selkies. Their stories reveal the violence and grief in our kinship with nature - by Jordan Lee Borgman Read on Aeon",
+          "link": "https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family",
+          "published": "Fri, 20 Nov 2026 11:00:00 GMT",
+          "source_id": "aeon",
+          "source_name": "Aeon Philosophy & Ideas",
+          "category": "filosofia",
+          "badge": "🏛️ Filosofia & Idee",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "13:05 CET",
+          "title_it": "Mia nonna era una foca",
+          "summary_it": "Molte famiglie irlandesi credevano di discendere dai selkie. Le loro storie rivelano la violenza e il dolore nella nostra affinità con la natura - di Jordan Lee Borgman Leggi su Aeon",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 15.0
         }
       ]
     }
