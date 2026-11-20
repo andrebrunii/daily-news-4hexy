@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-19",
   "target_edition_date": "2026-11-20",
-  "last_slot_iso": "2026-11-20T16:05:00",
+  "last_slot_iso": "2026-11-20T17:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1640,6 +1640,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 18.0
+        }
+      ]
+    },
+    {
+      "hour_label": "17:05 CET",
+      "timestamp_str": "2026-11-20 17:05 CET",
+      "items": [
+        {
+          "title_orig": "Due missili e un drone cadono in Polonia. Tusk: 'Una provocazione intenzionale russa'",
+          "summary_orig": "Mobilitati i jet. Uno a 100 chilometri dall'esercitazione dei Volenterosi. Rutte: 'Incidente pericoloso'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/due-missili-e-un-drone-cadono-in-polonia.-tusk-una-provocazione-intenzionale-russa_6104402c-305d-441e-a983-2c8dfb41bd5e.html",
+          "published": "Fri, 20 Nov 2026 16:48:39 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "17:05 CET",
+          "title_it": "Due missili e un drone cadono in Polonia. Tusk: 'Una provocazione intenzionale russa'",
+          "summary_it": "Mobilitati i jet. Uno a 100 chilometri dall'esercitazione dei Volenterosi. Rutte: 'Incidente pericoloso'",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "EU warns against COP31 becoming a ‘fossil fuel summit’",
+          "summary_orig": "The current draft decision text discussed in Antalya would represent \"a substantive step backwards\" on climate action, European Union leaders said.",
+          "link": "https://www.politico.eu/article/eu-warns-against-cop31-becoming-a-fossil-fuel-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Fri, 20 Nov 2026 16:03:22 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "17:05 CET",
+          "title_it": "L’UE mette in guardia dal fatto che la COP31 diventi un “vertice sui combustibili fossili”",
+          "summary_it": "L’attuale progetto di decisione discusso ad Antalya rappresenterebbe “un sostanziale passo indietro” sull’azione per il clima, hanno affermato i leader dell’Unione Europea.",
+          "impact_eu_it": "Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 27.0
+        },
+        {
+          "title_orig": "Keto diet slashes liver fat by 67% in just 4 months",
+          "summary_orig": "A new clinical trial found that the ketogenic diet dramatically outperformed Mediterranean and low-fat diets in reducing liver fat and improving metabolic health, even when participants lost similar amounts of weight. After just four to five months, about half of those following keto no longer met the criteria for prediabetes, while their liver fat...",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
+          "published": "Fri, 20 Nov 2026 07:44:39 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "17:05 CET",
+          "title_it": "La dieta cheto riduce il grasso del fegato del 67% in soli 4 mesi",
+          "summary_it": "Un nuovo studio clinico ha scoperto che la dieta chetogenica ha notevolmente sovraperformato la dieta mediterranea e quella a basso contenuto di grassi nel ridurre il grasso del fegato e nel migliorare la salute metabolica, anche quando i partecipanti hanno perso quantità simili di peso. Dopo soli quattro o cinque mesi, circa la metà di quelli che seguivano la cheto non soddisfacevano più i criteri per il prediabete, mentre il grasso del fegato...",
+          "impact_eu_it": "Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Did men evolve to fight each other? Scientists can’t agree.",
+          "summary_orig": "Anthropologist David Puts was a graduate student trying to decide on a dissertation topic when inspiration struck him at a mall food court. While eating a cheeseburger, he overheard two men behind him speaking in unusually deep voices. “I turned around to see what was happening, and there was a young, good-looking female nearby,” Puts said. His initial...",
+          "link": "https://bigthink.com/mind-behavior/did-men-evolve-to-fight-each-other-scientists-cant-agree/",
+          "published": "Fri, 20 Nov 2026 16:00:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "17:05 CET",
+          "title_it": "Gli uomini si sono evoluti per combattere tra loro? Gli scienziati non possono essere d’accordo.",
+          "summary_it": "L'antropologo David Puts era uno studente laureato che cercava di decidere su un argomento di tesi quando l'ispirazione lo colpì in un'area ristorazione di un centro commerciale. Mentre mangiava un cheeseburger, sentì due uomini dietro di lui parlare con voci insolitamente profonde. \"Mi sono voltato per vedere cosa stava succedendo e c'era una donna giovane e di bell'aspetto nelle vicinanze\", ha detto Puts. La sua iniziale...",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
+          "score": 14.0
         }
       ]
     }

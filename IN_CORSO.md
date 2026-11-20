@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-20%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-21%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (20/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (21/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `17:05 CET` — Ricerca Oraria (21/23)
+_Aggiornamento registrato il `2026-11-20 17:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Due missili e un drone cadono in Polonia. Tusk: 'Una provocazione intenzionale russa'](https://www.ansa.it/sito/notizie/mondo/2026/11/20/due-missili-e-un-drone-cadono-in-polonia.-tusk-una-provocazione-intenzionale-russa_6104402c-305d-441e-a983-2c8dfb41bd5e.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Mobilitati i jet. Uno a 100 chilometri dall'esercitazione dei Volenterosi. Rutte: 'Incidente pericoloso'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [L’UE mette in guardia dal fatto che la COP31 diventi un “vertice sui combustibili fossili”](https://www.politico.eu/article/eu-warns-against-cop31-becoming-a-fossil-fuel-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** L’attuale progetto di decisione discusso ad Antalya rappresenterebbe “un sostanziale passo indietro” sull’azione per il clima, hanno affermato i leader dell’Unione Europea.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
+- **[3] `🔭 Ricerca & Spazio` [La dieta cheto riduce il grasso del fegato del 67% in soli 4 mesi](https://www.sciencedaily.com/releases/2026/11/261120070904.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Un nuovo studio clinico ha scoperto che la dieta chetogenica ha notevolmente sovraperformato la dieta mediterranea e quella a basso contenuto di grassi nel ridurre il grasso del fegato e nel migliorare la salute metabolica, anche quando i partecipanti hanno perso quantità simili di peso. Dopo soli quattro o cinque mesi, circa la metà di quelli che seguivano la cheto non soddisfacevano più i criteri per il prediabete, mentre il grasso del fegato...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Gli uomini si sono evoluti per combattere tra loro? Gli scienziati non possono essere d’accordo.](https://bigthink.com/mind-behavior/did-men-evolve-to-fight-each-other-scientists-cant-agree/)** — *(Big Think)*
+  - 📌 **Sintesi:** L'antropologo David Puts era uno studente laureato che cercava di decidere su un argomento di tesi quando l'ispirazione lo colpì in un'area ristorazione di un centro commerciale. Mentre mangiava un cheeseburger, sentì due uomini dietro di lui parlare con voci insolitamente profonde. "Mi sono voltato per vedere cosa stava succedendo e c'era una donna giovane e di bell'aspetto nelle vicinanze", ha detto Puts. La sua iniziale...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `16:05 CET` — Ricerca Oraria (20/23)
 _Aggiornamento registrato il `2026-11-20 16:05 CET`_
