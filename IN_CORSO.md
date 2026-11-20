@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-9%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-10%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (9/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (10/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `06:05 CET` — Ricerca Oraria (10/23)
+_Aggiornamento registrato il `2026-11-20 06:05 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Il Regno Unito “sta cercando di recuperare terreno” con i paesi nordici sui preparativi per la crisi, afferma il ministro](https://www.politico.eu/article/uk-catch-up-nordic-countries-crisis-preparation-dan-jarvis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Dan Jarvis ha dichiarato al Westminster Insider di POLITICO che la Gran Bretagna ha “molto che possiamo imparare” dalla Norvegia, che consiglia ai cittadini di conservare cibo e acqua sufficienti per sopravvivere per una settimana.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[2] `🌐 Scacchiere Globale` [Regno Unito e UE si accorderanno sul programma di mobilità dei giovani, secondo quanto appreso dalla BBC](https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il piano dovrebbe essere approvato al vertice Regno Unito-UE di venerdì, con sul tavolo anche nuovi accordi sul commercio alimentare e sulle emissioni di carbonio.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[3] `💶 Macro & Finanza UE` [Borsa: Milano chiude in calo, Ftse Mib -0,46%](https://www.ansa.it/sito/notizie/economia/2026/11/19/borsa-milano-chiude-in-calo-ftse-mib-046_9dd87279-2c83-4520-a71c-69981c9ec9c5.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** L'indice dei titoli principali di Piazza Affari a 49.941 punti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [L'IPO antropica è esattamente ciò di cui i mercati hanno bisogno, ma gli analisti avvertono della volatilità](https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L’IPO antropica è “ciò di cui i mercati hanno bisogno”. Tuttavia, gli analisti affermano che le sue azioni saranno volatili nelle prossime settimane.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
 
 ### 🕒 Ora `05:05 CET` — Ricerca Oraria (9/23)
 _Aggiornamento registrato il `2026-11-20 05:05 CET`_

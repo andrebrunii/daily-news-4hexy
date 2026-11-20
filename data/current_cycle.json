@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-19",
   "target_edition_date": "2026-11-20",
-  "last_slot_iso": "2026-11-20T05:05:00",
+  "last_slot_iso": "2026-11-20T06:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -738,6 +738,88 @@
           "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
           "score": 15.5
+        }
+      ]
+    },
+    {
+      "hour_label": "06:05 CET",
+      "timestamp_str": "2026-11-20 06:05 CET",
+      "items": [
+        {
+          "title_orig": "UK ‘playing catch up’ with Nordic countries on crisis preparations, says minister",
+          "summary_orig": "Dan Jarvis told POLITICO’s Westminster Insider that Britain has “a lot we can learn” from Norway, which advises citizens to keep enough food and water to survive for a week.",
+          "link": "https://www.politico.eu/article/uk-catch-up-nordic-countries-crisis-preparation-dan-jarvis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Fri, 20 Nov 2026 03:00:00 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "06:05 CET",
+          "title_it": "Il Regno Unito “sta cercando di recuperare terreno” con i paesi nordici sui preparativi per la crisi, afferma il ministro",
+          "summary_it": "Dan Jarvis ha dichiarato al Westminster Insider di POLITICO che la Gran Bretagna ha “molto che possiamo imparare” dalla Norvegia, che consiglia ai cittadini di conservare cibo e acqua sufficienti per sopravvivere per una settimana.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 16.5
+        },
+        {
+          "title_orig": "UK and EU to agree youth mobility scheme, BBC understands",
+          "summary_orig": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+          "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Nov 2026 04:35:51 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "06:05 CET",
+          "title_it": "Regno Unito e UE si accorderanno sul programma di mobilità dei giovani, secondo quanto appreso dalla BBC",
+          "summary_it": "Il piano dovrebbe essere approvato al vertice Regno Unito-UE di venerdì, con sul tavolo anche nuovi accordi sul commercio alimentare e sulle emissioni di carbonio.",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 23.0
+        },
+        {
+          "title_orig": "Borsa: Milano chiude in calo, Ftse Mib -0,46%",
+          "summary_orig": "L'indice dei titoli principali di Piazza Affari a 49.941 punti",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/borsa-milano-chiude-in-calo-ftse-mib-046_9dd87279-2c83-4520-a71c-69981c9ec9c5.html",
+          "published": "Thu, 19 Nov 2026 17:38:03 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "06:05 CET",
+          "title_it": "Borsa: Milano chiude in calo, Ftse Mib -0,46%",
+          "summary_it": "L'indice dei titoli principali di Piazza Affari a 49.941 punti",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+          "summary_orig": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
+          "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+          "published": "Fri, 20 Nov 2026 04:51:28 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "06:05 CET",
+          "title_it": "L'IPO antropica è esattamente ciò di cui i mercati hanno bisogno, ma gli analisti avvertono della volatilità",
+          "summary_it": "L’IPO antropica è “ciò di cui i mercati hanno bisogno”. Tuttavia, gli analisti affermano che le sue azioni saranno volatili nelle prossime settimane.",
+          "impact_eu_it": "Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 16.5
         }
       ]
     }
