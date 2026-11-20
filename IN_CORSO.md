@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-18%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-19%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (18/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (19/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `15:05 CET` — Ricerca Oraria (19/23)
+_Aggiornamento registrato il `2026-11-20 15:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Dagli incentivi la spinta per ringiovanire le fabbriche](https://www.ilsole24ore.com/art/dagli-incentivi-spinta-ringiovanire-fabbriche-AJKegeLC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Un’età media che si riduce, con strumenti tecnologicamente più avanzati, acquisiti in larga parte grazie agli incentivi statali. Sono le principali conclusioni della ricognizione di Ucimu realizzata all’interno del sistema...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌍 Geopolitica & Mondo` [Media, un missile russo a circa 100 km da esercitazione Volenterosi in Polonia](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/media-un-missile-russo-a-circa-100-km-da-esercitazione-volenterosi-in-polonia_b274db9f-55fd-45f3-984d-697724a5d5b1.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Le manovre militari sono in corso dal 9 al 22 novembre
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` [All'Honduras il Best of the Best dell'Ernesto Illy International Coffee Award 2026](https://www.ansa.it/sito/notizie/economia/2026/11/20/allhonduras-il-best-of-the-best-dellernesto-illy-international-coffee-award-2026_eb17fc7c-6ea9-4037-86f0-681cd29b43f2.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Alla Colombia il "Coffee Lovers' Choice"
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🏦 Mercati Globali` [I futures del Nasdaq crollano mentre crollano le azioni Anthropic; Dow si avvicina al territorio della correzione: aggiornamenti in tempo reale](https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Le medie principali sono scese di oltre il 2% ciascuna negli scambi regolari.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `14:05 CET` — Ricerca Oraria (18/23)
 _Aggiornamento registrato il `2026-11-20 14:05 CET`_

@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-19",
   "target_edition_date": "2026-11-20",
-  "last_slot_iso": "2026-11-20T14:05:00",
+  "last_slot_iso": "2026-11-20T15:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1476,6 +1476,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 19.0
+        }
+      ]
+    },
+    {
+      "hour_label": "15:05 CET",
+      "timestamp_str": "2026-11-20 15:05 CET",
+      "items": [
+        {
+          "title_orig": "Dagli incentivi la spinta per ringiovanire le fabbriche",
+          "summary_orig": "Un’età media che si riduce, con strumenti tecnologicamente più avanzati, acquisiti in larga parte grazie agli incentivi statali. Sono le principali conclusioni della ricognizione di Ucimu realizzata all’interno del sistema...",
+          "link": "https://www.ilsole24ore.com/art/dagli-incentivi-spinta-ringiovanire-fabbriche-AJKegeLC",
+          "published": "Fri, 20 Nov 2026 07:37:01 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "15:05 CET",
+          "title_it": "Dagli incentivi la spinta per ringiovanire le fabbriche",
+          "summary_it": "Un’età media che si riduce, con strumenti tecnologicamente più avanzati, acquisiti in larga parte grazie agli incentivi statali. Sono le principali conclusioni della ricognizione di Ucimu realizzata all’interno del sistema...",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Media, un missile russo a circa 100 km da esercitazione Volenterosi in Polonia",
+          "summary_orig": "Le manovre militari sono in corso dal 9 al 22 novembre",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/media-un-missile-russo-a-circa-100-km-da-esercitazione-volenterosi-in-polonia_b274db9f-55fd-45f3-984d-697724a5d5b1.html",
+          "published": "Fri, 20 Nov 2026 13:49:33 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "15:05 CET",
+          "title_it": "Media, un missile russo a circa 100 km da esercitazione Volenterosi in Polonia",
+          "summary_it": "Le manovre militari sono in corso dal 9 al 22 novembre",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "All'Honduras il Best of the Best dell'Ernesto Illy International Coffee Award 2026",
+          "summary_orig": "Alla Colombia il \"Coffee Lovers' Choice\"",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/20/allhonduras-il-best-of-the-best-dellernesto-illy-international-coffee-award-2026_eb17fc7c-6ea9-4037-86f0-681cd29b43f2.html",
+          "published": "Fri, 20 Nov 2026 14:44:51 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "15:05 CET",
+          "title_it": "All'Honduras il Best of the Best dell'Ernesto Illy International Coffee Award 2026",
+          "summary_it": "Alla Colombia il \"Coffee Lovers' Choice\"",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "Nasdaq futures drop as Anthropic shares tumble; Dow nears correction territory: Live updates",
+          "summary_orig": "The major averages fell more than 2% each in regular trading.",
+          "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+          "published": "Fri, 20 Nov 2026 13:36:48 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "15:05 CET",
+          "title_it": "I futures del Nasdaq crollano mentre crollano le azioni Anthropic; Dow si avvicina al territorio della correzione: aggiornamenti in tempo reale",
+          "summary_it": "Le medie principali sono scese di oltre il 2% ciascuna negli scambi regolari.",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 14.5
         }
       ]
     }
