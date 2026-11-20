@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Venerdì 20 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-14%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md) · [📅 **2026-11-13**](./archivio/2026-11-13.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-20 11:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Musica, ricavi in crescita ma resta il nodo garanzie](https://www.ilsole24ore.com/art/musica-ricavi-crescita-ma-resta-nodo-garanzie-AJ0AVVMC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Sergio Cerruti, former president di Afi (l’associazione dei Fonografici italiani che difende e raccoglie i diritti dei produttori musicali indipendenti) oltre che fondatore, ceo e managing director di Just Entertainment...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌍 Geopolitica & Mondo` [Amb. Ucraina, 'il sito Myrotvorets non rappresenta posizione statale'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/20/amb.-ucraina-il-sito-myrotvorets-non-rappresenta-posizione-statale_6e82db46-edee-40e3-919b-39ea64b1b4a8.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Dopo inserimento politici italiani nella black list del sito. Kiev,'non è fonte ufficiale'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `💶 Macro & Finanza UE` [Borsa: l'Europa in rosso con tecnologia, titoli di Stato in calo](https://www.ansa.it/sito/notizie/economia/2026/11/20/borsa-leuropa-in-rosso-con-tecnologia-titoli-di-stato-in-calo_71ea776e-38be-44ff-88f8-f60e92b8c5c2.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** L'oro scende ai livelli di settembre 2025. L'euro sotto 1,1 sul dollaro
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🏦 Mercati Globali` [Le azioni di Anthropic scendono di quasi il 6% nel pre-mercato a causa della svendita dell'intelligenza artificiale mentre le azioni di Nvidia e AMD crollano](https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Anthropic è salito del 17% nel suo primo giorno di negoziazione giovedì.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `10:05 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-20 10:05 CET`_
