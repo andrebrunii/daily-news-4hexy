@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-20",
   "target_edition_date": "2026-11-21",
-  "last_slot_iso": "2026-11-20T21:05:00",
+  "last_slot_iso": "2026-11-20T22:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -82,6 +82,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 14.5
+        }
+      ]
+    },
+    {
+      "hour_label": "22:05 CET",
+      "timestamp_str": "2026-11-20 22:05 CET",
+      "items": [
+        {
+          "title_orig": "La furia di Putin su Kiev e Leopoli, due missili cadono in Polonia",
+          "summary_orig": "La Nato in allerta. Mosca valuta una visita degli E3, Trump vuole la pace entro gennaio",
+          "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/20/la-furia-di-putin-su-kiev-e-leopoli-due-missili-cadono-in-polonia_6104402c-305d-441e-a983-2c8dfb41bd5e.html",
+          "published": "Fri, 20 Nov 2026 19:58:53 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "22:05 CET",
+          "title_it": "La furia di Putin su Kiev e Leopoli, due missili cadono in Polonia",
+          "summary_it": "La Nato in allerta. Mosca valuta una visita degli E3, Trump vuole la pace entro gennaio",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 20.5
+        },
+        {
+          "title_orig": "The biggest winners and losers of the EU-UK summit deals",
+          "summary_orig": "We take stock of who’s up and who’s down after London and Brussels sign three new deals.",
+          "link": "https://www.politico.eu/article/the-winners-and-losers-of-the-eu-uk-summit-deals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Fri, 20 Nov 2026 17:24:57 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "22:05 CET",
+          "title_it": "I maggiori vincitori e vinti degli accordi del vertice UE-Regno Unito",
+          "summary_it": "Facciamo il punto su chi sta bene e chi sta male dopo che Londra e Bruxelles hanno firmato tre nuovi accordi.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 25.0
+        },
+        {
+          "title_orig": "Bitcoin falls to $57,000, its lowest level in over two years; it has lost more than half its value since reaching a peak above $126,000 in October 2025 (Bloomberg)",
+          "summary_orig": "Bloomberg : Bitcoin falls to $57,000, its lowest level in over two years; it has lost more than half its value since reaching a peak above $126,000 in October 2025 — Bitcoin fell to the lowest level in over two years, extending its reversal from market darling after the re-election of Donald Trump …",
+          "link": "https://www.techmeme.com/261120/p32#a261120p32",
+          "published": "Fri, 20 Nov 2026 15:30:01 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "22:05 CET",
+          "title_it": "Bitcoin crolla a 57.000 dollari, il livello più basso da oltre due anni; ha perso più della metà del suo valore da quando ha raggiunto un picco superiore a $ 126.000 nell'ottobre 2025 (Bloomberg)",
+          "summary_it": "Bloomberg: Bitcoin crolla a 57.000 dollari, il livello più basso da oltre due anni; ha perso più della metà del suo valore da quando ha raggiunto un picco superiore a 126.000 dollari nell'ottobre 2025 — Bitcoin è sceso al livello più basso in oltre due anni, estendendo la sua inversione di tendenza da favorito del mercato dopo la rielezione di Donald Trump...",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+          "summary_orig": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+          "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+          "published": "Fri, 20 Nov 2026 20:59:08 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "22:05 CET",
+          "title_it": "Una catena di fornitura di intelligenza artificiale che perde dati sta esponendo i dati segreti degli utenti a un ritmo allarmante",
+          "summary_it": "I test che utilizzano prompt con segreti univoci e tracciabili dimostrano che i dati non rimangono privati.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 15.5
         }
       ]
     }
