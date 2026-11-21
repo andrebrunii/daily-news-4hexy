@@ -1,6 +1,89 @@
 {
   "last_published_edition_date": "2026-11-21",
   "target_edition_date": "2026-11-22",
-  "last_slot_iso": "2026-11-21T20:05:00",
-  "hourly_batches": []
+  "last_slot_iso": "2026-11-21T21:05:00",
+  "hourly_batches": [
+    {
+      "hour_label": "21:05 CET",
+      "timestamp_str": "2026-11-21 21:05 CET",
+      "items": [
+        {
+          "title_orig": "Paolo Bulgari, gioielliere e imprenditore italiano, muore a Roma a 89 anni",
+          "summary_orig": "Il nipote del fondatore di Bulgari contribuì a trasformare l’azienda di famiglia in uno dei marchi di lusso più prestigiosi al mondo. Guidò la maison romana come presidente dal 1984, mantenendo per tutta la vita una profonda passione per il design dei gioielli.",
+          "link": "https://it.euronews.com/2026/11/21/paolo-bulgari-gioielliere-e-imprenditore-italiano-muore-a-roma-a-89-anni",
+          "published": "Sat, 21 Nov 2026 19:24:24 +0100",
+          "source_id": "euronews_it",
+          "source_name": "Euronews Italia",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Cronaca Europea",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "21:05 CET",
+          "title_it": "Paolo Bulgari, gioielliere e imprenditore italiano, muore a Roma a 89 anni",
+          "summary_it": "Il nipote del fondatore di Bulgari contribuì a trasformare l’azienda di famiglia in uno dei marchi di lusso più prestigiosi al mondo. Guidò la maison romana come presidente dal 1984, mantenendo per tutta la vita una profonda passione per il design dei gioielli.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 19.0
+        },
+        {
+          "title_orig": "Bahrein, incendio in un sito industriale civile per un attacco iraniano",
+          "summary_orig": "Ministero dell'Interno: 'Riportati danni materiali, non ci sono segnalazioni di feriti'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/21/bahrein-incendio-in-un-sito-industriale-civile-per-un-attacco-iraniano_4e3fd91c-b52e-4cd3-8904-11dd3b7f70dd.html",
+          "published": "Sat, 21 Nov 2026 20:51:35 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "21:05 CET",
+          "title_it": "Bahrein, incendio in un sito industriale civile per un attacco iraniano",
+          "summary_it": "Ministero dell'Interno: 'Riportati danni materiali, non ci sono segnalazioni di feriti'",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Mps: 'L'Opas di Intesa congrua ma non riflette il nostro valore'",
+          "summary_orig": "'Dalle prospettive stand alone al ruolo di Siena, nove punti da valutare attentamente'",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/mps-lopas-di-intesa-congrua-dopo-il-rilancio-e-le-garanzie-su-siena_02968d27-bddb-4349-a9f5-be183321f9c3.html",
+          "published": "Sat, 21 Nov 2026 19:56:30 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "21:05 CET",
+          "title_it": "Mps: 'L'Opas di Intesa congrua ma non riflette il nostro valore'",
+          "summary_it": "'Dalle prospettive stand alone al ruolo di Siena, nove punti da valutare attentamente'",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "From trash to treasure: Most hated stocks are winning as AI bull market rolls over",
+          "summary_orig": "Several stocks that are unpopular on Wall Street, including Clorox, Boston Beer and Campbell's, are poised to be winners as the AI trade loses steam.",
+          "link": "https://www.cnbc.com/2026/11/21/from-trash-to-treasure-these-hated-stocks-are-winning-as-ai-flounders.html",
+          "published": "Sat, 21 Nov 2026 13:10:40 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "21:05 CET",
+          "title_it": "Dalla spazzatura al tesoro: le azioni più odiate stanno vincendo mentre il mercato rialzista dell’IA si ribalta",
+          "summary_it": "Diversi titoli impopolari a Wall Street, tra cui Clorox, Boston Beer e Campbell's, sono pronti a vincere mentre il commercio dell'intelligenza artificiale perde slancio.",
+          "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 17.5
+        }
+      ]
+    }
+  ]
 }
