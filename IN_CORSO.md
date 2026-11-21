@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 21 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
+_Aggiornamento registrato il `2026-11-21 03:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Che cosa compro? L’AI influenza la scelta per un italiano su quattro](https://www.ilsole24ore.com/art/che-cosa-compro-l-ai-influenza-scelta-un-italiano-quattro-AJIF1YCC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Una barretta di cioccolato nata quasi un secolo fa si prende gioco delle intelligenze artificiali che stanno ridisegnando questo secolo. Così mentre milioni di persone interrogano ChatGPT, Snickers suggerisce che...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[2] `🌍 Geopolitica & Mondo` [Media, 'droni avvistati su Sigonella, a voli militari indicato cambio rotta'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/media-droni-avvistati-su-sigonella-a-voli-militari-indicato-cambio-rotta_5d288f34-134f-4857-bd22-f9f3d2e83571.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** L'alert ieri sera, i velivoli avrebbero sorvolato sia la base che gli alloggi'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `💶 Macro & Finanza UE` [Foti, 'il Pnrr del governo Meloni sarà campione d'Europa'](https://www.ansa.it/sito/notizie/economia/2026/11/20/foti-il-pnrr-del-governo-meloni-sara-campione-deuropa_3bb03025-8872-4533-963c-23bf643b0c7e.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Un Piano anche per caro energia? In Europa nessuno vuol fare più debito comune
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🏦 Mercati Globali` [Le azioni di Zscaler salgono del 18% in seguito alla notizia che CrowdStrike è in trattative per acquistare un fornitore di sicurezza](https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Le aziende di sicurezza informatica sono a caccia di acquisizioni nell’era dell’intelligenza artificiale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
 
 ### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
 _Aggiornamento registrato il `2026-11-21 02:05 CET`_
