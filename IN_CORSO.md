@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 21 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-10%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (10/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `07:05 CET` — Ricerca Oraria (11/23)
+_Aggiornamento registrato il `2026-11-21 07:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Confindustria, via all’intesa col Pns per la filiera subacquea](https://www.ilsole24ore.com/art/confindustria-via-all-intesa-col-pns-la-filiera-subacquea-AJz7ZBMC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Un accordo per rafforzare la filiera italiana dell’underwater. Il protocollo d’intesa è stata siglato ieri da Confindustria e Fondazione Polo nazionale della dimensione subacquea, con l’obiettivo sviluppare una collaborazione operativa...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌍 Geopolitica & Mondo` [Media, 'droni avvistati su Sigonella, a voli militari indicato cambio rotta'](https://www.ansa.it/sito/notizie/topnews/2026/11/21/media-droni-avvistati-su-sigonella-a-voli-militari-indicato-cambio-rotta_f2d335b7-be89-4930-bb82-a4ab490d0a88.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** L'alert ieri sera, i velivoli avrebbero sorvolato sia la base che gli alloggi'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `💶 Macro & Finanza UE` [Il cda di Mps unanime: 'L'offerta di Intesa è 'congrua''](https://www.ansa.it/sito/notizie/economia/2026/11/20/finito-il-cda-di-mps-il-corrispettivo-dellopas-giudicato-congruo_cd679426-4fed-4381-9e12-2d296ef176cf.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** I soci dovranno però considerare anche altri aspetti. Passera lascia, dissenso sull'Opas
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🏦 Mercati Globali` [Take-Two frantuma il record di vendite con il lancio di "GTA VI" in grande clamore](https://www.cnbc.com/2026/11/20/take-two-sales-as-gta-vi-launches-to-massive-fanfare.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** "GTA VI" ha aiutato Take-Two Interactive, l'editore del gioco che ora è un fenomeno culturale globale, a incassare quasi 4 miliardi di dollari dalle vendite del primo giorno.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
 ### 🕒 Ora `06:05 CET` — Ricerca Oraria (10/23)
 _Aggiornamento registrato il `2026-11-21 06:05 CET`_
