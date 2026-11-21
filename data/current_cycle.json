@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-20",
   "target_edition_date": "2026-11-21",
-  "last_slot_iso": "2026-11-21T09:05:00",
+  "last_slot_iso": "2026-11-21T10:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1066,6 +1066,88 @@
           "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
           "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
           "score": 15.0
+        }
+      ]
+    },
+    {
+      "hour_label": "10:05 CET",
+      "timestamp_str": "2026-11-21 10:05 CET",
+      "items": [
+        {
+          "title_orig": "French billionaire hunter takes fight global after California tax defeat",
+          "summary_orig": "Gabriel Zucman is rallying politicians in Paris behind his campaign to tax the super-rich. But can he overcome the billionaires and political leaders standing in his way?",
+          "link": "https://www.politico.eu/article/gabriel-zucman-billionaires-california-taxes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Fri, 20 Nov 2026 16:15:46 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "10:05 CET",
+          "title_it": "Il cacciatore di miliardari francese combatte a livello globale dopo la sconfitta fiscale della California",
+          "summary_it": "Gabriel Zucman sta radunando i politici a Parigi per sostenere la sua campagna per tassare i super-ricchi. Ma riuscirà a superare i miliardari e i leader politici che si trovano sulla sua strada?",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 16.5
+        },
+        {
+          "title_orig": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+          "summary_orig": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+          "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+          "published": "Sat, 21 Nov 2026 08:10:25 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "10:05 CET",
+          "title_it": "Zelenskyj afferma che Putin è un “assassino” dopo che Trump ha definito amico il leader russo",
+          "summary_it": "All’inizio di questa settimana, Trump ha salutato Putin prima di un incontro in Cina e ha affermato che la coppia ha un “ottimo rapporto”.",
+          "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 21.0
+        },
+        {
+          "title_orig": "Black friday, oltre il 60% degli italiani pronto agli acquisti. Spesa media 262 euro",
+          "summary_orig": "Indagine Confcommercio, abbigliamento ed elettronica si confermano in cima alle preferenze",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/black-friday-oltre-il-60-degli-italiani-pronto-agli-acquisti.-spesa-media_08d772bb-f4a5-4ee9-acba-b9dd8fab9c72.html",
+          "published": "Sat, 21 Nov 2026 09:54:01 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "10:05 CET",
+          "title_it": "Black friday, oltre il 60% degli italiani pronto agli acquisti. Spesa media 262 euro",
+          "summary_it": "Indagine Confcommercio, abbigliamento ed elettronica si confermano in cima alle preferenze",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 12.0
+        },
+        {
+          "title_orig": "How China is using summits to expand its global influence",
+          "summary_orig": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+          "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+          "published": "Sat, 21 Nov 2026 06:00:02 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "10:05 CET",
+          "title_it": "Come la Cina sta utilizzando i vertici per espandere la sua influenza globale",
+          "summary_it": "Il presidente cinese Xi Jinping ha contribuito a coordinare un altro servizio fotografico di importanza globale.",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 19.0
         }
       ]
     }
