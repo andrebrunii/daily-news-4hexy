@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 21 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-16%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-17%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (16/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (17/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `13:05 CET` — Ricerca Oraria (17/23)
+_Aggiornamento registrato il `2026-11-21 13:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Tesla sbarca in Argentina, Milei elogia Musk e l'apertura del mercato](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/tesla-sbarca-in-argentina-milei-elogia-musk-e-lapertura-del-mercato_8d43c10d-8093-4a50-92ca-a5b838833741.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** In vendita Model 3 e Model Y tra 40.990 e 54.590 dollari, evento a La Boca
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [Le minacce russe sono “sempre meno ibride”, dice Von der Leyen dopo il complotto in Danimarca](https://www.politico.eu/article/russian-threats-less-hybrid-von-der-leyen-says-assassination-plot-ukrainian-rapper-kyivstoner-denmark/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Le autorità danesi hanno dichiarato di aver sventato un piano russo per uccidere un rapper ucraino a settembre.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🔭 Ricerca & Spazio` [Dopo 8 anni nello spazio, un innovativo telescopio a raggi X apre finalmente i suoi occhi](https://www.sciencedaily.com/releases/2026/11/261120075547.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Dopo otto anni e 10 miliardi di chilometri nello spazio, un innovativo telescopio a raggi X diretto verso Mercurio ha catturato le sue prime osservazioni cosmiche e sta funzionando anche meglio di quanto gli scienziati si aspettassero. Lo strumento potrebbe presto rivelare i segreti chimici nascosti di Mercurio e trasformare la nostra comprensione di come si è formato il pianeta più piccolo del sistema solare.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[4] `💶 Macro & Finanza UE` [Cgia, 2,4 milioni di famiglie italiane a rischio povertà energetica](https://www.ansa.it/sito/notizie/economia/2026/11/21/cgia-24-milioni-di-famiglie-italiane-a-rischio-poverta-energetica_aa26d2d8-fc76-487f-8296-94ab69016569.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Sono il 9,1% dei nuclei italiani, in Puglia la situazione più critica
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `12:05 CET` — Ricerca Oraria (16/23)
 _Aggiornamento registrato il `2026-11-21 12:05 CET`_

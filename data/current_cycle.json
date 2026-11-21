@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-20",
   "target_edition_date": "2026-11-21",
-  "last_slot_iso": "2026-11-21T12:05:00",
+  "last_slot_iso": "2026-11-21T13:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1311,6 +1311,88 @@
           "summary_it": "Meta sta “rivalutando” gli obiettivi di sostenibilità del 2030. Ne seguiranno altri?",
           "impact_eu_it": "Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "13:05 CET",
+      "timestamp_str": "2026-11-21 13:05 CET",
+      "items": [
+        {
+          "title_orig": "Tesla sbarca in Argentina, Milei elogia Musk e l'apertura del mercato",
+          "summary_orig": "In vendita Model 3 e Model Y tra 40.990 e 54.590 dollari, evento a La Boca",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/tesla-sbarca-in-argentina-milei-elogia-musk-e-lapertura-del-mercato_8d43c10d-8093-4a50-92ca-a5b838833741.html",
+          "published": "Sat, 21 Nov 2026 12:54:23 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "13:05 CET",
+          "title_it": "Tesla sbarca in Argentina, Milei elogia Musk e l'apertura del mercato",
+          "summary_it": "In vendita Model 3 e Model Y tra 40.990 e 54.590 dollari, evento a La Boca",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Russian threats ‘less and less hybrid,’ Von der Leyen says after assassination plot in Denmark",
+          "summary_orig": "Danish authorities said they thwarted a Russian plan to kill a Ukrainian rapper in September.",
+          "link": "https://www.politico.eu/article/russian-threats-less-hybrid-von-der-leyen-says-assassination-plot-ukrainian-rapper-kyivstoner-denmark/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Sat, 21 Nov 2026 11:43:12 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "13:05 CET",
+          "title_it": "Le minacce russe sono “sempre meno ibride”, dice Von der Leyen dopo il complotto in Danimarca",
+          "summary_it": "Le autorità danesi hanno dichiarato di aver sventato un piano russo per uccidere un rapper ucraino a settembre.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 14.5
+        },
+        {
+          "title_orig": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+          "summary_orig": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected. The instrument could soon reveal Mercury's hidden chemical secrets and transform our understanding of how the solar system's smallest planet formed.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+          "published": "Fri, 20 Nov 2026 21:11:14 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "13:05 CET",
+          "title_it": "Dopo 8 anni nello spazio, un innovativo telescopio a raggi X apre finalmente i suoi occhi",
+          "summary_it": "Dopo otto anni e 10 miliardi di chilometri nello spazio, un innovativo telescopio a raggi X diretto verso Mercurio ha catturato le sue prime osservazioni cosmiche e sta funzionando anche meglio di quanto gli scienziati si aspettassero. Lo strumento potrebbe presto rivelare i segreti chimici nascosti di Mercurio e trasformare la nostra comprensione di come si è formato il pianeta più piccolo del sistema solare.",
+          "impact_eu_it": "Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "Cgia, 2,4 milioni di famiglie italiane a rischio povertà energetica",
+          "summary_orig": "Sono il 9,1% dei nuclei italiani, in Puglia la situazione più critica",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/cgia-24-milioni-di-famiglie-italiane-a-rischio-poverta-energetica_aa26d2d8-fc76-487f-8296-94ab69016569.html",
+          "published": "Sat, 21 Nov 2026 11:24:41 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "13:05 CET",
+          "title_it": "Cgia, 2,4 milioni di famiglie italiane a rischio povertà energetica",
+          "summary_it": "Sono il 9,1% dei nuclei italiani, in Puglia la situazione più critica",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 12.0
         }
       ]
