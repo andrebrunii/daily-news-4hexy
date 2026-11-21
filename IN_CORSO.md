@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 21 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-4%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (4/23 ricerche orarie):**
-`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `01:05 CET` — Ricerca Oraria (5/23)
+_Aggiornamento registrato il `2026-11-21 01:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Perù e Usa firmano un accordo sui disastri per affrontare El Niño](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/peru-e-usa-firmano-un-accordo-sui-disastri-per-affrontare-el-nino_e4913117-2466-4095-a3a4-2fa4428dd794.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Attesa a gennaio 2027 la nave ospedale Uss Comfort, timori per la costa nord
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Unione Europea & Policy` [Alcuni giganti del petrolio saranno etichettati come “verdi” secondo le regole finanziarie dell’UE](https://www.politico.eu/article/some-oil-giants-will-now-be-labeled-sustainable-under-eu-finance-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La decisione è arrivata lo stesso giorno in cui l’UE ha accettato di ritardare le norme sulle emissioni di metano per le società produttrici di combustibili fossili.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[3] `🔭 Ricerca & Spazio` [Per una migliore salute mentale, la frequenza con cui ti alleni può essere più importante dell’intensità](https://www.sciencedaily.com/releases/2026/11/261119194601.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Uno studio condotto su oltre 10.000 studenti universitari ha scoperto che fare attività fisica regolarmente può essere più importante per la salute mentale che spingersi oltre attraverso allenamenti intensi o lunghi. Gli studenti che facevano attività fisica meno frequentemente avevano maggiori probabilità di sperimentare depressione e ansia un anno dopo, suggerendo che la costanza potrebbe essere un ingrediente chiave per proteggere...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🏛️ Filosofia & Idee` [Immaginazione fuggitiva](https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Ovunque le persone siano confinate, sfollate, messe a tacere o rese usa e getta, emergono forme fuggitive di conoscenza e immaginazione - di Shahram Khosravi Continua a leggere su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
 
 ### 🕒 Ora `00:05 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-21 00:05 CET`_
