@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-20",
   "target_edition_date": "2026-11-21",
-  "last_slot_iso": "2026-11-21T18:05:00",
+  "last_slot_iso": "2026-11-21T19:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1804,6 +1804,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 19.0
+        }
+      ]
+    },
+    {
+      "hour_label": "19:05 CET",
+      "timestamp_str": "2026-11-21 19:05 CET",
+      "items": [
+        {
+          "title_orig": "Pellet, rincari oltre il 30%. Ma resta più conveniente del metano",
+          "summary_orig": "I rialzi del costo del gas spingono la domanda e i prezzi dei combustibili da biomasse. Come difendersi da speculazioni e truffe",
+          "link": "https://www.ilsole24ore.com/art/pellet-rincari-oltre-30percento-ma-resta-piu-conveniente-metano-AJNbTVNC",
+          "published": "Sat, 21 Nov 2026 08:02:01 GMT",
+          "source_id": "sole24ore_econ",
+          "source_name": "Il Sole 24 Ore",
+          "category": "economia",
+          "badge": "📈 Economia & Mercati",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "19:05 CET",
+          "title_it": "Pellet, rincari oltre il 30%. Ma resta più conveniente del metano",
+          "summary_it": "I rialzi del costo del gas spingono la domanda e i prezzi dei combustibili da biomasse. Come difendersi da speculazioni e truffe",
+          "impact_eu_it": "Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 16.5
+        },
+        {
+          "title_orig": "Gatto a spasso in cabina, volo della Delta bloccato a Boston",
+          "summary_orig": "La torre di controllo: 'Questa è nuova. Buona giornata e miao'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/gatto-a-spasso-in-cabina-volo-della-delta-bloccato-a-boston_b191c33f-68de-463d-986f-9c37de803cad.html",
+          "published": "Sat, 21 Nov 2026 18:48:20 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "19:05 CET",
+          "title_it": "Gatto a spasso in cabina, volo della Delta bloccato a Boston",
+          "summary_it": "La torre di controllo: 'Questa è nuova. Buona giornata e miao'",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Sciopero del personale Fs fino alle 20 di oggi",
+          "summary_orig": "'Per il trasporto del Regionale saranno garantiti i servizi essenziali'",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/21/sciopero-del-personale-fs-fino-alle-20-di-oggi_49dc2219-ecfc-4749-b7a9-bd2a14257de5.html",
+          "published": "Sat, 21 Nov 2026 08:24:49 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "19:05 CET",
+          "title_it": "Sciopero del personale Fs fino alle 20 di oggi",
+          "summary_it": "'Per il trasporto del Regionale saranno garantiti i servizi essenziali'",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 15.5
+        },
+        {
+          "title_orig": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+          "summary_orig": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+          "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+          "published": "Sat, 21 Nov 2026 12:00:01 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "19:05 CET",
+          "title_it": "La prima classe internazionale è finita per le compagnie aeree statunitensi. Entra nella mega cabina della business class",
+          "summary_it": "Le compagnie aeree stanno optando per costruire gigantesche cabine di classe business con suite sempre più lussuose.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 12.0
         }
       ]
     }
