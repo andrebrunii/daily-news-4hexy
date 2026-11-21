@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 21 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-14%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-21 11:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [A Sogliano asili nido e centri estivi grazie alla discarica](https://www.ilsole24ore.com/art/a-sogliano-asili-nido-e-centri-estivi-grazie-discarica-AJ457kNC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Cinquanta milioni di euro per dare altri trent’anni di vita alla discarica. Ma a Sogliano al Rubicone (Forlì-Cesena) la notizia va oltre l’ampliamento autorizzato dalla Regione: qui i rifiuti sono...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌍 Geopolitica & Mondo` [A Sigonella accertamenti in corso dopo il possibile sorvolo di droni](https://www.ansa.it/sito/notizie/mondo/2026/11/21/a-sigonella-accertamenti-in-corso-dopo-il-possibile-sorvolo-di-droni_f2d335b7-be89-4930-bb82-a4ab490d0a88.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** L'alert ieri sera, i velivoli avrebbero sorvolato sia la base che gli alloggi
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `💶 Macro & Finanza UE` [Black Friday: Codacons, in Italia giro d'affari da 4,3 miliardi, resta rischio truffe](https://www.ansa.it/sito/notizie/economia/2026/11/21/black-friday-codacons-in-italia-giro-daffari-da-43-miliardi-resta-rischio-truffe_3c51b41d-01fc-4f71-bd68-6ac7f4a55279.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** 'Frodi più sofisticate con l'Ia tra recensioni inventate e deep fake'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🏦 Mercati Globali` [Trump ordina agli appaltatori federali di avvisare la Casa Bianca prima di fornire informazioni al Congresso](https://www.cnbc.com/2026/11/21/trump-orders-federal-contractors-to-notify-white-house-before-giving-congress-information.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Le aziende che non si adeguano potrebbero dover affrontare la cancellazione dei contratti esistenti o la sospensione da future attività federali.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
 
 ### 🕒 Ora `10:05 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-21 10:05 CET`_
