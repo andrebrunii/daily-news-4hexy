@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-20",
   "target_edition_date": "2026-11-21",
-  "last_slot_iso": "2026-11-21T11:05:00",
+  "last_slot_iso": "2026-11-21T12:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1230,6 +1230,88 @@
           "impact_eu_it": "Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 17.5
+        }
+      ]
+    },
+    {
+      "hour_label": "12:05 CET",
+      "timestamp_str": "2026-11-21 12:05 CET",
+      "items": [
+        {
+          "title_orig": "Mosca, 'nave cargo attaccata nelle acque internazionali del Golfo di Finlandia'",
+          "summary_orig": "Approfondimento disponibile nella fonte originale collegata.",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/mosca-nave-cargo-attaccata-nelle-acque-internazionali-del-golfo-di-finlandia_129fcfc0-7eb9-4a4b-bf20-409fea4d06c7.html",
+          "published": "Sat, 21 Nov 2026 11:51:02 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "12:05 CET",
+          "title_it": "Mosca, 'nave cargo attaccata nelle acque internazionali del Golfo di Finlandia'",
+          "summary_it": "Approfondimento disponibile nella fonte originale collegata.",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Costa cuts proposed EU budget by €44B",
+          "summary_orig": "Brussels proposes tax on Big Tech to raise billions for the next budget cycle.",
+          "link": "https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Sat, 21 Nov 2026 10:44:05 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "hour_slot": "12:05 CET",
+          "title_it": "Costa taglia il budget UE proposto di 44 miliardi di euro",
+          "summary_it": "Bruxelles propone una tassa sulle Big Tech per raccogliere miliardi per il prossimo ciclo di bilancio.",
+          "impact_eu_it": "Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 25.0
+        },
+        {
+          "title_orig": "How quantum computers built from laser-trapped atoms may correct qubit errors more easily than supercooled chips, speeding the race to a usable machine (Cade Metz/New York Times)",
+          "summary_orig": "Cade Metz / New York Times : How quantum computers built from laser-trapped atoms may correct qubit errors more easily than supercooled chips, speeding the race to a usable machine — Optical tools in a quantum computer at Harvard University.Lucy Lu for The New York Times — For almost a decade, a Google lab in Santa Barbara …",
+          "link": "https://www.techmeme.com/261121/p5#a261121p5",
+          "published": "Sat, 21 Nov 2026 02:30:00 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "12:05 CET",
+          "title_it": "Come i computer quantistici costruiti con atomi intrappolati dal laser possono correggere gli errori dei qubit più facilmente dei chip superraffreddati, accelerando la corsa verso una macchina utilizzabile (Cade Metz/New York Times)",
+          "summary_it": "Cade Metz / New York Times: Come i computer quantistici costruiti con atomi intrappolati dal laser possono correggere gli errori dei qubit più facilmente dei chip superraffreddati, accelerando la corsa verso una macchina utilizzabile - Strumenti ottici in un computer quantistico all'Università di Harvard. Lucy Lu per il New York Times - Per quasi un decennio, un laboratorio di Google a Santa Barbara...",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 23.5
+        },
+        {
+          "title_orig": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+          "summary_orig": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+          "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+          "published": "Fri, 20 Nov 2026 21:47:10 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "12:05 CET",
+          "title_it": "Meta riconsidera l’obiettivo di zero emissioni nette entro il 2030 tra le emissioni record dei data center IA",
+          "summary_it": "Meta sta “rivalutando” gli obiettivi di sostenibilità del 2030. Ne seguiranno altri?",
+          "impact_eu_it": "Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 12.0
         }
       ]
     }
