@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 21 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `08:05 CET` — Ricerca Oraria (12/23)
+_Aggiornamento registrato il `2026-11-21 08:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Media: 'Droni avvistati su Sigonella, ai voli militari indicato il cambio di rotta'](https://www.ansa.it/sito/notizie/mondo/2026/11/21/media-droni-avvistati-su-sigonella-ai-voli-militari-indicato-il-cambio-di-rotta_f2d335b7-be89-4930-bb82-a4ab490d0a88.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** L'alert ieri sera, i velivoli avrebbero sorvolato sia la base che gli alloggi
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🌐 Scacchiere Globale` [Un accordo con l’UE che non dipenda dall’accordo sulle tasse universitarie, afferma Miliband](https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Fonti di Bruxelles avevano precedentemente suggerito che il blocco potrebbe non applicare l’accordo più ampio fino a quando non fossero state abbassate le tasse per gli studenti dell’UE in Gran Bretagna.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[3] `🤖 IA & Frontiera Tech` [Tristan Buckmaster della New York University e Levent Alpöge di Anthropic pubblicano una prova dell'esplosione di Navier-Stokes aiutata dall'intelligenza artificiale, affermando che chiude una lacuna nella soluzione di OpenAI (Peter Hall/Scientific American)](https://www.techmeme.com/261121/p4#a261121p4)** — *(Techmeme)*
+  - 📌 **Sintesi:** Peter Hall / Scientific American: Tristan Buckmaster della NYU e Levent Alpöge di Anthropic pubblicano una prova dell'esplosione di Navier-Stokes assistita dall'intelligenza artificiale, affermando che chiude una scappatoia nella soluzione di OpenAI - Due mesi dopo essere stata scoperta da OpenAI, N.Y.U. il professore Tristan Buckmaster e il collaboratore di Anthropic Levent Alpöge …
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `💻 Tecnologia & Cyber` [Google lancia una nuova home page di ricerca con cronologia chat AI e nessun pulsante di ricerca](https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** La ricerca di Google rende ancora più semplice l'accesso agli strumenti di intelligenza artificiale nella pagina di ricerca.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `07:05 CET` — Ricerca Oraria (11/23)
 _Aggiornamento registrato il `2026-11-21 07:05 CET`_
