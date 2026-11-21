@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 21 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-13%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (13/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `09:05 CET` — Ricerca Oraria (13/23)
+_Aggiornamento registrato il `2026-11-21 09:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [La Cnn: 'Nuovo attacco hacker all'Fbi, violato l'archivio criminale'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/la-cnn-nuovo-attacco-hacker-allfbi-violato-larchivio-criminale_38f6033c-fb4e-4c0c-8cb1-c64f4c15b671.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il Bureau sta indagando. A settembre sottratti dati personali dei dipendenti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [Il Regno Unito si prenderà il tempo necessario per definire le opzioni per la Brexit, afferma il ministro](https://www.politico.eu/article/uk-brexit-eu-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Hamish Falconer dice a POLITICO che le discussioni sull'argomento si sono rivelate “divisive” ed era importante risolverle.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🔭 Ricerca & Spazio` [Le microplastiche potrebbero essere più pericolose di quanto pensassimo. Gli scienziati hanno appena scoperto il perché](https://www.sciencedaily.com/releases/2026/11/261120075549.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Le microplastiche potrebbero fare qualcosa di molto più pericoloso del semplice accumulo nel nostro corpo. Gli scienziati hanno scoperto che minuscole particelle di plastica possono interagire con l’acqua per generare molecole altamente reattive in grado di danneggiare cellule e tessuti. Questa attività chimica inaspettata potrebbe aiutare a spiegare le prove crescenti che collegano l’esposizione alla microplastica a...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[4] `🏛️ Filosofia & Idee` [Perché esiste qualcosa](https://aeon.co/essays/a-new-answer-to-why-there-is-something-rather-than-nothing)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Ecco una nuova risposta alla vecchia domanda "perché c'è qualcosa piuttosto che niente?" (Non è né semplice né facile) - di Andrew T Brenner Leggi su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `08:05 CET` — Ricerca Oraria (12/23)
 _Aggiornamento registrato il `2026-11-21 08:05 CET`_
