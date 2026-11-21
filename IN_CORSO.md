@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Sabato 21 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-17%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-18%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (17/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (18/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md) · [📅 **2026-11-14**](./archivio/2026-11-14.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `14:05 CET` — Ricerca Oraria (18/23)
+_Aggiornamento registrato il `2026-11-21 14:05 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Nave russa danneggiata da un attacco di droni nel Golfo di Finlandia, dicono Helsinki e Mosca](https://www.politico.eu/article/russian-ship-damaged-drone-attack-gulf-finland-helsinki-moscow-say/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** "La guerra si sta diffondendo nelle regioni vicine", ha detto il primo ministro finlandese Petteri Orpo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[2] `🌐 Scacchiere Globale` [Zelenskyj afferma che il Ponte di Crimea dà una "giusta risposta" quando incontra Streeting del Regno Unito](https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il presidente ucraino afferma che Kiev ha agito dopo 109 diversi attacchi aerei russi sui ponti in Ucraina.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `💶 Macro & Finanza UE` [Merz, 'nuova proposta bilancio Ue passo avanti ma ancora troppo alta](https://www.ansa.it/sito/notizie/economia/2026/11/21/merz-nuova-proposta-bilancio-ue-passo-avanti-ma-ancora-troppo-alta_133c0910-fb48-4d0f-af19-283afaa413fd.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** "Gli squilibri già esistenti all'interno del bilancio dell'Ue rischiano di accentuarsi"
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [Le interruzioni tecnologiche stanno alimentando una nuova economia apocalittica](https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Le recenti interruzioni tecnologiche hanno lasciato alcuni preoccupati per gli attacchi informatici all’intelligenza artificiale e alla rete elettrica degli Stati Uniti. Di conseguenza, l’economia apocalittica si sta surriscaldando.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `13:05 CET` — Ricerca Oraria (17/23)
 _Aggiornamento registrato il `2026-11-21 13:05 CET`_
