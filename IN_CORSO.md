@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 22 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-13%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-14%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (13/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (14/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-21**](./archivio/2026-11-21.md) · [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `10:05 CET` — Ricerca Oraria (14/23)
+_Aggiornamento registrato il `2026-11-22 10:05 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Tre morti e decine di dispersi dopo l'incendio in una fabbrica indonesiana](https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Almeno tre persone sono state uccise e 36 risultano ancora disperse in un incendio scoppiato in una fabbrica di dolciumi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌍 Esteri & Analisi` [Altamente redditizio: i direttori della Banca d’Inghilterra hanno tratto profitto illegalmente dalla schiavitù post-abolizione a Cuba](https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba)** — *(The Guardian World)*
+  - 📌 **Sintesi:** Una nuova ricerca rileva che la Cobre Mining Company, a guida britannica, ha contribuito a industrializzare Manchester attraverso depositi di rame e schiavizzare gli africani.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[3] `🏦 Mercati Globali` [Il punto debole informatico dell’Europa sono le attività quotidiane che nessuno pensava di proteggere](https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Le vulnerabilità note lasciano le aziende quotidiane sempre più esposte al sabotaggio informatico, poiché l’intelligenza artificiale consente ai criminali informatici di lavorare meglio e più velocemente.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🤖 IA & Frontiera Tech` [Tesla lancia FSD v15, con un rendering fotorealistico dell'ambiente circostante l'auto; Elon Musk afferma che si tratta di generazione di video AI in tempo reale senza utilizzare motori di gioco (Mike Pearl/Gizmodo)](https://www.techmeme.com/261122/p4#a261122p4)** — *(Techmeme)*
+  - 📌 **Sintesi:** Mike Pearl / Gizmodo: Tesla lancia FSD v15, con un rendering fotorealistico dell'ambiente circostante l'auto; Elon Musk afferma che si tratta di generazione di video AI in tempo reale senza l'utilizzo di motori di gioco: sabato FSD v15 è stato rilasciato su alcuni veicoli. Il suo sistema di visualizzazione potrebbe essere la parte più notevole.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `09:05 CET` — Ricerca Oraria (13/23)
 _Aggiornamento registrato il `2026-11-22 09:05 CET`_

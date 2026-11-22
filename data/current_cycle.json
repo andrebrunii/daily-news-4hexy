@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-21",
   "target_edition_date": "2026-11-22",
-  "last_slot_iso": "2026-11-22T09:05:00",
+  "last_slot_iso": "2026-11-22T10:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -1066,6 +1066,88 @@
           "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 16.5
+        }
+      ]
+    },
+    {
+      "hour_label": "10:05 CET",
+      "timestamp_str": "2026-11-22 10:05 CET",
+      "items": [
+        {
+          "title_orig": "Three killed and dozens missing after fire at Indonesian factory",
+          "summary_orig": "At least three people were killed and 36 are still missing after a fire at a confectionary factory.",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Nov 2026 06:05:00 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "10:05 CET",
+          "title_it": "Tre morti e decine di dispersi dopo l'incendio in una fabbrica indonesiana",
+          "summary_it": "Almeno tre persone sono state uccise e 36 risultano ancora disperse in un incendio scoppiato in una fabbrica di dolciumi.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 14.0
+        },
+        {
+          "title_orig": "Highly lucrative: Bank of England directors illegally profited from post-abolition enslavement in Cuba",
+          "summary_orig": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research finds British businesses run by long-serving directors of the Bank of England profited from “brutal” enslavement in Cuba for decades after...",
+          "link": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+          "published": "Sun, 22 Nov 2026 08:00:22 GMT",
+          "source_id": "guardian_world",
+          "source_name": "The Guardian World",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Esteri & Analisi",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "10:05 CET",
+          "title_it": "Altamente redditizio: i direttori della Banca d’Inghilterra hanno tratto profitto illegalmente dalla schiavitù post-abolizione a Cuba",
+          "summary_it": "Una nuova ricerca rileva che la Cobre Mining Company, a guida britannica, ha contribuito a industrializzare Manchester attraverso depositi di rame e schiavizzare gli africani.",
+          "impact_eu_it": "Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
+          "summary_orig": "Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.",
+          "link": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
+          "published": "Sat, 21 Nov 2026 06:00:02 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "10:05 CET",
+          "title_it": "Il punto debole informatico dell’Europa sono le attività quotidiane che nessuno pensava di proteggere",
+          "summary_it": "Le vulnerabilità note lasciano le aziende quotidiane sempre più esposte al sabotaggio informatico, poiché l’intelligenza artificiale consente ai criminali informatici di lavorare meglio e più velocemente.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 28.0
+        },
+        {
+          "title_orig": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines (Mike Pearl/Gizmodo)",
+          "summary_orig": "Mike Pearl / Gizmodo : Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines — FSD v15 was released to some vehicles on Saturday. Its visualization system may be the most remarkable part.",
+          "link": "https://www.techmeme.com/261122/p4#a261122p4",
+          "published": "Sun, 22 Nov 2026 01:40:16 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "10:05 CET",
+          "title_it": "Tesla lancia FSD v15, con un rendering fotorealistico dell'ambiente circostante l'auto; Elon Musk afferma che si tratta di generazione di video AI in tempo reale senza utilizzare motori di gioco (Mike Pearl/Gizmodo)",
+          "summary_it": "Mike Pearl / Gizmodo: Tesla lancia FSD v15, con un rendering fotorealistico dell'ambiente circostante l'auto; Elon Musk afferma che si tratta di generazione di video AI in tempo reale senza l'utilizzo di motori di gioco: sabato FSD v15 è stato rilasciato su alcuni veicoli. Il suo sistema di visualizzazione potrebbe essere la parte più notevole.",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 15.0
         }
       ]
     }
