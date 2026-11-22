@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 22 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-14%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-15%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-21**](./archivio/2026-11-21.md) · [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `11:05 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-22 11:05 CET`_
+
+- **[1] `📈 Economia & Mercati` [Lovrén sbarca in Cile e prepara l’espansione in Sudamerica](https://www.ilsole24ore.com/art/lovren-sbarca-cile-e-prepara-l-espansione-sudamerica-AJS2x6MC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Il marchio di make-up leader nelle farmacie italiane ha debuttato in America Latina grazie a una partnership con Salcobrand
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [14 dispersi dopo l'attacco russo mentre Zelenskyj preme gli Stati Uniti sui missili Patriot](https://www.politico.eu/article/14-missing-after-russian-strike-zelenskyy-presses-us-patriot-missiles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** In seguito all'attacco vicino a Kiev, il presidente ucraino ha lanciato un appello a Washington affinché autorizzi i missili di difesa aerea finanziati dagli alleati.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[3] `🏦 Mercati Globali` [Non ho mai desiderato il sogno americano e sentivo che qualcosa non andava in me, finché non mi sono trasferito all'estero](https://www.cnbc.com/make-it/2026/11/21/never-wanted-american-dream-moving-abroad-redefine-success.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** "Ho capito che andava bene desiderare qualcosa di diverso", dice Cepee Tabibian, che si è trasferito in Spagna nel 2015 all'età di 35 anni.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🤖 IA & Frontiera Tech` [Fonti: fornitori di server AI come Dell, HPE, Lenovo e Supermicro chiedono prezzi sostanzialmente più alti agli acquirenti, mesi dopo la firma dei contratti (Financial Times)](https://www.techmeme.com/261122/p2#a261122p2)** — *(Techmeme)*
+  - 📌 **Sintesi:** Financial Times: Fonti: fornitori di server AI come Dell, HPE, Lenovo e Supermicro chiedono prezzi sostanzialmente più alti agli acquirenti, mesi dopo la firma dei contratti: Dell, HPE, Lenovo e Supermicro chiedono di più per le apparecchiature, con l'aumento dei costi che colpisce le società commerciali
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `10:05 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-22 10:05 CET`_
