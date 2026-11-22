@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-21",
   "target_edition_date": "2026-11-22",
-  "last_slot_iso": "2026-11-22T00:05:00",
+  "last_slot_iso": "2026-11-22T01:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -328,6 +328,88 @@
           "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 12.0
+        }
+      ]
+    },
+    {
+      "hour_label": "01:05 CET",
+      "timestamp_str": "2026-11-22 01:05 CET",
+      "items": [
+        {
+          "title_orig": "Zelensky ringrazia Melania Trump per il cessate il fuoco di Oleshky",
+          "summary_orig": "Il presidente ucraino poi elenca i luoghi da evacuare",
+          "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/zelensky-ringrazia-melania-trump-per-il-cessate-il-fuoco-di-oleshky_f790af89-7d0f-48fb-907a-c82009f09395.html",
+          "published": "Sun, 22 Nov 2026 00:04:38 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "01:05 CET",
+          "title_it": "Zelensky ringrazia Melania Trump per il cessate il fuoco di Oleshky",
+          "summary_it": "Il presidente ucraino poi elenca i luoghi da evacuare",
+          "impact_eu_it": "L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 17.0
+        },
+        {
+          "title_orig": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+          "summary_orig": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+          "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+          "published": "Fri, 20 Nov 2026 23:08:57 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "hour_slot": "01:05 CET",
+          "title_it": "In un anno trascorso con l’intelligenza artificiale a risolvere problemi di matematica, un lavoratore antropico afferma di aver risolto il problema più grande",
+          "summary_it": "Un matematico dell'Anthropic afferma di aver utilizzato un'intelligenza artificiale per dimostrare la famosa ipotesi di Riemann, anche se la verifica richiederà del tempo.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 22.0
+        },
+        {
+          "title_orig": "A giant star swallowed another star. James Webb reveals the aftermath",
+          "summary_orig": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about how two stars can merge into one.",
+          "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+          "published": "Sat, 21 Nov 2026 09:53:40 EST",
+          "source_id": "sciencedaily",
+          "source_name": "ScienceDaily",
+          "category": "scienza",
+          "badge": "🔭 Ricerca & Spazio",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.15,
+          "hour_slot": "01:05 CET",
+          "title_it": "Una stella gigante ha inghiottito un'altra stella. James Webb rivela le conseguenze",
+          "summary_it": "Gli astronomi hanno assistito ad una spettacolare collisione cosmica nella galassia di Andromeda, dove una piccola stella si è trasformata in una stella gigante 18.000 volte più luminosa del Sole, innescando una violenta eruzione. Il telescopio spaziale James Webb della NASA ha catturato le conseguenze appena 47 giorni dopo, rivelando nuovi dettagli su come due stelle possono fondersi in una sola.",
+          "impact_eu_it": "Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Transizione da una comprensione descrittiva della natura a una capacità progettuale sulla materia vivente e sui processi cognitivi, con profondi interrogativi bioetici e distributivi.\n> 🧠 **Lente Filosofica:** Nella tensione tra *hybris* ed episteme, la conoscenza scientifica ci ricorda il paradosso cosmico: siamo una minuscola frazione di materia dell'universo diventata improvvisamente capace di studiare e riscrivere le proprie stesse leggi.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
+          "summary_orig": "Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.",
+          "link": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
+          "published": "Sat, 21 Nov 2026 13:01:44 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "01:05 CET",
+          "title_it": "Warren Buffett quadruplica i regali del Ringraziamento: un dettaglio di quanta ricchezza sta regalando",
+          "summary_it": "Quest’anno Warren Buffett ha più che quadruplicato le sue donazioni per il Ringraziamento a quattro fondazioni familiari, portandole a 5,5 miliardi di dollari.",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 14.0
         }
       ]
     }
