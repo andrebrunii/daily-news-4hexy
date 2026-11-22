@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-21",
   "target_edition_date": "2026-11-22",
-  "last_slot_iso": "2026-11-22T15:00:00",
+  "last_slot_iso": "2026-11-22T16:00:00",
   "hourly_batches": [
     {
       "hour_label": "00:05 CET",
@@ -1329,6 +1329,94 @@
           "long_term_philosophy": "**Orizzonte generazionale:** Le trasformazioni più radicali della storia non iniziano nei parlamenti o nelle borse, ma nel cambio silenzioso delle categorie mentali con cui una civiltà interpreta ciò che è normale, giusto o desiderabile.\n> 🧠 **Lente Filosofica:** Come scriveva Seneca, *«nessun vento è favorevole per il marinaio che non sa a quale porto vuol approdare»*. In un'epoca ossessionata dall'accelerazione dei mezzi, fermarsi a interrogare i fini è l'atto più sovversivo e necessario.",
           "score": 14.0,
           "hour_slot": "15:00 CET",
+          "is_update": false
+        }
+      ]
+    },
+    {
+      "hour_label": "16:00 CET",
+      "timestamp_str": "2026-11-22 16:00 CET",
+      "items": [
+        {
+          "title_orig": "COP31 : l’accord capote sur fond de désaccord sur les énergies fossiles",
+          "summary_orig": "Les négociations n’ont pas réussi à aboutir sur un accord malgré les avertissements concernant un réchauffement climatique galopant.",
+          "link": "https://www.politico.eu/article/cop31-laccord-capote-sur-fond-de-desaccord-sur-les-energies-fossiles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Sun, 22 Nov 2026 13:54:46 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "title_it": "COP31: l'accordo capote sul fondo di disaccordo sulle energie fossili",
+          "summary_it": "Le negoziazioni non sono pronte a parlare di un accordo in cui si verificano avvisi riguardanti un clima di riscaldamento galoppante.",
+          "impact_eu_it": "Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 18.0,
+          "hour_slot": "16:00 CET",
+          "is_update": false
+        },
+        {
+          "title_orig": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+          "summary_orig": "Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones A fire at a confectionery factory west of Jakarta has killed three people with 36 remaining missing, an Indonesian rescue official says. Drone footage showed large parts of the factory destroyed, with the roof collapsed in places and smoke still...",
+          "link": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+          "published": "Sun, 22 Nov 2026 07:11:17 GMT",
+          "source_id": "guardian_world",
+          "source_name": "The Guardian World",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Esteri & Analisi",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.3,
+          "title_it": "Indonesia: incendio in una fabbrica di dolciumi: almeno tre morti e decine di dispersi",
+          "summary_it": "I parenti delle vittime scomparse si sono accalcati all'ingresso della fabbrica, in cerca di aggiornamenti sui loro cari. Un incendio in una fabbrica di dolciumi a ovest di Giakarta ha ucciso tre persone e 36 risultano dispersi, dice un funzionario di soccorso indonesiano. Le riprese dei droni hanno mostrato ampie parti della fabbrica distrutte, con il tetto crollato in alcuni punti e il fumo ancora...",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 15.0,
+          "hour_slot": "16:00 CET",
+          "is_update": true,
+          "update_of_time": "2026-11-22 10:00 CET",
+          "update_of_title": "Tre morti e decine di dispersi dopo l'incendio in una fabbrica indonesiana"
+        },
+        {
+          "title_orig": "The most important question you’ll ask 1,000 times a day",
+          "summary_orig": "You are able to make good decisions about how to live your life. I hate to open a new newsletter with a twee self-help aphorism covered in fortune cookie crumbs, but it’s probably the most important thing to start with. Because Epicureanism is an ancient Greek philosophy, and like almost all its contemporaries, it places responsibility on you . You are...",
+          "link": "https://bigthink.com/mini-philosophy/the-most-important-question-youll-ask-1000-times-a-day/",
+          "published": "Sun, 22 Nov 2026 14:52:32 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "title_it": "La domanda più importante che farai 1.000 volte al giorno",
+          "summary_it": "Sei in grado di prendere buone decisioni su come vivere la tua vita. Odio aprire una nuova newsletter con un lezioso aforisma di auto-aiuto ricoperto di briciole di biscotti della fortuna, ma probabilmente è la cosa più importante con cui iniziare. Perché l'epicureismo è un'antica filosofia greca e, come quasi tutti i suoi contemporanei, ti attribuisce la responsabilità. Sei...",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Le trasformazioni più radicali della storia non iniziano nei parlamenti o nelle borse, ma nel cambio silenzioso delle categorie mentali con cui una civiltà interpreta ciò che è normale, giusto o desiderabile.\n> 🧠 **Lente Filosofica:** Come scriveva Seneca, *«nessun vento è favorevole per il marinaio che non sa a quale porto vuol approdare»*. In un'epoca ossessionata dall'accelerazione dei mezzi, fermarsi a interrogare i fini è l'atto più sovversivo e necessario.",
+          "score": 16.5,
+          "hour_slot": "16:00 CET",
+          "is_update": false
+        },
+        {
+          "title_orig": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+          "summary_orig": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
+          "link": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+          "published": "Sun, 22 Nov 2026 13:25:47 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "title_it": "Arabia Saudita e Bahrein segnalano nuovi attacchi mentre l'Iran afferma di rimanere aperto a un accordo con gli Stati Uniti",
+          "summary_it": "L’Arabia Saudita ha affermato di aver distrutto un drone lanciato dagli Houthi sostenuti dall’Iran, mentre il Bahrein ha affermato che un impianto industriale è stato colpito da proiettili iraniani.",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 17.5,
+          "hour_slot": "16:00 CET",
           "is_update": false
         }
       ]

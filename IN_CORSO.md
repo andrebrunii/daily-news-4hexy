@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Domenica 22 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--22-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-16-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--22-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-17-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,23 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `16:00 CET` — Ricerca Oraria (17/20)
+_Aggiornamento registrato il `2026-11-22 16:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [COP31: l'accordo capote sul fondo di disaccordo sulle energie fossili](https://www.politico.eu/article/cop31-laccord-capote-sur-fond-de-desaccord-sur-les-energies-fossiles/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Le negoziazioni non sono pronte a parlare di un accordo in cui si verificano avvisi riguardanti un clima di riscaldamento galoppante.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[2] `🌍 Esteri & Analisi` `🔄 AGGIORNAMENTO` [Indonesia: incendio in una fabbrica di dolciumi: almeno tre morti e decine di dispersi](https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta)** — *(The Guardian World)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-22 10:00 CET).
+  - 📌 **Sintesi:** I parenti delle vittime scomparse si sono accalcati all'ingresso della fabbrica, in cerca di aggiornamenti sui loro cari. Un incendio in una fabbrica di dolciumi a ovest di Giakarta ha ucciso tre persone e 36 risultano dispersi, dice un funzionario di soccorso indonesiano. Le riprese dei droni hanno mostrato ampie parti della fabbrica distrutte, con il tetto crollato in alcuni punti e il fumo ancora...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🧠 Paradigmi & Lunghi Orizzonti` [La domanda più importante che farai 1.000 volte al giorno](https://bigthink.com/mini-philosophy/the-most-important-question-youll-ask-1000-times-a-day/)** — *(Big Think)*
+  - 📌 **Sintesi:** Sei in grado di prendere buone decisioni su come vivere la tua vita. Odio aprire una nuova newsletter con un lezioso aforisma di auto-aiuto ricoperto di briciole di biscotti della fortuna, ma probabilmente è la cosa più importante con cui iniziare. Perché l'epicureismo è un'antica filosofia greca e, come quasi tutti i suoi contemporanei, ti attribuisce la responsabilità. Sei...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[4] `🏦 Mercati Globali` [Arabia Saudita e Bahrein segnalano nuovi attacchi mentre l'Iran afferma di rimanere aperto a un accordo con gli Stati Uniti](https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L’Arabia Saudita ha affermato di aver distrutto un drone lanciato dagli Houthi sostenuti dall’Iran, mentre il Bahrein ha affermato che un impianto industriale è stato colpito da proiettili iraniani.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
 
 ### 🕒 Ora `15:00 CET` — Ricerca Oraria (16/20)
 _Aggiornamento registrato il `2026-11-22 15:00 CET`_
