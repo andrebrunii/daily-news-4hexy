@@ -1,12 +1,12 @@
-name: "⏱️ Meridiano 20:05 — Watchdog Anti-Skip (Backup Scheduler)"
+name: "⏱️ Meridiano 20:00 — Watchdog Anti-Skip (Backup Scheduler)"
 
 on:
   schedule:
     # Secondo scheduler indipendente su minuti alternati + Keeper Loop di copertura
-    - cron: "12 * * * *"
-    - cron: "27 * * * *"
-    - cron: "42 * * * *"
-    - cron: "57 * * * *"
+    - cron: "7 * * * *"
+    - cron: "22 * * * *"
+    - cron: "37 * * * *"
+    - cron: "52 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -64,8 +64,8 @@ jobs:
           sync_and_push
 
           for CYCLE in 1 2 3 4 5; do
-            SLEEP_SECS=$(python -c "import datetime as dt; from zoneinfo import ZoneInfo; now=dt.datetime.now(ZoneInfo('Europe/Rome')); target=now.replace(minute=5, second=8, microsecond=0); target = target + dt.timedelta(hours=1) if target <= now else target; print(max(15, int((target - now).total_seconds())))")
-            echo "[WATCHDOG KEEPER $CYCLE/5] In attesa di ${SLEEP_SECS}s fino al prossimo slot delle :05 CET..."
+            SLEEP_SECS=$(python -c "import datetime as dt; from zoneinfo import ZoneInfo; now=dt.datetime.now(ZoneInfo('Europe/Rome')); target=now.replace(minute=0, second=8, microsecond=0); target = target + dt.timedelta(hours=1) if target <= now else target; print(max(15, int((target - now).total_seconds())))")
+            echo "[WATCHDOG KEEPER $CYCLE/5] In attesa di ${SLEEP_SECS}s fino al prossimo slot delle :00 CET..."
             sleep "$SLEEP_SECS"
             sync_and_push
           done

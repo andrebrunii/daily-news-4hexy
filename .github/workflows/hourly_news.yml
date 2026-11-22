@@ -1,12 +1,12 @@
-name: "🧭 Meridiano 20:05 — Radar Orario & Top 10 Giornaliera (CET)"
+name: "🧭 Meridiano 20:00 — Radar Orario Live & Top 10 Giornaliera (CET)"
 
 on:
   schedule:
     # 4 trigger sfalsati ogni ora + Keeper Loop multi-ora per azzerare i buchi di GitHub Actions
-    - cron: "5 * * * *"
-    - cron: "20 * * * *"
-    - cron: "35 * * * *"
-    - cron: "50 * * * *"
+    - cron: "0 * * * *"
+    - cron: "15 * * * *"
+    - cron: "30 * * * *"
+    - cron: "45 * * * *"
   push:
     branches:
       - main
@@ -87,11 +87,11 @@ jobs:
             exit 0
           fi
 
-          # 2. Multi-Hour Real-Time Keeper (copre fino a 5 ore consecutive al minuto esatto :05 CET
+          # 2. Multi-Hour Real-Time Keeper (copre fino a 5 ore consecutive al minuto esatto :00 CET
           #    così anche se lo scheduler cron di GitHub ritarda di 5 ore, non si ferma mai!)
           for CYCLE in 1 2 3 4 5; do
-            SLEEP_SECS=$(python -c "import datetime as dt; from zoneinfo import ZoneInfo; now=dt.datetime.now(ZoneInfo('Europe/Rome')); target=now.replace(minute=5, second=8, microsecond=0); target = target + dt.timedelta(hours=1) if target <= now else target; print(max(15, int((target - now).total_seconds())))")
-            echo "[KEEPER $CYCLE/5] In attesa di ${SLEEP_SECS}s fino al prossimo slot delle :05 CET..."
+            SLEEP_SECS=$(python -c "import datetime as dt; from zoneinfo import ZoneInfo; now=dt.datetime.now(ZoneInfo('Europe/Rome')); target=now.replace(minute=0, second=8, microsecond=0); target = target + dt.timedelta(hours=1) if target <= now else target; print(max(15, int((target - now).total_seconds())))")
+            echo "[KEEPER $CYCLE/5] In attesa di ${SLEEP_SECS}s fino al prossimo slot delle :00 CET..."
             sleep "$SLEEP_SECS"
             sync_and_push "auto"
           done

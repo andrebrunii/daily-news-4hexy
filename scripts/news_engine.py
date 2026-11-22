@@ -1,24 +1,26 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Meridiano 20:05 — Osservatorio Mondiale, Impatto Italia/UE & Lunghi Orizzonti (23h + Top 10 @ 20:05 CET)
-========================================================================================================
-Funzionamento del ciclo di 24 ore (Europe/Rome) con motore Anti-Skip (Catch-Up automatico):
-- Ore 21:05 -> 19:05 CET (23 ricerche orarie):
-    * Raccoglie e analizza le notizie più importanti dell'ora da fonti mondiali, europee e italiane.
-    * Aggiorna il file live `IN_CORSO.md` (consultabile in qualsiasi momento prima delle 20:05).
-    * Mantiene intatto il `README.md` principale con l'edizione completa del giorno precedente fino alle 20:04.
-- Ore 20:05 CET (24ª ricerca — Pubblicazione Top 10):
-    * Archivia il `README.md` precedente in `archivio/YYYY-MM-DD.md`.
-    * Elimina automaticamente i file in `archivio/` più vecchi di 7 giorni (rolling backup di 7 giorni).
-    * Seleziona la TOP 10 delle ultime 24 ore:
+Meridiano 20:00 — Osservatorio Mondiale Live, Impatto Italia/UE & Top 10 Giornaliera (00:00–23:00 CET)
+======================================================================================================
+Funzionamento su giornata solare (Europe/Rome) con motore Anti-Skip (Catch-Up automatico) e Anti-Duplicati:
+- Superata la mezzanotte (00:00 CET):
+    * La pagina completa del giorno precedente viene archiviata in `archivio/YYYY-MM-DD.md`
+      (con rotazione automatica degli ultimi 7 giorni).
+    * Il `README.md` principale passa immediatamente alla giornata odierna.
+- Ogni ora (00:00 -> 19:00 CET):
+    * Raccoglie e analizza le nuove notizie dell'ora da fonti mondiali, europee e italiane.
+    * Aggiorna direttamente il `README.md` principale con tutte le notizie della giornata odierna fino a quel momento.
+    * Filtra rigorosamente i duplicati: una notizia già pubblicata NON viene ripetuta, salvo reali
+      aggiornamenti/sviluppi sulla situazione rispetto alla prima segnalazione (marcati come 🔄 AGGIORNAMENTO).
+- Ore 20:00 CET (Pubblicazione Top 10 Giornaliera):
+    * Seleziona la TOP 10 delle notizie più rilevanti raccolte oggi:
         - Posizioni #1–#5: Focus Geopolitica Mondiale & Impatto Diretto Italia / Europa (CET).
         - Posizioni #6–#10: Rotazione su IA/Tech, Economia/Mercati, Scienza/Spazio/Clima, Filosofia/Società/Lungo Termine.
-    * Pubblica il nuovo `README.md` principale con la Top 10 in alto e tutte le 23 ricerche orarie scorrendo in basso.
-- Catch-Up Automatico Anti-Throttling di GitHub Actions:
-    * Se lo scheduler cron di GitHub ritarda o salta una o più ore, al primo risveglio lo script
-      ricostruisce in ordine cronologico tutti gli slot orari mancanti (inclusa la pubblicazione
-      delle 20:05 se era stata saltata!) ed esegue un commit Git separato per ciascuno slot.
+    * Pubblica la Top 10 in cima al `README.md` di oggi (sopra la cronologia oraria) e salva la copia in `archivio/YYYY-MM-DD.md`.
+- Ore 21:00 -> 23:00 CET:
+    * Continua ad aggiungere le ricerche orarie serali nella pagina di oggi (mantenendo la Top 10 delle 20:00 in cima)
+      e aggiorna la copia in archivio fino alla mezzanotte successiva.
 """
 
 from __future__ import annotations
@@ -49,7 +51,10 @@ try:
 except ImportError:
     requests = None
 
-ROME_TZ = ZoneInfo("Europe/Rome")
+try:
+    ROME_TZ: dt.tzinfo = ZoneInfo("Europe/Rome")
+except Exception:
+    ROME_TZ = dt.timezone(dt.timedelta(hours=1), name="CET")
 ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"
 ARCHIVE_DIR = ROOT_DIR / "archivio"
@@ -511,7 +516,7 @@ def parse_rss_xml_fallback(xml_bytes: bytes) -> List[Dict[str, str]]:
 def fetch_source_entries(source: Dict[str, Any], max_items: int = 10) -> List[Dict[str, Any]]:
     url = source["url"]
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Meridiano2005Radar/2.0"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Meridiano2000Radar/3.0"
     }
     raw_bytes: Optional[bytes] = None
     try:
@@ -613,8 +618,69 @@ def enrich_item(item: Dict[str, Any]) -> Dict[str, Any]:
 
 
 # ---------------------------------------------------------------------------
-# Gestione Stato, Deduplicazione e Archivio Rolling di 7 Giorni
+# Gestione Stato, Deduplicazione Semantica, Rilevazione Aggiornamenti & Archivio
 # ---------------------------------------------------------------------------
+DEDUP_STOPWORDS = {
+    # Italiano (incluse parole brevi 3 lettere)
+    "che", "con", "per", "tra", "fra", "del", "nel", "sul", "dal", "gli", "una",
+    "uno", "non", "più", "piu", "chi", "cui", "suo", "sua", "suoi", "sue", "loro",
+    "dei", "dai", "nei", "sui", "all", "ema", "era", "così", "cosi", "poi", "già", "gia",
+    "della", "delle", "degli", "dello", "nella", "nelle", "negli", "nello",
+    "sulla", "sulle", "sugli", "sullo", "dalla", "dalle", "dagli", "dallo",
+    "alla", "alle", "agli", "allo", "sono", "stato", "stata", "stati", "state",
+    "essere", "avere", "hanno", "abbiamo", "aveva", "avevano", "sarà", "saranno",
+    "come", "dopo", "prima", "anche", "solo", "tutti", "tutte", "tutto", "ogni",
+    "questo", "questa", "questi", "queste", "quello", "quella", "quelli", "quelle",
+    "quale", "quali", "quanto", "quanti", "perché", "perche", "mentre", "contro",
+    "verso", "senza", "oltre", "entro", "sopra", "sotto", "ancora", "sempre",
+    "molto", "molti", "poco", "pochi", "altro", "altra", "altri", "altre",
+    "fatto", "dice", "dicono", "afferma", "secondo", "nuovo", "nuova", "nuovi",
+    "nuove", "oggi", "ieri", "domani", "anno", "anni", "giorno", "giorni",
+    "ora", "ore", "volta", "volte", "caso", "casi", "parte", "parti", "stesso",
+    "stessa", "proprio", "propria", "può", "possono", "deve", "devono",
+    "approfondimento", "disponibile", "fonte", "originale", "collegata",
+    # Inglese (incluse parole brevi 3 lettere)
+    "the", "and", "for", "are", "but", "not", "you", "all", "can", "her", "was",
+    "one", "our", "out", "day", "get", "has", "him", "his", "how", "its", "may",
+    "new", "now", "old", "see", "two", "way", "who", "did", "let", "put", "say",
+    "she", "too", "use", "off", "yet", "why", "via",
+    "that", "this", "with", "from", "have", "had", "were", "been",
+    "being", "will", "would", "could", "should", "about", "into", "over",
+    "after", "before", "under", "between", "through", "during", "while",
+    "where", "when", "what", "which", "whom", "whose", "their", "them",
+    "they", "there", "these", "those", "more", "most", "some", "such", "than",
+    "then", "only", "also", "just", "very", "much", "many", "other", "another",
+    "says", "said", "told", "tells", "report", "reports", "reported", "news",
+    "amid", "onto", "back", "still", "even", "make", "makes",
+    "made", "take", "takes", "took", "year", "years", "today", "week", "month",
+    "first", "last", "next", "time", "might", "must",
+}
+
+UPDATE_SIGNAL_KEYWORDS = {
+    # Italiano
+    "aggiornamento", "aggiornamenti", "svolta", "bilancio", "salgono", "sale",
+    "scende", "aumenta", "aumentano", "replica", "risponde", "risposta",
+    "conferma", "confermato", "confermata", "smentisce", "smentita", "accordo",
+    "intesa", "rottura", "fallisce", "dimissioni", "dimette", "arresto",
+    "arrestato", "arrestati", "sentenza", "condanna", "assolto", "approva",
+    "approvato", "approvata", "boccia", "bocciato", "voto", "tregua",
+    "cessate", "attacco", "attacchi", "raid", "feriti", "morti", "vittime",
+    "evacuazione", "allerta", "sospeso", "sospesa", "riapre", "riprende",
+    "annuncia", "annunciato", "rilancia", "ritira", "rinvia", "rinviato",
+    "ultimora", "nuovi", "nuove", "nuovo", "nuova", "ulteriore", "ulteriori",
+    "reazione", "reazioni", "contromossa", "ritorsione", "sanzioni",
+    # Inglese
+    "update", "updated", "updates", "latest", "breaking", "developments",
+    "responds", "response", "confirms", "confirmed", "denies", "denied",
+    "reaches", "deal", "agreement", "collapses", "resigns", "resignation",
+    "arrested", "verdict", "approves", "approved", "rejects", "rejected",
+    "ceasefire", "truce", "toll", "rises", "drops", "surges", "strikes",
+    "retaliates", "retaliation", "evacuation", "resumes", "suspends",
+    "announces", "announced", "delays", "postpones", "following", "escalates",
+    "escalation", "withdraws", "sanctions", "reopens", "killed", "wounded",
+}
+
+
 def load_json(path: Path, default: Any) -> Any:
     if not path.exists():
         return default
@@ -629,28 +695,236 @@ def save_json(path: Path, data: Any) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def normalize_url(url: str) -> str:
+    clean = (url or "").split("?")[0].split("#")[0].strip().lower()
+    return clean.rstrip("/")
+
+
 def normalize_url_key(url: str, title: str) -> str:
-    clean_u = url.split("?")[0].strip().lower()
-    clean_t = re.sub(r"\W+", "", title.lower())[:60]
+    clean_u = normalize_url(url)
+    clean_t = re.sub(r"\W+", "", (title or "").lower())[:60]
     return hashlib.sha1(f"{clean_u}|{clean_t}".encode("utf-8")).hexdigest()[:16]
 
 
-def load_seen_keys(now_rome: dt.datetime) -> Dict[str, str]:
-    data = load_json(SEEN_JSON_PATH, {})
-    if not isinstance(data, dict):
-        return {}
-    cutoff = (now_rome - dt.timedelta(days=7)).strftime("%Y-%m-%d")
-    return {k: v for k, v in data.items() if str(v) >= cutoff}
+def content_fingerprint(title: str, summary: str) -> str:
+    norm = re.sub(r"\s+", " ", f"{title or ''}|{summary or ''}".strip().lower())
+    return hashlib.sha1(norm.encode("utf-8")).hexdigest()[:16]
+
+
+def extract_tokens(text: str) -> List[str]:
+    raw_words = re.findall(r"[a-zA-ZÀ-ÿ0-9]{3,}", (text or "").lower())
+    return sorted({w for w in raw_words if w not in DEDUP_STOPWORDS})
+
+
+def _extract_item_token_sets(item: Dict[str, Any]) -> Tuple[set, set]:
+    title_text = f"{item.get('title_orig', '')} {item.get('title_it', '')}"
+    all_text = (
+        f"{item.get('title_orig', '')} {item.get('summary_orig', '')} "
+        f"{item.get('title_it', '')} {item.get('summary_it', '')}"
+    )
+    return set(extract_tokens(title_text)), set(extract_tokens(all_text))
+
+
+def _hours_since_iso(iso_str: Optional[str], slot_dt: dt.datetime) -> float:
+    if not iso_str:
+        return 999.0
+    try:
+        prev_dt = dt.datetime.fromisoformat(iso_str)
+        if prev_dt.tzinfo is None:
+            prev_dt = prev_dt.replace(tzinfo=ROME_TZ)
+        return (slot_dt - prev_dt).total_seconds() / 3600.0
+    except Exception:
+        return 999.0
+
+
+def build_story_record(item: Dict[str, Any], slot_dt: dt.datetime) -> Dict[str, Any]:
+    title_tokens, all_tokens = _extract_item_token_sets(item)
+    return {
+        "key": normalize_url_key(item.get("link", ""), item.get("title_orig", "")),
+        "url_norm": normalize_url(item.get("link", "")),
+        "date": slot_dt.strftime("%Y-%m-%d"),
+        "published_at": slot_dt.strftime("%Y-%m-%d %H:00 CET"),
+        "published_iso": slot_dt.strftime("%Y-%m-%dT%H:00:00"),
+        "title_orig": item.get("title_orig", ""),
+        "title_it": item.get("title_it", item.get("title_orig", "")),
+        "content_hash": content_fingerprint(item.get("title_orig", ""), item.get("summary_orig", "")),
+        "title_tokens": sorted(title_tokens),
+        "all_tokens": sorted(all_tokens),
+        "update_count": int(item.get("update_count", 0)),
+    }
+
+
+def load_seen_state(now_rome: dt.datetime, cycle_data: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
+    """
+    Carica lo stato delle notizie già pubblicate negli ultimi 7 giorni.
+    Compatibile automaticamente con il vecchio formato piatto `{hash: "YYYY-MM-DD"}`.
+    """
+    raw = load_json(SEEN_JSON_PATH, {})
+    cutoff = (now_rome - dt.timedelta(days=MAX_ARCHIVE_DAYS)).strftime("%Y-%m-%d")
+
+    keys: Dict[str, str] = {}
+    stories: List[Dict[str, Any]] = []
+
+    if isinstance(raw, dict) and ("keys" in raw or "stories" in raw):
+        raw_keys = raw.get("keys", {})
+        if isinstance(raw_keys, dict):
+            keys = {k: str(v) for k, v in raw_keys.items() if str(v) >= cutoff}
+        raw_stories = raw.get("stories", [])
+        if isinstance(raw_stories, list):
+            stories = [s for s in raw_stories if isinstance(s, dict) and str(s.get("date", "")) >= cutoff]
+    elif isinstance(raw, dict):
+        # Migrazione trasparente dal vecchio formato
+        keys = {k: str(v) for k, v in raw.items() if str(v) >= cutoff}
+
+    # Indicizza anche eventuali notizie già presenti nei batch di oggi (utile alla prima migrazione)
+    if isinstance(cycle_data, dict):
+        existing_keys = {s.get("key") for s in stories}
+        existing_urls = {s.get("url_norm") for s in stories if s.get("url_norm")}
+        for batch in cycle_data.get("hourly_batches", []):
+            ts_str = batch.get("timestamp_str", "")
+            m = re.match(r"(\d{4}-\d{2}-\d{2})\s+(\d{2}):\d{2}", ts_str)
+            if m:
+                try:
+                    b_dt = dt.datetime.fromisoformat(f"{m.group(1)}T{m.group(2)}:00:00").replace(tzinfo=ROME_TZ)
+                except Exception:
+                    b_dt = now_rome
+            else:
+                b_dt = now_rome
+            for it in batch.get("items", []):
+                rec = build_story_record(it, b_dt)
+                if rec["key"] not in existing_keys and rec["url_norm"] not in existing_urls:
+                    stories.append(rec)
+                    existing_keys.add(rec["key"])
+                    if rec["url_norm"]:
+                        existing_urls.add(rec["url_norm"])
+                keys[rec["key"]] = rec["date"]
+
+    return {"keys": keys, "stories": stories}
+
+
+def are_same_story_tokens(
+    cand_title_tokens: set,
+    cand_all_tokens: set,
+    prev_title_tokens: set,
+    prev_all_tokens: set,
+) -> bool:
+    if not cand_title_tokens or not prev_title_tokens:
+        return False
+    shared_title = cand_title_tokens & prev_title_tokens
+    min_title = max(1, min(len(cand_title_tokens), len(prev_title_tokens)))
+    overlap_title = len(shared_title) / min_title
+    jaccard_title = len(shared_title) / max(1, len(cand_title_tokens | prev_title_tokens))
+
+    if len(shared_title) >= 3 and (overlap_title >= 0.50 or jaccard_title >= 0.35):
+        return True
+
+    shared_all = cand_all_tokens & prev_all_tokens
+    min_all = max(1, min(len(cand_all_tokens), len(prev_all_tokens)))
+    overlap_all = len(shared_all) / min_all
+    jaccard_all = len(shared_all) / max(1, len(cand_all_tokens | prev_all_tokens))
+    if len(shared_all) >= 6 and (jaccard_all >= 0.35 or (len(shared_title) >= 2 and overlap_all >= 0.45)):
+        return True
+
+    return False
+
+
+def classify_candidate(
+    cand: Dict[str, Any],
+    seen_state: Dict[str, Any],
+    slot_dt: dt.datetime,
+) -> Tuple[str, Optional[Dict[str, Any]]]:
+    """
+    Classifica una notizia candidata rispetto a quelle già pubblicate:
+    - "new": notizia mai pubblicata prima.
+    - "update": notizia già trattata ma con aggiornamenti/sviluppi concreti rispetto alla prima pubblicazione.
+    - "duplicate": notizia già pubblicata (stesso URL o stesso evento) senza nuovi sviluppi reali -> scartare.
+    """
+    cand_key = normalize_url_key(cand.get("link", ""), cand.get("title_orig", ""))
+    cand_url = normalize_url(cand.get("link", ""))
+    cand_hash = content_fingerprint(cand.get("title_orig", ""), cand.get("summary_orig", ""))
+    cand_title_tokens, cand_all_tokens = _extract_item_token_sets(cand)
+
+    stories: List[Dict[str, Any]] = seen_state.get("stories", [])
+    keys: Dict[str, str] = seen_state.get("keys", {})
+
+    # 1. Controllo stesso URL o stessa chiave normalizzata
+    for story in stories:
+        if (cand_url and story.get("url_norm") == cand_url) or story.get("key") == cand_key:
+            if story.get("content_hash") == cand_hash:
+                return "duplicate", story
+            elapsed_h = _hours_since_iso(story.get("published_iso"), slot_dt)
+            prev_all = set(story.get("all_tokens", []))
+            new_tokens = cand_all_tokens - prev_all
+            jaccard = len(cand_all_tokens & prev_all) / max(1, len(cand_all_tokens | prev_all))
+            if elapsed_h >= 1.0 and len(new_tokens) >= 4 and jaccard < 0.78:
+                return "update", story
+            return "duplicate", story
+
+    if cand_key in keys:
+        return "duplicate", None
+
+    # 2. Controllo semantico/tematico su tutte le notizie già pubblicate (anche da fonti o lingue diverse)
+    for story in stories:
+        prev_title = set(story.get("title_tokens", []))
+        prev_all = set(story.get("all_tokens", []))
+        if not are_same_story_tokens(cand_title_tokens, cand_all_tokens, prev_title, prev_all):
+            continue
+
+        elapsed_h = _hours_since_iso(story.get("published_iso"), slot_dt)
+        if elapsed_h < 1.0:
+            # Stessa fascia oraria o copertura simultanea da un'altra testata: è un duplicato, non un aggiornamento
+            return "duplicate", story
+
+        new_all = cand_all_tokens - prev_all
+        new_title = cand_title_tokens - prev_title
+        has_signal = bool((new_title | new_all) & UPDATE_SIGNAL_KEYWORDS)
+        has_new_numbers = any(any(ch.isdigit() for ch in tok) for tok in (new_title | new_all))
+
+        if len(new_all) >= 4 and len(new_title) >= 2 and (has_signal or has_new_numbers):
+            return "update", story
+        return "duplicate", story
+
+    return "new", None
+
+
+def register_published_story(
+    item: Dict[str, Any],
+    seen_state: Dict[str, Any],
+    slot_dt: dt.datetime,
+    matched_story: Optional[Dict[str, Any]] = None,
+) -> None:
+    """Registra una nuova notizia o aggiorna la storia esistente nello stato visto."""
+    rec = build_story_record(item, slot_dt)
+    seen_state["keys"][rec["key"]] = rec["date"]
+
+    if matched_story is not None:
+        matched_story["date"] = rec["date"]
+        matched_story["published_at"] = rec["published_at"]
+        matched_story["published_iso"] = rec["published_iso"]
+        matched_story["content_hash"] = rec["content_hash"]
+        matched_story["title_it"] = rec["title_it"]
+        matched_story["title_tokens"] = sorted(
+            set(matched_story.get("title_tokens", [])) | set(rec["title_tokens"])
+        )
+        matched_story["all_tokens"] = sorted(
+            set(matched_story.get("all_tokens", [])) | set(rec["all_tokens"])
+        )
+        matched_story["update_count"] = int(matched_story.get("update_count", 0)) + 1
+    else:
+        seen_state["stories"].append(rec)
 
 
 def adapt_readme_for_archive(content: str, edition_date: str) -> str:
     """Adatta i link relativi di README.md affinché funzionino correttamente dentro archivio/YYYY-MM-DD.md."""
     adapted = content.replace("(./IN_CORSO.md)", "(../IN_CORSO.md)")
     adapted = adapted.replace("(./archivio/", "(./")
-    adapted = adapted.replace(
-        "**Stai leggendo l'Edizione Ufficiale delle 20:05 CET.**<br>_Rimane visibile in prima pagina fino alle 20:04 del giorno successivo._",
-        f"**[Torna al `README.md` Principale](../README.md)**<br>_Stai consultando l'edizione archiviata del {edition_date}._",
+    adapted = adapted.replace("(./README.md)", "(../README.md)")
+    archive_banner = (
+        f"> 🗄️ **Archivio Storico:** Stai consultando l'edizione archiviata del **{edition_date}**. "
+        f"👉 **[Torna alla Pagina Principale di Oggi (`README.md`)](../README.md)**\n\n"
     )
+    if "Stai consultando l'edizione archiviata" not in adapted:
+        adapted = archive_banner + adapted
     return adapted
 
 
@@ -679,7 +953,7 @@ def sync_archive_nav_bars() -> None:
 
 def rotate_7day_archive(
     now_rome: dt.datetime,
-    previous_edition_date: Optional[str],
+    previous_edition_date: Optional[str] = None,
     current_edition_date: Optional[str] = None,
 ) -> List[str]:
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
@@ -719,7 +993,7 @@ def get_archive_links_markdown() -> str:
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
     archives = sorted(ARCHIVE_DIR.glob("*.md"), key=lambda p: p.stem, reverse=True)[:MAX_ARCHIVE_DAYS]
     if not archives:
-        return "_Nessun backup precedente ancora archiviato (il primo verrà salvato al prossimo cambio edizione delle 20:05 CET)._"
+        return "_Nessun backup precedente ancora archiviato (il primo verrà salvato alle 20:00 CET / mezzanotte)._"
     pills = [f"[📅 **{p.stem}**](./archivio/{p.name})" for p in archives]
     return " · ".join(pills)
 
@@ -727,7 +1001,11 @@ def get_archive_links_markdown() -> str:
 # ---------------------------------------------------------------------------
 # Selezione TOP 10 (5 Core Geopolitica/Italia/UE + 5 Rotazione Globale)
 # ---------------------------------------------------------------------------
-def select_top_10(all_candidates: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
+def _deduplicate_top10_pool(all_candidates: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """
+    Deduplica per URL e per storia semantica prima della selezione Top 10,
+    preferendo l'aggiornamento più recente o la versione con punteggio più alto.
+    """
     unique_map: Dict[str, Dict[str, Any]] = {}
     for item in all_candidates:
         item = enrich_item(dict(item))
@@ -735,7 +1013,27 @@ def select_top_10(all_candidates: List[Dict[str, Any]]) -> Tuple[List[Dict[str, 
         if key not in unique_map or item.get("score", 0) > unique_map[key].get("score", 0):
             unique_map[key] = item
 
-    pool = sorted(unique_map.values(), key=lambda x: x.get("score", 0), reverse=True)
+    # Ordina dando priorità agli aggiornamenti più recenti e poi allo score
+    sorted_items = sorted(
+        unique_map.values(),
+        key=lambda x: (1 if x.get("is_update") else 0, x.get("score", 0)),
+        reverse=True,
+    )
+
+    deduped: List[Dict[str, Any]] = []
+    deduped_tokens: List[Tuple[set, set]] = []
+    for item in sorted_items:
+        t_toks, a_toks = _extract_item_token_sets(item)
+        if any(are_same_story_tokens(t_toks, a_toks, pt, pa) for pt, pa in deduped_tokens):
+            continue
+        deduped.append(item)
+        deduped_tokens.append((t_toks, a_toks))
+
+    return sorted(deduped, key=lambda x: x.get("score", 0), reverse=True)
+
+
+def select_top_10(all_candidates: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
+    pool = _deduplicate_top10_pool(all_candidates)
 
     core_candidates = [
         x for x in pool if x.get("is_core") or x.get("category") == "geopolitica_ue"
@@ -790,7 +1088,7 @@ def select_top_10(all_candidates: List[Dict[str, Any]]) -> Tuple[List[Dict[str, 
 
 
 # ---------------------------------------------------------------------------
-# Generazione Markdown: README.md (Edizione 20:05) & IN_CORSO.md (Live 23h)
+# Generazione Markdown: README.md (Pagina Principale Live di Oggi) & IN_CORSO.md
 # ---------------------------------------------------------------------------
 def render_top10_card(rank: int, item: Dict[str, Any]) -> str:
     medals = {
@@ -807,6 +1105,7 @@ def render_top10_card(rank: int, item: Dict[str, Any]) -> str:
     }
     rank_label = medals.get(rank, f"#{rank}")
     badge = item.get("badge", "🌐 Mondo")
+    update_tag = " `🔄 AGGIORNAMENTO`" if item.get("is_update") else ""
     title_it = item.get("title_it", item.get("title_orig", "Notizia"))
     source_name = item.get("source_name", "Fonte Internazionale")
     link = item.get("link", "#")
@@ -818,7 +1117,7 @@ def render_top10_card(rank: int, item: Dict[str, Any]) -> str:
     hour_collected = item.get("hour_slot", "Oggi")
 
     lines = [
-        f"### {rank_label} · `{badge}` [{title_it}]({link})",
+        f"### {rank_label} · `{badge}`{update_tag} [{title_it}]({link})",
         f"**Fonte:** [{source_name}]({link}) · **Rilevata alle:** `{hour_collected}` · **Indice di Rilevanza:** `{item.get('score', 15.0)}`",
         "",
         f"> **📰 Il Fatto:** {summary_it}",
@@ -843,17 +1142,32 @@ def render_hourly_section(batch: Dict[str, Any], index_num: int, total_num: int)
         f"_Aggiornamento registrato il `{timestamp_str}`_",
         "",
     ]
+    if not items:
+        lines.extend(
+            [
+                "_Nessuna nuova notizia o aggiornamento rilevante rilevato in questa fascia oraria (le notizie già pubblicate senza nuovi sviluppi vengono filtrate automaticamente)._",
+                "",
+            ]
+        )
+        return "\n".join(lines)
+
     for i, it in enumerate(items, start=1):
         badge = it.get("badge", "🌐 News")
+        update_tag = " `🔄 AGGIORNAMENTO`" if it.get("is_update") else ""
         title_it = it.get("title_it", it.get("title_orig", "Notizia"))
         link = it.get("link", "#")
         source_name = it.get("source_name", "Fonte")
         summary_it = it.get("summary_it", "")
         impact_short = it.get("impact_eu_it", "")
 
+        lines.append(f"- **[{i}] `{badge}`{update_tag} [{title_it}]({link})** — *({source_name})*")
+        if it.get("is_update"):
+            prev_time = it.get("update_of_time", "in precedenza")
+            lines.append(
+                f"  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione ({prev_time})."
+            )
         lines.extend(
             [
-                f"- **[{i}] `{badge}` [{title_it}]({link})** — *({source_name})*",
                 f"  - 📌 **Sintesi:** {summary_it}",
                 f"  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** {impact_short}",
             ]
@@ -950,28 +1264,66 @@ def generate_daily_summary_subtitle(
     return f"«{clauses[0]}; {clauses[1]} · {clauses[2]}»"
 
 
-def build_main_readme(
-    edition_date: str,
-    published_at_str: str,
-    top_5_core: List[Dict[str, Any]],
-    top_5_rotation: List[Dict[str, Any]],
-    hourly_batches: List[Dict[str, Any]],
-) -> str:
+def _generate_live_subtitle(hourly_batches: List[Dict[str, Any]]) -> str:
+    all_items = [it for b in hourly_batches for it in b.get("items", [])]
+    if not all_items:
+        return "Osservatorio in diretta: notizie della giornata aggiornate ogni ora · Top 10 alle 20:00 CET"
+    top_core, top_rot = select_top_10(all_items)
+    return generate_daily_summary_subtitle(top_core, top_rot)
+
+
+def build_main_readme(cycle_data: Dict[str, Any], now_rome: dt.datetime) -> str:
+    """
+    Genera il `README.md` principale mostrando SEMPRE la giornata odierna (00:00–23:00 CET):
+    - Prima delle 20:00 CET: mostra la diretta live di oggi con tutte le ricerche orarie fino a quel momento.
+    - Dalle 20:00 alle 23:59 CET: mostra la Top 10 delle 20:00 in cima + tutte le ricerche orarie di oggi (incluse quelle serali 21:00–23:00).
+    """
+    edition_date = cycle_data.get("current_date", now_rome.strftime("%Y-%m-%d"))
+    hourly_batches: List[Dict[str, Any]] = cycle_data.get("hourly_batches", [])
+    has_top10 = (
+        cycle_data.get("top10_published_date") == edition_date
+        and bool(cycle_data.get("top_5_core") or cycle_data.get("top_5_rotation"))
+    )
+    top_5_core: List[Dict[str, Any]] = cycle_data.get("top_5_core", []) if has_top10 else []
+    top_5_rotation: List[Dict[str, Any]] = cycle_data.get("top_5_rotation", []) if has_top10 else []
+    published_at_str = cycle_data.get("top10_published_at_str") or f"{edition_date} alle ore 20:00 CET"
+
     archive_links = get_archive_links_markdown()
     total_hours = len(hourly_batches)
     total_articles = sum(len(b.get("items", [])) for b in hourly_batches)
     italian_day_label = format_italian_date(edition_date)
-    daily_summary_subtitle = generate_daily_summary_subtitle(top_5_core, top_5_rotation)
+    last_update_label = (
+        hourly_batches[-1].get("hour_label", now_rome.strftime("%H:00 CET"))
+        if hourly_batches
+        else now_rome.strftime("%H:00 CET")
+    )
+
+    if has_top10:
+        daily_summary_subtitle = generate_daily_summary_subtitle(top_5_core, top_5_rotation)
+        status_badge = (
+            f"![Edizione](https://img.shields.io/badge/Top_10_Oggi-{edition_date.replace('-', '--')}_20%3A00_CET-1f6feb?style=for-the-badge) "
+            f"![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-{total_hours}%2F24-2ea043?style=for-the-badge) "
+            f"![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-{total_articles}-8957e5?style=for-the-badge)"
+        )
+        nav_col1 = "**Stai leggendo la giornata di oggi in diretta.**<br>_Le ricerche orarie continuano fino alle 23:00 CET; dopo la mezzanotte (00:00) la pagina passa automaticamente al nuovo giorno._"
+        nav_col2 = "**Top 10 ufficiale delle 20:00 CET pubblicata.**<br>_Resta in cima alla pagina fino alle 23:59 CET, poi viene salvata in archivio._"
+    else:
+        daily_summary_subtitle = _generate_live_subtitle(hourly_batches)
+        status_badge = (
+            f"![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-{edition_date.replace('-', '--')}_{last_update_label.replace(':', '%3A').replace(' ', '_')}-e5534b?style=for-the-badge) "
+            f"![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-{total_hours}%2F20_verso_le_20%3A00-2ea043?style=for-the-badge) "
+            f"![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-{total_articles}-8957e5?style=for-the-badge)"
+        )
+        nav_col1 = "**Stai leggendo la giornata di oggi in tempo reale.**<br>_Aggiornamento automatico ogni ora (00:00–23:00 CET). Zero ripetizioni: una notizia torna solo se ci sono nuovi sviluppi._"
+        nav_col2 = "**Top 10 di oggi in arrivo alle 20:00 CET.**<br>_Verrà pubblicata automaticamente in cima a questa stessa pagina._"
 
     md = [
         "<div align=\"center\">",
         "",
-        f"# 🧭 MERIDIANO 20:05 · {italian_day_label}",
+        f"# 🧭 MERIDIANO 20:00 · {italian_day_label}",
         f"### {daily_summary_subtitle}",
         "",
-        f"![Edizione](https://img.shields.io/badge/Edizione_Consolidata-{edition_date.replace('-', '--')}_20%3A05_CET-1f6feb?style=for-the-badge) "
-        f"![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Orarie-{total_hours}%2F23_Completate-2ea043?style=for-the-badge) "
-        f"![Notizie Analizzate](https://img.shields.io/badge/Notizie_Nel_Ciclo-{total_articles}-8957e5?style=for-the-badge)",
+        status_badge,
         "",
         "</div>",
         "",
@@ -979,55 +1331,84 @@ def build_main_readme(
         "",
         "## 🧭 Pannello di Navigazione Rapida",
         "",
-        "| 🔴 **DIRETTA OGGI (PRIMA DELLE 20:05)** | 🏆 **EDIZIONE PRINCIPALE (20:05 CET)** | 🗄️ **ARCHIVIO STORICO (MAX 7 GIORNI)** |",
+        "| 🔴 **DIRETTA OGGI (OGNI ORA)** | 🏆 **TOP 10 DELLE 20:00 CET** | 🗄️ **ARCHIVIO STORICO (MAX 7 GIORNI)** |",
         "| :--- | :--- | :--- |",
-        "| 👉 **[APRI `IN_CORSO.md` (Notizie di oggi in tempo reale)](./IN_CORSO.md)**<br>_Se entri prima delle 20:05, clicca qui per leggere le ricerche orarie già uscite oggi._ | **Stai leggendo l'Edizione Ufficiale delle 20:05 CET.**<br>_Rimane visibile in prima pagina fino alle 20:04 del giorno successivo._ | Backup automatico degli ultimi 7 giorni (i più vecchi vengono eliminati in automatico). |",
+        f"| {nav_col1} | {nav_col2} | Backup automatico degli ultimi 7 giorni (archiviati automaticamente a mezzanotte; i più vecchi vengono eliminati in automatico). |",
         "",
         f"📚 **Ultimi 7 Giorni Archiviati:** {archive_links}",
         "",
         "---",
         "",
-        f"## 🏆 TOP 10 NOTIZIE DELLE ULTIME 24 ORE",
-        f"_Pubblicata il **{published_at_str}** · Selezionata dalle 23 ricerche orarie + scansione finale delle 20:05 CET_",
-        "",
-        "### 🌍 PARTE I (Posizioni #1 – #5): Impatto Diretto Italia, Europa (CET) & Scacchiere Mondiale",
-        "",
     ]
 
-    for idx, item in enumerate(top_5_core, start=1):
-        md.append(render_top10_card(idx, item))
+    if has_top10:
+        md.extend(
+            [
+                "## 🏆 TOP 10 NOTIZIE DI OGGI",
+                f"_Pubblicata il **{published_at_str}** · Selezionata dalle ricerche orarie raccolte oggi fino alle 20:00 CET_",
+                "",
+                "### 🌍 PARTE I (Posizioni #1 – #5): Impatto Diretto Italia, Europa (CET) & Scacchiere Mondiale",
+                "",
+            ]
+        )
 
-    md.extend(
-        [
-            "### 🔭 PARTE II (Posizioni #6 – #10): Rotazione Globale, Futuro, Scienza, Economia & Filosofia",
-            "",
-        ]
-    )
+        for idx, item in enumerate(top_5_core, start=1):
+            md.append(render_top10_card(idx, item))
 
-    for idx, item in enumerate(top_5_rotation, start=6):
-        md.append(render_top10_card(idx, item))
+        md.extend(
+            [
+                "### 🔭 PARTE II (Posizioni #6 – #10): Rotazione Globale, Futuro, Scienza, Economia & Filosofia",
+                "",
+            ]
+        )
 
-    md.extend(
-        [
-            "---",
-            "",
-            "## ⏱️ LE 23 RICERCHE ORARIE DELLA GIORNATA (Scorri verso il basso)",
-            "_Qui sotto trovi tutte le ricerche orarie raccolte durante il ciclo di 24 ore che ha portato alla Top 10._",
-            "",
-        ]
-    )
+        for idx, item in enumerate(top_5_rotation, start=6):
+            md.append(render_top10_card(idx, item))
 
-    reversed_batches = list(reversed(hourly_batches))
-    for i, batch in enumerate(reversed_batches, start=1):
-        chronological_idx = total_hours - i + 1
-        md.append(render_hourly_section(batch, chronological_idx, max(23, total_hours)))
+        md.extend(
+            [
+                "---",
+                "",
+                "## ⏱️ CRONOLOGIA ORARIA DI OGGI (Dalla più recente)",
+                "_Tutte le ricerche orarie della giornata odierna (00:00–23:00 CET). Le notizie già pubblicate non vengono ripetute, salvo aggiornamenti concreti sulla situazione (`🔄 AGGIORNAMENTO`)._",
+                "",
+            ]
+        )
+    else:
+        progress_filled = min(20, total_hours)
+        progress_bar = "🟩" * progress_filled + "⬜" * max(0, 20 - progress_filled)
+        md.extend(
+            [
+                f"**Progresso verso la Top 10 di oggi alle 20:00 CET ({min(20, total_hours)}/20 ricerche orarie):**",
+                f"`{progress_bar}`",
+                "",
+                "## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)",
+                "_Aggiornato automaticamente ogni ora a partire dalla mezzanotte (00:00 CET). Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._",
+                "",
+            ]
+        )
+
+    if not hourly_batches:
+        md.extend(
+            [
+                "### ⏳ La nuova giornata è appena iniziata!",
+                "_La prima ricerca oraria di oggi verrà pubblicata a breve in questa pagina._",
+                "",
+            ]
+        )
+    else:
+        reversed_batches = list(reversed(hourly_batches))
+        total_display = max(24 if has_top10 else 20, total_hours)
+        for i, batch in enumerate(reversed_batches, start=1):
+            chronological_idx = total_hours - i + 1
+            md.append(render_hourly_section(batch, chronological_idx, total_display))
 
     md.extend(
         [
             "---",
             "",
             "## 🙏 Tributo & Ispirazione",
-            "> Questo osservatorio nasce prendendo ispirazione dall'idea di raccolta automatizzata su GitHub ideata da [**@Reyzenello (Riccardo Bruzzese)** con il progetto *Signal-vs-InfiniteJest*](https://github.com/Reyzenello/Signal-vs-InfiniteJest). Un ringraziamento speciale al creatore originale per lo spunto sull'automazione oraria, qui ripensata in una chiave editoriale inedita centrata sull'impatto Italia/Europa (CET), sulla visione filosofica a lungo termine e sull'appuntamento serale della **Top 10 delle 20:05**.",
+            "> Questo osservatorio nasce prendendo ispirazione dall'idea di raccolta automatizzata su GitHub ideata da [**@Reyzenello (Riccardo Bruzzese)** con il progetto *Signal-vs-InfiniteJest*](https://github.com/Reyzenello/Signal-vs-InfiniteJest). Un ringraziamento speciale al creatore originale per lo spunto sull'automazione oraria, qui ripensata in una chiave editoriale inedita centrata sull'impatto Italia/Europa (CET), sulla visione filosofica a lungo termine e sull'appuntamento serale della **Top 10 delle 20:00**.",
             "",
             "<div align=\"center\">",
             "<sub>🔒 <b>Zero-Data & Privacy Safe:</b> Generato automaticamente tramite GitHub Actions utilizzando esclusivamente feed RSS pubblici e l'indirizzo schermato <code>users.noreply.github.com</code>. Nessun dato personale viene mai letto o condiviso.</sub>",
@@ -1040,35 +1421,30 @@ def build_main_readme(
 
 
 def build_live_in_corso_md(cycle_data: Dict[str, Any], now_rome: dt.datetime) -> str:
+    """
+    Mantiene `IN_CORSO.md` sincronizzato con la giornata odierna come mirror rapido,
+    rimandando direttamente al `README.md` principale che ora è sempre live sulla giornata odierna.
+    """
     hourly_batches: List[Dict[str, Any]] = cycle_data.get("hourly_batches", [])
-    target_edition_date = cycle_data.get("target_edition_date", now_rome.strftime("%Y-%m-%d"))
-    italian_day_label = format_italian_date(target_edition_date)
+    current_date = cycle_data.get("current_date", now_rome.strftime("%Y-%m-%d"))
+    italian_day_label = format_italian_date(current_date)
     completed_count = len(hourly_batches)
     archive_links = get_archive_links_markdown()
-
-    progress_filled = min(23, completed_count)
-    progress_bar = "🟩" * progress_filled + "⬜" * max(0, 23 - progress_filled)
 
     md = [
         "<div align=\"center\">",
         "",
-        f"# 🔴 MERIDIANO 20:05 · {italian_day_label} (IN CORSO)",
-        "### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)",
+        f"# 🔴 MERIDIANO 20:00 · {italian_day_label} (DIRETTA LIVE)",
+        "### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)",
         "",
-        f"![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) "
-        f"![Progresso](https://img.shields.io/badge/Ricerche_Completate-{completed_count}%2F23-2ea043?style=for-the-badge)",
+        f"![Diretta](https://img.shields.io/badge/Diretta_Oggi-{current_date.replace('-', '--')}-e5534b?style=for-the-badge) "
+        f"![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-{completed_count}-2ea043?style=for-the-badge)",
         "",
         "</div>",
         "",
-        "> 💡 **Come funziona questa pagina:**",
-        "> - Fino alle **20:04 CET**, la pagina principale ([`README.md`](./README.md)) mostra l'edizione consolidata del giorno precedente con la sua Top 10.",
-        "> - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.",
-        "> - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!",
+        "> 👉 **[APRI LA PAGINA PRINCIPALE (`README.md`)](./README.md)** — Dal cambio di mezzanotte (00:00 CET) la pagina principale mostra sempre la giornata odierna in tempo reale, con la **Top 10 alle 20:00 CET**.",
         "",
-        f"**Progresso verso la Top 10 delle 20:05 CET ({completed_count}/23 ricerche orarie):**",
-        f"`{progress_bar}`",
-        "",
-        f"🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** {archive_links}",
+        f"📚 **Archivio 7 Giorni:** {archive_links}",
         "",
         "---",
         "",
@@ -1077,8 +1453,8 @@ def build_live_in_corso_md(cycle_data: Dict[str, Any], now_rome: dt.datetime) ->
     if not hourly_batches:
         md.extend(
             [
-                "### ⏳ Il nuovo ciclo di 24 ore è appena iniziato!",
-                "_La Top 10 delle 20:05 CET è appena stata pubblicata nella [pagina principale (`README.md`)](./README.md). La prima ricerca oraria del nuovo ciclo apparirà qui alle **21:05 CET**._",
+                "### ⏳ La nuova giornata è appena iniziata!",
+                "_La prima ricerca oraria di oggi apparirà a breve sia qui sia in [`README.md`](./README.md)._",
                 "",
             ]
         )
@@ -1092,17 +1468,7 @@ def build_live_in_corso_md(cycle_data: Dict[str, Any], now_rome: dt.datetime) ->
         reversed_batches = list(reversed(hourly_batches))
         for i, batch in enumerate(reversed_batches, start=1):
             chronological_idx = completed_count - i + 1
-            md.append(render_hourly_section(batch, chronological_idx, 23))
-
-    md.extend(
-        [
-            "---",
-            "",
-            "## 🙏 Tributo & Ispirazione",
-            "> Ispirato all'idea di automazione oraria su GitHub creata da [**@Reyzenello (Riccardo Bruzzese)**](https://github.com/Reyzenello/Signal-vs-InfiniteJest), sviluppato in un formato editoriale dedicato all'impatto Italia/Europa (CET), alla filosofia del futuro e alla Top 10 serale delle 20:05.",
-            "",
-        ]
-    )
+            md.append(render_hourly_section(batch, chronological_idx, max(20, completed_count)))
 
     return "\n".join(md)
 
@@ -1127,86 +1493,169 @@ def get_cached_rss_entries() -> Dict[str, List[Dict[str, Any]]]:
 
 def collect_fresh_batch(
     slot_dt: dt.datetime,
-    seen_keys: Dict[str, str],
+    seen_state: Dict[str, Any],
     hour_index: int,
     count: int = ITEMS_PER_HOUR,
 ) -> List[Dict[str, Any]]:
+    """
+    Raccoglie fino a `count` notizie genuinamente nuove o con aggiornamenti concreti
+    rispetto alla prima pubblicazione. NON reinserisce mai duplicati senza sviluppi.
+    """
     rss_cache = get_cached_rss_entries()
     offset = hour_index % len(RSS_SOURCES)
     rotated_sources = RSS_SOURCES[offset:] + RSS_SOURCES[:offset]
 
+    # Interleaving tra le fonti ruotate per massimizzare diversità e copertura
     raw_candidates: List[Dict[str, Any]] = []
-    for src in rotated_sources:
-        raw_candidates.extend(rss_cache.get(src["id"], []))
+    max_len = max((len(rss_cache.get(src["id"], [])) for src in rotated_sources), default=0)
+    for idx in range(max_len):
+        for src in rotated_sources:
+            src_items = rss_cache.get(src["id"], [])
+            if idx < len(src_items):
+                raw_candidates.append(src_items[idx])
 
-    unseen: List[Dict[str, Any]] = []
-    fallback_pool: List[Dict[str, Any]] = []
-
+    # Pre-filtro rapido (evita di tradurre duplicati evidenti)
+    pre_filtered: List[Dict[str, Any]] = []
+    seen_local_keys = set()
     for cand in raw_candidates:
-        key = normalize_url_key(cand["link"], cand["title_orig"])
-        if key not in seen_keys:
-            unseen.append(cand)
-        else:
-            fallback_pool.append(cand)
+        key = normalize_url_key(cand.get("link", ""), cand.get("title_orig", ""))
+        if key in seen_local_keys:
+            continue
+        seen_local_keys.add(key)
+        status, _ = classify_candidate(cand, seen_state, slot_dt)
+        if status != "duplicate":
+            pre_filtered.append(cand)
 
-    if fallback_pool:
-        fb_offset = (hour_index * 3) % len(fallback_pool)
-        fallback_pool = fallback_pool[fb_offset:] + fallback_pool[:fb_offset]
-
-    working_pool = unseen if len(unseen) >= count else (unseen + fallback_pool)
-
-    selected_raw: List[Dict[str, Any]] = []
+    hour_slot_str = slot_dt.strftime("%H:00 CET")
+    enriched_selected: List[Dict[str, Any]] = []
     used_sources = set()
-    used_local_keys = set()
 
-    for want_core in [True, True, False, False]:
-        for cand in working_pool:
-            if len(selected_raw) >= count:
-                break
-            key = normalize_url_key(cand["link"], cand["title_orig"])
-            if key in used_local_keys or cand["source_id"] in used_sources:
-                continue
-            if bool(cand.get("is_core")) == want_core:
-                selected_raw.append(dict(cand))
-                used_sources.add(cand["source_id"])
-                used_local_keys.add(key)
-                break
-
-    for cand in working_pool:
-        if len(selected_raw) >= count:
-            break
-        key = normalize_url_key(cand["link"], cand["title_orig"])
-        if key not in used_local_keys:
-            selected_raw.append(dict(cand))
-            used_local_keys.add(key)
-
-    enriched: List[Dict[str, Any]] = []
-    slot_date_str = slot_dt.strftime("%Y-%m-%d")
-    hour_slot_str = slot_dt.strftime("%H:05 CET")
-
-    for item in selected_raw:
-        key = normalize_url_key(item["link"], item["title_orig"])
-        seen_keys[key] = slot_date_str
+    def try_accept(cand: Dict[str, Any], enforce_unique_source: bool) -> bool:
+        if enforce_unique_source and cand.get("source_id") in used_sources:
+            return False
+        item = enrich_item(dict(cand))
+        # Seconda verifica post-traduzione (intercetta duplicati cross-lingua IT <-> EN)
+        status, matched_story = classify_candidate(item, seen_state, slot_dt)
+        if status == "duplicate":
+            return False
         item["hour_slot"] = hour_slot_str
-        enriched.append(enrich_item(item))
+        if status == "update" and matched_story is not None:
+            item["is_update"] = True
+            item["update_of_time"] = matched_story.get("published_at", "in precedenza")
+            item["update_of_title"] = matched_story.get("title_it", "")
+        else:
+            item["is_update"] = False
 
-    return enriched
+        register_published_story(item, seen_state, slot_dt, matched_story=matched_story if status == "update" else None)
+        enriched_selected.append(item)
+        used_sources.add(item.get("source_id"))
+        return True
+
+    # Passata 1: bilanciamento 2 core + 2 rotazione da fonti distinte
+    for want_core in [True, True, False, False]:
+        if len(enriched_selected) >= count:
+            break
+        for cand in pre_filtered:
+            if len(enriched_selected) >= count:
+                break
+            if bool(cand.get("is_core")) == want_core:
+                if try_accept(cand, enforce_unique_source=True):
+                    break
+
+    # Passata 2: completa gli slot mancanti solo con notizie realmente nuove o aggiornamenti (mai duplicati!)
+    if len(enriched_selected) < count:
+        for cand in pre_filtered:
+            if len(enriched_selected) >= count:
+                break
+            try_accept(cand, enforce_unique_source=False)
+
+    return enriched_selected
 
 
-def compute_target_edition_date(slot_dt: dt.datetime) -> str:
-    if slot_dt.hour < 20:
-        return slot_dt.strftime("%Y-%m-%d")
-    return (slot_dt + dt.timedelta(days=1)).strftime("%Y-%m-%d")
+def _default_cycle_data(slot_dt: dt.datetime) -> Dict[str, Any]:
+    date_str = slot_dt.strftime("%Y-%m-%d")
+    return {
+        "current_date": date_str,
+        "last_published_edition_date": None,
+        "target_edition_date": date_str,
+        "last_slot_iso": None,
+        "top10_published_date": None,
+        "top10_published_at_str": None,
+        "top_5_core": [],
+        "top_5_rotation": [],
+        "hourly_batches": [],
+    }
+
+
+def ensure_day_rollover(cycle_data: Dict[str, Any], slot_dt: dt.datetime) -> Dict[str, Any]:
+    """
+    Gestisce il cambio di giornata alla mezzanotte (00:00 CET):
+    - Se `slot_dt` appartiene a un nuovo giorno solare rispetto a `current_date`:
+      1. Archivia la giornata precedente completa in `archivio/YYYY-MM-DD.md`.
+      2. Ruota l'archivio mantenendo al massimo gli ultimi 7 giorni.
+      3. Azzera `cycle_data` per il nuovo giorno così `README.md` passa subito alla giornata odierna.
+    - Se siamo nello stesso giorno, garantisce che nei batch siano presenti solo slot della giornata odierna.
+    """
+    slot_date_str = slot_dt.strftime("%Y-%m-%d")
+    active_date = cycle_data.get("current_date") or cycle_data.get("target_edition_date")
+
+    if active_date and active_date != slot_date_str:
+        # Archivia definitivamente la giornata precedente (inclusi eventuali aggiornamenti 21:00–23:00)
+        ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+        prev_archive_path = ARCHIVE_DIR / f"{active_date}.md"
+        if cycle_data.get("hourly_batches") or cycle_data.get("top_5_core"):
+            prev_dt = dt.datetime.fromisoformat(f"{active_date}T23:00:00").replace(tzinfo=ROME_TZ)
+            cycle_data["current_date"] = active_date
+            prev_md = build_main_readme(cycle_data, prev_dt)
+            prev_archive_path.write_text(
+                adapt_readme_for_archive(prev_md, active_date),
+                encoding="utf-8",
+            )
+        elif README_PATH.exists() and not prev_archive_path.exists():
+            content = README_PATH.read_text(encoding="utf-8")
+            if content.strip():
+                prev_archive_path.write_text(
+                    adapt_readme_for_archive(content, active_date),
+                    encoding="utf-8",
+                )
+
+        rotate_7day_archive(slot_dt, previous_edition_date=active_date)
+        sync_archive_nav_bars()
+
+        # Reset pulito per la nuova giornata solare
+        cycle_data["current_date"] = slot_date_str
+        cycle_data["target_edition_date"] = slot_date_str
+        cycle_data["top10_published_date"] = None
+        cycle_data["top10_published_at_str"] = None
+        cycle_data["top_5_core"] = []
+        cycle_data["top_5_rotation"] = []
+        cycle_data["hourly_batches"] = []
+        print(f"[ROLLOVER] Mezzanotte superata: archiviato {active_date}, avviata la giornata {slot_date_str}.")
+    else:
+        cycle_data["current_date"] = slot_date_str
+        cycle_data["target_edition_date"] = slot_date_str
+        # Rimuovi eventuali batch residui del giorno precedente (es. migrazione dal vecchio ciclo 21:05–19:05)
+        batches = cycle_data.get("hourly_batches", [])
+        filtered_batches = [
+            b for b in batches if str(b.get("timestamp_str", "")).startswith(slot_date_str)
+        ]
+        cycle_data["hourly_batches"] = filtered_batches
+        cycle_data.setdefault("top10_published_date", None)
+        cycle_data.setdefault("top10_published_at_str", None)
+        cycle_data.setdefault("top_5_core", [])
+        cycle_data.setdefault("top_5_rotation", [])
+
+    return cycle_data
 
 
 def git_commit_slot(slot_dt: dt.datetime, is_top10: bool) -> None:
     """Esegue un commit Git dedicato per lo specifico slot orario."""
-    slot_str = slot_dt.strftime("%Y-%m-%d %H:05 CET")
+    slot_str = slot_dt.strftime("%Y-%m-%d %H:00 CET")
     hour_str = slot_dt.strftime("%H")
     if is_top10:
         msg = f"🏆 Top 10 Giornaliera & Edizione Completa ({slot_str})"
     else:
-        msg = f"📡 Ricerca Oraria #{hour_str}:05 ({slot_str})"
+        msg = f"📡 Ricerca Oraria #{hour_str}:00 ({slot_str})"
 
     try:
         subprocess.run(
@@ -1221,7 +1670,7 @@ def git_commit_slot(slot_dt: dt.datetime, is_top10: bool) -> None:
         )
         if diff.returncode != 0:
             env = os.environ.copy()
-            iso_date = slot_dt.strftime("%Y-%m-%dT%H:05:00%z")
+            iso_date = slot_dt.strftime("%Y-%m-%dT%H:00:00%z")
             env["GIT_AUTHOR_DATE"] = iso_date
             env["GIT_COMMITTER_DATE"] = iso_date
             subprocess.run(
@@ -1237,31 +1686,25 @@ def git_commit_slot(slot_dt: dt.datetime, is_top10: bool) -> None:
 
 def run_hourly_update(slot_dt: dt.datetime) -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    seen_keys = load_seen_keys(slot_dt)
-    cycle_data = load_json(
-        CYCLE_JSON_PATH,
-        {
-            "last_published_edition_date": None,
-            "target_edition_date": compute_target_edition_date(slot_dt),
-            "last_slot_iso": None,
-            "hourly_batches": [],
-        },
-    )
+    cycle_data = load_json(CYCLE_JSON_PATH, _default_cycle_data(slot_dt))
+    cycle_data = ensure_day_rollover(cycle_data, slot_dt)
+    seen_state = load_seen_state(slot_dt, cycle_data=cycle_data)
 
     hourly_batches: List[Dict[str, Any]] = cycle_data.get("hourly_batches", [])
-    hour_label = slot_dt.strftime("%H:05 CET")
-    timestamp_str = slot_dt.strftime("%Y-%m-%d %H:05 CET")
+    hour_label = slot_dt.strftime("%H:00 CET")
+    timestamp_str = slot_dt.strftime("%Y-%m-%d %H:00 CET")
+    slot_date_str = slot_dt.strftime("%Y-%m-%d")
 
-    # Evita duplicati per la stessa ora nello stesso ciclo
+    # Evita duplicati per la stessa ora nella stessa giornata
     if any(b.get("timestamp_str") == timestamp_str for b in hourly_batches):
-        cycle_data["last_slot_iso"] = slot_dt.strftime("%Y-%m-%dT%H:05:00")
+        cycle_data["last_slot_iso"] = slot_dt.strftime("%Y-%m-%dT%H:00:00")
         save_json(CYCLE_JSON_PATH, cycle_data)
-        print(f"[SKIP] Slot {timestamp_str} già presente nel ciclo corrente.")
+        print(f"[SKIP] Slot {timestamp_str} già presente nella giornata corrente.")
         return
 
     fresh_items = collect_fresh_batch(
         slot_dt=slot_dt,
-        seen_keys=seen_keys,
+        seen_state=seen_state,
         hour_index=slot_dt.hour + len(hourly_batches) * 3,
         count=ITEMS_PER_HOUR,
     )
@@ -1274,68 +1717,57 @@ def run_hourly_update(slot_dt: dt.datetime) -> None:
         }
     )
 
-    if len(hourly_batches) > 23:
-        hourly_batches = hourly_batches[-23:]
-
     cycle_data["hourly_batches"] = hourly_batches
-    cycle_data["target_edition_date"] = compute_target_edition_date(slot_dt)
-    cycle_data["last_slot_iso"] = slot_dt.strftime("%Y-%m-%dT%H:05:00")
+    cycle_data["last_slot_iso"] = slot_dt.strftime("%Y-%m-%dT%H:00:00")
 
     save_json(CYCLE_JSON_PATH, cycle_data)
-    save_json(SEEN_JSON_PATH, seen_keys)
+    save_json(SEEN_JSON_PATH, seen_state)
 
-    # Assicura che l'ultima edizione pubblicata sia sempre presente anche in archivio/
-    last_pub = cycle_data.get("last_published_edition_date")
-    if last_pub and README_PATH.exists():
-        last_arch = ARCHIVE_DIR / f"{last_pub}.md"
-        if not last_arch.exists():
-            ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
-            last_arch.write_text(
-                adapt_readme_for_archive(README_PATH.read_text(encoding="utf-8"), last_pub),
-                encoding="utf-8",
-            )
-            sync_archive_nav_bars()
+    # Aggiorna SEMPRE la pagina principale README.md con le notizie di oggi fino a questo momento
+    main_md = build_main_readme(cycle_data, slot_dt)
+    README_PATH.write_text(main_md, encoding="utf-8")
 
-    live_md = build_live_in_corso_md(cycle_data, slot_dt)
-    LIVE_PATH.write_text(live_md, encoding="utf-8")
-    print(f"[OK] Ricerca oraria ({timestamp_str}) salvata in IN_CORSO.md ({len(hourly_batches)}/23).")
+    # Se la Top 10 di oggi è già stata pubblicata (ore 21:00–23:00), aggiorna anche la copia in archivio
+    if cycle_data.get("top10_published_date") == slot_date_str:
+        ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+        today_arch = ARCHIVE_DIR / f"{slot_date_str}.md"
+        today_arch.write_text(adapt_readme_for_archive(main_md, slot_date_str), encoding="utf-8")
+        sync_archive_nav_bars()
+
+    LIVE_PATH.write_text(build_live_in_corso_md(cycle_data, slot_dt), encoding="utf-8")
+    print(f"[OK] Ricerca oraria ({timestamp_str}) pubblicata in README.md ({len(fresh_items)} nuove/aggiornate, {len(hourly_batches)} slot oggi).")
 
 
 def run_daily_top10_publication(slot_dt: dt.datetime) -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    seen_keys = load_seen_keys(slot_dt)
-    cycle_data = load_json(
-        CYCLE_JSON_PATH,
-        {
-            "last_published_edition_date": None,
-            "target_edition_date": slot_dt.strftime("%Y-%m-%d"),
-            "last_slot_iso": None,
-            "hourly_batches": [],
-        },
-    )
+    cycle_data = load_json(CYCLE_JSON_PATH, _default_cycle_data(slot_dt))
+    cycle_data = ensure_day_rollover(cycle_data, slot_dt)
+    seen_state = load_seen_state(slot_dt, cycle_data=cycle_data)
 
-    previous_edition_date = cycle_data.get("last_published_edition_date")
     edition_date = slot_dt.strftime("%Y-%m-%d")
-    published_at_str = slot_dt.strftime("%d/%m/%Y alle ore 20:05 CET")
-
-    closing_items = collect_fresh_batch(
-        slot_dt=slot_dt,
-        seen_keys=seen_keys,
-        hour_index=20,
-        count=ITEMS_PER_HOUR,
-    )
+    hour_label = slot_dt.strftime("%H:00 CET")
+    timestamp_str = slot_dt.strftime("%Y-%m-%d %H:00 CET")
+    published_at_str = slot_dt.strftime("%d/%m/%Y alle ore 20:00 CET")
 
     hourly_batches: List[Dict[str, Any]] = cycle_data.get("hourly_batches", [])
-    if not hourly_batches:
+
+    # Aggiunge anche la scansione delle 20:00 CET se non ancora registrata
+    if not any(b.get("timestamp_str") == timestamp_str for b in hourly_batches):
+        closing_items = collect_fresh_batch(
+            slot_dt=slot_dt,
+            seen_state=seen_state,
+            hour_index=20,
+            count=ITEMS_PER_HOUR,
+        )
         hourly_batches.append(
             {
-                "hour_label": "19:05 CET",
-                "timestamp_str": slot_dt.strftime("%Y-%m-%d 19:05 CET"),
+                "hour_label": hour_label,
+                "timestamp_str": timestamp_str,
                 "items": closing_items,
             }
         )
 
-    all_candidates: List[Dict[str, Any]] = list(closing_items)
+    all_candidates: List[Dict[str, Any]] = []
     for batch in hourly_batches:
         enriched_batch_items = [enrich_item(dict(it)) for it in batch.get("items", [])]
         batch["items"] = enriched_batch_items
@@ -1343,18 +1775,22 @@ def run_daily_top10_publication(slot_dt: dt.datetime) -> None:
 
     top_5_core, top_5_rotation = select_top_10(all_candidates)
 
-    rotate_7day_archive(slot_dt, previous_edition_date, current_edition_date=edition_date)
+    cycle_data["current_date"] = edition_date
+    cycle_data["target_edition_date"] = edition_date
+    cycle_data["last_published_edition_date"] = edition_date
+    cycle_data["top10_published_date"] = edition_date
+    cycle_data["top10_published_at_str"] = published_at_str
+    cycle_data["top_5_core"] = top_5_core
+    cycle_data["top_5_rotation"] = top_5_rotation
+    cycle_data["hourly_batches"] = hourly_batches
+    cycle_data["last_slot_iso"] = slot_dt.strftime("%Y-%m-%dT20:00:00")
 
-    new_readme = build_main_readme(
-        edition_date=edition_date,
-        published_at_str=published_at_str,
-        top_5_core=top_5_core,
-        top_5_rotation=top_5_rotation,
-        hourly_batches=hourly_batches,
-    )
+    rotate_7day_archive(slot_dt, previous_edition_date=None, current_edition_date=edition_date)
+
+    new_readme = build_main_readme(cycle_data, slot_dt)
     README_PATH.write_text(new_readme, encoding="utf-8")
 
-    # Salva immediatamente una copia dell'edizione appena pubblicata anche in archivio/YYYY-MM-DD.md
+    # Salva immediatamente una copia dell'edizione di oggi anche in archivio/YYYY-MM-DD.md
     current_archive_path = ARCHIVE_DIR / f"{edition_date}.md"
     current_archive_path.write_text(
         adapt_readme_for_archive(new_readme, edition_date),
@@ -1362,76 +1798,67 @@ def run_daily_top10_publication(slot_dt: dt.datetime) -> None:
     )
     sync_archive_nav_bars()
 
-    next_target = (slot_dt + dt.timedelta(days=1)).strftime("%Y-%m-%d")
-    new_cycle_data = {
-        "last_published_edition_date": edition_date,
-        "target_edition_date": next_target,
-        "last_slot_iso": slot_dt.strftime("%Y-%m-%dT20:05:00"),
-        "hourly_batches": [],
-    }
-    save_json(CYCLE_JSON_PATH, new_cycle_data)
-    save_json(SEEN_JSON_PATH, seen_keys)
+    save_json(CYCLE_JSON_PATH, cycle_data)
+    save_json(SEEN_JSON_PATH, seen_state)
 
-    LIVE_PATH.write_text(build_live_in_corso_md(new_cycle_data, slot_dt), encoding="utf-8")
-    print(f"[OK] TOP 10 delle 20:05 CET pubblicata in README.md e archiviata in archivio/{edition_date}.md!")
+    LIVE_PATH.write_text(build_live_in_corso_md(cycle_data, slot_dt), encoding="utf-8")
+    print(f"[OK] TOP 10 delle 20:00 CET pubblicata in README.md e salvata in archivio/{edition_date}.md!")
 
 
 def infer_last_slot_dt(cycle_data: Dict[str, Any], now_rome: dt.datetime) -> dt.datetime:
-    """Ricava l'ultimo slot orario completato dal file di stato."""
+    """Ricava l'ultimo slot orario completato dal file di stato (normalizzato al minuto :00)."""
     last_iso = cycle_data.get("last_slot_iso")
     if last_iso:
         try:
             naive = dt.datetime.fromisoformat(last_iso)
-            return naive.replace(tzinfo=ROME_TZ)
+            return naive.replace(minute=0, second=0, microsecond=0, tzinfo=ROME_TZ)
         except Exception:
             pass
 
     batches = cycle_data.get("hourly_batches", [])
     if batches:
         last_ts = batches[-1].get("timestamp_str", "")
-        # Formato: "YYYY-MM-DD HH:MM CET"
         m = re.match(r"(\d{4}-\d{2}-\d{2})\s+(\d{2}):\d{2}", last_ts)
         if m:
             d_str, h_str = m.group(1), m.group(2)
-            parsed = dt.datetime.fromisoformat(f"{d_str}T{h_str}:05:00")
+            parsed = dt.datetime.fromisoformat(f"{d_str}T{h_str}:00:00")
             return parsed.replace(tzinfo=ROME_TZ)
 
     last_pub = cycle_data.get("last_published_edition_date")
     if last_pub:
         try:
-            parsed = dt.datetime.fromisoformat(f"{last_pub}T20:05:00")
+            parsed = dt.datetime.fromisoformat(f"{last_pub}T20:00:00")
             return parsed.replace(tzinfo=ROME_TZ)
         except Exception:
             pass
 
-    return (now_rome - dt.timedelta(hours=1)).replace(minute=5, second=0, microsecond=0)
+    return (now_rome - dt.timedelta(hours=1)).replace(minute=0, second=0, microsecond=0)
 
 
 def run_auto_with_catchup(now_rome: dt.datetime, do_git_commit: bool = False) -> None:
     """
-    Calcola tutti gli slot orari (`HH:05 CET`) trascorsi dall'ultima esecuzione
+    Calcola tutti gli slot orari (`HH:00 CET`) trascorsi dall'ultima esecuzione
     fino all'ora corrente. Se GitHub Actions ha saltato delle ore, le recupera
-    in ordine cronologico (inclusa la pubblicazione Top 10 delle 20:05 CET!)
+    in ordine cronologico (inclusi cambio giorno a 00:00 e Top 10 alle 20:00 CET)
     creando un commit distinto per ogni ora.
     """
     if not README_PATH.exists() or not CYCLE_JSON_PATH.exists():
         run_bootstrap(now_rome)
         if do_git_commit:
-            git_commit_slot(now_rome, is_top10=(now_rome.hour == 20))
+            git_commit_slot(now_rome.replace(minute=0, second=0, microsecond=0), is_top10=(now_rome.hour == 20))
         return
 
     cycle_data = load_json(CYCLE_JSON_PATH, {})
     last_slot_dt = infer_last_slot_dt(cycle_data, now_rome)
-    current_slot_dt = now_rome.replace(minute=5, second=0, microsecond=0)
+    current_slot_dt = now_rome.replace(minute=0, second=0, microsecond=0)
 
     if current_slot_dt <= last_slot_dt:
         print(
-            f"[SKIP] Lo slot dell'ora corrente ({current_slot_dt.strftime('%Y-%m-%d %H:05 CET')}) "
+            f"[SKIP] Lo slot dell'ora corrente ({current_slot_dt.strftime('%Y-%m-%d %H:00 CET')}) "
             "è già stato completato. Nessun commit duplicato."
         )
         return
 
-    # Costruisci la sequenza di slot orari da recuperare (fino a 72 ore per non perdere mai uno slot 20:05 CET)
     pending_slots: List[dt.datetime] = []
     probe = last_slot_dt + dt.timedelta(hours=1)
     while probe <= current_slot_dt:
@@ -1441,12 +1868,12 @@ def run_auto_with_catchup(now_rome: dt.datetime, do_git_commit: bool = False) ->
     if len(pending_slots) > 72:
         pending_slots = pending_slots[-72:]
 
-    print(f"[AUTO] {len(pending_slots)} slot orari da processare fino a {current_slot_dt.strftime('%Y-%m-%d %H:05 CET')}.")
+    print(f"[AUTO] {len(pending_slots)} slot orari da processare fino a {current_slot_dt.strftime('%Y-%m-%d %H:00 CET')}.")
 
     for slot_dt in pending_slots:
         state = load_json(CYCLE_JSON_PATH, {})
         slot_date_str = slot_dt.strftime("%Y-%m-%d")
-        if slot_dt.hour == 20 and state.get("last_published_edition_date") != slot_date_str:
+        if slot_dt.hour == 20 and state.get("top10_published_date") != slot_date_str:
             run_daily_top10_publication(slot_dt)
             if do_git_commit:
                 git_commit_slot(slot_dt, is_top10=True)
@@ -1457,91 +1884,76 @@ def run_auto_with_catchup(now_rome: dt.datetime, do_git_commit: bool = False) ->
 
 
 def run_bootstrap(now_rome: dt.datetime) -> None:
-    print("[BOOTSTRAP] Raccolta notizie reali da tutti i feed mondiali, europei e italiani...")
+    print("[BOOTSTRAP] Avvio giornata odierna con notizie reali dai feed mondiali, europei e italiani...")
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
 
-    rss_cache = get_cached_rss_entries()
-    interleaved: List[Dict[str, Any]] = []
-    max_len = max((len(v) for v in rss_cache.values()), default=0)
-    for idx in range(max_len):
-        for src in RSS_SOURCES:
-            src_list = rss_cache.get(src["id"], [])
-            if idx < len(src_list):
-                interleaved.append(src_list[idx])
+    current_slot_dt = now_rome.replace(minute=0, second=0, microsecond=0)
+    today_str = current_slot_dt.strftime("%Y-%m-%d")
+    seen_state = load_seen_state(current_slot_dt)
+    cycle_data = _default_cycle_data(current_slot_dt)
 
-    seen_keys: Dict[str, str] = {}
-    today_str = now_rome.strftime("%Y-%m-%d")
-    yesterday_dt = now_rome - dt.timedelta(days=1)
-    yesterday_str = yesterday_dt.strftime("%Y-%m-%d")
-
-    unique_items: List[Dict[str, Any]] = []
-    for raw in interleaved:
-        key = normalize_url_key(raw["link"], raw["title_orig"])
-        if key not in seen_keys:
-            seen_keys[key] = today_str
-            unique_items.append(raw)
-        if len(unique_items) >= 76:
-            break
-
-    enriched_pool: List[Dict[str, Any]] = [enrich_item(it) for it in unique_items]
-
-    edition_batches: List[Dict[str, Any]] = []
-    hours_sequence = [21, 22, 23] + list(range(0, 20))
-    pool_len = max(1, len(enriched_pool))
-    cursor = 0
-    for h_val in hours_sequence:
-        batch_date = yesterday_dt if h_val >= 21 else now_rome
-        hour_label = f"{h_val:02d}:05 CET"
-        ts_str = f"{batch_date.strftime('%Y-%m-%d')} {h_val:02d}:05 CET"
-        slot_items: List[Dict[str, Any]] = []
-        for _ in range(3):
-            art = dict(enriched_pool[cursor % pool_len])
-            art["hour_slot"] = hour_label
-            slot_items.append(art)
-            cursor += 1
-        edition_batches.append(
-            {
-                "hour_label": hour_label,
-                "timestamp_str": ts_str,
-                "items": slot_items,
-            }
-        )
-
-    top_5_core, top_5_rotation = select_top_10(enriched_pool)
-    active_edition_date = yesterday_str if now_rome.hour < 20 else today_str
-    published_label = (
-        f"{yesterday_dt.strftime('%d/%m/%Y') if now_rome.hour < 20 else now_rome.strftime('%d/%m/%Y')} alle ore 20:05 CET"
+    fresh_items = collect_fresh_batch(
+        slot_dt=current_slot_dt,
+        seen_state=seen_state,
+        hour_index=current_slot_dt.hour,
+        count=ITEMS_PER_HOUR,
     )
+    cycle_data["hourly_batches"] = [
+        {
+            "hour_label": current_slot_dt.strftime("%H:00 CET"),
+            "timestamp_str": current_slot_dt.strftime("%Y-%m-%d %H:00 CET"),
+            "items": fresh_items,
+        }
+    ]
+    cycle_data["last_slot_iso"] = current_slot_dt.strftime("%Y-%m-%dT%H:00:00")
 
-    main_readme = build_main_readme(
-        edition_date=active_edition_date,
-        published_at_str=published_label,
-        top_5_core=top_5_core,
-        top_5_rotation=top_5_rotation,
-        hourly_batches=edition_batches,
-    )
-    README_PATH.write_text(main_readme, encoding="utf-8")
+    if current_slot_dt.hour >= 20:
+        top_5_core, top_5_rotation = select_top_10(fresh_items)
+        cycle_data["top10_published_date"] = today_str
+        cycle_data["top10_published_at_str"] = current_slot_dt.strftime("%d/%m/%Y alle ore 20:00 CET")
+        cycle_data["last_published_edition_date"] = today_str
+        cycle_data["top_5_core"] = top_5_core
+        cycle_data["top_5_rotation"] = top_5_rotation
 
-    current_slot_dt = now_rome.replace(minute=5, second=0, microsecond=0)
-    cycle_data = {
-        "last_published_edition_date": active_edition_date,
-        "target_edition_date": compute_target_edition_date(now_rome),
-        "last_slot_iso": current_slot_dt.strftime("%Y-%m-%dT%H:05:00"),
-        "hourly_batches": edition_batches[: min(22, now_rome.hour + 3)] if now_rome.hour < 20 else [],
-    }
     save_json(CYCLE_JSON_PATH, cycle_data)
-    save_json(SEEN_JSON_PATH, seen_keys)
+    save_json(SEEN_JSON_PATH, seen_state)
 
-    LIVE_PATH.write_text(build_live_in_corso_md(cycle_data, now_rome), encoding="utf-8")
+    main_md = build_main_readme(cycle_data, current_slot_dt)
+    README_PATH.write_text(main_md, encoding="utf-8")
+    LIVE_PATH.write_text(build_live_in_corso_md(cycle_data, current_slot_dt), encoding="utf-8")
     print("[BOOTSTRAP] Completato!")
 
 
+def run_render_only(now_rome: dt.datetime) -> None:
+    """Rigenera README.md e IN_CORSO.md dallo stato corrente di oggi senza nuove chiamate RSS."""
+    current_slot_dt = now_rome.replace(minute=0, second=0, microsecond=0)
+    cycle_data = load_json(CYCLE_JSON_PATH, _default_cycle_data(current_slot_dt))
+    cycle_data = ensure_day_rollover(cycle_data, current_slot_dt)
+    seen_state = load_seen_state(current_slot_dt, cycle_data=cycle_data)
+
+    # Normalizza last_slot_iso al minuto :00 se era nel vecchio formato :05
+    if cycle_data.get("last_slot_iso"):
+        try:
+            parsed = dt.datetime.fromisoformat(cycle_data["last_slot_iso"])
+            cycle_data["last_slot_iso"] = parsed.replace(minute=0, second=0, microsecond=0).strftime("%Y-%m-%dT%H:00:00")
+        except Exception:
+            pass
+
+    save_json(CYCLE_JSON_PATH, cycle_data)
+    save_json(SEEN_JSON_PATH, seen_state)
+
+    main_md = build_main_readme(cycle_data, current_slot_dt)
+    README_PATH.write_text(main_md, encoding="utf-8")
+    LIVE_PATH.write_text(build_live_in_corso_md(cycle_data, current_slot_dt), encoding="utf-8")
+    print(f"[RENDER] README.md e IN_CORSO.md rigenerati per la giornata {cycle_data['current_date']}.")
+
+
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Meridiano 20:05 — News Radar & Top 10 Engine")
+    parser = argparse.ArgumentParser(description="Meridiano 20:00 — News Radar Live & Top 10 Engine")
     parser.add_argument(
         "--mode",
-        choices=["auto", "hourly", "daily-top10", "bootstrap"],
+        choices=["auto", "hourly", "daily-top10", "bootstrap", "render-only"],
         default="auto",
         help="Modalità di esecuzione",
     )
@@ -1553,7 +1965,11 @@ def main() -> None:
     args = parser.parse_args()
 
     now_rome = dt.datetime.now(ROME_TZ)
-    current_slot_dt = now_rome.replace(minute=5, second=0, microsecond=0)
+    current_slot_dt = now_rome.replace(minute=0, second=0, microsecond=0)
+
+    if args.mode == "render-only":
+        run_render_only(now_rome)
+        return
 
     if args.mode == "bootstrap":
         run_bootstrap(now_rome)
