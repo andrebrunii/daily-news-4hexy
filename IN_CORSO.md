@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 22 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-11%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-12%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (11/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (12/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-21**](./archivio/2026-11-21.md) · [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `08:05 CET` — Ricerca Oraria (12/23)
+_Aggiornamento registrato il `2026-11-22 08:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Kate racconta il percorso nella lotta contro il cancro in un documentario della Bbc](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/kate-racconta-il-percorso-nella-lotta-contro-il-cancro-in-un-documentario-della-bbc_c857fc75-c561-49d3-a760-d7488ee19527.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** In onda il 29 novembre. 'E' una malattia che ti cambia davvero'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [Domenica sulla sicurezza: Der Kampf um die Arktis – mit Robert Habeck](https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-der-kampf-um-die-arktis-mit-robert-habeck/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Zum ersten Mal in der Menschheitsgeschichte entsteht ein neuer Ozean e mit dem schmelzenden Eis der Arktis entbrennt ein Wettlauf der Großmächte. Si apre un nuovo fronte geopolitico. Im Gespräch mit POLITICO-Host Rixa Fürsen analysiert der ehemalige Vizekanzler Robert Habeck die brisante Lage am Nordpol. Der heutige Professor an der Copenhagen...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🤖 IA & Frontiera Tech` [Funzionari attuali ed ex degli Stati Uniti e di altri paesi descrivono la campagna dell'agenzia di spionaggio cinese MSS per aiutare le aziende cinesi ad acquisire chip IA avanzati (New York Times)](https://www.techmeme.com/261122/p5#a261122p5)** — *(Techmeme)*
+  - 📌 **Sintesi:** New York Times: Funzionari attuali ed ex degli Stati Uniti e di altri paesi descrivono la campagna dell'agenzia di spionaggio cinese MSS per aiutare le aziende cinesi ad acquisire chip IA avanzati: l'agenzia di spionaggio cinese ha condotto una campagna segreta per aiutare le aziende del paese ad acquisire chip IA avanzati. patatine…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `💻 Tecnologia & Cyber` [L'esercito ritarda la detonazione dell'azoturo di piombo "catastroficamente pericoloso" tra paura e rabbia](https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** I modelli prevedono che il pennacchio di piombo neurotossico potrebbe raggiungere fino a 100 miglia di distanza.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
 
 ### 🕒 Ora `07:05 CET` — Ricerca Oraria (11/23)
 _Aggiornamento registrato il `2026-11-22 07:05 CET`_
