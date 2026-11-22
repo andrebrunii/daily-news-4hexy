@@ -1,26 +1,23 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Meridiano 20:00 — Osservatorio Mondiale Live, Impatto Italia/UE & Top 10 Giornaliera (00:00–23:00 CET)
-======================================================================================================
-Funzionamento su giornata solare (Europe/Rome) con motore Anti-Skip (Catch-Up automatico) e Anti-Duplicati:
-- Superata la mezzanotte (00:00 CET):
-    * La pagina completa del giorno precedente viene archiviata in `archivio/YYYY-MM-DD.md`
-      (con rotazione automatica degli ultimi 7 giorni).
-    * Il `README.md` principale passa immediatamente alla giornata odierna.
-- Ogni ora (00:00 -> 19:00 CET):
-    * Raccoglie e analizza le nuove notizie dell'ora da fonti mondiali, europee e italiane.
-    * Aggiorna direttamente il `README.md` principale con tutte le notizie della giornata odierna fino a quel momento.
+Meridiano 20:00 — Osservatorio Mondiale Live, Impatto Italia/UE & Top 10 Giornaliera (CET)
+==========================================================================================
+Funzionamento del ciclo di 24 ore (Europe/Rome) con motore Anti-Skip e Anti-Duplicati:
+- Ore 00:00 -> 19:00 CET (Diretta della giornata odierna in prima pagina):
+    * Superata la mezzanotte (00:00 CET), il `README.md` principale passa subito alla giornata odierna
+      (includendo anche le ricerche preparatorie raccolte tra le 21:00 e le 23:00 della sera precedente).
+    * Ogni ora raccoglie e pubblica in `README.md` le nuove notizie fino a quel momento.
     * Filtra rigorosamente i duplicati: una notizia già pubblicata NON viene ripetuta, salvo reali
       aggiornamenti/sviluppi sulla situazione rispetto alla prima segnalazione (marcati come 🔄 AGGIORNAMENTO).
-- Ore 20:00 CET (Pubblicazione Top 10 Giornaliera):
-    * Seleziona la TOP 10 delle notizie più rilevanti raccolte oggi:
-        - Posizioni #1–#5: Focus Geopolitica Mondiale & Impatto Diretto Italia / Europa (CET).
-        - Posizioni #6–#10: Rotazione su IA/Tech, Economia/Mercati, Scienza/Spazio/Clima, Filosofia/Società/Lungo Termine.
-    * Pubblica la Top 10 in cima al `README.md` di oggi (sopra la cronologia oraria) e salva la copia in `archivio/YYYY-MM-DD.md`.
-- Ore 21:00 -> 23:00 CET:
-    * Continua ad aggiungere le ricerche orarie serali nella pagina di oggi (mantenendo la Top 10 delle 20:00 in cima)
-      e aggiorna la copia in archivio fino alla mezzanotte successiva.
+- Ore 20:00 CET (Pubblicazione Top 10 Giornaliera & Chiusura Edizione):
+    * Seleziona la TOP 10 delle notizie più rilevanti del ciclo (Posizioni #1–#5 Italia/UE/Geopolitica,
+      Posizioni #6–#10 Rotazione IA/Tech, Economia, Scienza, Filosofia).
+    * Pubblica l'edizione definitiva di oggi in `README.md` e la salva in `archivio/YYYY-MM-DD.md` (max 7 giorni).
+    * L'edizione di oggi SMETTE di aggiornarsi alle 20:00 e resta visibile in `README.md` fino alle 23:59.
+- Ore 21:00 -> 23:00 CET (Nuovo ciclo silenzioso per domani):
+    * Parte il nuovo ciclo orario per il giorno successivo in background (`data/current_cycle.json` e `IN_CORSO.md`).
+    * NON modifica `README.md` fino allo scattare della mezzanotte (`00:00 CET`), quando il nuovo giorno diventa visibile in prima pagina.
 """
 
 from __future__ import annotations
@@ -1274,11 +1271,12 @@ def _generate_live_subtitle(hourly_batches: List[Dict[str, Any]]) -> str:
 
 def build_main_readme(cycle_data: Dict[str, Any], now_rome: dt.datetime) -> str:
     """
-    Genera il `README.md` principale mostrando SEMPRE la giornata odierna (00:00–23:00 CET):
-    - Prima delle 20:00 CET: mostra la diretta live di oggi con tutte le ricerche orarie fino a quel momento.
-    - Dalle 20:00 alle 23:59 CET: mostra la Top 10 delle 20:00 in cima + tutte le ricerche orarie di oggi (incluse quelle serali 21:00–23:00).
+    Genera il `README.md` principale:
+    - Dalle 00:00 alle 19:59 CET: mostra la giornata odierna in tempo reale (aggiornata ogni ora fino alle 19:00).
+    - Alle 20:00 CET: pubblica la Top 10 definitiva di oggi; la pagina smette di aggiornarsi alle 20:00 e resta visibile fino alle 23:59 CET
+      (mentre dalle 21:00 alle 23:00 il nuovo ciclo del giorno successivo accumula in background e diventa visibile dalle 00:00 CET).
     """
-    edition_date = cycle_data.get("current_date", now_rome.strftime("%Y-%m-%d"))
+    edition_date = cycle_data.get("current_date") or cycle_data.get("target_edition_date") or now_rome.strftime("%Y-%m-%d")
     hourly_batches: List[Dict[str, Any]] = cycle_data.get("hourly_batches", [])
     has_top10 = (
         cycle_data.get("top10_published_date") == edition_date
@@ -1302,20 +1300,20 @@ def build_main_readme(cycle_data: Dict[str, Any], now_rome: dt.datetime) -> str:
         daily_summary_subtitle = generate_daily_summary_subtitle(top_5_core, top_5_rotation)
         status_badge = (
             f"![Edizione](https://img.shields.io/badge/Top_10_Oggi-{edition_date.replace('-', '--')}_20%3A00_CET-1f6feb?style=for-the-badge) "
-            f"![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-{total_hours}%2F24-2ea043?style=for-the-badge) "
-            f"![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-{total_articles}-8957e5?style=for-the-badge)"
+            f"![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Nel_Ciclo-{total_hours}%2F23-2ea043?style=for-the-badge) "
+            f"![Notizie Analizzate](https://img.shields.io/badge/Notizie_Nel_Ciclo-{total_articles}-8957e5?style=for-the-badge)"
         )
-        nav_col1 = "**Stai leggendo la giornata di oggi in diretta.**<br>_Le ricerche orarie continuano fino alle 23:00 CET; dopo la mezzanotte (00:00) la pagina passa automaticamente al nuovo giorno._"
-        nav_col2 = "**Top 10 ufficiale delle 20:00 CET pubblicata.**<br>_Resta in cima alla pagina fino alle 23:59 CET, poi viene salvata in archivio._"
+        nav_col1 = "**Edizione di oggi chiusa alle 20:00 CET.**<br>_Il nuovo ciclo per domani parte alle 21:00 in background e apparirà in questa pagina dopo la mezzanotte (00:00 CET)._"
+        nav_col2 = "**Top 10 ufficiale delle 20:00 CET pubblicata.**<br>_Resta visibile in prima pagina fino alle 23:59 CET._"
     else:
         daily_summary_subtitle = _generate_live_subtitle(hourly_batches)
         status_badge = (
             f"![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-{edition_date.replace('-', '--')}_{last_update_label.replace(':', '%3A').replace(' ', '_')}-e5534b?style=for-the-badge) "
-            f"![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-{total_hours}%2F20_verso_le_20%3A00-2ea043?style=for-the-badge) "
+            f"![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-{total_hours}%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) "
             f"![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-{total_articles}-8957e5?style=for-the-badge)"
         )
-        nav_col1 = "**Stai leggendo la giornata di oggi in tempo reale.**<br>_Aggiornamento automatico ogni ora (00:00–23:00 CET). Zero ripetizioni: una notizia torna solo se ci sono nuovi sviluppi._"
-        nav_col2 = "**Top 10 di oggi in arrivo alle 20:00 CET.**<br>_Verrà pubblicata automaticamente in cima a questa stessa pagina._"
+        nav_col1 = "**Stai leggendo la giornata di oggi in tempo reale.**<br>_Aggiornamento automatico ogni ora fino alle 20:00 CET. Zero ripetizioni: una notizia torna solo se ci sono nuovi sviluppi._"
+        nav_col2 = "**Top 10 di oggi in arrivo alle 20:00 CET.**<br>_Alle 20:00 CET chiude l'edizione di oggi con la Top 10 in cima a questa pagina._"
 
     md = [
         "<div align=\"center\">",
@@ -1333,7 +1331,7 @@ def build_main_readme(cycle_data: Dict[str, Any], now_rome: dt.datetime) -> str:
         "",
         "| 🔴 **DIRETTA OGGI (OGNI ORA)** | 🏆 **TOP 10 DELLE 20:00 CET** | 🗄️ **ARCHIVIO STORICO (MAX 7 GIORNI)** |",
         "| :--- | :--- | :--- |",
-        f"| {nav_col1} | {nav_col2} | Backup automatico degli ultimi 7 giorni (archiviati automaticamente a mezzanotte; i più vecchi vengono eliminati in automatico). |",
+        f"| {nav_col1} | {nav_col2} | Backup automatico degli ultimi 7 giorni (i più vecchi vengono eliminati in automatico). |",
         "",
         f"📚 **Ultimi 7 Giorni Archiviati:** {archive_links}",
         "",
@@ -1345,7 +1343,7 @@ def build_main_readme(cycle_data: Dict[str, Any], now_rome: dt.datetime) -> str:
         md.extend(
             [
                 "## 🏆 TOP 10 NOTIZIE DI OGGI",
-                f"_Pubblicata il **{published_at_str}** · Selezionata dalle ricerche orarie raccolte oggi fino alle 20:00 CET_",
+                f"_Pubblicata il **{published_at_str}** · Edizione definitiva della giornata (resta in prima pagina fino alle 23:59 CET)_",
                 "",
                 "### 🌍 PARTE I (Posizioni #1 – #5): Impatto Diretto Italia, Europa (CET) & Scacchiere Mondiale",
                 "",
@@ -1369,21 +1367,21 @@ def build_main_readme(cycle_data: Dict[str, Any], now_rome: dt.datetime) -> str:
             [
                 "---",
                 "",
-                "## ⏱️ CRONOLOGIA ORARIA DI OGGI (Dalla più recente)",
-                "_Tutte le ricerche orarie della giornata odierna (00:00–23:00 CET). Le notizie già pubblicate non vengono ripetute, salvo aggiornamenti concreti sulla situazione (`🔄 AGGIORNAMENTO`)._",
+                "## ⏱️ CRONOLOGIA ORARIA DELL'EDIZIONE (Dalla più recente)",
+                "_Tutte le ricerche orarie raccolte nel ciclo che ha portato alla Top 10 delle 20:00 CET. Le notizie già pubblicate non vengono ripetute, salvo aggiornamenti concreti sulla situazione (`🔄 AGGIORNAMENTO`)._",
                 "",
             ]
         )
     else:
-        progress_filled = min(20, total_hours)
-        progress_bar = "🟩" * progress_filled + "⬜" * max(0, 20 - progress_filled)
+        progress_filled = min(23, total_hours)
+        progress_bar = "🟩" * progress_filled + "⬜" * max(0, 23 - progress_filled)
         md.extend(
             [
-                f"**Progresso verso la Top 10 di oggi alle 20:00 CET ({min(20, total_hours)}/20 ricerche orarie):**",
+                f"**Progresso verso la Top 10 di oggi alle 20:00 CET ({min(23, total_hours)}/23 ricerche orarie):**",
                 f"`{progress_bar}`",
                 "",
                 "## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)",
-                "_Aggiornato automaticamente ogni ora a partire dalla mezzanotte (00:00 CET). Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._",
+                "_Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._",
                 "",
             ]
         )
@@ -1398,7 +1396,7 @@ def build_main_readme(cycle_data: Dict[str, Any], now_rome: dt.datetime) -> str:
         )
     else:
         reversed_batches = list(reversed(hourly_batches))
-        total_display = max(24 if has_top10 else 20, total_hours)
+        total_display = max(23, total_hours)
         for i, batch in enumerate(reversed_batches, start=1):
             chronological_idx = total_hours - i + 1
             md.append(render_hourly_section(batch, chronological_idx, total_display))
@@ -1572,12 +1570,23 @@ def collect_fresh_batch(
     return enriched_selected
 
 
+def compute_target_edition_date(slot_dt: dt.datetime) -> str:
+    """
+    Le ore 00:00–19:00 appartengono all'edizione di oggi (visibile in README.md).
+    Le ore 20:00 chiudono l'edizione di oggi.
+    Le ore 21:00–23:00 iniziano il nuovo ciclo per domani (non visibile in README.md fino alle 00:00).
+    """
+    if slot_dt.hour <= 20:
+        return slot_dt.strftime("%Y-%m-%d")
+    return (slot_dt + dt.timedelta(days=1)).strftime("%Y-%m-%d")
+
+
 def _default_cycle_data(slot_dt: dt.datetime) -> Dict[str, Any]:
-    date_str = slot_dt.strftime("%Y-%m-%d")
+    target_str = compute_target_edition_date(slot_dt)
     return {
-        "current_date": date_str,
+        "current_date": target_str,
         "last_published_edition_date": None,
-        "target_edition_date": date_str,
+        "target_edition_date": target_str,
         "last_slot_iso": None,
         "top10_published_date": None,
         "top10_published_at_str": None,
@@ -1587,63 +1596,31 @@ def _default_cycle_data(slot_dt: dt.datetime) -> Dict[str, Any]:
     }
 
 
-def ensure_day_rollover(cycle_data: Dict[str, Any], slot_dt: dt.datetime) -> Dict[str, Any]:
+def ensure_cycle_state(cycle_data: Dict[str, Any], slot_dt: dt.datetime) -> Dict[str, Any]:
     """
-    Gestisce il cambio di giornata alla mezzanotte (00:00 CET):
-    - Se `slot_dt` appartiene a un nuovo giorno solare rispetto a `current_date`:
-      1. Archivia la giornata precedente completa in `archivio/YYYY-MM-DD.md`.
-      2. Ruota l'archivio mantenendo al massimo gli ultimi 7 giorni.
-      3. Azzera `cycle_data` per il nuovo giorno così `README.md` passa subito alla giornata odierna.
-    - Se siamo nello stesso giorno, garantisce che nei batch siano presenti solo slot della giornata odierna.
+    Allinea `cycle_data` alla data di edizione del ciclo corrente:
+    - 21:00–23:00 del giorno D -> accumula per il ciclo del giorno D+1 (senza modificare README.md).
+    - 00:00–19:00 del giorno D+1 -> prosegue lo stesso ciclo D+1 e lo rende visibile in README.md.
+    - 20:00 del giorno D+1 -> chiude il ciclo D+1 con la Top 10 e avvia poi il ciclo D+2.
     """
-    slot_date_str = slot_dt.strftime("%Y-%m-%d")
-    active_date = cycle_data.get("current_date") or cycle_data.get("target_edition_date")
+    target_date = compute_target_edition_date(slot_dt)
+    active_target = cycle_data.get("target_edition_date") or cycle_data.get("current_date")
 
-    if active_date and active_date != slot_date_str:
-        # Archivia definitivamente la giornata precedente (inclusi eventuali aggiornamenti 21:00–23:00)
-        ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
-        prev_archive_path = ARCHIVE_DIR / f"{active_date}.md"
-        if cycle_data.get("hourly_batches") or cycle_data.get("top_5_core"):
-            prev_dt = dt.datetime.fromisoformat(f"{active_date}T23:00:00").replace(tzinfo=ROME_TZ)
-            cycle_data["current_date"] = active_date
-            prev_md = build_main_readme(cycle_data, prev_dt)
-            prev_archive_path.write_text(
-                adapt_readme_for_archive(prev_md, active_date),
-                encoding="utf-8",
-            )
-        elif README_PATH.exists() and not prev_archive_path.exists():
-            content = README_PATH.read_text(encoding="utf-8")
-            if content.strip():
-                prev_archive_path.write_text(
-                    adapt_readme_for_archive(content, active_date),
-                    encoding="utf-8",
-                )
-
-        rotate_7day_archive(slot_dt, previous_edition_date=active_date)
-        sync_archive_nav_bars()
-
-        # Reset pulito per la nuova giornata solare
-        cycle_data["current_date"] = slot_date_str
-        cycle_data["target_edition_date"] = slot_date_str
-        cycle_data["top10_published_date"] = None
-        cycle_data["top10_published_at_str"] = None
+    if active_target and active_target != target_date:
+        cycle_data["current_date"] = target_date
+        cycle_data["target_edition_date"] = target_date
         cycle_data["top_5_core"] = []
         cycle_data["top_5_rotation"] = []
         cycle_data["hourly_batches"] = []
-        print(f"[ROLLOVER] Mezzanotte superata: archiviato {active_date}, avviata la giornata {slot_date_str}.")
+        print(f"[CYCLE] Avviato nuovo ciclo editoriale per l'edizione {target_date}.")
     else:
-        cycle_data["current_date"] = slot_date_str
-        cycle_data["target_edition_date"] = slot_date_str
-        # Rimuovi eventuali batch residui del giorno precedente (es. migrazione dal vecchio ciclo 21:05–19:05)
-        batches = cycle_data.get("hourly_batches", [])
-        filtered_batches = [
-            b for b in batches if str(b.get("timestamp_str", "")).startswith(slot_date_str)
-        ]
-        cycle_data["hourly_batches"] = filtered_batches
+        cycle_data["current_date"] = target_date
+        cycle_data["target_edition_date"] = target_date
         cycle_data.setdefault("top10_published_date", None)
         cycle_data.setdefault("top10_published_at_str", None)
         cycle_data.setdefault("top_5_core", [])
         cycle_data.setdefault("top_5_rotation", [])
+        cycle_data.setdefault("hourly_batches", [])
 
     return cycle_data
 
@@ -1687,19 +1664,19 @@ def git_commit_slot(slot_dt: dt.datetime, is_top10: bool) -> None:
 def run_hourly_update(slot_dt: dt.datetime) -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     cycle_data = load_json(CYCLE_JSON_PATH, _default_cycle_data(slot_dt))
-    cycle_data = ensure_day_rollover(cycle_data, slot_dt)
+    cycle_data = ensure_cycle_state(cycle_data, slot_dt)
     seen_state = load_seen_state(slot_dt, cycle_data=cycle_data)
 
     hourly_batches: List[Dict[str, Any]] = cycle_data.get("hourly_batches", [])
     hour_label = slot_dt.strftime("%H:00 CET")
     timestamp_str = slot_dt.strftime("%Y-%m-%d %H:00 CET")
-    slot_date_str = slot_dt.strftime("%Y-%m-%d")
+    target_date = cycle_data["target_edition_date"]
 
-    # Evita duplicati per la stessa ora nella stessa giornata
+    # Evita duplicati per la stessa ora nello stesso ciclo
     if any(b.get("timestamp_str") == timestamp_str for b in hourly_batches):
         cycle_data["last_slot_iso"] = slot_dt.strftime("%Y-%m-%dT%H:00:00")
         save_json(CYCLE_JSON_PATH, cycle_data)
-        print(f"[SKIP] Slot {timestamp_str} già presente nella giornata corrente.")
+        print(f"[SKIP] Slot {timestamp_str} già presente nel ciclo corrente.")
         return
 
     fresh_items = collect_fresh_batch(
@@ -1717,31 +1694,50 @@ def run_hourly_update(slot_dt: dt.datetime) -> None:
         }
     )
 
+    if len(hourly_batches) > 23:
+        hourly_batches = hourly_batches[-23:]
+
     cycle_data["hourly_batches"] = hourly_batches
     cycle_data["last_slot_iso"] = slot_dt.strftime("%Y-%m-%dT%H:00:00")
 
     save_json(CYCLE_JSON_PATH, cycle_data)
     save_json(SEEN_JSON_PATH, seen_state)
 
-    # Aggiorna SEMPRE la pagina principale README.md con le notizie di oggi fino a questo momento
-    main_md = build_main_readme(cycle_data, slot_dt)
-    README_PATH.write_text(main_md, encoding="utf-8")
-
-    # Se la Top 10 di oggi è già stata pubblicata (ore 21:00–23:00), aggiorna anche la copia in archivio
-    if cycle_data.get("top10_published_date") == slot_date_str:
-        ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
-        today_arch = ARCHIVE_DIR / f"{slot_date_str}.md"
-        today_arch.write_text(adapt_readme_for_archive(main_md, slot_date_str), encoding="utf-8")
-        sync_archive_nav_bars()
+    # Assicura che l'ultima edizione consolidata sia presente in archivio/
+    last_pub = cycle_data.get("last_published_edition_date")
+    if last_pub and README_PATH.exists():
+        last_arch = ARCHIVE_DIR / f"{last_pub}.md"
+        if not last_arch.exists():
+            ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+            last_arch.write_text(
+                adapt_readme_for_archive(README_PATH.read_text(encoding="utf-8"), last_pub),
+                encoding="utf-8",
+            )
+            sync_archive_nav_bars()
 
     LIVE_PATH.write_text(build_live_in_corso_md(cycle_data, slot_dt), encoding="utf-8")
-    print(f"[OK] Ricerca oraria ({timestamp_str}) pubblicata in README.md ({len(fresh_items)} nuove/aggiornate, {len(hourly_batches)} slot oggi).")
+
+    if slot_dt.hour < 20:
+        # Tra le 00:00 e le 19:00 CET il README.md principale mostra SEMPRE la giornata odierna in diretta!
+        main_md = build_main_readme(cycle_data, slot_dt)
+        README_PATH.write_text(main_md, encoding="utf-8")
+        print(
+            f"[OK] Ricerca oraria ({timestamp_str}) pubblicata in README.md "
+            f"({len(fresh_items)} nuove/aggiornate, {len(hourly_batches)}/23 slot)."
+        )
+    else:
+        # Tra le 21:00 e le 23:00 CET il README.md resta fermo sull'edizione delle 20:00 fino alle 23:59;
+        # il nuovo ciclo di domani accumula in background e diventerà visibile in README.md alle 00:00 CET.
+        print(
+            f"[OK] Ricerca oraria ({timestamp_str}) salvata per il nuovo ciclo del {target_date} "
+            f"({len(fresh_items)} nuove/aggiornate, {len(hourly_batches)}/23 slot — visibile in README.md dalle 00:00 CET)."
+        )
 
 
 def run_daily_top10_publication(slot_dt: dt.datetime) -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     cycle_data = load_json(CYCLE_JSON_PATH, _default_cycle_data(slot_dt))
-    cycle_data = ensure_day_rollover(cycle_data, slot_dt)
+    cycle_data = ensure_cycle_state(cycle_data, slot_dt)
     seen_state = load_seen_state(slot_dt, cycle_data=cycle_data)
 
     edition_date = slot_dt.strftime("%Y-%m-%d")
@@ -1751,7 +1747,7 @@ def run_daily_top10_publication(slot_dt: dt.datetime) -> None:
 
     hourly_batches: List[Dict[str, Any]] = cycle_data.get("hourly_batches", [])
 
-    # Aggiunge anche la scansione delle 20:00 CET se non ancora registrata
+    # Scansione finale delle 20:00 CET
     if not any(b.get("timestamp_str") == timestamp_str for b in hourly_batches):
         closing_items = collect_fresh_batch(
             slot_dt=slot_dt,
@@ -1775,22 +1771,24 @@ def run_daily_top10_publication(slot_dt: dt.datetime) -> None:
 
     top_5_core, top_5_rotation = select_top_10(all_candidates)
 
-    cycle_data["current_date"] = edition_date
-    cycle_data["target_edition_date"] = edition_date
-    cycle_data["last_published_edition_date"] = edition_date
-    cycle_data["top10_published_date"] = edition_date
-    cycle_data["top10_published_at_str"] = published_at_str
-    cycle_data["top_5_core"] = top_5_core
-    cycle_data["top_5_rotation"] = top_5_rotation
-    cycle_data["hourly_batches"] = hourly_batches
-    cycle_data["last_slot_iso"] = slot_dt.strftime("%Y-%m-%dT20:00:00")
+    # Prepara lo snapshot definitivo delle 20:00 CET per README.md e archivio/YYYY-MM-DD.md
+    published_snapshot = {
+        "current_date": edition_date,
+        "target_edition_date": edition_date,
+        "last_published_edition_date": edition_date,
+        "top10_published_date": edition_date,
+        "top10_published_at_str": published_at_str,
+        "top_5_core": top_5_core,
+        "top_5_rotation": top_5_rotation,
+        "hourly_batches": hourly_batches,
+    }
 
     rotate_7day_archive(slot_dt, previous_edition_date=None, current_edition_date=edition_date)
 
-    new_readme = build_main_readme(cycle_data, slot_dt)
+    new_readme = build_main_readme(published_snapshot, slot_dt)
     README_PATH.write_text(new_readme, encoding="utf-8")
 
-    # Salva immediatamente una copia dell'edizione di oggi anche in archivio/YYYY-MM-DD.md
+    # Salva immediatamente una copia definitiva in archivio/YYYY-MM-DD.md
     current_archive_path = ARCHIVE_DIR / f"{edition_date}.md"
     current_archive_path.write_text(
         adapt_readme_for_archive(new_readme, edition_date),
@@ -1798,11 +1796,28 @@ def run_daily_top10_publication(slot_dt: dt.datetime) -> None:
     )
     sync_archive_nav_bars()
 
-    save_json(CYCLE_JSON_PATH, cycle_data)
+    # Chiude l'edizione di oggi (che non verrà più aggiornata in README.md fino a mezzanotte)
+    # e prepara subito il nuovo ciclo vuoto per domani (che inizierà a raccogliere alle 21:00 in background)
+    next_target = (slot_dt + dt.timedelta(days=1)).strftime("%Y-%m-%d")
+    new_cycle_data = {
+        "current_date": next_target,
+        "target_edition_date": next_target,
+        "last_published_edition_date": edition_date,
+        "last_slot_iso": slot_dt.strftime("%Y-%m-%dT20:00:00"),
+        "top10_published_date": edition_date,
+        "top10_published_at_str": published_at_str,
+        "top_5_core": [],
+        "top_5_rotation": [],
+        "hourly_batches": [],
+    }
+    save_json(CYCLE_JSON_PATH, new_cycle_data)
     save_json(SEEN_JSON_PATH, seen_state)
 
-    LIVE_PATH.write_text(build_live_in_corso_md(cycle_data, slot_dt), encoding="utf-8")
-    print(f"[OK] TOP 10 delle 20:00 CET pubblicata in README.md e salvata in archivio/{edition_date}.md!")
+    LIVE_PATH.write_text(build_live_in_corso_md(new_cycle_data, slot_dt), encoding="utf-8")
+    print(
+        f"[OK] TOP 10 delle 20:00 CET pubblicata e bloccata in README.md fino alle 23:59 "
+        f"(archiviata in archivio/{edition_date}.md). Nuovo ciclo {next_target} pronto dalle 21:00!"
+    )
 
 
 def infer_last_slot_dt(cycle_data: Dict[str, Any], now_rome: dt.datetime) -> dt.datetime:
@@ -1926,13 +1941,12 @@ def run_bootstrap(now_rome: dt.datetime) -> None:
 
 
 def run_render_only(now_rome: dt.datetime) -> None:
-    """Rigenera README.md e IN_CORSO.md dallo stato corrente di oggi senza nuove chiamate RSS."""
+    """Rigenera README.md e IN_CORSO.md dallo stato corrente senza nuove chiamate RSS."""
     current_slot_dt = now_rome.replace(minute=0, second=0, microsecond=0)
     cycle_data = load_json(CYCLE_JSON_PATH, _default_cycle_data(current_slot_dt))
-    cycle_data = ensure_day_rollover(cycle_data, current_slot_dt)
+    cycle_data = ensure_cycle_state(cycle_data, current_slot_dt)
     seen_state = load_seen_state(current_slot_dt, cycle_data=cycle_data)
 
-    # Normalizza last_slot_iso al minuto :00 se era nel vecchio formato :05
     if cycle_data.get("last_slot_iso"):
         try:
             parsed = dt.datetime.fromisoformat(cycle_data["last_slot_iso"])
@@ -1943,10 +1957,11 @@ def run_render_only(now_rome: dt.datetime) -> None:
     save_json(CYCLE_JSON_PATH, cycle_data)
     save_json(SEEN_JSON_PATH, seen_state)
 
-    main_md = build_main_readme(cycle_data, current_slot_dt)
-    README_PATH.write_text(main_md, encoding="utf-8")
+    if current_slot_dt.hour < 20:
+        main_md = build_main_readme(cycle_data, current_slot_dt)
+        README_PATH.write_text(main_md, encoding="utf-8")
     LIVE_PATH.write_text(build_live_in_corso_md(cycle_data, current_slot_dt), encoding="utf-8")
-    print(f"[RENDER] README.md e IN_CORSO.md rigenerati per la giornata {cycle_data['current_date']}.")
+    print(f"[RENDER] Stato rigenerato per il ciclo {cycle_data['target_edition_date']}.")
 
 
 def main() -> None:

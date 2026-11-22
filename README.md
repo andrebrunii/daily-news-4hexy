@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Domenica 22 Novembre 2026
 ### «Gli europei osano credere che Trump possa garantire sicurezza all’Ucraina; La Cina si impegna a favore di un’elettrificazione a basse emissioni · Indagine: Alice Huang aveva legami con società di gioco, presunti»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--22_11%3A05_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-12%2F20_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-48-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--22_11%3A05_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-12%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-48-8957e5?style=for-the-badge)
 
 </div>
 
@@ -13,19 +13,19 @@
 
 | 🔴 **DIRETTA OGGI (OGNI ORA)** | 🏆 **TOP 10 DELLE 20:00 CET** | 🗄️ **ARCHIVIO STORICO (MAX 7 GIORNI)** |
 | :--- | :--- | :--- |
-| **Stai leggendo la giornata di oggi in tempo reale.**<br>_Aggiornamento automatico ogni ora (00:00–23:00 CET). Zero ripetizioni: una notizia torna solo se ci sono nuovi sviluppi._ | **Top 10 di oggi in arrivo alle 20:00 CET.**<br>_Verrà pubblicata automaticamente in cima a questa stessa pagina._ | Backup automatico degli ultimi 7 giorni (archiviati automaticamente a mezzanotte; i più vecchi vengono eliminati in automatico). |
+| **Stai leggendo la giornata di oggi in tempo reale.**<br>_Aggiornamento automatico ogni ora fino alle 20:00 CET. Zero ripetizioni: una notizia torna solo se ci sono nuovi sviluppi._ | **Top 10 di oggi in arrivo alle 20:00 CET.**<br>_Alle 20:00 CET chiude l'edizione di oggi con la Top 10 in cima a questa pagina._ | Backup automatico degli ultimi 7 giorni (i più vecchi vengono eliminati in automatico). |
 
 📚 **Ultimi 7 Giorni Archiviati:** [📅 **2026-11-21**](./archivio/2026-11-21.md) · [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md)
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (12/20 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (12/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
-_Aggiornato automaticamente ogni ora a partire dalla mezzanotte (00:00 CET). Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+_Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
 
-### 🕒 Ora `11:05 CET` — Ricerca Oraria (12/20)
+### 🕒 Ora `11:05 CET` — Ricerca Oraria (12/23)
 _Aggiornamento registrato il `2026-11-22 11:05 CET`_
 
 - **[1] `📈 Economia & Mercati` [Lovrén sbarca in Cile e prepara l’espansione in Sudamerica](https://www.ilsole24ore.com/art/lovren-sbarca-cile-e-prepara-l-espansione-sudamerica-AJS2x6MC)** — *(Il Sole 24 Ore)*
@@ -41,7 +41,7 @@ _Aggiornamento registrato il `2026-11-22 11:05 CET`_
   - 📌 **Sintesi:** Financial Times: Fonti: fornitori di server AI come Dell, HPE, Lenovo e Supermicro chiedono prezzi sostanzialmente più alti agli acquirenti, mesi dopo la firma dei contratti: Dell, HPE, Lenovo e Supermicro chiedono di più per le apparecchiature, con l'aumento dei costi che colpisce le società commerciali
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
-### 🕒 Ora `10:05 CET` — Ricerca Oraria (11/20)
+### 🕒 Ora `10:05 CET` — Ricerca Oraria (11/23)
 _Aggiornamento registrato il `2026-11-22 10:05 CET`_
 
 - **[1] `🌐 Scacchiere Globale` [Tre morti e decine di dispersi dopo l'incendio in una fabbrica indonesiana](https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
@@ -57,7 +57,7 @@ _Aggiornamento registrato il `2026-11-22 10:05 CET`_
   - 📌 **Sintesi:** Mike Pearl / Gizmodo: Tesla lancia FSD v15, con un rendering fotorealistico dell'ambiente circostante l'auto; Elon Musk afferma che si tratta di generazione di video AI in tempo reale senza l'utilizzo di motori di gioco: sabato FSD v15 è stato rilasciato su alcuni veicoli. Il suo sistema di visualizzazione potrebbe essere la parte più notevole.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
-### 🕒 Ora `09:05 CET` — Ricerca Oraria (10/20)
+### 🕒 Ora `09:05 CET` — Ricerca Oraria (10/23)
 _Aggiornamento registrato il `2026-11-22 09:05 CET`_
 
 - **[1] `🇪🇺 Unione Europea & Policy` [Gli europei osano credere che Trump possa garantire sicurezza all’Ucraina](https://www.politico.eu/article/europeans-dare-to-believe-trump-could-deliver-security-for-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
@@ -73,7 +73,7 @@ _Aggiornamento registrato il `2026-11-22 09:05 CET`_
   - 📌 **Sintesi:** Le aziende di informatica quantistica stanno testando l’ottimizzazione della rete energetica, i materiali solari e i catalizzatori dell’idrogeno mentre perseguono usi pratici.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
-### 🕒 Ora `08:05 CET` — Ricerca Oraria (9/20)
+### 🕒 Ora `08:05 CET` — Ricerca Oraria (9/23)
 _Aggiornamento registrato il `2026-11-22 08:05 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Kate racconta il percorso nella lotta contro il cancro in un documentario della Bbc](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/kate-racconta-il-percorso-nella-lotta-contro-il-cancro-in-un-documentario-della-bbc_c857fc75-c561-49d3-a760-d7488ee19527.html)** — *(ANSA Mondo)*
@@ -89,7 +89,7 @@ _Aggiornamento registrato il `2026-11-22 08:05 CET`_
   - 📌 **Sintesi:** I modelli prevedono che il pennacchio di piombo neurotossico potrebbe raggiungere fino a 100 miglia di distanza.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
 
-### 🕒 Ora `07:05 CET` — Ricerca Oraria (8/20)
+### 🕒 Ora `07:05 CET` — Ricerca Oraria (8/23)
 _Aggiornamento registrato il `2026-11-22 07:05 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Oltre 82.000 ai cortei in Francia, tensioni a Parigi e fermi a Lione e Bordeaux](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/21/oltre-82.000-ai-cortei-in-francia-tensioni-a-parigi-e-fermi-a-lione-e-bordeaux_7fb6b8d3-e48b-4b29-8e7f-215440873533.html)** — *(ANSA Mondo)*
@@ -105,7 +105,7 @@ _Aggiornamento registrato il `2026-11-22 07:05 CET`_
   - 📌 **Sintesi:** La CTIA ha detto che il test di disturbo ha mostrato "interferenze... fino a due miglia e mezzo di distanza".
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
-### 🕒 Ora `06:05 CET` — Ricerca Oraria (7/20)
+### 🕒 Ora `06:05 CET` — Ricerca Oraria (7/23)
 _Aggiornamento registrato il `2026-11-22 06:05 CET`_
 
 - **[1] `🌍 Esteri & Analisi` [La Cina si impegna a favore di un’elettrificazione a basse emissioni di carbonio e ad aiutare gli altri a migliorare](https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve)** — *(The Guardian World)*
@@ -121,7 +121,7 @@ _Aggiornamento registrato il `2026-11-22 06:05 CET`_
   - 📌 **Sintesi:** "Tendiamo ad avere molte discussioni e dibattiti tecnici. Questo punto continuerà ad essere dibattuto."
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
-### 🕒 Ora `05:05 CET` — Ricerca Oraria (6/20)
+### 🕒 Ora `05:05 CET` — Ricerca Oraria (6/23)
 _Aggiornamento registrato il `2026-11-22 05:05 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Trump, 'Vance e Rubio fantastici ma per il 2028 potrebbero esserci sorprese'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/trump-vance-e-rubio-fantastici-ma-per-il-2028-potrebbero-esserci-sorprese_f73e83c1-f81a-43f3-996c-6735b707ad36.html)** — *(ANSA Mondo)*
@@ -137,7 +137,7 @@ _Aggiornamento registrato il `2026-11-22 05:05 CET`_
   - 📌 **Sintesi:** Todd Bishop / GeekWire: Microsoft prevede di ritirare la sua app To Do il 30 giugno 2027, offrendo la migrazione a Planner per gli account lavorativi e scolastici, ma nessuna sostituzione per gli account personali: Microsoft ha acquisito la popolare app Wunderlist nel 2015, l'ha chiusa nel 2020 e ha detto ai suoi utenti fedeli che Microsoft To Do sarebbe stata la loro nuova casa.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
-### 🕒 Ora `04:05 CET` — Ricerca Oraria (5/20)
+### 🕒 Ora `04:05 CET` — Ricerca Oraria (5/23)
 _Aggiornamento registrato il `2026-11-22 04:05 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Cop 31, nella bozza nessuna menzione dei combustibili fossili](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/cop-31-nella-bozza-nessuna-menzione-dei-combustibili-fossili_e121f1b0-59b6-46f1-b370-4967cafbc2e1.html)** — *(ANSA Mondo)*
@@ -153,7 +153,7 @@ _Aggiornamento registrato il `2026-11-22 04:05 CET`_
   - 📌 **Sintesi:** Si è scoperto che un recente schiarimento proveniva da una stella in orbita all'interno di un'altra.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
-### 🕒 Ora `03:05 CET` — Ricerca Oraria (4/20)
+### 🕒 Ora `03:05 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-22 03:05 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [L'ex presidente del Brasile Jair Bolsonaro ricoverato in terapia intensiva](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/lex-presidente-del-brasile-jair-bolsonaro-ricoverato-in-terapia-intensiva_f6b626b9-888d-48a5-91c0-67183a6a1c85.html)** — *(ANSA Mondo)*
@@ -169,7 +169,7 @@ _Aggiornamento registrato il `2026-11-22 03:05 CET`_
   - 📌 **Sintesi:** Financial Times: Fonti: Amazon è vicina a un accordo da 7,5 miliardi di dollari per acquistare la startup di intelligenza artificiale Decart; i colloqui sono in una fase avanzata e un accordo potrebbe concludersi già la prossima settimana – L’acquisizione aiuterebbe AWS a competere con Nvidia nella corsa per la potenza di calcolo – Amazon è vicina a un accordo da 7,5 miliardi di dollari per acquistare la start-up Decart…
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
-### 🕒 Ora `02:05 CET` — Ricerca Oraria (3/20)
+### 🕒 Ora `02:05 CET` — Ricerca Oraria (3/23)
 _Aggiornamento registrato il `2026-11-22 02:05 CET`_
 
 - **[1] `🌍 Esteri & Analisi` [Haitiani emozionati ma a disagio mentre le truppe di El Salvador combattono le bande](https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele)** — *(The Guardian World)*
@@ -185,7 +185,7 @@ _Aggiornamento registrato il `2026-11-22 02:05 CET`_
   - 📌 **Sintesi:** Wired : I matchmaker affermano che più lavoratori tecnologici temono lo spionaggio romantico dopo lo scandalo Jensen Huang; un'app complementare basata sull'intelligenza artificiale propone alle fidanzate dirigenti "spionaggio zero" - Lo scandalo Jensen Huang è l'ultimo carburante per le ansie legate agli appuntamenti tra i nuovi ricchi e potenti lavoratori tecnologici.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
-### 🕒 Ora `01:05 CET` — Ricerca Oraria (2/20)
+### 🕒 Ora `01:05 CET` — Ricerca Oraria (2/23)
 _Aggiornamento registrato il `2026-11-22 01:05 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Zelensky ringrazia Melania Trump per il cessate il fuoco di Oleshky](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/zelensky-ringrazia-melania-trump-per-il-cessate-il-fuoco-di-oleshky_f790af89-7d0f-48fb-907a-c82009f09395.html)** — *(ANSA Mondo)*
@@ -201,7 +201,7 @@ _Aggiornamento registrato il `2026-11-22 01:05 CET`_
   - 📌 **Sintesi:** Quest’anno Warren Buffett ha più che quadruplicato le sue donazioni per il Ringraziamento a quattro fondazioni familiari, portandole a 5,5 miliardi di dollari.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
-### 🕒 Ora `00:05 CET` — Ricerca Oraria (1/20)
+### 🕒 Ora `00:05 CET` — Ricerca Oraria (1/23)
 _Aggiornamento registrato il `2026-11-22 00:05 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [I paletti del Likud sul governo unità, 'nessuno Stato palestinese, niente veti a Bibi'](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/21/i-paletti-del-likud-sul-governo-unita-nessuno-stato-palestinese-niente_fbb65824-c2f8-402a-add7-5951a9516da4.html)** — *(ANSA Mondo)*
