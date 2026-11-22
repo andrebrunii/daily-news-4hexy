@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-21",
   "target_edition_date": "2026-11-22",
-  "last_slot_iso": "2026-11-22T11:00:00",
+  "last_slot_iso": "2026-11-22T12:00:00",
   "hourly_batches": [
     {
       "hour_label": "00:05 CET",
@@ -984,6 +984,92 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 15.0
+        }
+      ]
+    },
+    {
+      "hour_label": "12:00 CET",
+      "timestamp_str": "2026-11-22 12:00 CET",
+      "items": [
+        {
+          "title_orig": "Brussels, Charleroi airports to cancel most flights Monday amid Belgian strike",
+          "summary_orig": "Air traffic controllers will join a nationwide protest against government spending cuts, prompting anger from airport operators over the last-minute disruption.",
+          "link": "https://www.politico.eu/article/brussels-charleroi-airports-cancel-most-flights-monday-belgian-strike/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Sun, 22 Nov 2026 10:30:54 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "title_it": "Gli aeroporti di Bruxelles e Charleroi cancellano la maggior parte dei voli lunedì in mezzo allo sciopero belga",
+          "summary_it": "I controllori del traffico aereo si uniranno a una protesta nazionale contro i tagli alla spesa pubblica, suscitando la rabbia degli operatori aeroportuali per l'interruzione dell'ultimo minuto.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 27.0,
+          "hour_slot": "12:00 CET",
+          "is_update": false
+        },
+        {
+          "title_orig": "South Korea education minister resigns over exam cheating scandal",
+          "summary_orig": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+          "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Nov 2026 09:20:45 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "title_it": "Il ministro dell'Istruzione della Corea del Sud si dimette per lo scandalo delle frodi agli esami",
+          "summary_it": "Choi Kyo-jin ammette che le misure dell'ultimo minuto per fermare gli imbrogli assistiti dall'intelligenza artificiale durante l'esame di ammissione all'università hanno causato il caos.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 19.5,
+          "hour_slot": "12:00 CET",
+          "is_update": false
+        },
+        {
+          "title_orig": "Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly (Tom Wilson/Financial Times)",
+          "summary_orig": "Tom Wilson / Financial Times : Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly — The freezer war is just a start. The year is 2027. You wake up one morning to find you cannot use email or send instant messages.",
+          "link": "https://www.techmeme.com/261122/p6#a261122p6",
+          "published": "Sun, 22 Nov 2026 06:01:10 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "title_it": "Gli esperti affermano che l’intelligenza artificiale ha reso più rapida la pianificazione degli attacchi informatici alle apparecchiature industriali aiutando gli aggressori a leggere i manuali e a ricercare gli incidenti passati più rapidamente (Tom Wilson/Financial Times)",
+          "summary_it": "Tom Wilson / Financial Times: Gli esperti affermano che l'intelligenza artificiale ha reso più rapida la pianificazione degli attacchi informatici alle apparecchiature industriali aiutando gli aggressori a leggere i manuali e a ricercare gli incidenti passati più rapidamente. La guerra dei congelatori è solo l'inizio. L'anno è il 2027. Ti svegli una mattina e scopri che non puoi utilizzare la posta elettronica o inviare messaggi istantanei.",
+          "impact_eu_it": "Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 18.5,
+          "hour_slot": "12:00 CET",
+          "is_update": false
+        },
+        {
+          "title_orig": "The most misunderstood graph in AI just got a major update",
+          "summary_orig": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
+          "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+          "published": "Fri, 20 Nov 2026 18:15:15 +0000",
+          "source_id": "mit_tech",
+          "source_name": "MIT Technology Review",
+          "category": "tech_ia",
+          "badge": "⚡ Futuro & Deep Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.25,
+          "title_it": "Il grafico più frainteso dell'intelligenza artificiale ha appena ricevuto un importante aggiornamento",
+          "summary_it": "Un nuovo rapporto dell’organizzazione no-profit METR per la valutazione dell’intelligenza artificiale rileva che alcune capacità dell’intelligenza artificiale continuano a migliorare lungo una traiettoria esponenziale, ma indica anche che i modelli non sono altrettanto bravi nei compiti che richiedono giudizio quanto lo sono nella codifica. Il rapporto è un aggiornamento del grafico dell’orizzonte temporale dell’organizzazione, che è stato ampiamente…",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 18.0,
+          "hour_slot": "12:00 CET",
+          "is_update": false
         }
       ]
     }

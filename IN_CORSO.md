@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Domenica 22 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--22-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-12-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--22-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-13-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `12:00 CET` — Ricerca Oraria (13/20)
+_Aggiornamento registrato il `2026-11-22 12:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Gli aeroporti di Bruxelles e Charleroi cancellano la maggior parte dei voli lunedì in mezzo allo sciopero belga](https://www.politico.eu/article/brussels-charleroi-airports-cancel-most-flights-monday-belgian-strike/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** I controllori del traffico aereo si uniranno a una protesta nazionale contro i tagli alla spesa pubblica, suscitando la rabbia degli operatori aeroportuali per l'interruzione dell'ultimo minuto.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌐 Scacchiere Globale` [Il ministro dell'Istruzione della Corea del Sud si dimette per lo scandalo delle frodi agli esami](https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Choi Kyo-jin ammette che le misure dell'ultimo minuto per fermare gli imbrogli assistiti dall'intelligenza artificiale durante l'esame di ammissione all'università hanno causato il caos.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[3] `🤖 IA & Frontiera Tech` [Gli esperti affermano che l’intelligenza artificiale ha reso più rapida la pianificazione degli attacchi informatici alle apparecchiature industriali aiutando gli aggressori a leggere i manuali e a ricercare gli incidenti passati più rapidamente (Tom Wilson/Financial Times)](https://www.techmeme.com/261122/p6#a261122p6)** — *(Techmeme)*
+  - 📌 **Sintesi:** Tom Wilson / Financial Times: Gli esperti affermano che l'intelligenza artificiale ha reso più rapida la pianificazione degli attacchi informatici alle apparecchiature industriali aiutando gli aggressori a leggere i manuali e a ricercare gli incidenti passati più rapidamente. La guerra dei congelatori è solo l'inizio. L'anno è il 2027. Ti svegli una mattina e scopri che non puoi utilizzare la posta elettronica o inviare messaggi istantanei.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[4] `⚡ Futuro & Deep Tech` [Il grafico più frainteso dell'intelligenza artificiale ha appena ricevuto un importante aggiornamento](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** Un nuovo rapporto dell’organizzazione no-profit METR per la valutazione dell’intelligenza artificiale rileva che alcune capacità dell’intelligenza artificiale continuano a migliorare lungo una traiettoria esponenziale, ma indica anche che i modelli non sono altrettanto bravi nei compiti che richiedono giudizio quanto lo sono nella codifica. Il rapporto è un aggiornamento del grafico dell’orizzonte temporale dell’organizzazione, che è stato ampiamente…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `11:05 CET` — Ricerca Oraria (12/20)
 _Aggiornamento registrato il `2026-11-22 11:05 CET`_
