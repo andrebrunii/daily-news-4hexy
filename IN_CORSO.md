@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 22 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-8%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (8/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-21**](./archivio/2026-11-21.md) · [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `04:05 CET` — Ricerca Oraria (8/23)
+_Aggiornamento registrato il `2026-11-22 04:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Cop 31, nella bozza nessuna menzione dei combustibili fossili](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/cop-31-nella-bozza-nessuna-menzione-dei-combustibili-fossili_e121f1b0-59b6-46f1-b370-4967cafbc2e1.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il testo include un appello all'elettrificazione
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[2] `🌍 Esteri & Analisi` [La corsa per diventare il prossimo segretario generale delle Nazioni Unite mette in luce le divisioni tra le potenze mondiali](https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers)** — *(The Guardian World)*
+  - 📌 **Sintesi:** Il dibattito sul dominio dei cinque membri permanenti potrebbe riaccendersi se le grandi potenze bloccassero il candidato costaricano. La corsa per diventare il prossimo segretario generale delle Nazioni Unite potrebbe raggiungere un momento decisivo venerdì, quando un voto del Consiglio di sicurezza delle Nazioni Unite rivelerà probabilmente se il candidato costaricano per la carica sarà bloccato dalle grandi potenze. Se è così, la battuta d'arresto...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[3] `🤖 IA & Frontiera Tech` [Rhodium: le più grandi aziende tecnologiche cinesi sono destinate a raddoppiare le spese di capitale fino a 139 miliardi di dollari nel 2026, con le entrate dei laboratori di intelligenza artificiale inferiori all'8%, un divario che potrebbe contare più dei limiti dei chip (New York Times)](https://www.techmeme.com/261121/p7#a261121p7)** — *(Techmeme)*
+  - 📌 **Sintesi:** New York Times : Rhodium: le più grandi aziende tecnologiche cinesi sono destinate a raddoppiare le spese di capitale fino a 139 miliardi di dollari nel 2026, con entrate dei laboratori di intelligenza artificiale inferiori all'8%, un divario che potrebbe contare più dei limiti dei chip - mentre Anthropic e altre società di intelligenza artificiale della Silicon Valley stanno raddoppiando le spese di capitale. i giganti raccolgono decine di miliardi di capitali, i rivali cinesi faticano a tenere il passo a livello finanziario.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `💻 Tecnologia & Cyber` [Guardare come una stella gigante inghiottì la sua vicina ed esplose](https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Si è scoperto che un recente schiarimento proveniva da una stella in orbita all'interno di un'altra.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
 _Aggiornamento registrato il `2026-11-22 03:05 CET`_
