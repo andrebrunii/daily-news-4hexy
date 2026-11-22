@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-21",
   "target_edition_date": "2026-11-22",
-  "last_slot_iso": "2026-11-22T02:05:00",
+  "last_slot_iso": "2026-11-22T03:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -492,6 +492,88 @@
           "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
           "score": 18.5
+        }
+      ]
+    },
+    {
+      "hour_label": "03:05 CET",
+      "timestamp_str": "2026-11-22 03:05 CET",
+      "items": [
+        {
+          "title_orig": "L'ex presidente del Brasile Jair Bolsonaro ricoverato in terapia intensiva",
+          "summary_orig": "'Clinicamente stabile, cosciente, vigile e respira spontaneamente'",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/lex-presidente-del-brasile-jair-bolsonaro-ricoverato-in-terapia-intensiva_f6b626b9-888d-48a5-91c0-67183a6a1c85.html",
+          "published": "Sat, 21 Nov 2026 19:54:40 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "03:05 CET",
+          "title_it": "L'ex presidente del Brasile Jair Bolsonaro ricoverato in terapia intensiva",
+          "summary_it": "'Clinicamente stabile, cosciente, vigile e respira spontaneamente'",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
+          "summary_orig": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food. If I don’t eat it, they put the tube in me to feed me.”...",
+          "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
+          "published": "Fri, 20 Nov 2026 11:00:31 GMT",
+          "source_id": "guardian_world",
+          "source_name": "The Guardian World",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Esteri & Analisi",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "03:05 CET",
+          "title_it": "‘Deboli e vertigini’: le tattiche segrete di alimentazione forzata dell’ICE che hanno posto fine allo sciopero della fame di un padre cubano",
+          "summary_it": "Esclusivo: Luis Alejandro Cora Pérez dice nei messaggi al Guardian dall'interno della struttura del Texas che il dolore causato dall'alimentazione forzata lo ha costretto a interrompere lo sciopero Il messaggio di testo che proveniva dall'interno del centro di detenzione dell'Immigration and Customs Enforcement (ICE) era duro: \"Ho trascorso cinque giorni mangiando cibo normale. Se non lo mangio, mi hanno messo il tubo per nutrirmi. \"...",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 18.5
+        },
+        {
+          "title_orig": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
+          "summary_orig": "Leaders gathered Thursday for the second day of the economic summit, ahead of a historic trilateral meeting between the U.S., Russia and China.",
+          "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html",
+          "published": "Thu, 19 Nov 2026 10:54:07 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "03:05 CET",
+          "title_it": "Foto dell'ultimo giorno dell'APEC: Trump, Xi e Putin si stringono la mano; Takaichi si tenne a distanza",
+          "summary_it": "I leader si sono riuniti giovedì per il secondo giorno del vertice economico, in vista di uno storico incontro trilaterale tra Stati Uniti, Russia e Cina.",
+          "impact_eu_it": "Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 28.0
+        },
+        {
+          "title_orig": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)",
+          "summary_orig": "Financial Times : Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week — Acquisition would help AWS compete with Nvidia in race for computing power — Amazon is nearing a $7.5bn deal to buy start-up Decart …",
+          "link": "https://www.techmeme.com/261121/p8#a261121p8",
+          "published": "Sat, 21 Nov 2026 12:55:01 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "03:05 CET",
+          "title_it": "Fonti: Amazon si sta avvicinando a un accordo da 7,5 miliardi di dollari per acquistare la startup di intelligenza artificiale Decart; i colloqui sono in fase avanzata e un accordo potrebbe arrivare già la prossima settimana (Financial Times)",
+          "summary_it": "Financial Times: Fonti: Amazon è vicina a un accordo da 7,5 miliardi di dollari per acquistare la startup di intelligenza artificiale Decart; i colloqui sono in una fase avanzata e un accordo potrebbe concludersi già la prossima settimana – L’acquisizione aiuterebbe AWS a competere con Nvidia nella corsa per la potenza di calcolo – Amazon è vicina a un accordo da 7,5 miliardi di dollari per acquistare la start-up Decart…",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 21.0
         }
       ]
     }

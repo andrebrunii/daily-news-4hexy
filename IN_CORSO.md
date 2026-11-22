@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 22 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-7%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (7/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-21**](./archivio/2026-11-21.md) · [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `03:05 CET` — Ricerca Oraria (7/23)
+_Aggiornamento registrato il `2026-11-22 03:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [L'ex presidente del Brasile Jair Bolsonaro ricoverato in terapia intensiva](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/lex-presidente-del-brasile-jair-bolsonaro-ricoverato-in-terapia-intensiva_f6b626b9-888d-48a5-91c0-67183a6a1c85.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Clinicamente stabile, cosciente, vigile e respira spontaneamente'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌍 Esteri & Analisi` [‘Deboli e vertigini’: le tattiche segrete di alimentazione forzata dell’ICE che hanno posto fine allo sciopero della fame di un padre cubano](https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding)** — *(The Guardian World)*
+  - 📌 **Sintesi:** Esclusivo: Luis Alejandro Cora Pérez dice nei messaggi al Guardian dall'interno della struttura del Texas che il dolore causato dall'alimentazione forzata lo ha costretto a interrompere lo sciopero Il messaggio di testo che proveniva dall'interno del centro di detenzione dell'Immigration and Customs Enforcement (ICE) era duro: "Ho trascorso cinque giorni mangiando cibo normale. Se non lo mangio, mi hanno messo il tubo per nutrirmi. "...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🏦 Mercati Globali` [Foto dell'ultimo giorno dell'APEC: Trump, Xi e Putin si stringono la mano; Takaichi si tenne a distanza](https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** I leader si sono riuniti giovedì per il secondo giorno del vertice economico, in vista di uno storico incontro trilaterale tra Stati Uniti, Russia e Cina.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[4] `🤖 IA & Frontiera Tech` [Fonti: Amazon si sta avvicinando a un accordo da 7,5 miliardi di dollari per acquistare la startup di intelligenza artificiale Decart; i colloqui sono in fase avanzata e un accordo potrebbe arrivare già la prossima settimana (Financial Times)](https://www.techmeme.com/261121/p8#a261121p8)** — *(Techmeme)*
+  - 📌 **Sintesi:** Financial Times: Fonti: Amazon è vicina a un accordo da 7,5 miliardi di dollari per acquistare la startup di intelligenza artificiale Decart; i colloqui sono in una fase avanzata e un accordo potrebbe concludersi già la prossima settimana – L’acquisizione aiuterebbe AWS a competere con Nvidia nella corsa per la potenza di calcolo – Amazon è vicina a un accordo da 7,5 miliardi di dollari per acquistare la start-up Decart…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
 _Aggiornamento registrato il `2026-11-22 02:05 CET`_
