@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Domenica 22 Novembre 2026
 ### «Gli europei osano credere che Trump possa garantire sicurezza all’Ucraina; La Cina si impegna a favore di un’elettrificazione a basse emissioni · Indagine: Alice Huang aveva legami con società di gioco, presunti»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--22_18%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-19%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-76-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--22_19%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-20%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-80-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (19/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (20/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `19:00 CET` — Ricerca Oraria (20/23)
+_Aggiornamento registrato il `2026-11-22 19:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [I colloqui globali sul clima sono falliti. Ecco cosa è appena successo.](https://www.politico.eu/article/global-climate-talks-have-collapsed-here-is-what-just-happened/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Due settimane di colloqui sulla protezione del pianeta dal riscaldamento globale si sono concluse senza un accordo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[2] `🌐 Scacchiere Globale` `🔄 AGGIORNAMENTO` [Nave diretta in Russia è stata rimorchiata dopo essere stata attaccata nel Golfo di Finlandia](https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-22 13:00 CET).
+  - 📌 **Sintesi:** Le forze di difesa finlandesi affermano che probabilmente dietro l’attacco dei droni di sabato c’era l’Ucraina. Kiev deve ancora commentare.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🤖 IA & Frontiera Tech` [Fonti: tra i timori di perdite, Anthropic ha limitato alcune banche IPO a team di quattro persone, ha utilizzato una piattaforma di file di registrazione delle visualizzazioni e ha chiesto divieti di sei mesi per fornire consulenza ai rivali (Reuters)](https://www.techmeme.com/261122/p8#a261122p8)** — *(Techmeme)*
+  - 📌 **Sintesi:** Reuters: Fonti: nel timore di fughe di notizie, Anthropic ha limitato alcune banche IPO a team di quattro persone, ha utilizzato una piattaforma di file di registrazione delle visualizzazioni e ha chiesto di vietare per sei mesi di fornire consulenza ai rivali. Per la seconda volta quest'anno, banchieri e avvocati di Wall Street hanno portato a casa un enorme stipendio da un'offerta pubblica iniziale da record.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🧬 Scienza & Scoperte` [Il sollevamento pesi riduce la perdita muscolare dovuta ai farmaci per l’obesità](https://www.nature.com/articles/d41586-026-03751-3)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 20 novembre 2026; doi:10.1038/d41586-026-03751-3 Gli esercizi di resistenza potrebbero aiutare le persone di mezza età e gli anziani a mantenere la massa muscolare e la forza durante il trattamento per la perdita di peso.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `18:00 CET` — Ricerca Oraria (19/23)
 _Aggiornamento registrato il `2026-11-22 18:00 CET`_
