@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 22 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-5%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-6%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (5/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (6/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-21**](./archivio/2026-11-21.md) · [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `02:05 CET` — Ricerca Oraria (6/23)
+_Aggiornamento registrato il `2026-11-22 02:05 CET`_
+
+- **[1] `🌍 Esteri & Analisi` [Haitiani emozionati ma a disagio mentre le truppe di El Salvador combattono le bande](https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele)** — *(The Guardian World)*
+  - 📌 **Sintesi:** I combattenti stranieri a Port-au-Prince sono stati accolti da molti dopo anni di controllo delle bande, ma alcuni temono che un'offensiva potrebbe esacerbare la situazione instabile Un murale disseminato di proiettili dell'attaccante haitiano Emmanuel Sanon copre la facciata del principale campo di calcio di Port-au-Prince. Ma sono passati più di due anni da quando una stella dello sport è scesa in campo. Nel 2024, poiché...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌍 Geopolitica & Mondo` [Brasile, Lula respinge pressioni dei mercati e difende la manovra del 2027](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/brasile-lula-respinge-pressioni-dei-mercati-e-difende-la-manovra-del-2027_ac651911-76c4-4277-a96b-06ce838f884c.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Nessun taglio a sanità e scuola, ridotti i benefici fiscali alle imprese
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[3] `🏦 Mercati Globali` ["Più di un semplice gioco": come il lancio campione d'incassi di GTA VI alimenta un'economia dei contenuti in forte espansione](https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il lancio campione d'incassi di GTA VI sta creando un'economia più ampia attorno a live streaming, clip social e content farm ad alto volume mentre milioni di persone si sintonizzano per guardare gli altri giocare.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[4] `🤖 IA & Frontiera Tech` [I matchmaker affermano che più lavoratori tecnologici temono lo spionaggio romantico dopo lo scandalo Jensen Huang; un'app complementare AI propone alle fidanzate esecutive "spionaggio zero" (Wired)](https://www.techmeme.com/261121/p11#a261121p11)** — *(Techmeme)*
+  - 📌 **Sintesi:** Wired : I matchmaker affermano che più lavoratori tecnologici temono lo spionaggio romantico dopo lo scandalo Jensen Huang; un'app complementare basata sull'intelligenza artificiale propone alle fidanzate dirigenti "spionaggio zero" - Lo scandalo Jensen Huang è l'ultimo carburante per le ansie legate agli appuntamenti tra i nuovi ricchi e potenti lavoratori tecnologici.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `01:05 CET` — Ricerca Oraria (5/23)
 _Aggiornamento registrato il `2026-11-22 01:05 CET`_

@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-21",
   "target_edition_date": "2026-11-22",
-  "last_slot_iso": "2026-11-22T01:05:00",
+  "last_slot_iso": "2026-11-22T02:05:00",
   "hourly_batches": [
     {
       "hour_label": "21:05 CET",
@@ -410,6 +410,88 @@
           "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
           "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
           "score": 14.0
+        }
+      ]
+    },
+    {
+      "hour_label": "02:05 CET",
+      "timestamp_str": "2026-11-22 02:05 CET",
+      "items": [
+        {
+          "title_orig": "Haitians excited but uneasy as El Salvador troops fight gangs",
+          "summary_orig": "Foreign combatants in Port-au-Prince welcomed by many after years of gang control but some fear offensive could exacerbate volatile situation A bullet-peppered mural of the Haitian striker Emmanuel Sanon covers the facade of Port-au-Prince’s main football ground. But more than two years have passed since any sports stars graced the pitch. In 2024, as the...",
+          "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
+          "published": "Sat, 21 Nov 2026 11:00:57 GMT",
+          "source_id": "guardian_world",
+          "source_name": "The Guardian World",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Esteri & Analisi",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.3,
+          "hour_slot": "02:05 CET",
+          "title_it": "Haitiani emozionati ma a disagio mentre le truppe di El Salvador combattono le bande",
+          "summary_it": "I combattenti stranieri a Port-au-Prince sono stati accolti da molti dopo anni di controllo delle bande, ma alcuni temono che un'offensiva potrebbe esacerbare la situazione instabile Un murale disseminato di proiettili dell'attaccante haitiano Emmanuel Sanon copre la facciata del principale campo di calcio di Port-au-Prince. Ma sono passati più di due anni da quando una stella dello sport è scesa in campo. Nel 2024, poiché...",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 15.0
+        },
+        {
+          "title_orig": "Brasile, Lula respinge pressioni dei mercati e difende la manovra del 2027",
+          "summary_orig": "Nessun taglio a sanità e scuola, ridotti i benefici fiscali alle imprese",
+          "link": "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/21/brasile-lula-respinge-pressioni-dei-mercati-e-difende-la-manovra-del-2027_ac651911-76c4-4277-a96b-06ce838f884c.html",
+          "published": "Sat, 21 Nov 2026 20:36:28 +0100",
+          "source_id": "ansa_mondo",
+          "source_name": "ANSA Mondo",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Geopolitica & Mondo",
+          "lang": "it",
+          "is_core": true,
+          "source_weight": 1.35,
+          "hour_slot": "02:05 CET",
+          "title_it": "Brasile, Lula respinge pressioni dei mercati e difende la manovra del 2027",
+          "summary_it": "Nessun taglio a sanità e scuola, ridotti i benefici fiscali alle imprese",
+          "impact_eu_it": "Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 13.5
+        },
+        {
+          "title_orig": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
+          "summary_orig": "GTA VI’s blockbuster launch is creating a wider economy around livestreams, social clips and high-volume content farms as millions tune in to watch others play.",
+          "link": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
+          "published": "Fri, 20 Nov 2026 07:08:36 GMT",
+          "source_id": "cnbc_world",
+          "source_name": "CNBC Global Economy",
+          "category": "economia",
+          "badge": "🏦 Mercati Globali",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "hour_slot": "02:05 CET",
+          "title_it": "\"Più di un semplice gioco\": come il lancio campione d'incassi di GTA VI alimenta un'economia dei contenuti in forte espansione",
+          "summary_it": "Il lancio campione d'incassi di GTA VI sta creando un'economia più ampia attorno a live streaming, clip social e content farm ad alto volume mentre milioni di persone si sintonizzano per guardare gli altri giocare.",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Passaggio definitivo dall'era dell'efficienza *just-in-time* (globalizzazione piatta a costo minimo) all'era della resilienza *just-in-case* (blocchi regionali, sicurezza energetica e capitalismo strategico).\n> 🧠 **Lente Filosofica:** Come spiega Nassim Nicholas Taleb in *Antifragile*, i sistemi iper-ottimizzati che eliminano ogni ridondanza in nome del profitto trimestrale diventano segretamente fragili ai Cigni Neri. La vera solidità economica non consiste nel prevedere le tempeste, ma nel costruire strutture che si rafforzano attraversandole.",
+          "score": 14.0
+        },
+        {
+          "title_orig": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
+          "summary_orig": "Wired : Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches “zero espionage” executive girlfriends — The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+          "link": "https://www.techmeme.com/261121/p11#a261121p11",
+          "published": "Sat, 21 Nov 2026 19:10:02 -0500",
+          "source_id": "techmeme",
+          "source_name": "Techmeme",
+          "category": "tech_ia",
+          "badge": "🤖 IA & Frontiera Tech",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.3,
+          "hour_slot": "02:05 CET",
+          "title_it": "I matchmaker affermano che più lavoratori tecnologici temono lo spionaggio romantico dopo lo scandalo Jensen Huang; un'app complementare AI propone alle fidanzate esecutive \"spionaggio zero\" (Wired)",
+          "summary_it": "Wired : I matchmaker affermano che più lavoratori tecnologici temono lo spionaggio romantico dopo lo scandalo Jensen Huang; un'app complementare basata sull'intelligenza artificiale propone alle fidanzate dirigenti \"spionaggio zero\" - Lo scandalo Jensen Huang è l'ultimo carburante per le ansie legate agli appuntamenti tra i nuovi ricchi e potenti lavoratori tecnologici.",
+          "impact_eu_it": "Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Riconfigurazione della divisione tra lavoro umano e calcolo automatico, con la nascita di nuove asimmetrie geopolitiche tra chi possiede l'infrastruttura dei semiconduttori e chi la affitta.\n> 🧠 **Lente Filosofica:** Da Prometeo al *Golem*, ogni protesi tecnica amplifica il potere d'azione ma riduce la frizione dell'esperienza. Come ammoniva Hans Jonas con il *Principio Responsabilità*, quando la nostra potenza tecnologica supera la nostra capacità di prevederne gli effetti ultimi, la prudenza cessa di essere debolezza e diventa la prima virtù politica.",
+          "score": 18.5
         }
       ]
     }
