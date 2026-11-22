@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 22 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-8%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-9%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (8/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (9/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-21**](./archivio/2026-11-21.md) · [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `05:05 CET` — Ricerca Oraria (9/23)
+_Aggiornamento registrato il `2026-11-22 05:05 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Trump, 'Vance e Rubio fantastici ma per il 2028 potrebbero esserci sorprese'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/21/trump-vance-e-rubio-fantastici-ma-per-il-2028-potrebbero-esserci-sorprese_f73e83c1-f81a-43f3-996c-6735b707ad36.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Sorpreso che Kamala Harris stia andando bene. Ok anche Ocasio-Cortez'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🌍 Esteri & Analisi` [Il pastore della Florida è stato dichiarato colpevole dell'assassinio del presidente haitiano nel 2021](https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination)** — *(The Guardian World)*
+  - 📌 **Sintesi:** Christian Emmanuel Sanon rischia l'ergastolo dopo essere stato condannato per l'accusa derivante dall'omicidio di Jovenel Moïse Un pastore della Florida con doppia cittadinanza haitiano-americana è stato condannato mercoledì per accuse statunitensi derivanti dall'assassinio del presidente haitiano Jovenel Moïse nel 2021. Christian Emmanuel Sanon è stato giudicato colpevole di accuse tra cui...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🔭 Ricerca & Spazio` [Il potente motore a razzo lunare della NASA ruggisce durante un drammatico test di 200 secondi](https://www.sciencedaily.com/releases/2026/11/261120075551.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** La NASA ha testato con successo un potente motore a razzo RS-25, accendendolo per 200 secondi per raccogliere dati che potrebbero rendere le future missioni sulla Luna più sicure e affidabili. Il test supporta i preparativi per lo sbarco sulla Luna dell’Artemis IV del 2028 e l’ambizione finale della NASA di inviare astronauti su Marte.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[4] `🤖 IA & Frontiera Tech` [Microsoft prevede di ritirare la sua app To Do il 30 giugno 2027, offrendo la migrazione a Planner per gli account lavorativi e scolastici, ma senza alcuna sostituzione per gli account personali (Todd Bishop/GeekWire)](https://www.techmeme.com/261121/p3#a261121p3)** — *(Techmeme)*
+  - 📌 **Sintesi:** Todd Bishop / GeekWire: Microsoft prevede di ritirare la sua app To Do il 30 giugno 2027, offrendo la migrazione a Planner per gli account lavorativi e scolastici, ma nessuna sostituzione per gli account personali: Microsoft ha acquisito la popolare app Wunderlist nel 2015, l'ha chiusa nel 2020 e ha detto ai suoi utenti fedeli che Microsoft To Do sarebbe stata la loro nuova casa.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `04:05 CET` — Ricerca Oraria (8/23)
 _Aggiornamento registrato il `2026-11-22 04:05 CET`_
