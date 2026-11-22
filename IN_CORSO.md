@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Domenica 22 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--22-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-13-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--22-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-14-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `13:00 CET` — Ricerca Oraria (14/20)
+_Aggiornamento registrato il `2026-11-22 13:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [“La Brexit è fatta”: Theresa May dice a Burnham di andare avanti](https://www.politico.eu/article/brexit-is-done-theresa-may-tells-burnham-move-on/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** L’ex primo ministro britannico ha trascorso tre anni cercando di negoziare un accordo sulla Brexit con l’UE.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌐 Scacchiere Globale` [Nave diretta in Russia ancora in fiamme dopo l'attacco nel Golfo di Finlandia](https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Le forze di difesa finlandesi affermano che probabilmente dietro l’attacco dei droni alla nave c’era l’Ucraina.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `💶 Macro & Finanza UE` [Dal wedding dog sitter al pet detective, 18mila professionisti del benessere animale](https://www.ansa.it/sito/notizie/economia/2026/11/22/dal-wedding-dog-sitter-al-pet-detective-18mila-professionisti-del-benessere_6eb2591b-6d09-4b8b-b5dd-cc3ac21cacd9.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Indagine, 27mile imprese e business da 6,8 miliardi di euro
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[4] `🧬 Scienza & Scoperte` [BepiColombo raggiunge finalmente Mercurio dopo un'odissea durata otto anni](https://www.nature.com/articles/d41586-026-03803-8)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 21 novembre 2026; doi:10.1038/d41586-026-03803-8 Le sonde europee e giapponesi tracceranno diversi percorsi attorno al pianeta per studiarne la superficie e i suoi dintorni.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
 
 ### 🕒 Ora `12:00 CET` — Ricerca Oraria (13/20)
 _Aggiornamento registrato il `2026-11-22 12:00 CET`_

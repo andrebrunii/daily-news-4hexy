@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-21",
   "target_edition_date": "2026-11-22",
-  "last_slot_iso": "2026-11-22T12:00:00",
+  "last_slot_iso": "2026-11-22T13:00:00",
   "hourly_batches": [
     {
       "hour_label": "00:05 CET",
@@ -1069,6 +1069,92 @@
           "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
           "score": 18.0,
           "hour_slot": "12:00 CET",
+          "is_update": false
+        }
+      ]
+    },
+    {
+      "hour_label": "13:00 CET",
+      "timestamp_str": "2026-11-22 13:00 CET",
+      "items": [
+        {
+          "title_orig": "‘Brexit is done’: Theresa May tells Burnham to move on",
+          "summary_orig": "The former British prime minister spent three years trying to negotiate a Brexit deal with the EU.",
+          "link": "https://www.politico.eu/article/brexit-is-done-theresa-may-tells-burnham-move-on/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Sun, 22 Nov 2026 11:32:11 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "title_it": "“La Brexit è fatta”: Theresa May dice a Burnham di andare avanti",
+          "summary_it": "L’ex primo ministro britannico ha trascorso tre anni cercando di negoziare un accordo sulla Brexit con l’UE.",
+          "impact_eu_it": "Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 18.0,
+          "hour_slot": "13:00 CET",
+          "is_update": false
+        },
+        {
+          "title_orig": "Russia-bound ship still on fire after attack in Gulf of Finland",
+          "summary_orig": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Nov 2026 11:25:14 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "title_it": "Nave diretta in Russia ancora in fiamme dopo l'attacco nel Golfo di Finlandia",
+          "summary_it": "Le forze di difesa finlandesi affermano che probabilmente dietro l’attacco dei droni alla nave c’era l’Ucraina.",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva transizione verso un mondo multipolare competitivo, in cui le regole del secondo dopoguerra vengono rinegoziate attraverso rapporti di forza energetici, tecnologici e demografici.\n> 🧠 **Lente Filosofica:** Niccolò Machiavelli ricordava che la *Fortuna* (il caso, gli choc storici) governa metà delle azioni umane, ma lascia l'altra metà alla *Virtù* — cioè alla capacità di preparare argini prima che il fiume esondi. Leggere i segnali geopolitici oggi significa costruire quegli argini.",
+          "score": 24.5,
+          "hour_slot": "13:00 CET",
+          "is_update": false
+        },
+        {
+          "title_orig": "Dal wedding dog sitter al pet detective, 18mila professionisti del benessere animale",
+          "summary_orig": "Indagine, 27mile imprese e business da 6,8 miliardi di euro",
+          "link": "https://www.ansa.it/sito/notizie/economia/2026/11/22/dal-wedding-dog-sitter-al-pet-detective-18mila-professionisti-del-benessere_6eb2591b-6d09-4b8b-b5dd-cc3ac21cacd9.html",
+          "published": "Sun, 22 Nov 2026 12:48:21 +0100",
+          "source_id": "ansa_economia",
+          "source_name": "ANSA Economia",
+          "category": "economia",
+          "badge": "💶 Macro & Finanza UE",
+          "lang": "it",
+          "is_core": false,
+          "source_weight": 1.2,
+          "title_it": "Dal wedding dog sitter al pet detective, 18mila professionisti del benessere animale",
+          "summary_it": "Indagine, 27mile imprese e business da 6,8 miliardi di euro",
+          "impact_eu_it": "Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.",
+          "long_term_philosophy": "**Orizzonte 5-10 anni:** Tensione strutturale tra dinamiche demografiche in contrazione nel mondo sviluppato, debito pubblico storico e necessità di finanziare contemporaneamente welfare, salari, difesa e transizione tecnologica.\n> 🧠 **Lente Filosofica:** Il denaro e i mercati non sono fatti fisici ma *finzioni intersoggettive* basate sulla fiducia nel futuro (Yuval Noah Harari). Quando i mercati o le piazze tremano, non stanno solo discutendo di cifre: stanno rinegoziando il patto di fiducia tra generazioni.",
+          "score": 12.0,
+          "hour_slot": "13:00 CET",
+          "is_update": false
+        },
+        {
+          "title_orig": "BepiColombo finally reaches Mercury after eight-year odyssey",
+          "summary_orig": "Nature, Published online: 21 November 2026; doi:10.1038/d41586-026-03803-8 European and Japanese probes will trace different paths around the planet to study its surface and its surroundings.",
+          "link": "https://www.nature.com/articles/d41586-026-03803-8",
+          "published": "2026-11-21",
+          "source_id": "nature",
+          "source_name": "Nature Research",
+          "category": "scienza",
+          "badge": "🧬 Scienza & Scoperte",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.25,
+          "title_it": "BepiColombo raggiunge finalmente Mercurio dopo un'odissea durata otto anni",
+          "summary_it": "Natura, Pubblicato online: 21 novembre 2026; doi:10.1038/d41586-026-03803-8 Le sonde europee e giapponesi tracceranno diversi percorsi attorno al pianeta per studiarne la superficie e i suoi dintorni.",
+          "impact_eu_it": "Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.",
+          "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
+          "score": 14.5,
+          "hour_slot": "13:00 CET",
           "is_update": false
         }
       ]
