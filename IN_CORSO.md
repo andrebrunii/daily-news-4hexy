@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:05 · Domenica 22 Novembre 2026 (IN CORSO)
 ### Osservatorio Mondiale, Impatto Italia/UE & Orizzonti Filosofici a Lungo Termine (CET)
 
-![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-9%2F23-2ea043?style=for-the-badge)
+![Stato Live](https://img.shields.io/badge/Stato-IN_AGGIORNAMENTO_VERSO_LE_20%3A05_CET-e5534b?style=for-the-badge) ![Progresso](https://img.shields.io/badge/Ricerche_Completate-10%2F23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -12,14 +12,30 @@
 > - Qui in **`IN_CORSO.md`** puoi invece leggere **in tempo reale** tutte le ricerche orarie della giornata odierna man mano che vengono pubblicate ogni ora.
 > - Alle **20:05 CET**, questo file verrà consolidato con la **Top 10 delle ultime 24 ore** e diventerà automaticamente il nuovo [`README.md`](./README.md) principale!
 
-**Progresso verso la Top 10 delle 20:05 CET (9/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 delle 20:05 CET (10/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 🔙 **[Torna al `README.md` Principale (Ultima Top 10 Consolidata)](./README.md)** · 📚 **Archivio 7 Giorni:** [📅 **2026-11-21**](./archivio/2026-11-21.md) · [📅 **2026-11-20**](./archivio/2026-11-20.md) · [📅 **2026-11-19**](./archivio/2026-11-19.md) · [📅 **2026-11-18**](./archivio/2026-11-18.md) · [📅 **2026-11-17**](./archivio/2026-11-17.md) · [📅 **2026-11-16**](./archivio/2026-11-16.md) · [📅 **2026-11-15**](./archivio/2026-11-15.md)
 
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `06:05 CET` — Ricerca Oraria (10/23)
+_Aggiornamento registrato il `2026-11-22 06:05 CET`_
+
+- **[1] `🌍 Esteri & Analisi` [La Cina si impegna a favore di un’elettrificazione a basse emissioni di carbonio e ad aiutare gli altri a migliorare](https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve)** — *(The Guardian World)*
+  - 📌 **Sintesi:** Esclusivo: i paesi presenti alla Cop31 vengono esortati a impegnarsi a ricavare il 35% della loro energia dall'elettricità entro il 2035 Cop31 in diretta – ultimi aggiornamenti La Cina sta spingendo per una rapida elettrificazione della sua economia utilizzando energia a basse emissioni di carbonio e aiuterà altri paesi a fare lo stesso, ha affermato un membro senior della delegazione cinese al vertice sul clima delle Nazioni Unite Cop31. Wang...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🌍 Geopolitica & Mondo` [Cop31, nuova bozza con riferimento indiretto a uscita da fossili](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/cop31-nuova-bozza-con-riferimento-indiretto-a-uscita-da-fossili_d5d76c15-7f98-4144-a933-3e46ce78150b.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Non viene citata direttamente, ma si cita Cop28 che l'aveva prevista
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[3] `🤖 IA & Frontiera Tech` [Esperti del settore affermano che le nuove regole di esportazione statunitensi riguardano una gamma più ampia di chip, compresi i SoC utilizzati nell’elettronica di consumo, estendendosi oltre i chip IA avanzati (Cheng Ting-Fang/Nikkei Asia)](https://www.techmeme.com/261121/p2#a261121p2)** — *(Techmeme)*
+  - 📌 **Sintesi:** Cheng Ting-Fang / Nikkei Asia: addetti ai lavori del settore affermano che le nuove regole sulle esportazioni statunitensi influiscono su una gamma più ampia di chip, compresi i SoC utilizzati nell'elettronica di consumo, estendendosi oltre i chip IA avanzati - TAIPEI - I controlli più severi sulle esportazioni statunitensi introdotti giovedì stanno avendo un impatto molto più ampio sulla catena di fornitura globale di semiconduttori...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `💻 Tecnologia & Cyber` [Il nuovo piano Lunare della NASA sta prendendo forma, ma rimangono alcune grandi domande](https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** "Tendiamo ad avere molte discussioni e dibattiti tecnici. Questo punto continuerà ad essere dibattuto."
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `05:05 CET` — Ricerca Oraria (9/23)
 _Aggiornamento registrato il `2026-11-22 05:05 CET`_
