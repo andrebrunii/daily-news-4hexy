@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Domenica 22 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--22-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-18-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--22-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-19-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `18:00 CET` — Ricerca Oraria (19/20)
+_Aggiornamento registrato il `2026-11-22 18:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [La sinistra globale si riunisce a Parigi per sostenere una tesi “non così radicale” a favore della tassazione dei miliardari](https://www.politico.eu/article/global-left-rallies-paris-make-not-so-radical-case-taxing-billionaires/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** I politici europei e statunitensi si sono riuniti al vertice di Gabriel Zucman per sfidare il potere dei super-ricchi, ma pochi sono in grado di agire.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌐 Scacchiere Globale` [Esplosione su nave russa nel porto della Libia causata da un sospetto attacco di droni, dicono i funzionari](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il governo orientale della Libia afferma che sta collaborando con la Russia per indagare sull'incidente.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `💻 Tecnologia & Cyber` [Il “realismo razziale” non è realistico e non è una buona scienza](https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** La genetica moderna non supporta le affermazioni di differenze razziali innate nell'intelligenza.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `⚡ Futuro & Deep Tech` [Il download: un fegato vivente, un affare di batterie da un miliardo di dollari e una campagna pubblicitaria sull'intelligenza artificiale](https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** Questa è l'edizione di oggi di The Download, la nostra newsletter nei giorni feriali che fornisce una dose quotidiana di ciò che accade nel mondo della tecnologia. Un fegato umano è stato tenuto in vita fuori dal corpo per un record di sette settimane. Ricercatori in Australia affermano di aver mantenuto in vita un fegato umano grazie ad un supporto vitale fuori dal corpo...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `17:00 CET` — Ricerca Oraria (18/20)
 _Aggiornamento registrato il `2026-11-22 17:00 CET`_
