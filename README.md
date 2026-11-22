@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Domenica 22 Novembre 2026
 ### «Gli europei osano credere che Trump possa garantire sicurezza all’Ucraina; La Cina si impegna a favore di un’elettrificazione a basse emissioni · Indagine: Alice Huang aveva legami con società di gioco, presunti»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--22_14%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-15%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-60-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--22_15%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-16%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-64-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (15/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (16/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `15:00 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-22 15:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [L’impegno per regolamentare i “robot killer” è stato rinviato al 2028](https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La Russia ha bloccato i colloqui, ma anche altri paesi si sono opposti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[2] `🌍 Esteri & Analisi` `🔄 AGGIORNAMENTO` [Il ministro sudcoreano si è dimesso dopo che lo scandalo degli imbrogli sull'intelligenza artificiale ha travolto gli esami universitari](https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams)** — *(The Guardian World)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-22 12:00 CET).
+  - 📌 **Sintesi:** Choi Kyo-jin afferma di "non essere riuscito a prepararsi adeguatamente" per gli esami di ammissione in seguito alla corsa dell'ultimo minuto per inasprire le misure. Il ministro dell'Istruzione della Corea del Sud si è dimesso dopo uno scandalo di frode assistito dall'intelligenza artificiale scoppiato la scorsa settimana in vista dei principali esami di ammissione all'università. Il paese è stato attanagliato dal timore di frodi agli esami assistiti dall'intelligenza artificiale dallo scorso...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[3] `🧬 Scienza & Scoperte` [Come l’intelligenza artificiale sta influenzando le carriere scientifiche](https://www.nature.com/articles/d41586-026-03680-1)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 20 novembre 2026; doi:10.1038/d41586-026-03680-1 Partecipa a un webinar gratuito per discutere di come la tecnologia sta cambiando i ruoli dei ricercatori, le loro competenze e la sicurezza del lavoro.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Chiedi a Ethan: gli aloni radioattivi del polonio supportano una Terra giovane?](https://bigthink.com/starts-with-a-bang/polonium-radiohalos-young-earth/)** — *(Big Think)*
+  - 📌 **Sintesi:** Una delle cose più belle della scienza è che se arriva anche una sola prova solida che contraddice anche le nostre idee più profondamente radicate sulla realtà, significa che il nostro attuale modo di pensare alle cose deve essere rivisto. Le osservazioni dell’orbita di Mercurio alla fine del 1800 portarono al rovesciamento della gravità newtoniana; IL...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
 
 ### 🕒 Ora `14:00 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-22 14:00 CET`_

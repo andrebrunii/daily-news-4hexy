@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-21",
   "target_edition_date": "2026-11-22",
-  "last_slot_iso": "2026-11-22T14:00:00",
+  "last_slot_iso": "2026-11-22T15:00:00",
   "hourly_batches": [
     {
       "hour_label": "00:05 CET",
@@ -1241,6 +1241,94 @@
           "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
           "score": 14.0,
           "hour_slot": "14:00 CET",
+          "is_update": false
+        }
+      ]
+    },
+    {
+      "hour_label": "15:00 CET",
+      "timestamp_str": "2026-11-22 15:00 CET",
+      "items": [
+        {
+          "title_orig": "Effort to regulate ‘killer robots’ delayed to 2028",
+          "summary_orig": "Russia blocked the talks, but other countries were also opposed.",
+          "link": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Sat, 21 Nov 2026 16:43:51 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "title_it": "L’impegno per regolamentare i “robot killer” è stato rinviato al 2028",
+          "summary_it": "La Russia ha bloccato i colloqui, ma anche altri paesi si sono opposti.",
+          "impact_eu_it": "Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 20.5,
+          "hour_slot": "15:00 CET",
+          "is_update": false
+        },
+        {
+          "title_orig": "South Korean minister quits after AI cheating scandal engulfs university exams",
+          "summary_orig": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week. The country has been gripped by fears of AI-assisted exam cheating since last...",
+          "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+          "published": "Sun, 22 Nov 2026 12:12:08 GMT",
+          "source_id": "guardian_world",
+          "source_name": "The Guardian World",
+          "category": "geopolitica_ue",
+          "badge": "🌍 Esteri & Analisi",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.3,
+          "title_it": "Il ministro sudcoreano si è dimesso dopo che lo scandalo degli imbrogli sull'intelligenza artificiale ha travolto gli esami universitari",
+          "summary_it": "Choi Kyo-jin afferma di \"non essere riuscito a prepararsi adeguatamente\" per gli esami di ammissione in seguito alla corsa dell'ultimo minuto per inasprire le misure. Il ministro dell'Istruzione della Corea del Sud si è dimesso dopo uno scandalo di frode assistito dall'intelligenza artificiale scoppiato la scorsa settimana in vista dei principali esami di ammissione all'università. Il paese è stato attanagliato dal timore di frodi agli esami assistiti dall'intelligenza artificiale dallo scorso...",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 18.5,
+          "hour_slot": "15:00 CET",
+          "is_update": true,
+          "update_of_time": "2026-11-22 12:00 CET",
+          "update_of_title": "Il ministro dell'Istruzione della Corea del Sud si dimette per lo scandalo delle frodi agli esami"
+        },
+        {
+          "title_orig": "How AI is affecting science careers",
+          "summary_orig": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03680-1 Join a free webinar to discuss how the technology is changing researchers' roles, their skills and job security.",
+          "link": "https://www.nature.com/articles/d41586-026-03680-1",
+          "published": "2026-11-20",
+          "source_id": "nature",
+          "source_name": "Nature Research",
+          "category": "scienza",
+          "badge": "🧬 Scienza & Scoperte",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.25,
+          "title_it": "Come l’intelligenza artificiale sta influenzando le carriere scientifiche",
+          "summary_it": "Natura, Pubblicato online: 20 novembre 2026; doi:10.1038/d41586-026-03680-1 Partecipa a un webinar gratuito per discutere di come la tecnologia sta cambiando i ruoli dei ricercatori, le loro competenze e la sicurezza del lavoro.",
+          "impact_eu_it": "Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 21.5,
+          "hour_slot": "15:00 CET",
+          "is_update": false
+        },
+        {
+          "title_orig": "Ask Ethan: Do polonium radiohalos support a young Earth?",
+          "summary_orig": "One of the most beautiful things about science is that if even one single piece of robust evidence comes along that contradicts even our most deeply held ideas about reality, it means that our current way of thinking about things must be revised. The observations of Mercury’s orbit in the late 1800s led to the overthrow of Newtonian gravity; the...",
+          "link": "https://bigthink.com/starts-with-a-bang/polonium-radiohalos-young-earth/",
+          "published": "Fri, 20 Nov 2026 07:00:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "title_it": "Chiedi a Ethan: gli aloni radioattivi del polonio supportano una Terra giovane?",
+          "summary_it": "Una delle cose più belle della scienza è che se arriva anche una sola prova solida che contraddice anche le nostre idee più profondamente radicate sulla realtà, significa che il nostro attuale modo di pensare alle cose deve essere rivisto. Le osservazioni dell’orbita di Mercurio alla fine del 1800 portarono al rovesciamento della gravità newtoniana; IL...",
+          "impact_eu_it": "Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Le trasformazioni più radicali della storia non iniziano nei parlamenti o nelle borse, ma nel cambio silenzioso delle categorie mentali con cui una civiltà interpreta ciò che è normale, giusto o desiderabile.\n> 🧠 **Lente Filosofica:** Come scriveva Seneca, *«nessun vento è favorevole per il marinaio che non sa a quale porto vuol approdare»*. In un'epoca ossessionata dall'accelerazione dei mezzi, fermarsi a interrogare i fini è l'atto più sovversivo e necessario.",
+          "score": 14.0,
+          "hour_slot": "15:00 CET",
           "is_update": false
         }
       ]
