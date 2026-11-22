@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Lunedì 23 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--23-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-3-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--23-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-4-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/20)
+_Aggiornamento registrato il `2026-11-23 00:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Delta ha risolto il problema che ha fermato i voli ad Atlanta](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/22/delta-ha-risolto-il-problema-che-ha-fermato-i-voli-ad-atlanta_17a7483b-4486-4e38-831a-3c6cebc420e8.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Disagi e ritardi in tutti gli Usa per un guasto al sistema di bilanciamento
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Cronaca Europea` [Marocco, il parco di sculture surreali che capovolge la realtà](https://it.euronews.com/video/2026/11/22/marocco-il-parco-di-sculture-surreali-che-capovolge-la-realta)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Una casa capovolta, mobili giganti e figure con teste di verdure aspettano i visitatori a Ramakech, parco di sculture di 11 ettari vicino a Marrakech, dove l’artista francese Jean-François Fourtou dà vita ai ricordi d’infanzia con installazioni straordinarie fuori scala.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[3] `🔭 Ricerca & Spazio` [La protezione solare segreta del DNA potrebbe aver aiutato la vita a sopravvivere sulla Terra primordiale](https://www.sciencedaily.com/releases/2026/11/261121221128.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati hanno scoperto una ragione sorprendente per cui i primi anni di vita potrebbero essere sopravvissuti alle intense radiazioni ultraviolette della Terra: un componente chiave del DNA sembra trasformare il danno potenzialmente distruttivo in qualcosa di più facile da riparare. La scoperta potrebbe aiutare a risolvere un mistero evolutivo vecchio di decenni e rivelare come la vita ha resistito alle dure condizioni del nostro pianeta.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[4] `🧬 Scienza & Scoperte` [Briefing Chat: Voyager 1 è ora a un “giorno luce” dalla Terra, stabilendo un record cosmico](https://www.nature.com/articles/d41586-026-03806-5)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 20 novembre 2026; doi:10.1038/d41586-026-03806-5 Lo staff di Nature discute dell'epico viaggio della sonda e di come i pipistrelli vampiri sopravvivono con una dieta a base di solo sangue.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
 
 ### 🕒 Ora `23:00 CET` — Ricerca Oraria (3/20)
 _Aggiornamento registrato il `2026-11-22 23:00 CET`_
