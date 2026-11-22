@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Domenica 22 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--22-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-17-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--22-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-18-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `17:00 CET` — Ricerca Oraria (18/20)
+_Aggiornamento registrato il `2026-11-22 17:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Media, nave russa colpita in Libia da attacco a lungo raggio ucraino](https://www.ansa.it/sito/notizie/mondo/africa/2026/11/22/media-nave-russa-colpita-in-libia-da-attacco-a-lungo-raggio-ucraino_0c7df80f-d236-48ee-82b2-672a1d937471.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Lo afferma Barak Ravid di Axios citando una 'fonte a conoscenza' dell'accaduto
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [Cipro espelle i diplomatici russi perché sospettati di spionaggio](https://www.politico.eu/article/cyprus-expels-russian-diplomats-on-suspicion-of-espionage/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** I due uomini erano sospettati di lavorare per i servizi segreti russi sotto copertura diplomatica.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [Jony Ive, l'ex product designer di OpenAI Joey Flynn e altri sull'ossessione della Silicon Valley per il "gusto" come fossato contro gli errori dell'intelligenza artificiale e se l'intelligenza artificiale può impararlo (Jonah Weiner/New York Times)](https://www.techmeme.com/261122/p7#a261122p7)** — *(Techmeme)*
+  - 📌 **Sintesi:** Jonah Weiner / New York Times: Jony Ive, l'ex product designer OpenAI Joey Flynn e altri sull'ossessione della Silicon Valley per il "gusto" come fossato contro l'intelligenza artificiale e se l'intelligenza artificiale può impararlo - Muoversi nella San Francisco dell'era dell'intelligenza artificiale come una persona relativamente normale significa confrontarsi con l'enorme volume di concetti sconcertanti che la tecnologia ci ha recentemente imposto.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `⚡ Futuro & Deep Tech` [Il Download: dentro la ricerca per rendere immortali le nostre menti](https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** Questa è l'edizione di oggi di The Download, la nostra newsletter nei giorni feriali che fornisce una dose quotidiana di ciò che accade nel mondo della tecnologia. Cosa abbiamo imparato quando le nostre tavole rotonde hanno esplorato la ricerca per rendere le menti immortali Per preservare il nostro senso di sé, alcuni scienziati stanno lavorando su modi per mantenere il nostro cervello in funzione, anche oltre...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `16:00 CET` — Ricerca Oraria (17/20)
 _Aggiornamento registrato il `2026-11-22 16:00 CET`_
