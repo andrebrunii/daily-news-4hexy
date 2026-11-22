@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Domenica 22 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--22-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-14-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--22-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-15-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `14:00 CET` — Ricerca Oraria (15/20)
+_Aggiornamento registrato il `2026-11-22 14:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [L’accordo sul clima crolla tra le polemiche sui combustibili fossili](https://www.politico.eu/article/climate-deal-collapses-amid-fossil-fuel-rows/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** I leader climatici non sono riusciti a raggiungere un accordo nonostante gli avvertimenti sul riscaldamento globale fuori controllo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[2] `🌐 Scacchiere Globale` [È morto all'età di 89 anni il gioielliere e imprenditore italiano Paolo Bulgari](https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** In una dichiarazione ai media italiani, la sua famiglia lo ricorda come "il più grande gioielliere del nostro tempo".
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[3] `💻 Tecnologia & Cyber` [I farmaci GLP-1 potrebbero avere un ritorno ambientale sorprendentemente ampio](https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** I farmaci GLP-1 potrebbero ridurre la domanda alimentare abbastanza da liberare terreni agricoli più grandi dell’Italia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Gli uomini si sono evoluti per combattere tra loro? Gli scienziati non possono essere d’accordo.](https://bigthink.com/mind-behavior/did-men-evolve-to-fight-each-other-scientists-cant-agree/)** — *(Big Think)*
+  - 📌 **Sintesi:** L'antropologo David Puts era uno studente laureato che cercava di decidere su un argomento di tesi quando l'ispirazione lo colpì in un'area ristorazione di un centro commerciale. Mentre mangiava un cheeseburger, sentì due uomini dietro di lui parlare con voci insolitamente profonde. "Mi sono voltato per vedere cosa stava succedendo e c'era una donna giovane e di bell'aspetto nelle vicinanze", ha detto Puts. La sua iniziale...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `13:00 CET` — Ricerca Oraria (14/20)
 _Aggiornamento registrato il `2026-11-22 13:00 CET`_

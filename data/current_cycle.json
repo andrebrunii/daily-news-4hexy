@@ -1,7 +1,7 @@
 {
   "last_published_edition_date": "2026-11-21",
   "target_edition_date": "2026-11-22",
-  "last_slot_iso": "2026-11-22T13:00:00",
+  "last_slot_iso": "2026-11-22T14:00:00",
   "hourly_batches": [
     {
       "hour_label": "00:05 CET",
@@ -1155,6 +1155,92 @@
           "long_term_philosophy": "**Orizzonte 10-20 anni:** Ciò che oggi nasce nei laboratori come scoperta sperimentale diventerà infrastruttura invisibile della medicina e dell'industria di domani, ridefinendo i limiti biologici ed energetici della specie.\n> 🧠 **Lente Filosofica:** Karl Popper ricordava che la scienza avanza per congetture e confutazioni, mai per dogmi definitivi. Ogni scoperta che allarga il cerchio della luce ingrandisce contemporaneamente il perimetro dell'ignoto con cui l'umanità deve fare i conti.",
           "score": 14.5,
           "hour_slot": "13:00 CET",
+          "is_update": false
+        }
+      ]
+    },
+    {
+      "hour_label": "14:00 CET",
+      "timestamp_str": "2026-11-22 14:00 CET",
+      "items": [
+        {
+          "title_orig": "Climate deal collapses amid fossil fuel rows",
+          "summary_orig": "Climate leaders failed to strike a deal despite warnings over runaway global warming.",
+          "link": "https://www.politico.eu/article/climate-deal-collapses-amid-fossil-fuel-rows/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+          "published": "Sun, 22 Nov 2026 13:00:03 +0000",
+          "source_id": "politico_eu",
+          "source_name": "Politico Europe",
+          "category": "geopolitica_ue",
+          "badge": "🇪🇺 Unione Europea & Policy",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.45,
+          "title_it": "L’accordo sul clima crolla tra le polemiche sui combustibili fossili",
+          "summary_it": "I leader climatici non sono riusciti a raggiungere un accordo nonostante gli avvertimenti sul riscaldamento globale fuori controllo.",
+          "impact_eu_it": "Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ridefinizione degli equilibri tra sovranità nazionale, coesione sociale interna e interdipendenza globale; i Paesi che sapranno mantenere istituzioni solide e visione strategica guideranno il prossimo ciclo storico.\n> 🧠 **Lente Filosofica:** La storia raramente procede in linea retta: alterna decenni in cui non accade nulla a settimane in cui accadono decenni. Osservare la cronaca con sguardo filosofico permette di distinguere l'increspatura superficiale dell'onda dalla marea profonda.",
+          "score": 20.5,
+          "hour_slot": "14:00 CET",
+          "is_update": false
+        },
+        {
+          "title_orig": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+          "summary_orig": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+          "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+          "published": "Sun, 22 Nov 2026 07:12:41 GMT",
+          "source_id": "bbc_world",
+          "source_name": "BBC World News",
+          "category": "geopolitica_ue",
+          "badge": "🌐 Scacchiere Globale",
+          "lang": "en",
+          "is_core": true,
+          "source_weight": 1.4,
+          "title_it": "È morto all'età di 89 anni il gioielliere e imprenditore italiano Paolo Bulgari",
+          "summary_it": "In una dichiarazione ai media italiani, la sua famiglia lo ricorda come \"il più grande gioielliere del nostro tempo\".",
+          "impact_eu_it": "Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Progressiva esternalizzazione dei processi decisionali e cognitivi verso infrastrutture sintetiche; il vantaggio competitivo si sposterà dal *saper fare* al *saper porre le domande giuste* e verificare la realtà.\n> 🧠 **Lente Filosofica:** Come analizza Luciano Floridi nell'*Infosfera*, non abitiamo più il mondo usando la tecnologia, ma abitiamo dentro l'informazione stessa. Quando la macchina genera risposte infinite a costo zero, il vero bene scarso diventa l'attenzione umana non frammentata e il discernimento critico.",
+          "score": 14.0,
+          "hour_slot": "14:00 CET",
+          "is_update": false
+        },
+        {
+          "title_orig": "GLP-1 drugs could have a surprisingly large environmental payoff",
+          "summary_orig": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+          "link": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+          "published": "Sun, 22 Nov 2026 12:07:41 +0000",
+          "source_id": "arstechnica",
+          "source_name": "Ars Technica",
+          "category": "tech_ia",
+          "badge": "💻 Tecnologia & Cyber",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "title_it": "I farmaci GLP-1 potrebbero avere un ritorno ambientale sorprendentemente ampio",
+          "summary_it": "I farmaci GLP-1 potrebbero ridurre la domanda alimentare abbastanza da liberare terreni agricoli più grandi dell’Italia.",
+          "impact_eu_it": "Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.",
+          "long_term_philosophy": "**Orizzonte 5-15 anni:** Ibridazione strutturale tra intelligenza biologica e silicio; le istituzioni nate nell'era della carta stampata dovranno reinventare i concetti di autorialità, verità probatoria e responsabilità giuridica.\n> 🧠 **Lente Filosofica:** Byung-Chul Han osserva che la società dell'iper-comunicazione non soffre di carenza di dati, ma di un eccesso di *rumore* che anestetizza il senso. Recuperare la profondità del tempo lento significa rifiutare il riflesso condizionato dello scrolling per tornare a comprendere le cause.",
+          "score": 15.5,
+          "hour_slot": "14:00 CET",
+          "is_update": false
+        },
+        {
+          "title_orig": "Did men evolve to fight each other? Scientists can’t agree.",
+          "summary_orig": "Anthropologist David Puts was a graduate student trying to decide on a dissertation topic when inspiration struck him at a mall food court. While eating a cheeseburger, he overheard two men behind him speaking in unusually deep voices. “I turned around to see what was happening, and there was a young, good-looking female nearby,” Puts said. His initial...",
+          "link": "https://bigthink.com/mind-behavior/did-men-evolve-to-fight-each-other-scientists-cant-agree/",
+          "published": "Fri, 20 Nov 2026 16:00:00 +0000",
+          "source_id": "bigthink",
+          "source_name": "Big Think",
+          "category": "filosofia",
+          "badge": "🧠 Paradigmi & Lunghi Orizzonti",
+          "lang": "en",
+          "is_core": false,
+          "source_weight": 1.2,
+          "title_it": "Gli uomini si sono evoluti per combattere tra loro? Gli scienziati non possono essere d’accordo.",
+          "summary_it": "L'antropologo David Puts era uno studente laureato che cercava di decidere su un argomento di tesi quando l'ispirazione lo colpì in un'area ristorazione di un centro commerciale. Mentre mangiava un cheeseburger, sentì due uomini dietro di lui parlare con voci insolitamente profonde. \"Mi sono voltato per vedere cosa stava succedendo e c'era una donna giovane e di bell'aspetto nelle vicinanze\", ha detto Puts. La sua iniziale...",
+          "impact_eu_it": "Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.",
+          "long_term_philosophy": "**Orizzonte generazionale:** Erosione dei vecchi confini tra sfera pubblica e solitudine privata, con la necessità di fondare una nuova ecologia dell'attenzione, dell'educazione e del senso civico.\n> 🧠 **Lente Filosofica:** Hannah Arendt distingueva tra il semplice *lavorare per sopravvivere* e l'*agire* nello spazio pubblico insieme agli altri. Comprendere le correnti profonde del pensiero contemporaneo serve a non ridursi a ingranaggi passivi del presente.",
+          "score": 14.0,
+          "hour_slot": "14:00 CET",
           "is_update": false
         }
       ]
