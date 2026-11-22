@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Lunedì 23 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--23-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-2-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--23-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-3-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `23:00 CET` — Ricerca Oraria (3/20)
+_Aggiornamento registrato il `2026-11-22 23:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Media, 'William pensa di togliere il titolo di principe al fratello Harry'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/22/media-william-pensa-di-togliere-il-titolo-di-principe-al-fratello-harry_cb406f59-15e6-435c-acb2-b7dcbc043930.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Secondo un libro in uscita il futuro re lavora a una radicale riforma della monarchia
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌐 Scacchiere Globale` ["Il pericolo sembra sempre più grande": gli ucraini cercano i dispersi dopo gli attacchi russi](https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Sarah Rainsford della BBC riporta la scena del crollo di un edificio residenziale nella regione ucraina di Kiev.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `🔭 Ricerca & Spazio` [Una tartaruga di 194 anni ha uno straordinario segreto antietà nascosto nel suo DNA](https://www.sciencedaily.com/releases/2026/11/261121221130.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Con la sorprendente età di 194 anni, Jonathan, la tartaruga gigante, è l'animale terrestre vivente più antico del mondo, e gli scienziati potrebbero aver finalmente scoperto i segreti dietro la sua straordinaria durata. I ricercatori hanno identificato 287 varianti genetiche uniche legate a processi che aiutano a riparare il DNA danneggiato, a controllare l’infiammazione, a regolare l’insulina e a sopprimere il cancro.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Il paradosso dell’informazione del buco nero](https://bigthink.com/series/full-interview/black-holes-greene/)** — *(Big Think)*
+  - 📌 **Sintesi:** Nel 1915, un astronomo di stanza sul fronte russo avrebbe dovuto calcolare le traiettorie dell'artiglieria. Invece, Karl Schwarzschild risolse le nuove equazioni della relatività generale di Einstein prima che lo stesso Einstein potesse farlo, e così facendo scoprì la matematica dei buchi neri, oggetti su cui Einstein insisteva per decenni che non potessero esistere. Il fisico Brian...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `22:00 CET` — Ricerca Oraria (2/20)
 _Aggiornamento registrato il `2026-11-22 22:00 CET`_
