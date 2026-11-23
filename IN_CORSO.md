@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Martedì 24 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-1-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-2-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `22:00 CET` — Ricerca Oraria (2/20)
+_Aggiornamento registrato il `2026-11-23 22:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [L’UE prende di mira ex soldati, banche e sportivi russi con nuove sanzioni](https://www.politico.eu/article/eu-to-target-russian-ex-soldiers-banks-and-sports-in-new-sanctions-push/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Bruxelles vuole limitare i visti per gli ex soldati russi, prendere di mira le banche e le piattaforme crittografiche e impedire agli atleti russi di competere nell’UE.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[2] `🌐 Scacchiere Globale` [Cosa rivela il fallimento della COP31 su un mondo diviso](https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Gli interessi dei paesi produttori di petrolio, il boicottaggio degli Stati Uniti e una disputa sulla finanza potrebbero aver silurato i colloqui sul clima.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
+- **[3] `💻 Tecnologia & Cyber` [Domani la Russia lancerà una missione di rifornimento di routine per la ISS: a quanto pare è un grande segreto](https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** "Vi chiederei per favore di contattare direttamente Roscosmos."
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[4] `🤖 IA & Frontiera Tech` [Fonti: Trump e JD Vance erano convinti che solo Jensen Huang proteggesse i modelli di intelligenza artificiale a peso aperto di fabbricazione americana (Reuters)](https://www.techmeme.com/261123/p38#a261123p38)** — *(Techmeme)*
+  - 📌 **Sintesi:** Reuters: Fonti: Trump e JD Vance erano convinti che Jensen Huang da solo proteggesse i modelli di intelligenza artificiale a peso aperto di fabbricazione americana - Il presidente degli Stati Uniti Donald Trump e il vicepresidente JD Vance sono intervenuti personalmente nella decisione di Nvidia (NVDA.O) di reintegrare il CEO Jensen Huang durante il fine settimana, convinti che solo lui proteggesse l'americano...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
 
 ### 🕒 Ora `21:00 CET` — Ricerca Oraria (1/20)
 _Aggiornamento registrato il `2026-11-23 21:00 CET`_
