@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
 ### «Lucy Powell promuove l’istruzione britannica in Cina nonostante i rischi; Libia, sospetto attacco con drone contro nave russa nel porto · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_07%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-11%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-44-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_08%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-12%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-48-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (11/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (12/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/23)
+_Aggiornamento registrato il `2026-11-23 08:00 CET`_
+
+- **[1] `🌐 Scacchiere Globale` `🔄 AGGIORNAMENTO` [I colloqui sul clima più lunghi di sempre delle Nazioni Unite si concludono senza un accordo, poiché vengono alla luce profonde divisioni](https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-22 20:00 CET).
+  - 📌 **Sintesi:** Il primo ministro australiano, che ha co-ospitato la COP31, ha attribuito il fallimento a “tempi geopolitici difficili”.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[2] `🇪🇺 Unione Europea & Policy` [“Faire des milliardaires les méchants de l’histoire”: à Paris, les gauches occidentalis tâchent de faire front commun](https://www.politico.eu/article/faire-des-milliardaires-les-mechants-de-lhistoire-a-paris-les-gauches-occidentales-tachent-de-faire-front-commun/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** L'economista Gabriel Zucman ha riunito i sostenitori di una tassazione delle ricchezze, lors d'un premier sommet parisien dédié à la cause. Mais la gauche française n'apparaît pas unie à ce stade.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Compute Desk, che sta costruendo infrastrutture per i mercati dei capitali per prezzare, scambiare, coprire e cancellare i calcoli, ha raccolto un round iniziale di 45 milioni di dollari guidato da Lightspeed (Lucinda Shen/Axios)](https://www.techmeme.com/261123/p3#a261123p3)** — *(Techmeme)*
+  - 📌 **Sintesi:** Lucinda Shen / Axios: Compute Desk, che sta costruendo infrastrutture dei mercati dei capitali per prezzare, scambiare, coprire e cancellare l'elaborazione, ha raccolto un round di avviamento da 45 milioni di dollari guidato da Lightspeed - Compute Desk, una startup che mira a rendere l'informatica una risorsa che può essere scambiata e coperta, ha raccolto 45 milioni di dollari in un finanziamento di avviamento guidato da Lightspeed Venture Partners...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [L’ultima uscita di Euclid svela un tesoro cosmico](https://bigthink.com/starts-with-a-bang/euclid-release-cosmic-treasure/)** — *(Big Think)*
+  - 📌 **Sintesi:** Il 1° luglio 2023 è stato lanciato il telescopio spaziale Euclid dell’ESA. Questo lancio del razzo Falcon 9 del 1 luglio 2023 ha portato la missione Euclid dell'ESA nello spazio. Il telescopio spaziale Euclid, dopo il dispiegamento, la messa in servizio e la calibrazione, ha iniziato a mappare l'Universo e fotograferà complessivamente 14.000 gradi quadrati di cielo: più di un terzo dell'Universo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
 ### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/23)
 _Aggiornamento registrato il `2026-11-23 07:00 CET`_
