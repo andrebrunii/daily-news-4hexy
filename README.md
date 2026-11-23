@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
 ### «Lucy Powell promuove l’istruzione britannica in Cina nonostante i rischi; Libia, sospetto attacco con drone contro nave russa nel porto · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_08%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-12%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-48-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_09%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-13%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-52-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (12/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (13/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/23)
+_Aggiornamento registrato il `2026-11-23 09:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Tajani, 'preoccupa esplosione nave russa in Libia, evitare guerra in Mediterraneo'](https://www.ansa.it/sito/notizie/mondo/africa/2026/11/23/tajani-preoccupa-esplosione-nave-russa-in-libia-evitare-guerra-in-mediterraneo_8c4b161e-2f37-4301-a33d-a355cb9a2362.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Presenza russa deve essere seguita con grande attenzione'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[2] `🇪🇺 Cronaca Europea` [L'AI rivoluziona i viaggi: tra pianificazione automatizzata e fiducia limitata dei viaggiatori](https://it.euronews.com/2026/11/23/lai-rivoluziona-i-viaggi-tra-pianificazione-automatizzata-e-fiducia-limitata-dei-viaggiato)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Con l’intelligenza artificiale sempre più integrata nel settore dei viaggi, le ricerche analizzano il suo potenziale, le sfide e se i viaggiatori siano pronti a fidarsi completamente di questa tecnologia in evoluzione.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[3] `💶 Macro & Finanza UE` [Borsa: Asia in prevalenza in calo, la lente resta su tecnologici](https://www.ansa.it/sito/notizie/economia/2026/11/23/borsa-asia-in-prevalenza-in-calo-la-lente-resta-su-tecnologici_6b712b1f-b8c7-4085-96b3-9ad8e8e47db3.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** L'Europa e gli Usa attese positive. Chiusa Tokyo per festività
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🤖 IA & Frontiera Tech` [La startup cinese di intelligenza artificiale fisica Simplexity Robotics ha raccolto una pre-serie A di 100 milioni di dollari guidata da Ant Group, con Alibaba, Tencent e altri che si sono uniti, con una valutazione di 1,6 miliardi di dollari (Saritha Rai/Bloomberg)](https://www.techmeme.com/261123/p4#a261123p4)** — *(Techmeme)*
+  - 📌 **Sintesi:** Saritha Rai / Bloomberg: La startup cinese di intelligenza artificiale fisica Simplexity Robotics ha raccolto una pre-serie A di 100 milioni di dollari guidata da Ant Group, con Alibaba, Tencent e altri che si sono uniti, per una valutazione di 1,6 miliardi di dollari - La startup cinese di intelligenza artificiale fisica Simplexity Robotics ha ricevuto 100 milioni di dollari in un round di finanziamento guidato da Ant Group Co., sostenuto da Jack Ma...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/23)
 _Aggiornamento registrato il `2026-11-23 08:00 CET`_
