@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Lunedì 23 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--23-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-7-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--23-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-8-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/20)
+_Aggiornamento registrato il `2026-11-23 04:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Trump, 'con la vittoria dei dem alle midterm, l'Iran è diventato più aggressivo'](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/22/trump-con-la-vittoria-dei-dem-alle-midterm-liran-e-diventato-piu_6daf0485-a78c-49dd-a9ed-3f95a725dcbc.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Lanciati più droni che in un anno ma li abbiamo tutti abbattuti'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🌐 Scacchiere Globale` [Miley Cyrus sposa Maxx Morando durante una cerimonia californiana](https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** La coppia sta insieme da quattro anni e si sono fidanzati nel 2025.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🤖 IA & Frontiera Tech` [TPG e Corpay concordano di acquisire e acquisire la società privata BILL Holdings, il cui software basato su cloud consente alle PMI di automatizzare le operazioni finanziarie, in un accordo valutato a ~$6 miliardi (Pritam Biswas/Reuters)](https://www.techmeme.com/261122/p17#a261122p17)** — *(Techmeme)*
+  - 📌 **Sintesi:** Pritam Biswas / Reuters: TPG e Corpay concordano di acquisire e acquisire la società privata BILL Holdings, il cui software basato su cloud consente alle PMI di automatizzare le operazioni finanziarie, in un accordo del valore di circa 6 miliardi di dollari — La società fintech BILL Holdings (BILL.N) ha dichiarato giovedì che sarà acquisita dal gruppo di private equity TPG, in collaborazione con Corpay...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🔭 Ricerca & Spazio` [Il diabete di tipo 2 è collegato a un rischio di Alzheimer più alto del 53%, secondo un importante studio](https://www.sciencedaily.com/releases/2026/11/261121221124.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Secondo una nuova importante revisione di 40 studi, le persone con diabete di tipo 2 corrono un rischio maggiore del 53% di sviluppare la malattia di Alzheimer. I ricercatori stimano che quasi cinque persone su 1.000 con diabete di tipo 2 sviluppano l’Alzheimer ogni anno. Concentrandosi specificamente su queste due condizioni, lo studio offre una comprensione più chiara di un potenziale...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
 
 ### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/20)
 _Aggiornamento registrato il `2026-11-23 03:00 CET`_
