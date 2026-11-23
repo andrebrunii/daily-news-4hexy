@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
 ### «Lucy Powell promuove l’istruzione britannica in Cina nonostante i rischi; Come la cooperazione industriale rafforza la preparazione alla difesa · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_11%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-15%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-60-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_12%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-16%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-64-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (15/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (16/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-23 12:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Herzog, 'spregevole violenza da estremisti ebrei contro innocenti Cisgiordania'](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/23/herzog-spregevole-violenza-da-estremisti-ebrei-contro-innocenti-cisgiordania_d650c46b-9d5d-409d-8a61-d443bdce608a.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Le forze dell'ordine lavorano con impegno per cancellare questa terribile macchia morale'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [Badenoch e Farage: la battaglia per gli affari](https://www.politico.eu/podcast/politics-at-sam-and-annes/badenoch-and-farage-the-battle-for-business/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Presentato da TikTok
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [CrowdStrike accetta di acquisire Zscaler, che sviluppa strumenti di sicurezza di rete, per circa 43,9 miliardi di dollari in un accordo su tutte le azioni, uno dei più grandi accordi mai realizzati nel settore (Bloomberg)](https://www.techmeme.com/261123/p12#a261123p12)** — *(Techmeme)*
+  - 📌 **Sintesi:** Bloomberg: CrowdStrike accetta di acquisire Zscaler, che sviluppa strumenti di sicurezza di rete, per circa 43,9 miliardi di dollari in un accordo su tutte le azioni, uno dei più grandi accordi mai realizzati nel settore — CrowdStrike Holdings Inc. ha accettato di acquisire il fornitore di sicurezza informatica Zscaler Inc. in uno dei più grandi accordi mai realizzati nel settore.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[4] `🧬 Scienza & Scoperte` [Costruisci per il clima futuro o spreca trilioni di dollari](https://www.nature.com/articles/d41586-026-03722-8)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 23 novembre 2026; doi:10.1038/d41586-026-03722-8 La pianificazione dello sviluppo necessita di un sistema permanente che colleghi le proiezioni climatiche alle decisioni che determinano quali infrastrutture verranno costruite.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
 
 ### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-23 11:00 CET`_
