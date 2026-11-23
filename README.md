@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
 ### «Lucy Powell promuove l’istruzione britannica in Cina nonostante i rischi; Come la cooperazione industriale rafforza la preparazione alla difesa · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_14%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-18%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-72-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_15%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-19%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-76-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (18/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (19/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `15:00 CET` — Ricerca Oraria (19/23)
+_Aggiornamento registrato il `2026-11-23 15:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Batterie a idrogeno-manganese targate Ges: prima installazione in Italia](https://www.ilsole24ore.com/art/batterie-idrogeno-manganese-targate-ges-prima-installazione-italia-AJq2n0PC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** La batteria idrogeno-manganese sviluppata dalla trentina Green Energy Storage (Ges) è pronta all’applicazione su larga scala in ambiente operativo: le prime installazioni per il sistema di accumulo presentato a livello...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌍 Geopolitica & Mondo` [Ex ministro brasiliano, tassare i miliardari per frenare la nuova oligarchia globale](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/23/ex-ministro-brasiliano-tassare-i-miliardari-per-frenare-la-nuova-oligarchia-globale_4ff6ca9a-a090-4705-a923-591710205f5c.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Fernando Haddad rilancia la proposta di un'imposta minima globale del 2%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` [Goldman Sachs, l'economia italiana perde spinta con l'erosione del potere d'acquisto](https://www.ansa.it/sito/notizie/economia/2026/11/23/goldman-sachs-leconomia-italiana-perde-spinta-con-lerosione-del-potere_24f7e1d8-dbda-438c-add8-c05027c79a09.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Pil a 0,8% quest'anno, poi 0,5%, fa peggio solo la Francia fra i big
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🤖 IA & Frontiera Tech` [Oregon e Virginia fanno causa a SpaceX, sostenendo che la "modalità piccante" di Grok Imagine ha violato le leggi sui consumatori creando oltre 1,8 milioni di immagini sessualizzate di donne e oltre 65 bambini (New York Times)](https://www.techmeme.com/261123/p19#a261123p19)** — *(Techmeme)*
+  - 📌 **Sintesi:** New York Times: Oregon e Virginia fanno causa a SpaceX, sostenendo che la "modalità piccante" di Grok Imagine ha violato le leggi sui consumatori creando oltre 1,8 milioni di immagini sessualizzate di donne e oltre 65 bambini — Gli stati hanno accusato la società di Elon Musk di violare le leggi sulla protezione dei consumatori con il suo strumento di intelligenza artificiale Grok Imagine, che ha creato le immagini.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/23)
 _Aggiornamento registrato il `2026-11-23 14:00 CET`_
