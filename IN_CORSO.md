@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Lunedì 23 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--23-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-5-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--23-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-6-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,23 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/20)
+_Aggiornamento registrato il `2026-11-23 02:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Lucy Powell promuove l’istruzione britannica in Cina nonostante i rischi](https://www.politico.eu/article/lucy-powell-promotes-uk-education-in-china-despite-risks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La visita del ministro dell’Istruzione del Regno Unito a Pechino arriva pochi giorni dopo che Wes Streeting ha elogiato il governo per aver intensificato la sua interazione con la Cina.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🌍 Geopolitica & Mondo` [Kiev, 'il bilancio dell'attacco russo a Dymer è salito a sei morti'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/23/kiev-il-bilancio-dellattacco-russo-a-dymer-e-salito-a-sei-morti_51ad9de5-4f24-45e0-9832-7dcd5775c9a7.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'I soccorritori continuano a rimuovere le macerie dell'edificio crollato'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[3] `🤖 IA & Frontiera Tech` [Fonti: Jay Clayton, direttore dell'intelligence nazionale e zar dell'intelligenza artificiale, fungerà anche da direttore informatico nazionale in attesa della conferma del Senato di Kirsten A. Davies (Axios)](https://www.techmeme.com/261122/p15#a261122p15)** — *(Techmeme)*
+  - 📌 **Sintesi:** Axios: Fonti: Jay Clayton, direttore dell'intelligence nazionale e zar dell'intelligenza artificiale, fungerà anche da direttore informatico nazionale ad interim in attesa della conferma del Senato di Kirsten A. Davies — Il direttore dell'intelligence nazionale Jay Clayton fungerà anche da direttore informatico nazionale ad interim mentre Kirsten Davies attende la conferma del Senato...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🏦 Mercati Globali` `🔄 AGGIORNAMENTO` [I futures S&P 500 rimbalzano bruscamente salendo del 2%, rilanciando la settimana in breve dopo la disfatta tecnologica: aggiornamenti in tempo reale](https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html)** — *(CNBC Global Economy)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-23 01:00 CET).
+  - 📌 **Sintesi:** La scorsa settimana, i principali indici sono crollati mentre le preoccupazioni sul commercio dell’intelligenza artificiale continuavano a spaventare gli investitori, nonostante il debutto record di Anthropic.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
 
 ### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/20)
 _Aggiornamento registrato il `2026-11-23 01:00 CET`_
