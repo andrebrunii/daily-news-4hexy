@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
 ### «Lucy Powell promuove l’istruzione britannica in Cina nonostante i rischi; Libia, sospetto attacco con drone contro nave russa nel porto · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_05%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-9%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-36-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_06%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-10%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-40-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (9/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (10/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/23)
+_Aggiornamento registrato il `2026-11-23 06:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Söders nächster Nadelstich gegen Merz](https://www.politico.eu/podcast/berlin-playbook-podcast/soders-nachster-nadelstich-gegen-merz/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Presente da YouTube.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌐 Scacchiere Globale` [Ragazzo, 7 anni, estratto vivo dalle macerie poche ore dopo l'attacco russo all'Ucraina, dicono i soccorritori](https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Dieci persone sono morte nell'attacco a Dymer, mentre sono in corso i soccorsi per trovare quelli ancora dispersi nell'edificio residenziale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🤖 IA & Frontiera Tech` [La società sudcoreana di PE MBK Partners accetta di privatizzare la giapponese Wacom, in un accordo che valuta la società di tecnologia della penna digitale a ~$860 milioni, con la partecipazione di Samsung (Kim Woo-young/CHOSUNBIZ)](https://www.techmeme.com/261122/p20#a261122p20)** — *(Techmeme)*
+  - 📌 **Sintesi:** Kim Woo-young / CHOSUNBIZ: la società sudcoreana di PE MBK Partners accetta di privatizzare la giapponese Wacom, in un accordo che valuta la società di tecnologia delle penne digitali a ~$860 milioni, con la partecipazione di Samsung — 조선비즈 구글 검색 먼저 보기
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🏦 Mercati Globali` [Tata Steel acquisterà una partecipazione di 1,67 miliardi di dollari nel più grande produttore di tubi d’acciaio dell’India; le azioni crollano di quasi il 5%](https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Tata Steel acquisterà una partecipazione del 26,4% nel principale produttore indiano di tubi e tubazioni in acciaio strutturale per aumentare la capacità downstream.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
 ### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/23)
 _Aggiornamento registrato il `2026-11-23 05:00 CET`_
