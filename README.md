@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
 ### «L'Ucraina conferma di aver utilizzato droni navali per colpire due navi; Lucy Powell promuove l’istruzione britannica in Cina nonostante · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_18%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-22%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-88-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_19%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-23%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-92-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (22/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (23/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `19:00 CET` — Ricerca Oraria (23/23)
+_Aggiornamento registrato il `2026-11-23 19:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Bolton (Rio Mare) acquisisce Foodlab e sbarca nel settore (in crescita) del salmone affumicato](https://www.ilsole24ore.com/art/bolton-rio-mare-acquisisce-foodlab-e-debutta-segmento-salmone-AJnA4EQC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Bolton, che produce il tonno Rio Mare, ma che controlla anche numerosi marchi nel campo della cura della casa e della persona, debutta nel segmento del salmone affumicato grazie all’acquisizione...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌍 Geopolitica & Mondo` [Bild, allarmi bomba stamattina in 450 scuole in Germania](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/23/bild-allarmi-bomba-stamattina-in-450-scuole-in-germania_29347129-7ce6-4779-bb29-8f56cda084df.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Nell'oggetto della mail la scritta 'la morte ti aspetta'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `⚡ Futuro & Deep Tech` [Un filosofo leggendario non crede all’argomentazione della coscienza antropica](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** Questa storia è apparsa originariamente su The Algorithm, la nostra newsletter settimanale sull'intelligenza artificiale. Per ricevere prima storie come questa nella tua casella di posta, iscriviti qui. Prima di diventare pubblica la scorsa settimana, Anthropic ha indicato la possibilità che l’intelligenza artificiale possa essere cosciente o senziente come un fattore di rischio per chiunque investa. Dato “il modo in cui ci avviciniamo alla sensibilità modello e alla morale…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🧬 Scienza & Scoperte` [Sintesi del benzene esa-sostituito con carbocationi non classici](https://www.nature.com/articles/s41586-026-11449-9)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 23 novembre 2026; doi:10.1038/s41586-026-11449-9 Sintesi di benzene esa-sostituito con carbocationi non classici
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
 ### 🕒 Ora `18:00 CET` — Ricerca Oraria (22/23)
 _Aggiornamento registrato il `2026-11-23 18:00 CET`_
