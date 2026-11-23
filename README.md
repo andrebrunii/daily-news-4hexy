@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
-### «Lucy Powell promuove l’istruzione britannica in Cina nonostante i rischi; Libia, sospetto attacco con drone contro nave russa nel porto · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
+### «Lucy Powell promuove l’istruzione britannica in Cina nonostante i rischi; Come la cooperazione industriale rafforza la preparazione alla difesa · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_09%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-13%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-52-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_10%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-14%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-56-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (13/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (14/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/23)
+_Aggiornamento registrato il `2026-11-23 10:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Come la cooperazione industriale rafforza la preparazione alla difesa dell’Europa](https://www.politico.eu/sponsored-content/how-industrial-cooperation-strengthens-europes-defense-readiness/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Le aziende della difesa europee e nordamericane stanno rafforzando la cooperazione industriale attraverso il programma Patriot®, supportando la capacità produttiva, le competenze tecniche e la preparazione alla difesa a lungo termine in tutta Europa.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🌍 Geopolitica & Mondo` [A Istanbul avvistato un leone nel nord della città, 'state in casa'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/23/a-istanbul-avvistato-un-leone-nel-nord-della-citta-state-in-casa_396841c4-50ff-4e29-b3e7-5a4da77b2523.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** In corso da ore operazioni per catturare l'animale, chiusi alcuni quartieri
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💶 Macro & Finanza UE` [Mimit, prezzi dei carburanti stabili, benzina venduta a 1,941 euro](https://www.ansa.it/sito/notizie/economia/2026/11/23/mimit-prezzi-dei-carburanti-stabili-benzina-venduta-a-1941-euro_2e3e0d74-101d-4fa0-aa25-d8eb437202b9.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Gasolio venduto in media a 2,197 euro
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[4] `🤖 IA & Frontiera Tech` [Aevius, con sede a Boston, i cui modelli di base analizzano la salute dei pazienti utilizzando cartelle cliniche, imaging e altri dati, ha raccolto un capitale iniziale di 22 milioni di dollari guidato da Insight Partners (Katherine Davis/Axios)](https://www.techmeme.com/261123/p5#a261123p5)** — *(Techmeme)*
+  - 📌 **Sintesi:** Katherine Davis / Axios: Aevius, con sede a Boston, i cui modelli di fondazione analizzano la salute dei pazienti utilizzando cartelle cliniche, imaging e altri dati, ha raccolto un seed da 22 milioni di dollari guidato da Insight Partners - La startup di intelligence clinica Aevius ha raccolto 22 milioni di dollari in finanziamenti seed da Insight Partners, dice in esclusiva il CEO Rowland Pettit ad Axios Pro.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/23)
 _Aggiornamento registrato il `2026-11-23 09:00 CET`_

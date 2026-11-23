@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Lunedì 23 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--23-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-13-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--23-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-14-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/20)
+_Aggiornamento registrato il `2026-11-23 10:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Come la cooperazione industriale rafforza la preparazione alla difesa dell’Europa](https://www.politico.eu/sponsored-content/how-industrial-cooperation-strengthens-europes-defense-readiness/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Le aziende della difesa europee e nordamericane stanno rafforzando la cooperazione industriale attraverso il programma Patriot®, supportando la capacità produttiva, le competenze tecniche e la preparazione alla difesa a lungo termine in tutta Europa.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🌍 Geopolitica & Mondo` [A Istanbul avvistato un leone nel nord della città, 'state in casa'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/23/a-istanbul-avvistato-un-leone-nel-nord-della-citta-state-in-casa_396841c4-50ff-4e29-b3e7-5a4da77b2523.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** In corso da ore operazioni per catturare l'animale, chiusi alcuni quartieri
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💶 Macro & Finanza UE` [Mimit, prezzi dei carburanti stabili, benzina venduta a 1,941 euro](https://www.ansa.it/sito/notizie/economia/2026/11/23/mimit-prezzi-dei-carburanti-stabili-benzina-venduta-a-1941-euro_2e3e0d74-101d-4fa0-aa25-d8eb437202b9.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Gasolio venduto in media a 2,197 euro
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[4] `🤖 IA & Frontiera Tech` [Aevius, con sede a Boston, i cui modelli di base analizzano la salute dei pazienti utilizzando cartelle cliniche, imaging e altri dati, ha raccolto un capitale iniziale di 22 milioni di dollari guidato da Insight Partners (Katherine Davis/Axios)](https://www.techmeme.com/261123/p5#a261123p5)** — *(Techmeme)*
+  - 📌 **Sintesi:** Katherine Davis / Axios: Aevius, con sede a Boston, i cui modelli di fondazione analizzano la salute dei pazienti utilizzando cartelle cliniche, imaging e altri dati, ha raccolto un seed da 22 milioni di dollari guidato da Insight Partners - La startup di intelligence clinica Aevius ha raccolto 22 milioni di dollari in finanziamenti seed da Insight Partners, dice in esclusiva il CEO Rowland Pettit ad Axios Pro.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/20)
 _Aggiornamento registrato il `2026-11-23 09:00 CET`_
