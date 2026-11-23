@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
-### «Lucy Powell promuove l’istruzione britannica in Cina nonostante i rischi; Come la cooperazione industriale rafforza la preparazione alla difesa · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
+### «L'Ucraina conferma di aver utilizzato droni navali per colpire due navi; Lucy Powell promuove l’istruzione britannica in Cina nonostante · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_15%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-19%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-76-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_16%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-20%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-80-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (19/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (20/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `16:00 CET` — Ricerca Oraria (20/23)
+_Aggiornamento registrato il `2026-11-23 16:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Badenoch: Il rientro nell’UE non risolverà i problemi economici della Gran Bretagna](https://www.politico.eu/article/kemi-badenoch-rejoining-eu-wont-fix-britains-economic-woes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il rinnovo dell'adesione all'UE "non risolverà i nostri problemi ricorrenti", ha detto il leader dei Tory ai capi delle imprese.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[2] `🌍 Esteri & Analisi` [L'Ucraina conferma di aver utilizzato droni navali per colpire due navi russe al largo della Libia](https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya)** — *(The Guardian World)*
+  - 📌 **Sintesi:** Il servizio di sicurezza ucraino afferma che sette droni sono stati lanciati dalla nave madre nell'operazione che affondò la nave da guerra Merkury Europe in diretta – ultimi aggiornamenti L'Ucraina ha confermato di aver schierato droni navali negli attacchi di domenica contro due navi russe al largo della Libia, inclusa una che affondò la corvetta Merkury, una delle navi russe più nuove. Il servizio di sicurezza ucraino,...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🤖 IA & Frontiera Tech` [Amazon accetta di acquisire gran parte della startup Decart, tra cui Decart Optimization Stack, il suo team fondatore e i ricercatori sull'intelligenza artificiale, dice una fonte per circa 7,5 miliardi di dollari (Matt Day/Bloomberg)](https://www.techmeme.com/261123/p23#a261123p23)** — *(Techmeme)*
+  - 📌 **Sintesi:** Matt Day / Bloomberg: Amazon accetta di acquisire gran parte della startup Decart, incluso Decart Optimization Stack e il suo team fondatore e ricercatori sull'intelligenza artificiale, dice una fonte per circa 7,5 miliardi di dollari — Amazon.com Inc. ha accettato di acquisire gran parte della startup Decart AI, acquistando strumenti per rafforzare l'infrastruttura di intelligenza artificiale dell'azienda di cloud computing.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `💻 Tecnologia & Cyber` [Jensen Huang è stato reintegrato come CEO di Nvidia e presidente del consiglio](https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Il consiglio afferma che alti funzionari governativi hanno confermato che Huang "non presenta rischi per la sicurezza nazionale".
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
 
 ### 🕒 Ora `15:00 CET` — Ricerca Oraria (19/23)
 _Aggiornamento registrato il `2026-11-23 15:00 CET`_
