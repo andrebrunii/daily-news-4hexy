@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Martedì 24 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-2-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-3-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `23:00 CET` — Ricerca Oraria (3/20)
+_Aggiornamento registrato il `2026-11-23 23:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Haiti, avanza l'offensiva della forza multinazionale contro le gang](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/23/haiti-avanza-loffensiva-della-forza-multinazionale-contro-le-gang_cd8436e7-e0ee-485d-a067-eda34de4fdec.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Smantellate roccaforti delle bande nel distretto dell'Artibonite
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [La Finlandia convoca l'ambasciatore russo per sospetta incursione in elicottero](https://www.politico.eu/article/finland-summons-russian-ambassador-over-suspected-helicopter-incursion/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Le azioni "pericolose e sconsiderate" della Russia in Europa sono inaccettabili, ha affermato il ministero degli Esteri finlandese.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `💶 Macro & Finanza UE` [Borsa: Milano chiude in rialzo (+0,65%) con il ritorno di Huang in Nvidia](https://www.ansa.it/sito/notizie/economia/2026/11/23/borsa-milano-chiude-in-rialzo-065-con-il-ritorno-di-huang-in-nvidia_0ca8e574-9d86-4d2f-a2f9-14f2c10d98f9.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Il Ftse Mib neutralizza lo stacco della cedola di undici quotate e sale a 49.021 punti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `💻 Tecnologia & Cyber` [Gli stati fanno causa a SpaceX per impedire a Grok di generare immagini di sesso infantile e porno di vendetta](https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** X afferma che ogni output di Grok viene sottoposto a screening, ma gli AG statali affermano che Grok sta ancora producendo materiale pedopornografico.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `22:00 CET` — Ricerca Oraria (2/20)
 _Aggiornamento registrato il `2026-11-23 22:00 CET`_
