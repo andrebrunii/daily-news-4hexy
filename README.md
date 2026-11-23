@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
 ### «Lucy Powell promuove l’istruzione britannica in Cina nonostante i rischi; Libia, sospetto attacco con drone contro nave russa nel porto · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_02%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-6%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-24-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_03%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-7%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-28-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (6/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (7/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/23)
+_Aggiornamento registrato il `2026-11-23 03:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Mosca, 'Putin e Trump non hanno discusso della nomina di un ambasciatore a Washington'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/23/mosca-putin-e-trump-non-hanno-discusso-della-nomina-di-un-ambasciatore-a-washington_3f848057-72da-4d29-9510-e1ca92f76795.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Peskov: 'Nessun dettaglio di questo tipo è stato affrontato ai colloqui in Cina'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🌐 Scacchiere Globale` [L'esercito americano farà esplodere tonnellate di esplosivi instabili in Iowa nonostante l'ordine del tribunale](https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** L'esercito afferma che è necessaria "un'azione rapida" per proteggere il proprio personale e le comunità vicine al suo impianto di munizioni in Iowa.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🤖 IA & Frontiera Tech` [GPT-6.2 Astra vs. Claude Fable 5.2 pratico: quasi pari su tre attività personalizzate di contabilità, codifica e dati, ma Fable utilizzava molti più token e costava 5 volte più (Jessica Wachtel/The New Stack)](https://www.techmeme.com/261122/p16#a261122p16)** — *(Techmeme)*
+  - 📌 **Sintesi:** Jessica Wachtel / The New Stack: GPT-6.2 Astra vs. Claude Fable 5.2 pratico: quasi in parità su tre attività personalizzate di contabilità, codifica e dati, ma Fable ha utilizzato molti più token e costa 5 volte più — Quando ho confrontato Fable 5.2 di Anthropic con GPT-6 Astra di OpenAI la scorsa settimana, Fable 5.2 è stato leggermente più accurato (149 punti contro 145).
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🔭 Ricerca & Spazio` [Un misterioso varco suggerisce la presenza di buchi neri nati da stelle mai esplose](https://www.sciencedaily.com/releases/2026/11/261121221126.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Le stelle massicce potrebbero collassare silenziosamente in buchi neri senza mai produrre le spettacolari esplosioni di supernova che gli scienziati normalmente si aspettano. Uno schema sorprendente in 257 fusioni di buchi neri suggerisce che queste misteriose sparizioni stellari potrebbero spiegare le origini di una grande popolazione di buchi neri in tutto l’universo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
 ### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/23)
 _Aggiornamento registrato il `2026-11-23 02:00 CET`_
