@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
 ### «Lucy Powell promuove l’istruzione britannica in Cina nonostante i rischi; Come la cooperazione industriale rafforza la preparazione alla difesa · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_13%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-17%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-68-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_14%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-18%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-72-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (17/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (18/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/23)
+_Aggiornamento registrato il `2026-11-23 14:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [La reazione negativa di Grand Theft Auto VI travolge il leader greco Mitsotakis](https://www.politico.eu/article/greece-grand-theft-auto-vi-backlash-kyriakos-mitsotakis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** I capi dell'opposizione si sono scagliati contro il primo ministro greco dopo aver suggerito ai pensionati di comprare ai loro nipoti il ​​violento videogioco.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🌐 Scacchiere Globale` `🔄 AGGIORNAMENTO` [Nave da guerra russa colpita dai droni ucraini in Libia, dice Zelenskyj](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-22 18:00 CET).
+  - 📌 **Sintesi:** Il Cremlino avverte di una “escalation delle tensioni nella regione”, ma non commenta direttamente gli attacchi in Libia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `💶 Macro & Finanza UE` [Ivass, boom dei reclami alle assicurazioni, +10% nel primo semestre](https://www.ansa.it/sito/notizie/economia/2026/11/23/ivass-boom-dei-reclami-alle-assicurazioni-10-nel-primo-semestre_77fe3a00-ca1a-4cf3-a2f9-5b57005ce62b.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Il tempo medio di risposta da parte delle imprese è di 22,5 giorni
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🤖 IA & Frontiera Tech` [Il CEO di Arm, Rene Haas, prolunga il suo contratto fino al 2033 e diventerà vicepresidente di SoftBank il 1° dicembre; una società di reclutamento gli ha chiesto di diventare CEO di Nvidia (Bloomberg)](https://www.techmeme.com/261123/p17#a261123p17)** — *(Techmeme)*
+  - 📌 **Sintesi:** Bloomberg: il CEO di Arm, Rene Haas, prolunga il suo contratto fino al 2033 e diventerà vicepresidente di SoftBank il 1° dicembre; una società di reclutamento lo ha contattato chiedendogli di diventare CEO di Nvidia: Rene Haas, CEO di Arm Holdings Plc, si è rivolto come potenziale successore di Jensen Huang di Nvidia Corp.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/23)
 _Aggiornamento registrato il `2026-11-23 13:00 CET`_
