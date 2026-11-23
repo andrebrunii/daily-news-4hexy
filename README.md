@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
 ### «Libia, sospetto attacco con drone contro nave russa nel porto di Bengasi; Il pericolo sembra sempre più grande": gli ucraini cercano i dispersi · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_00%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-4%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-16-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_01%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-5%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-20-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (4/23 ricerche orarie):**
-`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (5/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/23)
+_Aggiornamento registrato il `2026-11-23 01:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Cop31, Panama obietta formalmente sull'accordo finale ad Antalya](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/23/cop31-panama-obietta-formalmente-sullaccordo-finale-ad-antalya_acedb005-3492-4a19-a714-cf9d13776311.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** La delegazione giudica il testo insufficiente, 'la scienza non negozia'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[2] `🌐 Scacchiere Globale` [I democratici ottengono la più ampia maggioranza alla Camera dal 1992 dopo aver ribaltato il seggio nella Carolina del Nord](https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** I democratici hanno ora ottenuto almeno 258 seggi alle elezioni di medio termine rispetto ai repubblicani, che ne detengono almeno 173.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[3] `🤖 IA & Frontiera Tech` [Come Dario Amodei ha costruito la fitta cultura di Anthropic con saggi, promemoria di Slack e discorsi di "Vision Quest", mentre Anthropic semina le sue idee con gli opinion maker (Nitasha Tiku/Washington Post)](https://www.techmeme.com/261122/p12#a261122p12)** — *(Techmeme)*
+  - 📌 **Sintesi:** Nitasha Tiku / Washington Post: Come Dario Amodei ha costruito la fitta cultura di Anthropic con saggi, promemoria di Slack e discorsi di "Vision Quest", mentre Anthropic semina le sue idee con opinion maker: Anthropic vale più di 1 trilione di dollari. Anche l’amministratore delegato Dario Amodei vuole vendere al mondo la sua filosofia del futuro.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🏦 Mercati Globali` [I futures azionari rimbalzano per iniziare una settimana ridotta dopo la disfatta tecnologica: aggiornamenti in tempo reale](https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** La scorsa settimana, i principali indici sono crollati mentre le preoccupazioni sul commercio dell’intelligenza artificiale continuavano a spaventare gli investitori, nonostante il debutto record di Anthropic.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-23 00:00 CET`_
