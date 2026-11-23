@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
 ### «Lucy Powell promuove l’istruzione britannica in Cina nonostante i rischi; Libia, sospetto attacco con drone contro nave russa nel porto · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_06%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-10%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-40-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_07%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-11%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-44-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (10/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (11/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/23)
+_Aggiornamento registrato il `2026-11-23 07:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Nyt, 'Alice Huang contattava gli 007 cinesi durante la relazione con Jensen'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/23/nyt-alice-huang-contattava-gli-007-cinesi-durante-la-relazione-con_3b65cbb9-4e5d-4d2f-a3f3-a500f378a2e0.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'L'intelligence Usa la teneva d'occhio da un anno. Trump sapeva ma minimizzò'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🇪🇺 Unione Europea & Policy` [La Francia ottiene una vittoria sul bilancio dell’UE, ma vuole di più](https://www.politico.eu/podcast/brussels-playbook-podcast/france-gets-an-eu-budget-win-but-wants-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Presentato da Fusion for Energy.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[3] `🤖 IA & Frontiera Tech` [Alecto, con sede a Londra, che utilizza intelligenza artificiale ed esperti legali per aiutare i consumatori a comprendere le leggi sulla proprietà del Regno Unito, ha raccolto 20 milioni di dollari in finanziamenti iniziali guidati da Insight Partners (Kyt Dotson/SiliconANGLE)](https://www.techmeme.com/261123/p1#a261123p1)** — *(Techmeme)*
+  - 📌 **Sintesi:** Kyt Dotson / SiliconANGLE: Alecto, con sede a Londra, che utilizza intelligenza artificiale ed esperti legali per aiutare i consumatori a comprendere il diritto sulla proprietà del Regno Unito, ha raccolto 20 milioni di dollari in finanziamenti iniziali guidati da Insight Partners - Alecto Conveyancing Ltd., uno studio legale nativo di intelligenza artificiale con sede a Londra, ha annunciato oggi di aver raccolto 20 milioni di dollari in finanziamenti iniziali guidati...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🏦 Mercati Globali` [Gli Stati Uniti indagano su Megaspeed, Alice Huang mentre emerge una nuova figura nel caso dei chip Nvidia](https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Gli Stati Uniti stanno indagando su Megaspeed e Alice Huang dopo che è emerso che un suo ex socio sarebbe stato "profondamente coinvolto" nelle attività dell'azienda
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/23)
 _Aggiornamento registrato il `2026-11-23 06:00 CET`_
