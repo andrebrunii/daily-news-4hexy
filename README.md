@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
 ### «L'Ucraina conferma di aver utilizzato droni navali per colpire due navi; Lucy Powell promuove l’istruzione britannica in Cina nonostante · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_17%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-21%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-84-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_18%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-22%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-88-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (21/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (22/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `18:00 CET` — Ricerca Oraria (22/23)
+_Aggiornamento registrato il `2026-11-23 18:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [La Spagna si rivolta contro Sánchez, rileva un sondaggio POLITICO](https://www.politico.eu/article/spain-pedro-sanchez-politico-poll-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Quasi un terzo degli intervistati in un nuovo sondaggio POLITICO ha affermato che rimuovere Sánchez dal potere sarebbe una motivazione chiave per il loro voto.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌐 Scacchiere Globale` [Le autorità iraniane fustigano un cantante che si esibiva senza hijab, dicono gli avvocati](https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Secondo quanto riferito, Parastoo Ahmadi, tre musicisti e un produttore hanno ricevuto 74 frustate a Qom.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Fonti: lunedì il Dipartimento del Commercio prevede di aggiungere Megaspeed alla sua lista di entità, impedendo alle società statunitensi di vendere chip alla società senza licenza (Ashley Gold/Semafor)](https://www.techmeme.com/261123/p40#a261123p40)** — *(Techmeme)*
+  - 📌 **Sintesi:** Ashley Gold / Semafor : Fonti: il Dipartimento del Commercio prevede di aggiungere Megaspeed alla sua lista di entità lunedì, impedendo alle aziende statunitensi di vendere chip alla società senza licenza — L'amministrazione Trump prevede di aggiungere la società al centro dello scandalo Nvidia, Megaspeed, a una lista nera commerciale progettata ...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[4] `💻 Tecnologia & Cyber` [I prezzi della sorveglianza utilizzano i nostri dati personali per farci pagare di più](https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Prezzi personalizzati possono significare prezzi ingiusti e persino distorti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `17:00 CET` — Ricerca Oraria (21/23)
 _Aggiornamento registrato il `2026-11-23 17:00 CET`_
