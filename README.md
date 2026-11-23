@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
 ### «Lucy Powell promuove l’istruzione britannica in Cina nonostante i rischi; Come la cooperazione industriale rafforza la preparazione alla difesa · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_12%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-16%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-64-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_13%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-17%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-68-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (16/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (17/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/23)
+_Aggiornamento registrato il `2026-11-23 13:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Allarme bomba via e-mail in molte scuole della Danimarca](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/23/allarme-bomba-via-e-mail-in-molte-scuole-della-danimarca_1507cd88-0135-451d-975f-9d8cba4af511.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Media, 'per la polizia sono minacce infondate'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [Il belga De Wever fa visita al re (di nuovo) senza un accordo sul budget in vista](https://www.politico.eu/article/belgium-bart-de-wever-heads-to-king-with-no-budget-deal-in-sight/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La coalizione di governo pentapartitica è sull’orlo del baratro a causa di una situazione di stallo su come ridurre il deficit.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🔭 Ricerca & Spazio` [Il nuovo trattamento per le malattie gengivali uccide i batteri cattivi risparmiando quelli buoni](https://www.sciencedaily.com/releases/2026/11/261123005356.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Alcuni ricercatori giapponesi hanno sviluppato un trattamento innovativo per le malattie gengivali che utilizza anticorpi del tuorlo d’uovo e luce del vicino infrarosso per distruggere i batteri nocivi senza danneggiare i microbi benefici. A differenza dei trattamenti convenzionali, questo approccio preserva il naturale equilibrio batterico della bocca e protegge le cellule gengivali sane. Nei topi ha ridotto significativamente la...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[4] `🏛️ Filosofia & Idee` [Il vento e la canzone: il tradimento dell'IA](https://aeon.co/videos/what-does-it-mean-when-humans-and-technology-become-indistinguishable)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Mentre l'intelligenza artificiale impara a guardare, parlare e pensare sempre più come noi, questo cortometraggio si chiede come possiamo rimanere pienamente umani al suo fianco - di Aeon Video Guarda su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/23)
 _Aggiornamento registrato il `2026-11-23 12:00 CET`_
