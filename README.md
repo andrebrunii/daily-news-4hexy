@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
 ### «L'Ucraina conferma di aver utilizzato droni navali per colpire due navi; Lucy Powell promuove l’istruzione britannica in Cina nonostante · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_16%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-20%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-80-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_17%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-21%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-84-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (20/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (21/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `17:00 CET` — Ricerca Oraria (21/23)
+_Aggiornamento registrato il `2026-11-23 17:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Il dibattito travolgente sulla Brexit è tornato in Gran Bretagna](https://www.politico.eu/article/britains-runaway-brexit-debate-is-back/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Come David Cameron 20 anni prima di lui, il primo ministro britannico vorrebbe smettere di “sbattere sull’Europa”.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `📈 Economia & Mercati` [Ruralis accelera nel 2026 dopo lo sbarco negli Usa](https://www.ilsole24ore.com/art/ruralis-accelera-2026-lo-sbarco-usa-AJCBHjNC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Ruralis, è una startup, specializzata nella gestione degli affitti brevi nei piccoli borghi, che nel 2026 ha avuto una forte accelerazione della crescita. A fine marzo 2026 infatti, le strutture...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[3] `🧠 Paradigmi & Lunghi Orizzonti` [Cosa succede quando l'intelligenza artificiale divide il tuo gruppo di amici?](https://bigthink.com/history-society/what-happens-when-ai-splits-up-your-friend-group/)** — *(Big Think)*
+  - 📌 **Sintesi:** A San Francisco, Julie Krafchick, co-conduttrice di "The Psychology of Relationships", stava lavorando su episodi di podcast e studiando come le persone si connettono, ma continuando a tenere il passo con gli amici nei media e nella tecnologia. In alcune cerchie di amici, restavi indietro se non utilizzavi modelli di intelligenza artificiale per "10 volte" la tua vita e il tuo lavoro. In altri, le chiacchiere a cena consistevano in dibattiti...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🏦 Mercati Globali` `🔄 AGGIORNAMENTO` [Trump dice alla CNBC "Ho fatto l'accordo" per reintegrare Jensen Huang di Nvidia](https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html)** — *(CNBC Global Economy)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-23 16:00 CET).
+  - 📌 **Sintesi:** Il presidente Trump ha affermato che la sua amministrazione ha assicurato al consiglio di amministrazione di Nvidia che Jensen Huang non rappresenterebbe una minaccia alla sicurezza nazionale se fosse reintegrato come amministratore delegato.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `16:00 CET` — Ricerca Oraria (20/23)
 _Aggiornamento registrato il `2026-11-23 16:00 CET`_
