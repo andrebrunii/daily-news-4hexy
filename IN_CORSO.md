@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Martedì 24 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-3-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-4-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/20)
+_Aggiornamento registrato il `2026-11-24 00:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Crack Ueno Bank in Paraguay, arrestato anche il fratello dell'ex presidente Pena](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/23/crack-ueno-bank-in-paraguay-arrestato-anche-il-fratello-dellex-presidente-pena_574badf4-31c5-4562-9748-9e71d460adb0.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Sarebbero coinvolti in una manovra di riciclaggio da 3 milioni di dollari
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[2] `🌐 Scacchiere Globale` [Gli Stati Uniti mettono nella lista nera la società asiatica di intelligenza artificiale Megaspeed dopo lo scandalo Nvidia](https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Megaspeed è stata accusata di aver incanalato chip IA in Cina dopo che la relazione di un ex dirigente con Jensen Huang è diventata pubblica.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[3] `🤖 IA & Frontiera Tech` [Zoom segnala che i ricavi del terzo trimestre sono aumentati del 4,9% su base annua a 1,29 miliardi di dollari, sopra la stima di 1,28 miliardi di dollari, i ricavi aziendali sono in aumento dell'8,6% a 805,4 milioni di dollari e prevede ricavi del quarto trimestre inferiori alle stime (Brody Ford/Bloomberg)](https://www.techmeme.com/261123/p43#a261123p43)** — *(Techmeme)*
+  - 📌 **Sintesi:** Brody Ford / Bloomberg: Zoom riporta ricavi del terzo trimestre in aumento del 4,9% su base annua a 1,29 miliardi di dollari, sopra 1,28 miliardi di dollari stimati, ricavi aziendali in aumento dell'8,6% a 805,4 milioni di dollari e prevede ricavi del quarto trimestre inferiori alle stime - Zoom Communications Inc. ha fornito una previsione dei ricavi per il trimestre in corso che a metà era appena al di sotto delle stime degli analisti...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `💻 Tecnologia & Cyber` [Trump ferma la detonazione in Iowa, dice che la colpa è del nuovo governatore se esplode accidentalmente](https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** L'esercito ha detto domenica che avrebbe effettuato la detonazione mercoledì.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `23:00 CET` — Ricerca Oraria (3/20)
 _Aggiornamento registrato il `2026-11-23 23:00 CET`_
