@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Lunedì 23 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--23-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-8-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--23-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-9-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/20)
+_Aggiornamento registrato il `2026-11-23 05:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Kiev, 'bilancio vittime Dymer sale a 9, si scava ancora tra le macerie'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/23/kiev-bilancio-vittime-dymer-sale-a-9-si-scava-ancora-tra-le-macerie_9d3d3304-92fa-4410-af2a-867f102e8f41.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Estratti vivi un bambino e una anziana, ricerche proseguono
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[2] `🇪🇺 Unione Europea & Policy` [L’impennata dei separatisti baschi di sinistra si prepara allo scontro con la destra spagnola](https://www.politico.eu/article/basque-country-separatist-eh-bildu-showdown-spain/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La coalizione di sinistra EH Bildu è destinata a ottenere ottimi risultati nei Paesi Baschi, ponendoli in potenziale rotta di collisione con un governo di destra a Madrid.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🤖 IA & Frontiera Tech` [Arva AI, che crea agenti IA per i team di compliance in materia di criminalità finanziaria delle banche e conta Wise come cliente, ha raccolto una serie A da 20 milioni di dollari guidata da Arthur Ventures (Ryan Lawler/Axios)](https://www.techmeme.com/261122/p18#a261122p18)** — *(Techmeme)*
+  - 📌 **Sintesi:** Ryan Lawler / Axios: Arva AI, che crea agenti IA per i team di compliance in materia di criminalità finanziaria delle banche e conta Wise come cliente, ha raccolto un finanziamento di serie A da 20 milioni di dollari guidato da Arthur Ventures — Arva AI, che crea agenti IA per i team di compliance in materia di criminalità finanziaria delle banche, ha raccolto 20 milioni di dollari in finanziamenti di serie A, ha detto in esclusiva ad Axios Pro il CEO Rhim Shah.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🏦 Mercati Globali` [Gli Houthi dello Yemen rivendicano attacchi alla raffineria di petrolio saudita mentre Trump avverte di nuovi attacchi l'anno prossimo](https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Gli Houthi dello Yemen, allineati con l'Iran, hanno rivendicato un'operazione contro la raffineria di petrolio di Rabigh in Arabia Saudita, mentre gli sforzi diplomatici per porre fine alla guerra incontrano grandi difficoltà.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
 
 ### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/20)
 _Aggiornamento registrato il `2026-11-23 04:00 CET`_
