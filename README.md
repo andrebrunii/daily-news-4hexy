@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Lunedì 23 Novembre 2026
 ### «Lucy Powell promuove l’istruzione britannica in Cina nonostante i rischi; Come la cooperazione industriale rafforza la preparazione alla difesa · Una settimana dopo aver sollecitato un riassetto di Nvidia, Scott»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_10%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-14%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-56-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--23_11%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-15%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-60-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-23 11:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Media ucraini, droni contro nave russa lanciati da base nell'ovest della Libia](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/23/media-ucraini-droni-contro-nave-russa-lanciati-da-base-nellovest-della_e7aa0f4d-fcd0-4917-8c86-17de0159589c.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Rbc Ukraine cita un rapporto dell'Institute for the Study of War (Isw)
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[2] `🇪🇺 Unione Europea & Policy` [L’Ucraina ha affondato la nave da guerra russa al largo della Libia, dice Zelenskyj](https://www.politico.eu/article/volodymyr-zelenskyy-claims-ukraine-sank-russia-warship-benghazi-libya/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Kiev ha affermato che sette droni marini hanno affondato la corvetta e hanno colpito una nave mercantile, mentre la guerra in mare dell’Ucraina si estende dal Baltico al Mediterraneo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `💶 Macro & Finanza UE` [Antitrust, istruttoria su Eurospin per presunta intesa restrittiva della concorrenza](https://www.ansa.it/sito/notizie/economia/2026/11/23/antitrust-istruttoria-su-eurospin-per-presunta-intesa-restrittiva-della-concorrenza_f36d90fa-a60b-4921-910c-91d713dbe736.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Adotterebbe una politica di prezzi imposti ai punti in franchising impedendo sconti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🏦 Mercati Globali` [Antropiche, le azioni di Nvidia aumentano nel trading pre-mercato dopo un'importante svendita tecnologica](https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** La scorsa settimana il Nasdaq è crollato del 10%, nella settimana peggiore dai primi giorni del Covid nel 2020.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-23 10:00 CET`_
