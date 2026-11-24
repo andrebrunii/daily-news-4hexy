@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Martedì 24 Novembre 2026
 ### «Gli Stati Uniti mettono nella lista nera la società asiatica; Il capo della NATO promette difesa contro la minaccia spaziale · Fonti: Trump e JD Vance erano convinti che solo Jensen Huang»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_13%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-17%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-68-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_14%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-18%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-72-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (17/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (18/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/23)
+_Aggiornamento registrato il `2026-11-24 14:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [7 paesi dell’UE spingono per un divieto “urgente” del visto per gli atleti russi e bielorussi](https://www.politico.eu/article/7-eu-countries-visa-ban-russia-belarus-athletes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** I paesi affermano che consentire ai concorrenti di ritornare “rischia di inviare un segnale di strisciante accettazione della guerra di aggressione della Russia”.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[2] `📈 Economia & Mercati` [I sindacati europei al Parlamento Ue: senza politica industriale persi 2,2 milioni di posti dal 2007](https://www.ilsole24ore.com/art/i-sindacati-europei-parlamento-ue-senza-politica-industriale-persi-22-milioni-posti-2007-AJbA7CRC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Fiom, Fim, Uilm, Filctem, Femca e Uiltec tra le sigle che insieme ad Industriall hanno partecipato alla mobilitazione internazionale Enough is enough a Strasburgo. A rischio centinaia di migliaia di posti nel prossimo decennio
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` [Dal pranzo all'aperitivo si evolve il mondo del fuori casa, i locali sempre più ibridi](https://www.ansa.it/sito/notizie/economia/2026/11/24/dal-pranzo-allaperitivo-si-evolve-il-mondo-del-fuori-casa-i-locali-sempre_78e7383f-163d-45ac-8ce0-a4271bf99419.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** A HostMilano 2027 le nuove tendenze, dall'ospitalità al food retail
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🤖 IA & Frontiera Tech` [Un profilo di Levent Alpöge, il matematico antropico che trovò una dimostrazione dell'ipotesi di Riemann con Claude e non la pubblicò fino a dopo l'IPO di Anthropic (Wall Street Journal)](https://www.techmeme.com/261124/p16#a261124p16)** — *(Techmeme)*
+  - 📌 **Sintesi:** Wall Street Journal: un profilo di Levent Alpöge, il matematico antropico che trovò una dimostrazione dell'ipotesi di Riemann con Claude e non la pubblicò fino a dopo l'IPO di Anthropic - I matematici tentarono senza riuscirci di decifrare l'ipotesi di Riemann per 167 anni. Levent Alpöge di Anthropic dice di aver trovato una prova con Claude.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/23)
 _Aggiornamento registrato il `2026-11-24 13:00 CET`_
