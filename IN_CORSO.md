@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Martedì 24 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-12-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-13-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/20)
+_Aggiornamento registrato il `2026-11-24 09:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [«Dai trionfi in MotoGP sprint al progetto industriale Ducati»](https://www.ilsole24ore.com/art/dai-trionfi-motogp-sprint-progetto-industriale-ducati-AJof9hQC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** «Abbiamo ultimato un ciclo durato cinque anni. Siamo pronti ad aprirne un altro. In Ducati abbiamo due tipi di osmosi continua fra il settore corse e il comparto industriale classico:...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌐 Scacchiere Globale` [Il capo della NATO promette difesa contro la minaccia spaziale dopo i rapporti sui satelliti nucleari russi](https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** I media tedeschi hanno riferito che la Russia prevede di lanciare nello spazio un satellite con una testata nucleare nelle prossime settimane.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[3] `🧠 Paradigmi & Lunghi Orizzonti` [3 chiavi sbloccheranno il livello successivo su come è iniziato l'Universo](https://bigthink.com/starts-with-a-bang/3-keys-next-level-how-universe-began/)** — *(Big Think)*
+  - 📌 **Sintesi:** In tutto l’Universo, non c’è domanda più grande – e nessun mistero più grande – dell’origine di tutto questo e di come tutto questo sia nato. Per innumerevoli generazioni, le nostre origini cosmiche sono state una questione per poeti, teologi e filosofi, poiché la nostra conoscenza scientifica non era ancora avanzata al punto in cui potessimo scoprire una risposta basata sull'evidenza...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[4] `💶 Macro & Finanza UE` [Lo spread tra Btp e Bund apre poco mosso a 105 punti](https://www.ansa.it/sito/notizie/economia/2026/11/24/lo-spread-tra-btp-e-bund-apre-poco-mosso-a-105-punti_37938449-0f23-486d-945c-a6ab637036d8.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Il rendimento del decennale italiano stabile al 4,33%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
 
 ### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/20)
 _Aggiornamento registrato il `2026-11-24 08:00 CET`_
