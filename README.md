@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Martedì 24 Novembre 2026
 ### «Gli Stati Uniti mettono nella lista nera la società asiatica; Il capo della NATO promette difesa contro la minaccia spaziale · Fonti: Trump e JD Vance erano convinti che solo Jensen Huang»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_09%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-13%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-52-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_10%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-14%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-56-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (13/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (14/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/23)
+_Aggiornamento registrato il `2026-11-24 10:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Biffi: «La Ue acceleri. Sull’AI servono scelte, investimenti e tempi certi»](https://www.ilsole24ore.com/art/biffi-la-ue-acceleri-sull-ai-servono-scelte-investimenti-e-tempi-certi-AJooKFQC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Adottarla, d’accordo. Ma la vera sfida, in tema di Intelligenza Artificiale, non è tanto il suo inserimento all’interno delle aziende, quanto la capacità di trasformare tutto ciò in innovazione concreta,...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[2] `🇪🇺 Unione Europea & Policy` [Industrie vs. Gewerkschaften: Das Standort-Dilemma](https://www.politico.eu/podcast/berlin-playbook-podcast/industrie-vs-gewerkschaften-das-standort-dilemma/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Presente da YouTube.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💶 Macro & Finanza UE` [Icop, nuovi contratti nel microtunnelling per oltre 74 milioni di euro in Italia](https://www.ansa.it/sito/notizie/economia/2026/11/24/icop-nuovi-contratti-nel-microtunnelling-per-oltre-74-milioni-di-euro-in-italia_536cf58e-8006-4f27-a774-185f6bb37aa0.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Petrucco, territori complessi dal punto di vista geologico e ambientale
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🤖 IA & Frontiera Tech` [Vas Narasimhan, CEO di Novartis e membro del consiglio di amministrazione di Anthropic, dubita che l'intelligenza artificiale curerà il cancro in 5-10 anni, sostenendo che la "mentalità ingegneristica" della tecnologia trascura la biologia umana (Financial Times)](https://www.techmeme.com/261124/p3#a261124p3)** — *(Techmeme)*
+  - 📌 **Sintesi:** Financial Times: Vas Narasimhan, CEO di Novartis e membro del consiglio di amministrazione di Anthropic, dubita che l'intelligenza artificiale curerà il cancro in 5-10 anni, sostenendo che la "mentalità ingegneristica" della tecnologia trascura la biologia umana - I commenti del CEO del settore farmaceutico seguono le ambiziose affermazioni del capo di Anthropic e fondatore di DeepMind
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/23)
 _Aggiornamento registrato il `2026-11-24 09:00 CET`_
