@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Martedì 24 Novembre 2026
 ### «Gli Stati Uniti mettono nella lista nera la società asiatica; L’UE prende di mira ex soldati, banche e sportivi russi con nuove · Fonti: Trump e JD Vance erano convinti che solo Jensen Huang»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_03%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-7%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-28-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_04%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-8%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-32-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (7/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (8/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/23)
+_Aggiornamento registrato il `2026-11-24 04:00 CET`_
+
+- **[1] `🌐 Scacchiere Globale` `🔄 AGGIORNAMENTO` [Nvidia reintegra il CEO Jensen Huang dopo una relazione con una presunta spia mentre Trump dice "ho fatto l'accordo"](https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-23 17:00 CET).
+  - 📌 **Sintesi:** Nvidia ha subito pressioni da parte del presidente Trump affinché rinominasse Huang, il cui ritorno ha contribuito ad aggiungere 1 trilione di dollari al valore delle azioni della società.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🇪🇺 Unione Europea & Policy` [Macron tenta di “intrappolare” i successori con una nuova regola di bilancio](https://www.politico.eu/article/emmanuel-macron-trap-successors-budget-rule-france/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Gli oppositori e gli alleati del presidente francese non accettano le sue motivazioni per la nuova legislazione sulla spesa in deficit.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[3] `🤖 IA & Frontiera Tech` [Documento: l'ex ingegnere di OpenAI Abdulrahman Alfozan ha registrato un incontro con rappresentanti del governo straniero e ha fotografato un term sheet riservato con un'altra società (Emmy Martin/New York Times)](https://www.techmeme.com/261123/p50#a261123p50)** — *(Techmeme)*
+  - 📌 **Sintesi:** Emmy Martin / New York Times: Documento: l'ex ingegnere di OpenAI Abdulrahman Alfozan ha registrato un incontro con rappresentanti del governo straniero e ha fotografato un term sheet riservato con un'altra società - Un documento del tribunale afferma che l'ingegnere ha catturato incontri con clienti, A.I. sicurezza e un briefing del governo straniero.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[4] `🧬 Scienza & Scoperte` [La COP31 è andata in fumo a causa dei combustibili fossili: invia un messaggio importante](https://www.nature.com/articles/d41586-026-03827-0)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 23 novembre 2026; doi:10.1038/d41586-026-03827-0 Il reporter di Nature James Dinneen riflette sul primo vertice internazionale sul clima a crollare dal 2009.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
 
 ### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/23)
 _Aggiornamento registrato il `2026-11-24 03:00 CET`_
