@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Martedì 24 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-15-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-16-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,23 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/20)
+_Aggiornamento registrato il `2026-11-24 12:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Costa ai 27, 'sul tavolo del summit anche presidenza Bce, ci sarà Lagarde'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/24/costa-ai-27-sul-tavolo-del-summit-anche-presidenza-bce-ci-sara-lagarde_38cd769c-e9e8-4c80-a803-0859c125b072.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** La riunione comincerà con l'Eurosummit giovedì alle 10
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[2] `🇪🇺 Unione Europea & Policy` [Donald Trump pensa ancora che le regole non si applichino a lui – o a Jensen Huang](https://www.politico.com/news/magazine/2026/11/24/donald-trump-jensen-huang-column-01180964?c=1795514431568&utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La gestione dello scandalo Nvidia da parte del presidente dimostra che non ha digerito il suo rimprovero di metà mandato.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[3] `🤖 IA & Frontiera Tech` [Fonti: SpaceX e Tesla stanno negoziando una fusione interamente azionaria da 3,5 trilioni di dollari guidata da due comitati speciali di cinque direttori "disinteressati", tutti con legami con Elon Musk (Financial Times)](https://www.techmeme.com/261124/p8#a261124p8)** — *(Techmeme)*
+  - 📌 **Sintesi:** Financial Times: Fonti: SpaceX e Tesla stanno negoziando una fusione interamente azionaria da 3,5 trilioni di dollari guidata da due comitati speciali di cinque direttori "disinteressati", tutti con legami con Elon Musk - SpaceX e Tesla hanno affidato a cinque direttori il destino della più grande fusione di tutti i tempi...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🧬 Scienza & Scoperte` `🔄 AGGIORNAMENTO` [Combattere il problema dell’intelligenza artificiale senza punire i ricercatori legittimi](https://www.nature.com/articles/d41586-026-03824-3)** — *(Nature Research)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-22 15:00 CET).
+  - 📌 **Sintesi:** Natura, Pubblicato online: 24 novembre 2026; doi:10.1038/d41586-026-03824-3 Combattere il problema dell'intelligenza artificiale senza punire i ricercatori legittimi
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/20)
 _Aggiornamento registrato il `2026-11-24 11:00 CET`_
