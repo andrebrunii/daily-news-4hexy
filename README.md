@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Martedì 24 Novembre 2026
 ### «Gli Stati Uniti mettono nella lista nera la società asiatica; L’UE prende di mira ex soldati, banche e sportivi russi con nuove · Fonti: Trump e JD Vance erano convinti che solo Jensen Huang»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_00%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-4%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-16-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_01%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-5%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-20-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (4/23 ricerche orarie):**
-`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (5/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/23)
+_Aggiornamento registrato il `2026-11-24 01:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` ['A Gaza usate bombe come 13 atomiche, il 99% della terra è avvelenato'](https://www.ansa.it/sito/notizie/mondo/2026/11/23/a-gaza-usate-bombe-come-13-atomiche-il-99-della-terra-e-avvelenato_34a2aeb0-24bb-41f5-8e1d-d22583e088d9.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Oxfam: 'Conseguenze sanitarie per decenni. Serve subito una bonifica ambientale'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌐 Scacchiere Globale` [Gli attacchi israeliani hanno trasformato Gaza in una “terra desolata tossica”, afferma Oxfam](https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il rapporto afferma che ci sono segni di possibile contaminazione in quasi tutta Gaza come risultato delle azioni di Israele.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🏦 Mercati Globali` [Aumento di Nvidia: cosa dovrebbero fare gli investitori con le azioni e il commercio di intelligenza artificiale ora](https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il mercato apprezza il ritorno di Jensen Huang, ma investitori e legislatori tengono alta la guardia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[4] `🤖 IA & Frontiera Tech` [Myriota, con sede in Australia, che fornisce connettività satellitare a basso costo e a basso consumo per l’IoT industriale, ha raccolto circa 40 milioni di dollari nella prima chiusura della sua serie C (Rhiannon Hoyle/Wall Street Journal)](https://www.techmeme.com/261123/p45#a261123p45)** — *(Techmeme)*
+  - 📌 **Sintesi:** Rhiannon Hoyle / Wall Street Journal: Myriota, con sede in Australia, che fornisce connettività satellitare a basso costo e a basso consumo per l'IoT industriale, ha raccolto circa 40 milioni di dollari nella prima fase della serie C — Myriota raccoglie circa 40 milioni di dollari nella prima fase di una serie C per assumere personale e ampliare la costellazione di satelliti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-24 00:00 CET`_
