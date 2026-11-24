@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-3-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-4-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/20)
+_Aggiornamento registrato il `2026-11-25 00:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Abrego Garcia lascerà volontariamente gli Usa per evitare la deportazione](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/abrego-garcia-lascera-volontariamente-gli-usa-per-evitare-la-deportazione_133a8d7e-1a33-4672-828a-18dc0e6fc6e4.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il 31enne del Salvador è diventato il simbolo del pugno duro di Trump contro i migranti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🌐 Scacchiere Globale` [Il governo indiano ha "perso la testa", dice il leader dello "scarafaggio" escluso dal volo nel Regno Unito](https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Saurav Das dice che le autorità per l'immigrazione all'aeroporto di Delhi gli hanno detto che il suo passaporto era stato contrassegnato.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🤖 IA & Frontiera Tech` [Il ritorno di Jensen Huang è accolto con sollievo in Cina, con i media statali che affermano "Il re è tornato!", mentre le azioni asiatiche salgono; Taiwan lo ha acclamato come un eroe della sua città natale (Washington Post)](https://www.techmeme.com/261124/p41#a261124p41)** — *(Techmeme)*
+  - 📌 **Sintesi:** Washington Post: Il ritorno di Jensen Huang è accolto con sollievo in Cina, con i media statali che dicono "Il re è tornato!", mentre le azioni asiatiche salgono; Taiwan lo ha acclamato come un eroe della sua città natale — Molti continuano a tifare per il CEO della tecnologia taiwanese-americana anche dopo che ha ammesso di aver avuto una relazione con una presunta spia cinese.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[4] `💻 Tecnologia & Cyber` [Metà della vecchia flotta marziana della NASA è stata messa offline per problemi tecnici](https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Perseverance ha difficoltà a trasmettersi alla Terra. L'Odyssey sta rapidamente consumando la sua riserva di carburante in calo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `23:00 CET` — Ricerca Oraria (3/20)
 _Aggiornamento registrato il `2026-11-24 23:00 CET`_
