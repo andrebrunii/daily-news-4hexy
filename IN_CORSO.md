@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-1-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-2-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `22:00 CET` — Ricerca Oraria (2/20)
+_Aggiornamento registrato il `2026-11-24 22:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Huang, 'non è stato Trump a farmi tornare, board ha scelto in autonomia'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/huang-non-e-stato-trump-a-farmi-tornare-board-ha-scelto-in-autonomia_81c02eb9-c2c4-4eea-9027-224f1c5e65eb.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Non sono al di sopra del codice di condotta'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[2] `🇪🇺 Unione Europea & Policy` [Gli sforzi per liberare conigli e vitelli in gabbia attendono la sentenza della massima corte europea](https://www.politico.eu/article/eu-court-ruling-commission-cage-ban-farmed-animals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** 1,4 milioni di europei hanno chiesto il divieto di tenere gli animali da allevamento in gabbia, ma la Commissione ha tardato ad agire.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [Una giuria statunitense ritiene Huawei colpevole di associazione a delinquere finalizzata al furto di segreti commerciali e frode bancaria ma la assolve dall'accusa più grave di associazione a delinquere organizzata per racket (Associated Press)](https://www.techmeme.com/261124/p35#a261124p35)** — *(Techmeme)*
+  - 📌 **Sintesi:** Associated Press: Una giuria statunitense ritiene Huawei colpevole di cospirazione per rubare segreti commerciali e frode bancaria, ma la assolve dall'accusa più grave di associazione a delinquere criminale - Una giuria statunitense ha condannato martedì il colosso tecnologico cinese Huawei Technologies per cospirazione per rubare segreti commerciali e frode bancaria...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `⚡ Futuro & Deep Tech` [Alzare la posta in gioco per le reti aziendali con la modernizzazione dell’intelligenza artificiale](https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** Le reti aziendali sono sotto forte pressione. Mentre le aziende si affrettano a implementare l’intelligenza artificiale, la tecnologia sta rapidamente diventando la principale fonte di domanda sulla rete. Ora, l’intelligenza artificiale degli agenti si aggiunge al carico. Le attività svolte dagli agenti IA generano circa il 450% in più di traffico di rete rispetto alle stesse attività svolte dai lavoratori umani. COME…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `21:00 CET` — Ricerca Oraria (1/20)
 _Aggiornamento registrato il `2026-11-24 21:00 CET`_
