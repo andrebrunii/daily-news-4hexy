@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Martedì 24 Novembre 2026
 ### «Gli Stati Uniti mettono nella lista nera la società asiatica; Il capo della NATO promette difesa contro la minaccia spaziale · Fonti: Trump e JD Vance erano convinti che solo Jensen Huang»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_17%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-21%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-84-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_18%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-22%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-88-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (21/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (22/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `18:00 CET` — Ricerca Oraria (22/23)
+_Aggiornamento registrato il `2026-11-24 18:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Trump grazia due tacchini per il Thanksgiving, Freedom e Feathers](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/trump-grazia-due-tacchini-per-il-thanksgiving-freedom-e-feathers_75bb3f6b-78ef-428d-904d-747d11af77ae.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** La tradizionale cerimonia alla Casa Bianca dal 1947
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[2] `🇪🇺 Unione Europea & Policy` [Snowden sotto steroidi: gli agenti IA nei telefoni innescano timori di sorveglianza](https://www.politico.eu/article/ai-agents-phone-privacy-surveillance-fears/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Gli agenti IA hanno già dimostrato di rappresentare un rischio per la sicurezza informatica. Ora il mondo della privacy lancia l’allarme.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `💶 Macro & Finanza UE` [Martini (Nexi), 'con l'euro digitale arrivano due sfide, tecnologica e d'adozione'](https://www.ansa.it/sito/notizie/economia/2026/11/24/martini-nexi-con-leuro-digitale-arrivano-due-sfide-tecnologica-e-dadozione_756e90d8-7f85-4fa0-baeb-bce6fc713a12.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** 'Con Bancomat e CBI infrastruttura condivisa per le banche'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[4] `🤖 IA & Frontiera Tech` [Memo interni: Microsoft ha dichiarato un'unità "Code Red" per rivedere il modo in cui previene e risponde ai principali guasti del servizio dopo l'interruzione 24 ore su 24 di Microsoft 365 (Jaspreet Singh/Reuters)](https://www.techmeme.com/261124/p24#a261124p24)** — *(Techmeme)*
+  - 📌 **Sintesi:** Jaspreet Singh / Reuters: Memo interni: Microsoft ha dichiarato un'unità "Code Red" per revisionare il modo in cui previene e risponde ai principali guasti del servizio dopo l'interruzione 24 ore su 24 di Microsoft 365 - Microsoft ha dichiarato un'unità "Code Red" per revisionare il modo in cui previene e risponde ai principali guasti del servizio...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `17:00 CET` — Ricerca Oraria (21/23)
 _Aggiornamento registrato il `2026-11-24 17:00 CET`_
