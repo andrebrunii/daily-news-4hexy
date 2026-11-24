@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Martedì 24 Novembre 2026
 ### «Gli Stati Uniti mettono nella lista nera la società asiatica; Il capo della NATO promette difesa contro la minaccia spaziale · Fonti: Trump e JD Vance erano convinti che solo Jensen Huang»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_15%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-19%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-76-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_16%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-20%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-80-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (19/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (20/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `16:00 CET` — Ricerca Oraria (20/23)
+_Aggiornamento registrato il `2026-11-24 16:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Brasile, Lula esclude Milei dalla cerimonia di insediamento del 5 gennaio](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/24/brasile-lula-esclude-milei-dalla-cerimonia-di-insediamento-del-5-gennaio_90cc2b9f-fe6e-4e9d-81f1-cd603df1e041.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Tensione dopo le accuse argentine sulle elezioni, ritirato l'ambasciatore
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [La Bulgaria rischia una multa da parte dell’UE per le finanze pubbliche in tilt](https://www.politico.eu/article/bulgaria-eu-fine-public-finances/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La potenziale sanzione è emersa durante l’ultimo ciclo di supervisione economica di Bruxelles.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Anthropic crolla dell'8%+ a ~$80, al di sotto del suo prezzo IPO di $83 e in netto calo rispetto al suo prezzo IPO di $111,50; Dario e Daniela Amodei hanno venduto ciascuno oltre 3,37 milioni di azioni per un valore di oltre 280 milioni di dollari (Medha Singh/Reuters)](https://www.techmeme.com/261124/p21#a261124p21)** — *(Techmeme)*
+  - 📌 **Sintesi:** Medha Singh/Reuters: Anthropic crolla dell'8%+ a ~$80, al di sotto del suo prezzo IPO di $83 e in netto calo rispetto al suo prezzo IPO di $111,50; Dario e Daniela Amodei hanno venduto ciascuno oltre 3,37 milioni di azioni per un valore di oltre 280 milioni di dollari — Le azioni di Anthropic (ANT.O) sono scese al di sotto del prezzo di offerta pubblica iniziale di 83 dollari nelle prime negoziazioni di martedì...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `⚡ Futuro & Deep Tech` [Il download: il boom dell’energia a gas dell’IA e un test di realtà della coscienza](https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** Questa è l'edizione di oggi di The Download, la nostra newsletter nei giorni feriali che fornisce una dose quotidiana di ciò che accade nel mondo della tecnologia. I data center stanno dotandosi di proprie centrali elettriche a gas naturale Uno dei maggiori ostacoli alla costruzione di un data center è ottenere l'approvazione per la connessione alla rete, un'attesa che...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
 
 ### 🕒 Ora `15:00 CET` — Ricerca Oraria (19/23)
 _Aggiornamento registrato il `2026-11-24 15:00 CET`_
