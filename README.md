@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Martedì 24 Novembre 2026
 ### «Gli Stati Uniti mettono nella lista nera la società asiatica; Il capo della NATO promette difesa contro la minaccia spaziale · Fonti: Trump e JD Vance erano convinti che solo Jensen Huang»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_18%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-22%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-88-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_19%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-23%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-92-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (22/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (23/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `19:00 CET` — Ricerca Oraria (23/23)
+_Aggiornamento registrato il `2026-11-24 19:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Dal lavoro alla prevenzione: le imprese scendono in campo](https://www.ilsole24ore.com/art/dal-lavoro-prevenzione-imprese-scendono-campo-AJgl0gQC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Dalla mostra alle policy interne, dalla consigliera di fiducia alla collaborazione con i centri antiviolenza: le aziende cercano soluzioni per fare la loro parte
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [Le congrès des maires, passaggio obbligato dei candidati](https://www.politico.eu/podcast/playbook-paris-podcast/le-congres-des-maires-passage-oblige-des-candidats/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Ils seront tous là (ou presque). Philippe, Attal, Retailleau, Glucksmann, Zemmour, Villepin, Polony, Riner… sont attendus mardi ou mercredi al 108e congrès des maires, porte de Versailles, a Parigi. Un passaggio obbligato per i candidati nella caccia ai preparativi per presentarsi. Pour les autres, il s’agit de soigner leurs réseaux ou de faire […]
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[3] `💶 Macro & Finanza UE` [Manfredi (Anci), 'condono? Non si può far ricadere sui comuni problemi decennali'](https://www.ansa.it/sito/notizie/economia/2026/11/24/manfredi-anci-condono-non-si-puo-far-ricadere-sui-comuni-problemi_ebb86f27-1e31-49f7-9c2e-e7137eb8dab8.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** 'Ma esprimeremo la nostra posizione quando sapremo la proposta reale'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[4] `🤖 IA & Frontiera Tech` [Tre membri fondatori di xAI lanciano Epochal per costruire agenti IA che raggiungano "previsioni sovrumane"; fonte: il co-fondatore Guodong Zhang ha investito personalmente 100 milioni di dollari (Bloomberg)](https://www.techmeme.com/261124/p27#a261124p27)** — *(Techmeme)*
+  - 📌 **Sintesi:** Bloomberg: tre membri fondatori di xAI lanciano Epochal per costruire agenti IA che raggiungano “previsioni sovrumane”; fonte: il co-fondatore Guodong Zhang ha investito personalmente 100 milioni di dollari - Tre membri fondatori del business dell'intelligenza artificiale di Elon Musk, xAI, si sono uniti per costruire una nuova società di intelligenza artificiale...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `18:00 CET` — Ricerca Oraria (22/23)
 _Aggiornamento registrato il `2026-11-24 18:00 CET`_
