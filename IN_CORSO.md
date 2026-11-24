@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Martedì 24 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-18-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-19-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `15:00 CET` — Ricerca Oraria (19/20)
+_Aggiornamento registrato il `2026-11-24 15:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Wsj, Trump pronto a nuovi dazi contro la Cina e l'Ue](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/wsj-trump-pronto-a-nuovi-dazi-contro-la-cina-e-lue_5fc3b30a-039a-45a0-bd14-ee0d61111585.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Per l'Unione Europea potrebbero essere del 15% o inferiori
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Unione Europea & Policy` [L'MI5 avverte le aziende della difesa del Regno Unito che sono bersaglio di attacchi russi](https://www.politico.eu/article/mi5-warns-uk-defense-firms-they-are-target-of-russian-attacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Una crescente minaccia di attacchi russi in tutta Europa ha spinto l’intelligence britannica a invitare le aziende di difesa del Regno Unito ad agire per proteggersi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[3] `💶 Macro & Finanza UE` [Borsa: l'Europa negativa attende Wall Street, Milano -1%](https://www.ansa.it/sito/notizie/economia/2026/11/24/borsa-leuropa-negativa-attende-wall-street-milano-1_59b2c955-bb5c-4a41-bbdd-1a02cf018dd0.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** A Piazza Affari scivolano Prysmian e Stm. In luce Leonardo
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🏦 Mercati Globali` [I futures azionari diminuiscono mentre Nvidia si ritira, restituendo parte del rally di lunedì: aggiornamenti in tempo reale](https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Lunedì, l’S&P 500 e il Nasdaq Composite hanno registrato le loro migliori sessioni dall’aprile 2025 mentre il commercio dell’intelligenza artificiale è tornato in vita.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/20)
 _Aggiornamento registrato il `2026-11-24 14:00 CET`_
