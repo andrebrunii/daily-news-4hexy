@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Martedì 24 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-11-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-12-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/20)
+_Aggiornamento registrato il `2026-11-24 08:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Muse, l'agente AI di Meta, viene lanciato nel Regno Unito](https://www.politico.eu/article/meta-ai-agent-muse-launch-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Gli enti regolatori osserveranno attentamente il lancio di Muse nel Regno Unito.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[2] `📈 Economia & Mercati` [Scienze della vita e longevità: Innovit porta le aziende nella Silicon Valley](https://www.ilsole24ore.com/art/scienze-vita-e-longevita-innovit-porta-aziende-silicon-valley-AJSG7JQC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Un bando per le start up del BioTech, MedTech e Digital Health; e uno per le pmi del settore Longevity. Le candidature scadono il 10 dicembre
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [OpenRouter rimuove Together AI, Phala e Novita per violazioni della politica sui dati; Novita afferma che un errore di configurazione ha inviato alcune richieste MiniMax all'API ufficiale MiniMax (Bill Toulas/BleepingComputer)](https://www.techmeme.com/261124/p2#a261124p2)** — *(Techmeme)*
+  - 📌 **Sintesi:** Bill Toulas / BleepingComputer: OpenRouter rimuove Together AI, Phala e Novita per violazioni della politica sui dati; Novita afferma che un errore di configurazione ha inviato alcune richieste MiniMax all'API ufficiale MiniMax: OpenRouter ha rimosso tre fornitori di intelligenza artificiale dalla sua piattaforma dopo aver scoperto che avevano violato le politiche di gestione dei dati dichiarate e esposto dati sensibili.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🏦 Mercati Globali` [Jensen Huang è "troppo grande per essere licenziato", mettendo a fuoco la governance di Nvidia: gli analisti](https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il ritorno di Jensen Huang ha sottolineato la profonda fiducia di Nvidia nel suo fondatore, mettendo sotto esame la supervisione del consiglio di amministrazione e la governance aziendale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/20)
 _Aggiornamento registrato il `2026-11-24 07:00 CET`_
