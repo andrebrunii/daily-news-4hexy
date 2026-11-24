@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Martedì 24 Novembre 2026
 ### «Gli Stati Uniti mettono nella lista nera la società asiatica; L’UE prende di mira ex soldati, banche e sportivi russi con nuove · Fonti: Trump e JD Vance erano convinti che solo Jensen Huang»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_06%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-10%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-40-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_07%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-11%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-44-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (10/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (11/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/23)
+_Aggiornamento registrato il `2026-11-24 07:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [BolognaFiere, debutta con la Davis la nuova arena da 75 milioni di euro](https://www.ilsole24ore.com/art/bolognafiere-debutta-la-davis-nuova-arena-75-milioni-euro-AJVzzhQC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Dove fino a pochi giorni fa dominavano i trattori e le macchine agricole, da domani si giocherà per il titolo mondiale del tennis. BolognaFiere ha svelato la nuova arena che...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [Può l’Europa impedire a Trump di mettere i leader mondiali al di sopra della legge?](https://www.politico.eu/podcast/brussels-playbook-podcast/can-europe-stop-trump-putting-world-leaders-above-the-law/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Presentato da Fusion for Energy.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[3] `💶 Macro & Finanza UE` [In Europa le immatricolazioni di auto +3,4% a ottobre, +6% da inizio anno](https://www.ansa.it/sito/notizie/economia/2026/11/24/in-europa-le-immatricolazioni-di-auto-34-a-ottobre-6-da-inizio-anno_d7adf797-5a83-4c29-958d-701d78fa4a96.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Per Stellantis nel mese calo dell'8%, nei dieci mesi +3,5%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[4] `🤖 IA & Frontiera Tech` [Il primo ministro Lawrence Wong afferma di non volere che Singapore venga utilizzata per eludere i controlli statunitensi sulle esportazioni di chip, mentre le autorità indagano sugli acquisti di chip Nvidia da parte di Megaspeed (Philip Heijmans/Bloomberg)](https://www.techmeme.com/261124/p1#a261124p1)** — *(Techmeme)*
+  - 📌 **Sintesi:** Philip Heijmans / Bloomberg: Il primo ministro Lawrence Wong afferma di non volere che Singapore venga utilizzata per eludere i controlli sulle esportazioni di chip statunitensi, mentre le autorità indagano sugli acquisti di chip Nvidia da parte di Megaspeed — Il primo ministro Lawrence Wong non vuole che Singapore venga utilizzata come via per le aziende che cercano di eludere i controlli sulle esportazioni di chip statunitensi...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/23)
 _Aggiornamento registrato il `2026-11-24 06:00 CET`_
