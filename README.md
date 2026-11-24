@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Martedì 24 Novembre 2026
 ### «Gli Stati Uniti mettono nella lista nera la società asiatica; Il capo della NATO promette difesa contro la minaccia spaziale · Fonti: Trump e JD Vance erano convinti che solo Jensen Huang»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_12%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-16%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-64-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_13%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-17%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-68-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (16/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (17/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/23)
+_Aggiornamento registrato il `2026-11-24 13:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Cedu restringe protezione per migranti se flussi strumentalizzati](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/24/cedu-restringe-protezione-per-migranti-se-flussi-strumentalizzati_c19061fa-4870-4068-b776-11e0684bb2d4.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Stati hanno solo obbligo di individuare certe categorie di persone prima del respingimento
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [La rivolta di destra minaccia di impantanare il bilancio dell’UE](https://www.politico.eu/article/right-wing-revolt-threatens-to-bog-down-eu-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Un funzionario di Patriots for Europe ha affermato che diverse altre delegazioni potrebbero sostenere una sfida che rallenterebbe i colloqui sul bilancio al Parlamento europeo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[3] `🔭 Ricerca & Spazio` [Un relitto romano di 2.200 anni fa rivela un ingegnoso trucco impermeabilizzante](https://www.sciencedaily.com/releases/2026/11/261123232342.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Un relitto romano di 2.200 anni fa ha rivelato sofisticate tecniche di impermeabilizzazione che utilizzano catrame di pino e cera d'api. I microscopici granelli di polline intrappolati negli antichi rivestimenti stanno ora aiutando gli scienziati a ricostruire dove la nave potrebbe aver viaggiato e subito riparazioni più di due millenni fa.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🏛️ Filosofia & Idee` [La malattia mentale è universale?](https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Tutte le culture sperimentano gli stessi disturbi mentali? Oppure le nostre esperienze di disagio mentale sono culturalmente specifiche? - di Alexander Pereira Continua a leggere su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/23)
 _Aggiornamento registrato il `2026-11-24 12:00 CET`_
