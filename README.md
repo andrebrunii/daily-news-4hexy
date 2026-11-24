@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Martedì 24 Novembre 2026
 ### «Gli Stati Uniti mettono nella lista nera la società asiatica; Il capo della NATO promette difesa contro la minaccia spaziale · Fonti: Trump e JD Vance erano convinti che solo Jensen Huang»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_10%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-14%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-56-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_11%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-15%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-60-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-24 11:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Bbc, 'Pechino vede una vittoria nella riconferma del capo di Nvidia'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/bbc-pechino-vede-una-vittoria-nella-riconferma-del-capo-di-nvidia_dd58b577-fd85-4a93-8d20-ed75a5bb9014.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Le indagini sulle accuse di spionaggio restano aperte
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[2] `📈 Economia & Mercati` [Extravergine venduto a 4 euro, servono investimenti strutturali per abbassare i costi](https://www.ilsole24ore.com/art/extravergine-venduto-4-euro-servono-investimenti-strutturali-abbassare-costi-AJ2PiRQC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Non si abbassa la tensione nel settore dell’olio d’oliva con prezzi che, complici i rilevanti surplus di prodotto invenduto presso i frantoi, eredità delle ultime campagne, hanno innescato la retromarcia...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` [Descalzi: 'C'è l'intenzione di prorogare il cap sui carburanti fino a fine anno'](https://www.ansa.it/sito/notizie/economia/2026/11/24/descalzi-ce-intenzione-di-prorogare-cap-su-carburanti-fino-a-fine-anno_742efb32-bf00-4f18-bc6c-573b69b6ede1.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** L'ad di Eni: 'Penso che entro oggi ci siano delle novità'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🤖 IA & Frontiera Tech` [Sony afferma che GTA VI è il più grande lancio di gioco nella storia di PlayStation in cinque generazioni, attirando oltre 39 milioni di giocatori PS5 unici, che hanno registrato 683 milioni di ore totali (Tim Turi/PlayStation.Blog)](https://www.techmeme.com/261124/p5#a261124p5)** — *(Techmeme)*
+  - 📌 **Sintesi:** Tim Turi / PlayStation.Blog: Sony afferma che GTA VI è il più grande lancio di gioco nella storia di PlayStation in cinque generazioni, attirando oltre 39 milioni di giocatori PS5 unici, che hanno registrato 683 milioni di ore totali - Celebrando la community PlayStation e Rockstar Games per aver creato un momento incredibile nel gioco e nell'intrattenimento.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-24 10:00 CET`_
