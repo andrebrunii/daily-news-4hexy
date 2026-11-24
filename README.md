@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Martedì 24 Novembre 2026
 ### «Gli Stati Uniti mettono nella lista nera la società asiatica; Il capo della NATO promette difesa contro la minaccia spaziale · Fonti: Trump e JD Vance erano convinti che solo Jensen Huang»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_16%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-20%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-80-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_17%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-21%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-84-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (20/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (21/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `17:00 CET` — Ricerca Oraria (21/23)
+_Aggiornamento registrato il `2026-11-24 17:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Fonti, concessi passaporti a minori adottati in Congo, potranno partire](https://www.ansa.it/sito/notizie/mondo/africa/2026/11/24/fonti-concessi-passaporti-a-minori-adottati-in-congo-potranno-partire_c11c5bff-6224-4a33-9528-64a9e5736f63.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Grazie all'azione diplomatica dell'Italia
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [La COP deve cambiare dopo il fallimento di Antalya, avverte il capo del clima del Regno Unito](https://www.politico.eu/article/rachel-kyte-cop-change-antalya-failure/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Rachel Kyte ha detto che è giunto il momento di “fischiare” i fallimenti della COP.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[3] `🧠 Paradigmi & Lunghi Orizzonti` [L'universo ha costruito il proprio telescopio sfruttando lo spazio e il tempo](https://bigthink.com/series/the-big-think-interview/telescopes-universe-past/)** — *(Big Think)*
+  - 📌 **Sintesi:** Quando vedi il sole, lo vedi com'era otto minuti fa. Quando vedi la galassia di Andromeda, la luce che raggiunge i tuoi occhi è partita 2,5 milioni di anni fa. L'astronoma Michelle Thaller, che ha trascorso 28 anni alla NASA, spiega perché tutti coloro che guardano il cielo guardano indietro nel tempo. Spiega anche come i telescopi di oggi possano ora vedere l'universo così com'è...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[4] `🏦 Mercati Globali` `🔄 AGGIORNAMENTO` [Il Nasdaq crolla mentre Nvidia scivola, restituendo parte del rally di lunedì: aggiornamenti in tempo reale](https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html)** — *(CNBC Global Economy)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-24 15:00 CET).
+  - 📌 **Sintesi:** Martedì le azioni statunitensi sono scese, restituendo parte dei forti guadagni della sessione precedente innescati dal ritorno di Jensen Huang come CEO di Nvidia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `16:00 CET` — Ricerca Oraria (20/23)
 _Aggiornamento registrato il `2026-11-24 16:00 CET`_
