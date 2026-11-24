@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Martedì 24 Novembre 2026
 ### «Gli Stati Uniti mettono nella lista nera la società asiatica; L’UE prende di mira ex soldati, banche e sportivi russi con nuove · Fonti: Trump e JD Vance erano convinti che solo Jensen Huang»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_04%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-8%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-32-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_05%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-9%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-36-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (8/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (9/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/23)
+_Aggiornamento registrato il `2026-11-24 05:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Ritorniamo al 1936? I fantasmi della guerra civile infestano la campagna elettorale spagnola](https://www.politico.eu/article/back-to-1936-civil-war-ghosts-haunt-spanish-election-campaign/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Con l’estrema destra pronta a entrare al governo, i politici stanno riaprendo le ferite di una guerra iniziata 90 anni fa.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🌐 Scacchiere Globale` [Re Carlo ed Elton John rendono omaggio alla leggenda della musica australiana Molly Meldrum](https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il promotore e conduttore televisivo ha contribuito a definire i gusti musicali degli australiani per decenni.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [OpenAI lancia una versione di GPT-6.2 Sol "ottimizzata per le conversazioni quotidiane" nella scheda Chat per utenti Plus, Pro, Business ed Enterprise (Zac Hall/9to5Mac)](https://www.techmeme.com/261123/p52#a261123p52)** — *(Techmeme)*
+  - 📌 **Sintesi:** Zac Hall / 9to5Mac: OpenAI lancia una versione di GPT-6.2 Sol che è "ottimizzata per le conversazioni quotidiane" nella scheda Chat per utenti Plus, Pro, Business ed Enterprise: OpenAI sta portando GPT-6.2 Sol nella scheda Chat in ChatGPT oggi, meno di una settimana dopo il debutto del modello in Work e Codex.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🔭 Ricerca & Spazio` [Due mostruosi buchi neri emersi dall'alba dei tempi sfidano ogni spiegazione](https://www.sciencedaily.com/releases/2026/11/261122060342.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli astronomi hanno scoperto la più antica coppia compatta di quasar conosciuta, alimentata da due enormi buchi neri che esistevano appena 900 milioni di anni dopo il Big Bang. Con un peso sorprendente di 1,5 miliardi e 400 milioni di volte la massa del Sole, questi giganti cosmici in qualche modo sono cresciuti fino a raggiungere dimensioni incredibili molto prima di quanto le attuali teorie possano spiegare.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
 
 ### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/23)
 _Aggiornamento registrato il `2026-11-24 04:00 CET`_
