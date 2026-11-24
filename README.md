@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Martedì 24 Novembre 2026
 ### «Gli Stati Uniti mettono nella lista nera la società asiatica; L’UE prende di mira ex soldati, banche e sportivi russi con nuove · Fonti: Trump e JD Vance erano convinti che solo Jensen Huang»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_05%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-9%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-36-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--24_06%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-10%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-40-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (9/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (10/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/23)
+_Aggiornamento registrato il `2026-11-24 06:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Budget de l’UE: c’est Noël avant l’heure pour Emmanuel Macron](https://www.politico.eu/article/budget-de-lue-cest-noel-avant-lheure-pour-emmanuel-macron/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Più Stati membri accusano António Costa, il presidente del Consiglio europeo, di favorire la Francia nella sua nuova proposta di bilancio.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[2] `🌐 Scacchiere Globale` `🔄 AGGIORNAMENTO` [Trump affronta una reazione negativa dopo aver affermato di aver "convinto" Nvidia a reintegrare il CEO Jensen Huang](https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-24 04:00 CET).
+  - 📌 **Sintesi:** Nvidia ha subito pressioni da parte del presidente Trump affinché rinominasse Huang, il cui ritorno ha contribuito ad aggiungere 1 trilione di dollari al valore delle azioni della società.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[3] `🤖 IA & Frontiera Tech` [AWS lancia Strands Decider v2, una famiglia di cinque modelli decisionali aperti basati su Gemma 4 di Google, che vanno dai parametri da 2B a 31B, sotto la licenza Apache 2.0 (Frederic Lardinois/The New Stack)](https://www.techmeme.com/261123/p55#a261123p55)** — *(Techmeme)*
+  - 📌 **Sintesi:** Frederic Lardinois / The New Stack: AWS debutta Strands Decider v2, una famiglia di cinque modelli decisionali aperti basati su Gemma 4 di Google, che vanno dai parametri 2B a 31B, sotto la licenza Apache 2.0 — AWS lunedì ha lanciato Strands Decider v2, una famiglia di cinque modelli decisionali aperti. — Il rilascio arriva solo sette settimane dopo Strands Labs…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🏦 Mercati Globali` [La Cina ha cambiato tattica ma sta ancora ostacolando l’ascesa dell’India, afferma un panel statunitense](https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** La Cina è sempre più concentrata sul contenimento economico dell’India piuttosto che attraverso azioni militari.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
 
 ### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/23)
 _Aggiornamento registrato il `2026-11-24 05:00 CET`_
