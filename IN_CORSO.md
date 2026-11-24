@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Martedì 24 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-6-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--24-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-7-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/20)
+_Aggiornamento registrato il `2026-11-24 03:00 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [L’India promette 1,6 miliardi di dollari al Nepal per ristabilire i rapporti](https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Mentre il Nepal ricostruisce dopo le inondazioni mortali, il suo primo ministro mette da parte le questioni controverse per garantire i finanziamenti indiani, l’accesso al porto e un nuovo servizio ferroviario.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [Gli ecologisti in voie de dislocazione](https://www.politico.eu/podcast/playbook-paris-podcast/les-ecologistes-en-voie-de-dislocation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** L’avenir des Ecologistes et loro place dans le paysage politique se jouent ces prochains jours. Candidatura di Marine Tondelier, riavvicinamento con Jean-Luc Mélenchon o Raphaël Glucksmann: i militanti trancheront la stratégie du parti le 13 décembre. Le choix de la cheffe du mouvement d’ouvrir des négociations avec La France insoumise a entraîné la...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🤖 IA & Frontiera Tech` [Fonti: gli Stati Uniti stanno indagando sul possibile ruolo dell'Iran negli attacchi informatici contro un massimo di 50 petroliere energetiche tramite un difetto del router Fortinet; Anche la Russia è un possibile colpevole (Wall Street Journal)](https://www.techmeme.com/261123/p48#a261123p48)** — *(Techmeme)*
+  - 📌 **Sintesi:** Wall Street Journal: Fonti: gli Stati Uniti stanno indagando sul possibile ruolo dell'Iran negli attacchi informatici contro un massimo di 50 petroliere energetiche tramite un difetto del router Fortinet; Anche la Russia è un possibile colpevole: si ritiene che almeno 50 navi che trasportavano petrolio e altre sostanze esplosive siano state attaccate, dicono i funzionari statunitensi
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[4] `🏦 Mercati Globali` [Gli Stati Uniti aggiungono Megaspeed alla lista nera commerciale per le preoccupazioni sul controllo delle esportazioni in mezzo alle polemiche su Nvidia](https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Gli Stati Uniti hanno aggiunto Megaspeed e altre sei società alla propria lista nera commerciale a causa delle preoccupazioni sulla potenziale diversione di prodotti informatici avanzati.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/20)
 _Aggiornamento registrato il `2026-11-24 02:00 CET`_
