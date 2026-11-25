@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026
 ### «Il procuratore generale degli Stati Uniti evita le domande sulle indagini; Abrego Garcia lascerà volontariamente gli Usa per evitare · Il ritorno di Jensen Huang è accolto con sollievo in Cina»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_00%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-4%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-16-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_01%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-5%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-20-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (4/23 ricerche orarie):**
-`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (5/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/23)
+_Aggiornamento registrato il `2026-11-25 01:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Il giallo dei tacchini graziati da Trump, uno è salvo ma l'altro è sparito](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/il-giallo-dei-tacchini-graziati-da-trump-uno-e-salvo-ma-laltro-e-sparito_6e129a09-6c89-4d3f-ad68-f543043ac389.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Freedom è stato 'perdonato', di Feathers non si hanno tracce ma amministrazione rassicura
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[2] `🇪🇺 Unione Europea & Policy` [La disputa sui nidi di uccelli minaccia di far deragliare i colloqui di pace centristi al Parlamento europeo](https://www.politico.eu/article/dispute-over-bird-nests-threatens-to-derail-centrist-peace-talks-in-eu-parliament/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** I colloqui tra le forze centriste si sono interrotti martedì a causa di un appello dell’ultimo minuto da parte dei legislatori di destra per riaprire le leggi sulla natura del blocco.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🏦 Mercati Globali` [Jensen Huang dice allo staff che Nvidia non ha bisogno di un piano di successione](https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il CEO di Nvidia Jensen Huang si è dimesso dopo diverse relazioni segnalate, inclusa una con una donna d'affari cinese sospettata di essere una spia di Pechino.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🤖 IA & Frontiera Tech` [I pubblici ministeri dello Utah ritirano le accuse penali contro Kalshi e i suoi co-fondatori, un giorno dopo che la società ha interrotto le operazioni nello stato (Marshall Cohen/CNN)](https://www.techmeme.com/261124/p45#a261124p45)** — *(Techmeme)*
+  - 📌 **Sintesi:** Marshall Cohen / CNN: i pubblici ministeri dello Utah ritirano le accuse penali contro Kalshi e i suoi cofondatori, un giorno dopo che la società ha interrotto le operazioni nello stato - I pubblici ministeri dello Utah hanno ritirato le accuse penali contro la società di previsione Kalshi e i suoi cofondatori martedì, un giorno dopo che la società ha interrotto le operazioni nello stato.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-25 00:00 CET`_
