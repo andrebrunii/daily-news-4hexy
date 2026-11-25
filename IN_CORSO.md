@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-16-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-17-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,23 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/20)
+_Aggiornamento registrato il `2026-11-25 13:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Processo Netanyahu, giudici chiedono alla procura di rinunciare alla corruzione](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/25/processo-netanyahu-giudici-chiedono-alla-procura-di-rinunciare-alla-corruzione_2323ec06-6522-42c1-839a-f6265203d25f.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Messa in discussione anche accusa di abuso di fiducia. Procuratrice:'O verdetto o accordo'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` `🔄 AGGIORNAMENTO` [Il raid ucraino in Libia ha danneggiato più di una nave da guerra russa](https://www.politico.eu/article/ukraine-russia-warship-attack-libya-international-law-neutral-waters/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-23 14:00 CET).
+  - 📌 **Sintesi:** Esperti legali affermano che l’attacco probabilmente ha violato il diritto internazionale, minando le regole che impediscono la diffusione dei conflitti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[3] `🔭 Ricerca & Spazio` [I comuni farmaci per il sonno e l’ansia potrebbero danneggiare il cervello che invecchia](https://www.sciencedaily.com/releases/2026/11/261124055854.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Quasi un anziano su tre con demenza o altri disturbi cognitivi assume farmaci potenzialmente dannosi che possono peggiorare la funzione cerebrale e aumentare il rischio di ospedalizzazione e morte prematura. Nonostante i progressi incoraggianti degli ultimi dieci anni, i ricercatori avvertono che i danni legati ai farmaci rimangono una minaccia importante e potenzialmente prevenibile...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🏛️ Filosofia & Idee` [Il passaggio](https://aeon.co/videos/a-veterinarian-helps-cindy-say-goodbye-to-fiona-her-17-year-old-dog)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Con compassione e attenzione, un veterinario aiuta Cindy a dare l'ultimo tenero addio al suo amato cane anziano, Fiona - di Aeon Video Guarda su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
 ### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/20)
 _Aggiornamento registrato il `2026-11-25 12:00 CET`_
