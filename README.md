@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026
 ### «“Tutto ciò che riguarda la Libia riguarda l’Italia”: perché lo sciopero; Il procuratore generale degli Stati Uniti evita le domande · Il ritorno di Jensen Huang è accolto con sollievo in Cina»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_10%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-14%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-56-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_11%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-15%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-60-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-25 11:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Ft, Trump accantona accordi commerciali con Mosca come incentivo per fine guerra](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/ft-trump-accantona-accordi-commerciali-con-mosca-come-incentivo-per-fine_edd85882-0756-4400-91c5-0756832d5c66.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il Cremlino ha mostrato scarso interesse, il focus sono i territori
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[2] `🇪🇺 Unione Europea & Policy` [La Kommission will 50-Milliarden-Euro-Fonds zur Förderung europäischer Schlüsseltechnologie aufsetzen](https://www.politico.eu/article/kommission-will-50-milliarden-euro-fonds-zur-foerderung-europaeischer-schluesseltechnologie-aufsetzen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il "Sovereign Tech Equity Fund" verrà utilizzato dai prossimi Siebenjahreshaushalt.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` [Via libera a impennata del 26% delle bollette energetiche in Gb, pesa la guerra](https://www.ansa.it/sito/notizie/economia/2026/11/25/via-libera-a-impennata-del-26-delle-bollette-energetiche-in-gb-pesa-la-guerra_e1dcc849-8a5a-46c3-a60b-aa82d456cdc4.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Autorithy giustifica rincari con situazione in Medio Oriente. Grana per governo Burnham
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
+- **[4] `🤖 IA & Frontiera Tech` [Kalyan Krishnamurthy, CEO del più grande rivenditore online indiano Flipkart, di proprietà di Walmart, prevede di lasciare il 4 dicembre; Il CTO Balaji Thiagarajan viene nominato CEO ad interim (Sankalp Phartiyal/Bloomberg)](https://www.techmeme.com/261125/p11#a261125p11)** — *(Techmeme)*
+  - 📌 **Sintesi:** Sankalp Phartiyal / Bloomberg: Kalyan Krishnamurthy, CEO del più grande rivenditore online indiano Flipkart, di proprietà di Walmart, prevede di lasciare il 4 dicembre; Il CTO Balaji Thiagarajan viene nominato CEO ad interim - L'amministratore delegato di Flipkart Kalyan Krishnamurthy, uno dei principali artefici dell'ascesa dell'azienda fino a diventare il rivenditore online numero 1 in India...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-25 10:00 CET`_

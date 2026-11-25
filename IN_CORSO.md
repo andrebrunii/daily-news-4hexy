@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-14-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-15-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/20)
+_Aggiornamento registrato il `2026-11-25 11:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Ft, Trump accantona accordi commerciali con Mosca come incentivo per fine guerra](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/ft-trump-accantona-accordi-commerciali-con-mosca-come-incentivo-per-fine_edd85882-0756-4400-91c5-0756832d5c66.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il Cremlino ha mostrato scarso interesse, il focus sono i territori
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[2] `🇪🇺 Unione Europea & Policy` [La Kommission will 50-Milliarden-Euro-Fonds zur Förderung europäischer Schlüsseltechnologie aufsetzen](https://www.politico.eu/article/kommission-will-50-milliarden-euro-fonds-zur-foerderung-europaeischer-schluesseltechnologie-aufsetzen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il "Sovereign Tech Equity Fund" verrà utilizzato dai prossimi Siebenjahreshaushalt.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` [Via libera a impennata del 26% delle bollette energetiche in Gb, pesa la guerra](https://www.ansa.it/sito/notizie/economia/2026/11/25/via-libera-a-impennata-del-26-delle-bollette-energetiche-in-gb-pesa-la-guerra_e1dcc849-8a5a-46c3-a60b-aa82d456cdc4.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Autorithy giustifica rincari con situazione in Medio Oriente. Grana per governo Burnham
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
+- **[4] `🤖 IA & Frontiera Tech` [Kalyan Krishnamurthy, CEO del più grande rivenditore online indiano Flipkart, di proprietà di Walmart, prevede di lasciare il 4 dicembre; Il CTO Balaji Thiagarajan viene nominato CEO ad interim (Sankalp Phartiyal/Bloomberg)](https://www.techmeme.com/261125/p11#a261125p11)** — *(Techmeme)*
+  - 📌 **Sintesi:** Sankalp Phartiyal / Bloomberg: Kalyan Krishnamurthy, CEO del più grande rivenditore online indiano Flipkart, di proprietà di Walmart, prevede di lasciare il 4 dicembre; Il CTO Balaji Thiagarajan viene nominato CEO ad interim - L'amministratore delegato di Flipkart Kalyan Krishnamurthy, uno dei principali artefici dell'ascesa dell'azienda fino a diventare il rivenditore online numero 1 in India...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/20)
 _Aggiornamento registrato il `2026-11-25 10:00 CET`_
