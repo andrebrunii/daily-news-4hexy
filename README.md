@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026
 ### «Il procuratore generale degli Stati Uniti evita le domande sulle indagini; I dati stessi della Russia mostrano quasi 500.000 morti nella guerra · Il ritorno di Jensen Huang è accolto con sollievo in Cina»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_06%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-10%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-40-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_07%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-11%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-44-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (10/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (11/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/23)
+_Aggiornamento registrato il `2026-11-25 07:00 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Vitamina D, lo studio: i valori estivi rivelano la salute più di quelli invernali](https://it.euronews.com/2026/11/25/vitamina-d-lo-studio-i-valori-estivi-rivelano-la-salute-piu-di-quelli-invernali)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Un gruppo di ricercatori svedesi ha cercato di capire chi può trarre il massimo beneficio dall’assunzione di integratori di vitamina D.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[2] `🇪🇺 Unione Europea & Policy` [Perché i socialisti europei si stanno rivoltando contro Frederiksen](https://www.politico.eu/podcast/brussels-playbook-podcast/why-europes-socialists-are-turning-on-frederiksen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Presentato da Fusion for Energy.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🤖 IA & Frontiera Tech` [AidenAI, con sede nel New Jersey, che aiuta le aziende a integrare l'intelligenza artificiale in app, infrastrutture dati e flussi di lavoro aziendali, ha raccolto una serie A da 32 milioni di dollari guidata da A91 Partners (Anne Florentyna/Inc42)](https://www.techmeme.com/261125/p2#a261125p2)** — *(Techmeme)*
+  - 📌 **Sintesi:** Anne Florentyna / Inc42: AidenAI, con sede nel New Jersey, che aiuta le aziende a integrare l'intelligenza artificiale in app, infrastrutture dati e flussi di lavoro aziendali, ha raccolto una serie A di 32 milioni di dollari guidata da A91 Partners — SOMMARIO — AidenAI, startup AI aziendale, ha raccolto 32 milioni di dollari in un round di finanziamento di serie A guidato da A91 Partners.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Allevia il sovraccarico di produttività con il “niksen”, l’arte olandese di non fare nulla](https://bigthink.com/the-learning-curve/niksen/)** — *(Big Think)*
+  - 📌 **Sintesi:** Quando è stata l'ultima volta che non hai fatto nulla? Con questo non intendo scorrere i social media, falciare il prato o preoccuparsi dell'ultimo dramma in ufficio. Intendo un non-fare senza scopo e senza obiettivo se non semplicemente godersi l'essere. Se sei come la maggior parte degli adulti moderni, probabilmente avrai difficoltà a ricordare un momento così lussuoso e, anche se potessi,...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
 ### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/23)
 _Aggiornamento registrato il `2026-11-25 06:00 CET`_
