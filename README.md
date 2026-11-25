@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026
 ### «“Tutto ciò che riguarda la Libia riguarda l’Italia”: perché lo sciopero; L’UE respinge la richiesta di Trump di nuove tariffe · Fonte: Il 4 dicembre il presidente Trump condurrà una cerimonia»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_17%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-21%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-84-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_18%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-22%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-88-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (21/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (22/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `18:00 CET` — Ricerca Oraria (22/23)
+_Aggiornamento registrato il `2026-11-25 18:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Il candidato alla presidenza francese Teddy Riner afferma che l’Ucraina “non è la nostra guerra”](https://www.politico.eu/article/french-presidential-hopeful-teddy-riner-says-ukraine-is-not-our-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Le osservazioni della medaglia d'oro olimpica sull'invasione su vasta scala da parte della Russia hanno provocato una reazione negativa.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🌍 Geopolitica & Mondo` [Maltempo mette a rischio i palloni della parata a Ny per il Ringraziamento](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/25/maltempo-mette-a-rischio-i-palloni-della-parata-a-ny-per-il-ringraziamento_8b29e17f-a484-4ee2-b0a2-e4736d6af029.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Sarebbe la prima volta in 55 anni. La parata del giorno del Thanksgiving ha cento anni
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💶 Macro & Finanza UE` [Borsa: Milano zavorrata da Prysmian e Stm, in luce Stellantis](https://www.ansa.it/sito/notizie/economia/2026/11/25/borsa-milano-zavorrata-da-prysmian-e-stm-in-luce-stellantis_c150f3fa-df21-45a3-ae80-b234db7662a0.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Giù sul listino le banche. In controtendenza gli automobilistici
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🤖 IA & Frontiera Tech` [Fonti: funzionari statunitensi hanno detto allo staff del Congresso che non ci sono prove che MSS abbia ordinato ad Alice Huang di spiare Jensen Huang e che la relazione potrebbe essere stata amorosa (Wall Street Journal)](https://www.techmeme.com/261125/p25#a261125p25)** — *(Techmeme)*
+  - 📌 **Sintesi:** Wall Street Journal: Fonti: funzionari statunitensi hanno detto allo staff del Congresso che non ci sono prove che MSS abbia ordinato ad Alice Huang di spiare Jensen Huang e che la relazione potrebbe essere stata amorosa — La discussione riservata è avvenuta solo un giorno dopo che l'amministrazione Trump ha contribuito a reinstallare Jensen Huang come CEO di Nvidia
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
 
 ### 🕒 Ora `17:00 CET` — Ricerca Oraria (21/23)
 _Aggiornamento registrato il `2026-11-25 17:00 CET`_
