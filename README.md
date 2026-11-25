@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026
 ### «“Tutto ciò che riguarda la Libia riguarda l’Italia”: perché lo sciopero; L’UE respinge la richiesta di Trump di nuove tariffe · Fonte: Il 4 dicembre il presidente Trump condurrà una cerimonia»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_18%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-22%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-88-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_19%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-23%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-92-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (22/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (23/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `19:00 CET` — Ricerca Oraria (23/23)
+_Aggiornamento registrato il `2026-11-25 19:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Machado promette una 'transizione politica senza rancori' in Venezuela](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/machado-promette-una-transizione-politica-senza-rancori-in-venezuela_5045858f-179f-4287-9c68-8e31ade0aee5.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** La leader dell'opposizione: 'Evitare vendette, indire le elezioni e rifondare lo Stato'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [Non “fare passi indietro” sulla spesa per la difesa, dice all’Europa un anziano parlamentare americano](https://www.politico.eu/article/dont-backslide-on-defense-spending-senior-us-lawmaker-tells-europe-brendan-boyle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Brendan Boyle ha affermato che l’UE deve continuare a investire nella difesa in mezzo ai difficili negoziati sul bilancio settennale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[3] `💶 Macro & Finanza UE` [Bologna regina delle città 'eco-mobili', buon trasporto pubblico e sharing efficiente](https://www.ansa.it/sito/notizie/economia/2026/11/25/bologna-regina-delle-citta-eco-mobili-buon-trasporto-pubblico-e-sharing_9da3cf4b-a775-4944-9bf8-4ce6556f48b8.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Rapporto Euromobility su 50 città, Roma 21/a e maglia nera a Catania
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🤖 IA & Frontiera Tech` [Every, una società di media che fornisce servizi di consulenza per aiutare le aziende a diventare native dell'intelligenza artificiale, ha raccolto una serie A di 17,5 milioni di dollari con una valutazione post-money di 110 milioni di dollari (Allie Garfinkle/Fortune)](https://www.techmeme.com/261125/p28#a261125p28)** — *(Techmeme)*
+  - 📌 **Sintesi:** Allie Garfinkle / Fortune: Every, una società di media che fornisce servizi di consulenza per aiutare le aziende a diventare native dell'intelligenza artificiale, ha raccolto una serie A di 17,5 milioni di dollari con una valutazione post-money di 110 milioni di dollari. Chiedi a Dan Shipper quanto spesso le startup mediatiche sostenute da venture capital hanno successo, e lui è sincero. — “La mia sensazione riguardo alla storia…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `18:00 CET` — Ricerca Oraria (22/23)
 _Aggiornamento registrato il `2026-11-25 18:00 CET`_

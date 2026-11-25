@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-22-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-23-2ea043?style=for-the-badge)
 
 </div>
 
@@ -15,7 +15,23 @@
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
 
-### 🕒 Ora `18:00 CET` — Ricerca Oraria (22/22)
+### 🕒 Ora `19:00 CET` — Ricerca Oraria (23/23)
+_Aggiornamento registrato il `2026-11-25 19:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Machado promette una 'transizione politica senza rancori' in Venezuela](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/machado-promette-una-transizione-politica-senza-rancori-in-venezuela_5045858f-179f-4287-9c68-8e31ade0aee5.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** La leader dell'opposizione: 'Evitare vendette, indire le elezioni e rifondare lo Stato'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [Non “fare passi indietro” sulla spesa per la difesa, dice all’Europa un anziano parlamentare americano](https://www.politico.eu/article/dont-backslide-on-defense-spending-senior-us-lawmaker-tells-europe-brendan-boyle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Brendan Boyle ha affermato che l’UE deve continuare a investire nella difesa in mezzo ai difficili negoziati sul bilancio settennale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[3] `💶 Macro & Finanza UE` [Bologna regina delle città 'eco-mobili', buon trasporto pubblico e sharing efficiente](https://www.ansa.it/sito/notizie/economia/2026/11/25/bologna-regina-delle-citta-eco-mobili-buon-trasporto-pubblico-e-sharing_9da3cf4b-a775-4944-9bf8-4ce6556f48b8.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Rapporto Euromobility su 50 città, Roma 21/a e maglia nera a Catania
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🤖 IA & Frontiera Tech` [Every, una società di media che fornisce servizi di consulenza per aiutare le aziende a diventare native dell'intelligenza artificiale, ha raccolto una serie A di 17,5 milioni di dollari con una valutazione post-money di 110 milioni di dollari (Allie Garfinkle/Fortune)](https://www.techmeme.com/261125/p28#a261125p28)** — *(Techmeme)*
+  - 📌 **Sintesi:** Allie Garfinkle / Fortune: Every, una società di media che fornisce servizi di consulenza per aiutare le aziende a diventare native dell'intelligenza artificiale, ha raccolto una serie A di 17,5 milioni di dollari con una valutazione post-money di 110 milioni di dollari. Chiedi a Dan Shipper quanto spesso le startup mediatiche sostenute da venture capital hanno successo, e lui è sincero. — “La mia sensazione riguardo alla storia…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+
+### 🕒 Ora `18:00 CET` — Ricerca Oraria (22/23)
 _Aggiornamento registrato il `2026-11-25 18:00 CET`_
 
 - **[1] `🇪🇺 Unione Europea & Policy` [Il candidato alla presidenza francese Teddy Riner afferma che l’Ucraina “non è la nostra guerra”](https://www.politico.eu/article/french-presidential-hopeful-teddy-riner-says-ukraine-is-not-our-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
@@ -31,7 +47,7 @@ _Aggiornamento registrato il `2026-11-25 18:00 CET`_
   - 📌 **Sintesi:** Wall Street Journal: Fonti: funzionari statunitensi hanno detto allo staff del Congresso che non ci sono prove che MSS abbia ordinato ad Alice Huang di spiare Jensen Huang e che la relazione potrebbe essere stata amorosa — La discussione riservata è avvenuta solo un giorno dopo che l'amministrazione Trump ha contribuito a reinstallare Jensen Huang come CEO di Nvidia
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
 
-### 🕒 Ora `17:00 CET` — Ricerca Oraria (21/22)
+### 🕒 Ora `17:00 CET` — Ricerca Oraria (21/23)
 _Aggiornamento registrato il `2026-11-25 17:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Violenza donne, la sede dell'ambasciata francese a Roma si veste d'arancione](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/violenza-donne-la-sede-dellambasciata-francese-a-roma-si-veste-darancione_21b13366-cab4-4c3c-baaf-fb0341dd289c.html)** — *(ANSA Mondo)*
@@ -47,7 +63,7 @@ _Aggiornamento registrato il `2026-11-25 17:00 CET`_
   - 📌 **Sintesi:** Dj -2%, Nasdaq -4,33%, S 500 perde il 3%
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
-### 🕒 Ora `16:00 CET` — Ricerca Oraria (20/22)
+### 🕒 Ora `16:00 CET` — Ricerca Oraria (20/23)
 _Aggiornamento registrato il `2026-11-25 16:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Ue a Usa, 'non siamo fonte di sovraccapacità, si rispetti limite 15% sui dazi'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/ue-a-usa-non-siamo-fonte-di-sovraccapacita-si-rispetti-limite-15-sui-dazi_197664dd-2987-43cb-8fa7-9546f2725f9c.html)** — *(ANSA Mondo)*
@@ -63,7 +79,7 @@ _Aggiornamento registrato il `2026-11-25 16:00 CET`_
   - 📌 **Sintesi:** La Francia accusa un’unità informatica iraniana di aver sabotato centinaia di congelatori di supermercati.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
-### 🕒 Ora `15:00 CET` — Ricerca Oraria (19/22)
+### 🕒 Ora `15:00 CET` — Ricerca Oraria (19/23)
 _Aggiornamento registrato il `2026-11-25 15:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Kiev rivendica, 'colpite due raffinerie di petrolio Rosneft a Samara in Russia'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/kiev-rivendica-colpite-due-raffinerie-di-petrolio-rosneft-a-samara-in-russia_00f1cf29-96bc-4296-a3b4-ce3bc7202f35.html)** — *(ANSA Mondo)*
@@ -79,7 +95,7 @@ _Aggiornamento registrato il `2026-11-25 15:00 CET`_
   - 📌 **Sintesi:** Bloomberg: Tether e Circle congelano più di 2 miliardi di dollari in criptovalute dopo l'hacking da 6,3 miliardi di dollari di Binance dimostra il loro controllo centralizzato e un cambiamento rispetto alla dipendenza di Circle dalle lente ordinanze dei tribunali — Mentre i ladri informatici nordcoreani stavano incanalando miliardi fuori da Binance il mese scorso, il più grande scambio di criptovalute del mondo sembrava...
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
-### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/22)
+### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/23)
 _Aggiornamento registrato il `2026-11-25 14:00 CET`_
 
 - **[1] `🇪🇺 Unione Europea & Policy` [Il Parlamento autorizza i negoziati su 7 dossier sul bilancio dell'UE](https://www.politico.eu/article/parliament-clears-seven-eu-budget-files-for-negotiations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
@@ -95,7 +111,7 @@ _Aggiornamento registrato il `2026-11-25 14:00 CET`_
   - 📌 **Sintesi:** Reuters: Fonti: la fintech indiana PhonePe, sostenuta da Walmart, riprende i preparativi per l'IPO, puntando al debutto nel primo trimestre del 2027 con una valutazione da $ 12 miliardi a $ 15 miliardi e raccogliendo da $ 1,2 miliardi a $ 1,5 miliardi — La fintech indiana PhonePe ha ripreso i preparativi per la sua offerta pubblica iniziale e punta alla quotazione nei primi tre mesi...
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
-### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/22)
+### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/23)
 _Aggiornamento registrato il `2026-11-25 13:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Processo Netanyahu, giudici chiedono alla procura di rinunciare alla corruzione](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/25/processo-netanyahu-giudici-chiedono-alla-procura-di-rinunciare-alla-corruzione_2323ec06-6522-42c1-839a-f6265203d25f.html)** — *(ANSA Mondo)*
@@ -112,7 +128,7 @@ _Aggiornamento registrato il `2026-11-25 13:00 CET`_
   - 📌 **Sintesi:** Con compassione e attenzione, un veterinario aiuta Cindy a dare l'ultimo tenero addio al suo amato cane anziano, Fiona - di Aeon Video Guarda su Aeon
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
-### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/22)
+### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/23)
 _Aggiornamento registrato il `2026-11-25 12:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Cremlino, 'la Libia ha il diritto di rispondere all'aggressione a Bengasi'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/cremlino-la-libia-ha-il-diritto-di-rispondere-allaggressione-a-bengasi_ea278a9e-2803-4823-a190-60efc9d88a19.html)** — *(ANSA Mondo)*
@@ -128,7 +144,7 @@ _Aggiornamento registrato il `2026-11-25 12:00 CET`_
   - 📌 **Sintesi:** A Panton, nel Vermont, con una popolazione di 660 abitanti, il segretario comunale Kyle Rowe ha fatto tutto. Ha elaborato budget, pagato venditori, gestito controversie sulle tasse sulla proprietà e ha ricoperto il ruolo di supervisore della zonizzazione della città e presidente dell'ufficiale elettorale. Durante l'orario di ufficio mattutino presso il municipio, una struttura in legno costruita come chiesa nel 1858, ha anche risposto alle richieste di documenti pubblici. Recentemente, lui…
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
 
-### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/22)
+### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-25 11:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Ft, Trump accantona accordi commerciali con Mosca come incentivo per fine guerra](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/ft-trump-accantona-accordi-commerciali-con-mosca-come-incentivo-per-fine_edd85882-0756-4400-91c5-0756832d5c66.html)** — *(ANSA Mondo)*
@@ -144,7 +160,7 @@ _Aggiornamento registrato il `2026-11-25 11:00 CET`_
   - 📌 **Sintesi:** Sankalp Phartiyal / Bloomberg: Kalyan Krishnamurthy, CEO del più grande rivenditore online indiano Flipkart, di proprietà di Walmart, prevede di lasciare il 4 dicembre; Il CTO Balaji Thiagarajan viene nominato CEO ad interim - L'amministratore delegato di Flipkart Kalyan Krishnamurthy, uno dei principali artefici dell'ascesa dell'azienda fino a diventare il rivenditore online numero 1 in India...
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
-### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/22)
+### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-25 10:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Parigi difende Kiev, 'in Libia ha esercitato diritto a difendersi'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/parigi-difende-kiev-in-libia-ha-esercitato-diritto-a-difendersi_12ddb82c-40c2-4514-ac5a-a956f12aed4d.html)** — *(ANSA Mondo)*
@@ -161,7 +177,7 @@ _Aggiornamento registrato il `2026-11-25 10:00 CET`_
   - 📌 **Sintesi:** Le grandi aziende tecnologiche potrebbero trovare sempre più difficile ottenere finanziamenti dai mercati del debito cruciali per lo sviluppo dell’intelligenza artificiale, poiché i finanziatori diventano più selettivi riguardo alle obbligazioni societarie.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
 
-### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/22)
+### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/23)
 _Aggiornamento registrato il `2026-11-25 09:00 CET`_
 
 - **[1] `🇪🇺 Unione Europea & Policy` [James Cleverly è pronto a candidarsi a sindaco di Londra. Il partito laburista sta ancora aspettando Sadiq Khan.](https://www.politico.eu/article/sadiq-khan-james-cleverly-labour-conservative-mayor-london/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
@@ -177,7 +193,7 @@ _Aggiornamento registrato il `2026-11-25 09:00 CET`_
   - 📌 **Sintesi:** Era previsto un rialzo dell'1,2% a fronte del precedente progresso dell'1%
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
 
-### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/22)
+### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/23)
 _Aggiornamento registrato il `2026-11-25 08:00 CET`_
 
 - **[1] `🌐 Scacchiere Globale` [Quattro anni dopo l’enorme schianto di un asteroide, una navicella spaziale è ora tornata per valutare i danni](https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
@@ -194,7 +210,7 @@ _Aggiornamento registrato il `2026-11-25 08:00 CET`_
   - 📌 **Sintesi:** Natura, Pubblicato online: 24 novembre 2026; doi:10.1038/d41586-026-03822-5 La scienza sulla consapevolezza dell'IA deve riconoscere l'incertezza
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
-### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/22)
+### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/23)
 _Aggiornamento registrato il `2026-11-25 07:00 CET`_
 
 - **[1] `🇪🇺 Cronaca Europea` [Vitamina D, lo studio: i valori estivi rivelano la salute più di quelli invernali](https://it.euronews.com/2026/11/25/vitamina-d-lo-studio-i-valori-estivi-rivelano-la-salute-piu-di-quelli-invernali)** — *(Euronews Italia)*
@@ -210,7 +226,7 @@ _Aggiornamento registrato il `2026-11-25 07:00 CET`_
   - 📌 **Sintesi:** Quando è stata l'ultima volta che non hai fatto nulla? Con questo non intendo scorrere i social media, falciare il prato o preoccuparsi dell'ultimo dramma in ufficio. Intendo un non-fare senza scopo e senza obiettivo se non semplicemente godersi l'essere. Se sei come la maggior parte degli adulti moderni, probabilmente avrai difficoltà a ricordare un momento così lussuoso e, anche se potessi,...
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
-### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/22)
+### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/23)
 _Aggiornamento registrato il `2026-11-25 06:00 CET`_
 
 - **[1] `🇪🇺 Unione Europea & Policy` [Die schwierigen Wochen bis Weihnachten des Kanzlers](https://www.politico.eu/podcast/berlin-playbook-podcast/die-schwierigen-wochen-bis-weihnachten-des-kanzlers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
@@ -226,7 +242,7 @@ _Aggiornamento registrato il `2026-11-25 06:00 CET`_
   - 📌 **Sintesi:** Questo è stato il secondo attacco da parte del gruppo sostenuto dall'Iran in sei giorni alla torre, sebbene l'attacco precedente non abbia causato vittime.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
 
-### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/22)
+### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/23)
 _Aggiornamento registrato il `2026-11-25 05:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Huawei: 'La condanna Usa è senza fondamento giuridico o fattuale'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/25/huawei-la-condanna-usa-e-senza-fondamento-giuridico-o-fattuale_43d75cfa-2c2d-4a51-ab3d-117ab0e58d5e.html)** — *(ANSA Mondo)*
@@ -242,7 +258,7 @@ _Aggiornamento registrato il `2026-11-25 05:00 CET`_
   - 📌 **Sintesi:** I ricercatori dell’IBM e dell’Università di Chicago hanno dimostrato che un computer quantistico può completare un calcolo straordinariamente complesso in soli 15 minuti, ben oltre la portata pratica dei principali metodi informatici classici. Una nuova tecnica di rilevamento degli errori consente inoltre agli scienziati di stabilire la fiducia nell’accuratezza dei risultati, superando un importante...
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
-### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/22)
+### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/23)
 _Aggiornamento registrato il `2026-11-25 04:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Due militari libici morti per le ferite nell'attacco ucraino alle navi russe](https://www.ansa.it/sito/notizie/mondo/africa/2026/11/25/due-militari-libici-morti-per-le-ferite-nellattacco-ucraino-alle-navi_95127e10-b933-4e3a-b0e7-228ef94f4ada.html)** — *(ANSA Mondo)*
@@ -259,7 +275,7 @@ _Aggiornamento registrato il `2026-11-25 04:00 CET`_
   - 📌 **Sintesi:** Natura, Pubblicato online: 24 novembre 2026; doi:10.1038/d41586-026-03725-5 La vita dell'uomo che portò la trigonometria in Inghilterra e gli esperimenti iniziano su un acceleratore appena completato al CERN, nel nostro tuffo settimanale nell'archivio della Natura.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
 
-### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/22)
+### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/23)
 _Aggiornamento registrato il `2026-11-25 03:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Messico, investimenti esteri diretti record oltre 43 miliardi di dollari](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/messico-investimenti-esteri-diretti-record-oltre-43-miliardi-di-dollari_b4eadfd7-b556-4c89-b8a3-aa28bc8e93da.html)** — *(ANSA Mondo)*
@@ -275,7 +291,7 @@ _Aggiornamento registrato il `2026-11-25 03:00 CET`_
   - 📌 **Sintesi:** I promemoria interni rivelano una revisione "Code Red" e ambiziosi obiettivi di ripristino di un'ora.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
 
-### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/22)
+### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/23)
 _Aggiornamento registrato il `2026-11-25 02:00 CET`_
 
 - **[1] `🇪🇺 Cronaca Europea` [Nave cargo Miro G rimessa a galla dopo l'incaglio al largo del sud-ovest della Francia](https://it.euronews.com/2026/11/24/nave-cargo-miro-g-rimessa-a-galla-dopo-lincaglio-al-largo-del-sud-ovest-della-francia)** — *(Euronews Italia)*
@@ -293,7 +309,7 @@ _Aggiornamento registrato il `2026-11-25 02:00 CET`_
   - 📌 **Sintesi:** Mercoledì i titoli tecnologici asiatici sono crollati, guidati dalla disfatta dei titoli giapponesi dei semiconduttori, mentre le rinnovate preoccupazioni sul commercio dell’intelligenza artificiale hanno scosso gli investitori.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
-### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/22)
+### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/23)
 _Aggiornamento registrato il `2026-11-25 01:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Il giallo dei tacchini graziati da Trump, uno è salvo ma l'altro è sparito](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/il-giallo-dei-tacchini-graziati-da-trump-uno-e-salvo-ma-laltro-e-sparito_6e129a09-6c89-4d3f-ad68-f543043ac389.html)** — *(ANSA Mondo)*
@@ -309,7 +325,7 @@ _Aggiornamento registrato il `2026-11-25 01:00 CET`_
   - 📌 **Sintesi:** Marshall Cohen / CNN: i pubblici ministeri dello Utah ritirano le accuse penali contro Kalshi e i suoi cofondatori, un giorno dopo che la società ha interrotto le operazioni nello stato - I pubblici ministeri dello Utah hanno ritirato le accuse penali contro la società di previsione Kalshi e i suoi cofondatori martedì, un giorno dopo che la società ha interrotto le operazioni nello stato.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
-### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/22)
+### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-25 00:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Abrego Garcia lascerà volontariamente gli Usa per evitare la deportazione](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/abrego-garcia-lascera-volontariamente-gli-usa-per-evitare-la-deportazione_133a8d7e-1a33-4672-828a-18dc0e6fc6e4.html)** — *(ANSA Mondo)*
@@ -325,7 +341,7 @@ _Aggiornamento registrato il `2026-11-25 00:00 CET`_
   - 📌 **Sintesi:** Perseverance ha difficoltà a trasmettersi alla Terra. L'Odyssey sta rapidamente consumando la sua riserva di carburante in calo.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
-### 🕒 Ora `23:00 CET` — Ricerca Oraria (3/22)
+### 🕒 Ora `23:00 CET` — Ricerca Oraria (3/23)
 _Aggiornamento registrato il `2026-11-24 23:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Premier Haiti, 'l'accordo con El Salvador è per la sicurezza nazionale'](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/24/premier-haiti-laccordo-con-el-salvador-e-per-la-sicurezza-nazionale_140dffa9-9110-4dfa-bfc5-6663fd75383f.html)** — *(ANSA Mondo)*
@@ -342,7 +358,7 @@ _Aggiornamento registrato il `2026-11-24 23:00 CET`_
   - 📌 **Sintesi:** Trump nella bufera per Nvidia, 'ombre di insider trading'. 'Ha guadagnato fino a 15 milioni'. Accuse bipartisan, per Hillary Clinton un 'Supergate'
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
 
-### 🕒 Ora `22:00 CET` — Ricerca Oraria (2/22)
+### 🕒 Ora `22:00 CET` — Ricerca Oraria (2/23)
 _Aggiornamento registrato il `2026-11-24 22:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Huang, 'non è stato Trump a farmi tornare, board ha scelto in autonomia'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/24/huang-non-e-stato-trump-a-farmi-tornare-board-ha-scelto-in-autonomia_81c02eb9-c2c4-4eea-9027-224f1c5e65eb.html)** — *(ANSA Mondo)*
@@ -358,7 +374,7 @@ _Aggiornamento registrato il `2026-11-24 22:00 CET`_
   - 📌 **Sintesi:** Le reti aziendali sono sotto forte pressione. Mentre le aziende si affrettano a implementare l’intelligenza artificiale, la tecnologia sta rapidamente diventando la principale fonte di domanda sulla rete. Ora, l’intelligenza artificiale degli agenti si aggiunge al carico. Le attività svolte dagli agenti IA generano circa il 450% in più di traffico di rete rispetto alle stesse attività svolte dai lavoratori umani. COME…
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
-### 🕒 Ora `21:00 CET` — Ricerca Oraria (1/22)
+### 🕒 Ora `21:00 CET` — Ricerca Oraria (1/23)
 _Aggiornamento registrato il `2026-11-24 21:00 CET`_
 
 - **[1] `🌐 Scacchiere Globale` [Il procuratore generale degli Stati Uniti evita le domande sulle indagini di Nvidia](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
