@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-17-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-18-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/20)
+_Aggiornamento registrato il `2026-11-25 14:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Il Parlamento autorizza i negoziati su 7 dossier sul bilancio dell'UE](https://www.politico.eu/article/parliament-clears-seven-eu-budget-files-for-negotiations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il voto ha scongiurato una possibile sfida da parte dell’estrema destra.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[2] `🌍 Geopolitica & Mondo` [Ira del Brasile per il rinvio Ue su export di pollo e miele](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/ira-del-brasile-per-il-rinvio-ue-su-export-di-pollo-e-miele_c4f35658-7d5c-4583-86c1-dd86be46ec5b.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il governo: controlli positivi, nessuna ragione tecnica per lo stop di Bruxelles
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[3] `💶 Macro & Finanza UE` [Borsa: Milano rallenta (-0,95%), giù B. Generali, Fineco e Unicredit](https://www.ansa.it/sito/notizie/economia/2026/11/25/borsa-milano-rallenta-095-giu-b.-generali-fineco-e-unicredit_b0451e31-6376-45f7-a617-eb63ce675587.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Prosegue la corsa di Stellanits, Buzzi e Ferrari. Spread sopra 111 punti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🤖 IA & Frontiera Tech` [Fonti: PhonePe, la fintech indiana sostenuta da Walmart, riprende i preparativi per l'IPO, puntando al debutto nel primo trimestre del 2027 con una valutazione da $ 12 miliardi a $ 15 miliardi e raccogliendo da $ 1,2 miliardi a $ 1,5 miliardi (Reuters)](https://www.techmeme.com/261125/p19#a261125p19)** — *(Techmeme)*
+  - 📌 **Sintesi:** Reuters: Fonti: la fintech indiana PhonePe, sostenuta da Walmart, riprende i preparativi per l'IPO, puntando al debutto nel primo trimestre del 2027 con una valutazione da $ 12 miliardi a $ 15 miliardi e raccogliendo da $ 1,2 miliardi a $ 1,5 miliardi — La fintech indiana PhonePe ha ripreso i preparativi per la sua offerta pubblica iniziale e punta alla quotazione nei primi tre mesi...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/20)
 _Aggiornamento registrato il `2026-11-25 13:00 CET`_
