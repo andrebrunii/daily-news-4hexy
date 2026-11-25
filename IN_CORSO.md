@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-5-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-6-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,24 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/20)
+_Aggiornamento registrato il `2026-11-25 02:00 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Nave cargo Miro G rimessa a galla dopo l'incaglio al largo del sud-ovest della Francia](https://it.euronews.com/2026/11/24/nave-cargo-miro-g-rimessa-a-galla-dopo-lincaglio-al-largo-del-sud-ovest-della-francia)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** La Prefettura marittima dell’Atlantico francese dopo aver dichiarato la nave ha dichiarato che "non è stato rilevato alcun inquinamento marino nell’area in cui la nave si è arenata né lungo la sua rotta di transito"
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌐 Scacchiere Globale` `🔄 AGGIORNAMENTO` [Huawei giudicata colpevole di furto di segreti commerciali ma assolta dall'accusa di racket](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-24 22:00 CET).
+  - 📌 **Sintesi:** Il verdetto segue un processo durato mesi a New York.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` `🔄 AGGIORNAMENTO` [Workday riporta che i ricavi del terzo trimestre sono aumentati dell'11% su base annua a 2,71 miliardi di dollari, sopra i 2,69 miliardi di dollari stimati, prevede ricavi da abbonamenti per il quarto trimestre di 2,6 miliardi di dollari, al di sotto dei 2,61 miliardi di dollari stimati; WDAY scende del 6%+ fuori orario (Duncan Riley/SiliconANGLE)](https://www.techmeme.com/261124/p46#a261124p46)** — *(Techmeme)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-24 00:00 CET).
+  - 📌 **Sintesi:** Duncan Riley/SiliconANGLE: Workday riporta che i ricavi del terzo trimestre sono aumentati dell'11% su base annua a 2,71 miliardi di dollari, sopra i 2,69 miliardi di dollari stimati, prevede ricavi da abbonamenti per il quarto trimestre di 2,6 miliardi di dollari, sotto i 2,61 miliardi di dollari stimati; WDAY scende di oltre il 6% dopo l'orario di chiusura - Le azioni della società di risorse umane e società di software finanziario Workday Inc. sono scese di oltre il 7% nelle ultime contrattazioni di oggi dopo un ...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🏦 Mercati Globali` [SoftBank crolla di oltre l'11% mentre la svendita dell'intelligenza artificiale di Wall Street si ripercuote sui nomi tecnologici asiatici](https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Mercoledì i titoli tecnologici asiatici sono crollati, guidati dalla disfatta dei titoli giapponesi dei semiconduttori, mentre le rinnovate preoccupazioni sul commercio dell’intelligenza artificiale hanno scosso gli investitori.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/20)
 _Aggiornamento registrato il `2026-11-25 01:00 CET`_
