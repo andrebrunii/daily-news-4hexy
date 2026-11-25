@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🧭 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026
-### «“Tutto ciò che riguarda la Libia riguarda l’Italia”: perché lo sciopero; Il procuratore generale degli Stati Uniti evita le domande · Fonte: Il 4 dicembre il presidente Trump condurrà una cerimonia»
+### «“Tutto ciò che riguarda la Libia riguarda l’Italia”: perché lo sciopero; L’UE respinge la richiesta di Trump di nuove tariffe · Fonte: Il 4 dicembre il presidente Trump condurrà una cerimonia»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_16%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-20%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-80-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_17%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-21%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-84-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (20/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (21/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `17:00 CET` — Ricerca Oraria (21/23)
+_Aggiornamento registrato il `2026-11-25 17:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Violenza donne, la sede dell'ambasciata francese a Roma si veste d'arancione](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/violenza-donne-la-sede-dellambasciata-francese-a-roma-si-veste-darancione_21b13366-cab4-4c3c-baaf-fb0341dd289c.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Nessuna dovrebbe vivere nella paura'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [L’UE respinge la richiesta di Trump di nuove tariffe](https://www.politico.eu/article/eu-rejects-donald-trump-case-for-new-tariffs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Bruxelles contesta la conclusione di Washington secondo cui l’Europa sta alimentando la sovraccapacità industriale globale mentre gli Stati Uniti propongono un’imposta del 15%.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[3] `🧠 Paradigmi & Lunghi Orizzonti` [I “fatti” che hai imparato a scuola e che altri paesi raccontano in modo diverso](https://bigthink.com/mini-philosophy/the-facts-you-learned-at-school-that-other-countries-tell-differently/)** — *(Big Think)*
+  - 📌 **Sintesi:** "C'è una vecchia espressione che suona così: se chiedi a un pesce dell'acqua, il pesce dirà: 'Quale acqua?' Perché è proprio intorno a loro, e molte delle nostre idee e ipotesi sul mondo sono così. Galleggiamo semplicemente in esse. Non le abbiamo mai necessariamente esaminate perché è abbastanza ovvio. " La settimana scorsa ho parlato con Jimmy Wales, l'uomo...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[4] `💶 Macro & Finanza UE` [Wall Street in netto calo, Nvidia perde oltre l'8%](https://www.ansa.it/sito/notizie/economia/2026/11/25/wall-street-in-netto-calo-nvidia-perde-oltre-l8_0a566270-935f-4041-829a-c1313da429dc.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Dj -2%, Nasdaq -4,33%, S 500 perde il 3%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `16:00 CET` — Ricerca Oraria (20/23)
 _Aggiornamento registrato il `2026-11-25 16:00 CET`_
