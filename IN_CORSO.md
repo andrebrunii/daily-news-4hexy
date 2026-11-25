@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-18-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-19-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `15:00 CET` — Ricerca Oraria (19/20)
+_Aggiornamento registrato il `2026-11-25 15:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Kiev rivendica, 'colpite due raffinerie di petrolio Rosneft a Samara in Russia'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/kiev-rivendica-colpite-due-raffinerie-di-petrolio-rosneft-a-samara-in-russia_00f1cf29-96bc-4296-a3b4-ce3bc7202f35.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Si tratta degli impianti di Kuibyshev e Syzran
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
+- **[2] `🇪🇺 Unione Europea & Policy` [La resa dei conti dell’UE sul prossimo grande bilancio: aggiornamenti in tempo reale](https://www.politico.eu/article/the-eus-showdown-over-next-big-budget-live-updates/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** I governi sono divisi sull’entità del bilancio a lungo termine e su come spendere il denaro.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[3] `🏦 Mercati Globali` [Gli Stati Uniti propongono nuove tariffe su 14 partner commerciali, tra cui Cina e UE](https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Le nuove imposte mirano a contrastare le pratiche del commercio estero ritenute ingiuste, discriminatorie o gravose per il commercio statunitense.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[4] `🤖 IA & Frontiera Tech` [Tether e Circle congelano oltre 2 miliardi di dollari in criptovalute dopo l'hack da 6,3 miliardi di dollari di Binance dimostra il loro controllo centralizzato e il cambiamento rispetto alla dipendenza di Circle dalle lente ordinanze dei tribunali (Bloomberg)](https://www.techmeme.com/261125/p22#a261125p22)** — *(Techmeme)*
+  - 📌 **Sintesi:** Bloomberg: Tether e Circle congelano più di 2 miliardi di dollari in criptovalute dopo l'hacking da 6,3 miliardi di dollari di Binance dimostra il loro controllo centralizzato e un cambiamento rispetto alla dipendenza di Circle dalle lente ordinanze dei tribunali — Mentre i ladri informatici nordcoreani stavano incanalando miliardi fuori da Binance il mese scorso, il più grande scambio di criptovalute del mondo sembrava...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/20)
 _Aggiornamento registrato il `2026-11-25 14:00 CET`_
