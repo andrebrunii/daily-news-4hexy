@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-8-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-9-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/20)
+_Aggiornamento registrato il `2026-11-25 05:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Huawei: 'La condanna Usa è senza fondamento giuridico o fattuale'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/25/huawei-la-condanna-usa-e-senza-fondamento-giuridico-o-fattuale_43d75cfa-2c2d-4a51-ab3d-117ab0e58d5e.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** L'azienda cinese annuncia 'tutte le azioni legali necessarie'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🇪🇺 Unione Europea & Policy` [Alberto Núñez Feijóo: A un passo dalla guida della Spagna](https://www.politico.eu/article/alberto-nunez-feijoo-one-step-away-from-running-spain/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il galiziano si definisce un manager sobrio e sobrio, in netto contrasto con il primo ministro socialista Pedro Sánchez.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Il CEO di Nutanix Rajiv Ramaswami annuncia l'intenzione di dimettersi e diventare consulente senior, ma rimarrà CEO fino a quando non verrà nominato un successore; si è unito alla fine del 2020 (Mike Wheatley/SiliconANGLE)](https://www.techmeme.com/261124/p51#a261124p51)** — *(Techmeme)*
+  - 📌 **Sintesi:** Mike Wheatley / SiliconANGLE: Rajiv Ramaswami, CEO di Nutanix, annuncia l'intenzione di dimettersi e diventare consulente senior, ma rimarrà CEO finché non verrà nominato un successore; è entrato a far parte alla fine del 2020 — Rajiv Ramaswami si dimette dal suo ruolo di amministratore delegato di Nutanix Inc., sei anni dopo il suo ingresso...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🔭 Ricerca & Spazio` [Il computer quantistico IBM risolve problemi che i computer classici non riescono a risolvere in soli 15 minuti](https://www.sciencedaily.com/releases/2026/11/261123231244.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** I ricercatori dell’IBM e dell’Università di Chicago hanno dimostrato che un computer quantistico può completare un calcolo straordinariamente complesso in soli 15 minuti, ben oltre la portata pratica dei principali metodi informatici classici. Una nuova tecnica di rilevamento degli errori consente inoltre agli scienziati di stabilire la fiducia nell’accuratezza dei risultati, superando un importante...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
 ### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/20)
 _Aggiornamento registrato il `2026-11-25 04:00 CET`_
