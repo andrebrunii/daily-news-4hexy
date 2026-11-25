@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-6-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-7-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/20)
+_Aggiornamento registrato il `2026-11-25 03:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Messico, investimenti esteri diretti record oltre 43 miliardi di dollari](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/messico-investimenti-esteri-diretti-record-oltre-43-miliardi-di-dollari_b4eadfd7-b556-4c89-b8a3-aa28bc8e93da.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Crescita del 5,3% nei primi nove mesi trainata da Stati Uniti e manifattura
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🌐 Scacchiere Globale` [Aumentano le vittime delle mine in Siria, due anni dopo la guerra](https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Secondo i dati, quasi 1.000 bambini sono tra le persone uccise o ferite dagli esplosivi rimasti dal conflitto.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🤖 IA & Frontiera Tech` [Il FinCEN del Tesoro americano afferma che sta indagando su un incidente di sicurezza informatica che "ha provocato l'accesso non autorizzato a un sottoinsieme limitato dei suoi sistemi" (Lauren Feiner/The Verge)](https://www.techmeme.com/261124/p48#a261124p48)** — *(Techmeme)*
+  - 📌 **Sintesi:** Lauren Feiner / The Verge: FinCEN del Tesoro americano afferma che sta indagando su un incidente di sicurezza informatica che "ha provocato l'accesso non autorizzato a un sottoinsieme limitato dei suoi sistemi" - l'allarme di FinCEN arriva sulla scia di una violazione segnalata di informazioni non classificate presso le agenzie di spionaggio statunitensi, inclusa la CIA.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[4] `💻 Tecnologia & Cyber` [La storica interruzione del cloud di Microsoft ha messo in luce una “nebbia di guerra” ingegneristica](https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** I promemoria interni rivelano una revisione "Code Red" e ambiziosi obiettivi di ripristino di un'ora.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
 
 ### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/20)
 _Aggiornamento registrato il `2026-11-25 02:00 CET`_
