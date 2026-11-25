@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🧭 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026
-### «Il procuratore generale degli Stati Uniti evita le domande sulle indagini; Abrego Garcia lascerà volontariamente gli Usa per evitare · Il ritorno di Jensen Huang è accolto con sollievo in Cina»
+### «Il procuratore generale degli Stati Uniti evita le domande sulle indagini; I dati stessi della Russia mostrano quasi 500.000 morti nella guerra · Il ritorno di Jensen Huang è accolto con sollievo in Cina»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_05%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-9%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-36-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_06%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-10%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-40-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (9/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (10/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/23)
+_Aggiornamento registrato il `2026-11-25 06:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Die schwierigen Wochen bis Weihnachten des Kanzlers](https://www.politico.eu/podcast/berlin-playbook-podcast/die-schwierigen-wochen-bis-weihnachten-des-kanzlers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Presente da YouTube.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌐 Scacchiere Globale` [I dati stessi della Russia mostrano quasi 500.000 morti nella guerra in Ucraina](https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** I dati trapelati rivelano come l’invasione su vasta scala dell’Ucraina abbia cambiato radicalmente i modelli di mortalità in Russia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `🤖 IA & Frontiera Tech` [Fonti: Muse potenzia l'attività pubblicitaria di Meta spingendo gli utenti di Instagram a organizzare i post salvati in Muse, riducendo le difficoltà di acquisto e aumentando il ROI degli inserzionisti (Julia Boorstin/CNBC)](https://www.techmeme.com/261124/p53#a261124p53)** — *(Techmeme)*
+  - 📌 **Sintesi:** Julia Boorstin / CNBC : Fonti: Muse potenzia l'attività pubblicitaria di Meta spingendo gli utenti di Instagram a organizzare i post salvati in Muse, riducendo l'attrito dello shopping e aumentando il ROI degli inserzionisti: l'agente di intelligenza artificiale personale Muse senza pubblicità di Meta sta già aiutando il gigante dei social media a incrementare la sua attività pubblicitaria...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🏦 Mercati Globali` [L'attacco degli Houthi alla torre del fondo sovrano saudita PIF ferisce 11 persone](https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Questo è stato il secondo attacco da parte del gruppo sostenuto dall'Iran in sei giorni alla torre, sebbene l'attacco precedente non abbia causato vittime.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
 
 ### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/23)
 _Aggiornamento registrato il `2026-11-25 05:00 CET`_
