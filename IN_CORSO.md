@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-12-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-13-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/20)
+_Aggiornamento registrato il `2026-11-25 09:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [James Cleverly è pronto a candidarsi a sindaco di Londra. Il partito laburista sta ancora aspettando Sadiq Khan.](https://www.politico.eu/article/sadiq-khan-james-cleverly-labour-conservative-mayor-london/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il sindaco di Londra in carica deve prendere una decisione o rischiare di dare un vantaggio agli oppositori, avvertono i parlamentari laburisti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌐 Scacchiere Globale` [L’aumento dei costi per mettere il cibo in tavola in India](https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** L’inflazione alimentare in India si sta ampliando, comprimendo i bilanci delle famiglie.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[3] `🧠 Paradigmi & Lunghi Orizzonti` [La mappa cosmica della posizione della Terra di Voyager: carina, ma sbagliata](https://bigthink.com/starts-with-a-bang/voyager-cosmic-map-wrong/)** — *(Big Think)*
+  - 📌 **Sintesi:** Qui, alla fine del 2026, è stato raggiunto un traguardo incredibile: la navicella spaziale Voyager 1 – la navicella spaziale più distante dall’umanità dalla Terra – ha finalmente superato la distanza di un giorno luce da noi. Insieme alla gemella Voyager 2, queste due navicelle spaziali hanno lasciato i confini del Sistema Solare e ora attraversano lo spazio interstellare, fluttuando liberamente attraverso...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `💶 Macro & Finanza UE` [Il Pil trimestrale tedesco sale meno delle stime (+1,1%)](https://www.ansa.it/sito/notizie/economia/2026/11/25/il-pil-trimestrale-tedesco-sale-meno-delle-stime-11_3e9b83e3-c0b3-493a-ad67-577817201c0a.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Era previsto un rialzo dell'1,2% a fronte del precedente progresso dell'1%
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
 
 ### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/20)
 _Aggiornamento registrato il `2026-11-25 08:00 CET`_
