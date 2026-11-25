@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Giovedì 26 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--26-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-2-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--26-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-3-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,23 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `23:00 CET` — Ricerca Oraria (3/20)
+_Aggiornamento registrato il `2026-11-25 23:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Giustizia argentina indaga l'Opus Dei per traffico di persone e riduzione in schiavitù](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/giustizia-argentina-indaga-lopus-dei-per-traffico-di-persone-e-riduzione-in-schiavitu_d267d3a7-070d-4aee-84c6-f12ff434de3b.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Accolta la denuncia di une delle 43 vittime di fatti occorsi tra il 1974 e il 2015
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [“Les COP, c’est une blague”: les critiques enflent contre les sommets climatiques après l’échec à Antalya](https://www.politico.eu/article/les-cop-cest-une-blague-les-critiques-enflent-contre-les-sommets-climatiques-apres-lechec-a-antalya/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La fine del caos della COP31 può essere affrontata in tutti i processi di negoziazione climatica.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[3] `🏦 Mercati Globali` `🔄 AGGIORNAMENTO` [I titoli tecnologici crollano ma chiudono ben al di sotto dei minimi, Anthropic fatica a risalire al di sopra del prezzo IPO](https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html)** — *(CNBC Global Economy)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-25 20:00 CET).
+  - 📌 **Sintesi:** Nvidia e altri titoli legati all’intelligenza artificiale sono crollati poiché gli investitori hanno soppesato la spesa per l’intelligenza artificiale, l’inflazione e i rischi di tasso più elevato.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🤖 IA & Frontiera Tech` [Il governatore dello Stato di New York Kathy Hochul firma un disegno di legge che vieta i giocattoli chatbot basati sull'intelligenza artificiale per cinque anni, a partire da febbraio; Il governatore della California Gavin Newsom ha firmato un divieto di quattro anni a settembre (NBC News)](https://www.techmeme.com/261125/p37#a261125p37)** — *(Techmeme)*
+  - 📌 **Sintesi:** NBC News: Il governatore dello Stato di New York Kathy Hochul firma un disegno di legge che vieta i giocattoli chatbot basati sull'intelligenza artificiale per cinque anni, a partire da febbraio; Il governatore della California Gavin Newsom ha firmato un divieto di quattro anni a settembre – Il governatore Kathy Hochul ha firmato oggi un disegno di legge che impedisce la produzione, lo scambio, la distribuzione e la vendita di giocattoli alimentati da chatbot basati sull’intelligenza artificiale nello Stato di New York.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `22:00 CET` — Ricerca Oraria (2/20)
 _Aggiornamento registrato il `2026-11-25 22:00 CET`_
