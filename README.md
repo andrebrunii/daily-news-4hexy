@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🧭 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026
-### «Il procuratore generale degli Stati Uniti evita le domande sulle indagini; I dati stessi della Russia mostrano quasi 500.000 morti nella guerra · Il ritorno di Jensen Huang è accolto con sollievo in Cina»
+### «“Tutto ciò che riguarda la Libia riguarda l’Italia”: perché lo sciopero; Il procuratore generale degli Stati Uniti evita le domande · Il ritorno di Jensen Huang è accolto con sollievo in Cina»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_07%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-11%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-44-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_08%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-12%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-48-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (11/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (12/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/23)
+_Aggiornamento registrato il `2026-11-25 08:00 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Quattro anni dopo l’enorme schianto di un asteroide, una navicella spaziale è ora tornata per valutare i danni](https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** La missione sta studiando un asteroide deliberatamente mandato fuori rotta da un veicolo spaziale in collisione.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [“Tutto ciò che riguarda la Libia riguarda l’Italia”: perché lo sciopero Med dell’Ucraina è un problema per la Meloni](https://www.politico.eu/article/ukraine-strikes-russian-ships-libya-giorgia-meloni-italy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il primo ministro italiano è un forte sostenitore di Kiev, ma a Roma si teme che gli attacchi alle navi russe possano destabilizzare la Libia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[3] `🤖 IA & Frontiera Tech` [OpenAI pubblica un preprint in cui afferma di dimostrare che l'esponente della moltiplicazione della matrice (ω) è esattamente 9/4, affrontando un importante problema aperto in matematica (Deedy/@deedydas)](https://www.techmeme.com/261125/p5#a261125p5)** — *(Techmeme)*
+  - 📌 **Sintesi:** Deedy / @deedydas: OpenAI pubblica una prestampa in cui afferma di dimostrare che l'esponente di moltiplicazione di matrici (ω) è esattamente 9/4, affrontando un importante problema aperto in matematica: OpenAI ha appena pubblicato una prova di 111 pagine di un problema di matematica vecchio di 57 anni: l'esponente di moltiplicazione di matrici (ω) è esattamente 9/4. Questo problema si colloca al 31° posto nella top 500 dei problemi aperti di ProofAtlas...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🧬 Scienza & Scoperte` `🔄 AGGIORNAMENTO` [La scienza sulla coscienza dell’intelligenza artificiale deve riconoscere l’incertezza](https://www.nature.com/articles/d41586-026-03822-5)** — *(Nature Research)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-24 12:00 CET).
+  - 📌 **Sintesi:** Natura, Pubblicato online: 24 novembre 2026; doi:10.1038/d41586-026-03822-5 La scienza sulla consapevolezza dell'IA deve riconoscere l'incertezza
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/23)
 _Aggiornamento registrato il `2026-11-25 07:00 CET`_
