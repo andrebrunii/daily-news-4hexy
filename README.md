@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🧭 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026
-### «“Tutto ciò che riguarda la Libia riguarda l’Italia”: perché lo sciopero; Il procuratore generale degli Stati Uniti evita le domande · Il ritorno di Jensen Huang è accolto con sollievo in Cina»
+### «“Tutto ciò che riguarda la Libia riguarda l’Italia”: perché lo sciopero; Il procuratore generale degli Stati Uniti evita le domande · Fonte: Il 4 dicembre il presidente Trump condurrà una cerimonia»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_15%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-19%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-76-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_16%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-20%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-80-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (19/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (20/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `16:00 CET` — Ricerca Oraria (20/23)
+_Aggiornamento registrato il `2026-11-25 16:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Ue a Usa, 'non siamo fonte di sovraccapacità, si rispetti limite 15% sui dazi'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/ue-a-usa-non-siamo-fonte-di-sovraccapacita-si-rispetti-limite-15-sui-dazi_197664dd-2987-43cb-8fa7-9546f2725f9c.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Respingiamo la premessa dell'indagine ai sensi della sezione 301'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[2] `🇪🇺 Unione Europea & Policy` [I socialisti e i liberali del Parlamento europeo interrompono i colloqui con il PPE](https://www.politico.eu/article/eu-parliaments-socialists-and-liberals-halt-talks-with-epp/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** I tre gruppi centristi stavano negoziando un accordo che avrebbe potuto comportare che Roberta Metsola ottenesse il terzo mandato come presidente.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Fonte: Il 4 dicembre il presidente Trump condurrà una cerimonia inaugurale per l'espansione dello stabilimento di Phoenix di TSMC, approfondendo il suo coinvolgimento nel settore dei chip (Bloomberg)](https://www.techmeme.com/261125/p23#a261125p23)** — *(Techmeme)*
+  - 📌 **Sintesi:** Bloomberg: Fonte: Il 4 dicembre il presidente Trump guiderà una cerimonia inaugurale per l'espansione dello stabilimento di Phoenix di TSMC, approfondendo il suo coinvolgimento nel settore dei chip. Il presidente Donald Trump sarà il protagonista dell'inaugurazione di un nuovo importante progetto di produzione di semiconduttori in Arizona la prossima settimana...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[4] `💻 Tecnologia & Cyber` [Un noto gruppo di hacker iraniano ha trovato un nuovo modo per provocare il caos](https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** La Francia accusa un’unità informatica iraniana di aver sabotato centinaia di congelatori di supermercati.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `15:00 CET` — Ricerca Oraria (19/23)
 _Aggiornamento registrato il `2026-11-25 15:00 CET`_
