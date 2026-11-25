@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-13-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--25-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-14-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,23 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/20)
+_Aggiornamento registrato il `2026-11-25 10:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Parigi difende Kiev, 'in Libia ha esercitato diritto a difendersi'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/parigi-difende-kiev-in-libia-ha-esercitato-diritto-a-difendersi_12ddb82c-40c2-4514-ac5a-a956f12aed4d.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Nei loro panni faremmo lo stesso, è Putin che li bombarda da cinque anni'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` `🔄 AGGIORNAMENTO` [Il (probabile) prossimo primo ministro spagnolo è l’esatto opposto di Pedro Sánchez](https://www.politico.eu/article/alberto-nunez-feijoo-one-step-away-from-running-spain/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-25 05:00 CET).
+  - 📌 **Sintesi:** Alberto Núñez Feijóo si definisce un allenatore sobrio e sobrio, in netto contrasto con l'attuale leader spagnolo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `💶 Macro & Finanza UE` [Inps, 1,2 milioni di beneficiari incentivi assunzione nel 2025, -5,5%](https://www.ansa.it/sito/notizie/economia/2026/11/25/inps-12-milioni-di-beneficiari-incentivi-assunzione-nel-2025-55_b3ce6b76-1400-4e4a-9f81-1c78f5af098e.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Diminuiscono apprendistato e incentivi per tempo indeterminato, salgono stabilizzazioni
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🏦 Mercati Globali` [Le preoccupazioni sul debito dell’IA crescono mentre la ripresa di Nvidia maschera la stretta sulla spesa delle Big Tech](https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Le grandi aziende tecnologiche potrebbero trovare sempre più difficile ottenere finanziamenti dai mercati del debito cruciali per lo sviluppo dell’intelligenza artificiale, poiché i finanziatori diventano più selettivi riguardo alle obbligazioni societarie.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
 
 ### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/20)
 _Aggiornamento registrato il `2026-11-25 09:00 CET`_
