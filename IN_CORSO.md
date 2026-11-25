@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Giovedì 26 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--26-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-1-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--26-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-2-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `22:00 CET` — Ricerca Oraria (2/20)
+_Aggiornamento registrato il `2026-11-25 22:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Decine di migliaia di persone in piazza in Spagna contro la violenza di genere](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/decine-di-migliaia-di-persone-in-piazza-in-spagna-contro-la-violenza-di-genere_b51b8ff4-b882-4250-b151-6ab4bf45274c.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Manifestazioni da Madrid a Barcellona, a Valencia e Siviglia. A Murcia un'altra vittima
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [Il governo Tusk “affronta l’armageddon” mentre la corte europea riprende i casi contro la Polonia](https://www.politico.eu/article/donald-tusk-government-facing-armageddon-as-european-court-resumes-cases-against-poland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il paese deve far fronte a milioni di euro di potenziali risarcimenti per la revisione giudiziaria del suo ex governo nazionalista.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [WhatsApp inizia a consentire agli utenti di programmare i messaggi da 10 minuti a 14 giorni in anticipo, in chat di gruppo e individuali; i messaggi vengono inviati anche se il telefono è spento (Ivan Mehta/TechCrunch)](https://www.techmeme.com/261125/p34#a261125p34)** — *(Techmeme)*
+  - 📌 **Sintesi:** Ivan Mehta / TechCrunch: WhatsApp inizia a consentire agli utenti di programmare i messaggi da 10 minuti a 14 giorni in anticipo, nelle chat di gruppo e individuali; i messaggi vengono inviati anche se il telefono è spento: mercoledì WhatsApp ha iniziato a lanciare una funzionalità molto ambita: la possibilità di programmare i messaggi sia nelle chat individuali che in quelle di gruppo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `💻 Tecnologia & Cyber` [L'alternativa alla ricerca di Google Kagi lancia il rivale di Gmail](https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** La presentazione è una combinazione insolita di promesse di privacy e funzionalità di intelligenza artificiale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `21:00 CET` — Ricerca Oraria (1/20)
 _Aggiornamento registrato il `2026-11-25 21:00 CET`_
