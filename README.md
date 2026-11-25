@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026
 ### «“Tutto ciò che riguarda la Libia riguarda l’Italia”: perché lo sciopero; Il procuratore generale degli Stati Uniti evita le domande · Il ritorno di Jensen Huang è accolto con sollievo in Cina»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_11%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-15%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-60-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_12%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-16%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-64-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (15/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (16/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-25 12:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Cremlino, 'la Libia ha il diritto di rispondere all'aggressione a Bengasi'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/cremlino-la-libia-ha-il-diritto-di-rispondere-allaggressione-a-bengasi_ea278a9e-2803-4823-a190-60efc9d88a19.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Approfondimento disponibile nella fonte originale collegata.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [Il ministro della Giustizia francese apre un'indagine sul pubblico ministero visto nel quartier generale dell'estrema destra](https://www.politico.eu/article/france-justice-minister-gerald-darmanin-probe-prosecutor-christian-de-rocquigny-national-rally/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il pubblico ministero è stato scoperto nella sede del partito di Marine Le Pen durante un raid della polizia, ma ha detto che era lì solo per incontrare un conoscente.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Fonti: Meta e Amazon stanno discutendo un potenziale accordo per collegare Muse ad Amazon, ponendo fine al blocco di Amazon; qualsiasi accordo richiederebbe l’approvazione di entrambi gli amministratori delegati (Sebastian Herrera/Fortune)](https://www.techmeme.com/261125/p13#a261125p13)** — *(Techmeme)*
+  - 📌 **Sintesi:** Sebastian Herrera / Fortune : Fonti: Meta e Amazon stanno discutendo un potenziale accordo per collegare Muse ad Amazon, ponendo fine al blocco di Amazon; qualsiasi accordo richiederebbe l'approvazione di entrambi gli amministratori delegati: Amazon e Meta Platforms sono in trattative in corso su un potenziale accordo per connettere il popolare agente Muse AI di Meta...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `⚡ Futuro & Deep Tech` [L’intelligenza artificiale sta mettendo a dura prova i sistemi di record aperti americani](https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** A Panton, nel Vermont, con una popolazione di 660 abitanti, il segretario comunale Kyle Rowe ha fatto tutto. Ha elaborato budget, pagato venditori, gestito controversie sulle tasse sulla proprietà e ha ricoperto il ruolo di supervisore della zonizzazione della città e presidente dell'ufficiale elettorale. Durante l'orario di ufficio mattutino presso il municipio, una struttura in legno costruita come chiesa nel 1858, ha anche risposto alle richieste di documenti pubblici. Recentemente, lui…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
 
 ### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-25 11:00 CET`_
