@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Mercoledì 25 Novembre 2026
 ### «Il procuratore generale degli Stati Uniti evita le domande sulle indagini; Abrego Garcia lascerà volontariamente gli Usa per evitare · Il ritorno di Jensen Huang è accolto con sollievo in Cina»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_03%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-7%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-28-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--25_04%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-8%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-32-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (7/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (8/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/23)
+_Aggiornamento registrato il `2026-11-25 04:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Due militari libici morti per le ferite nell'attacco ucraino alle navi russe](https://www.ansa.it/sito/notizie/mondo/africa/2026/11/25/due-militari-libici-morti-per-le-ferite-nellattacco-ucraino-alle-navi_95127e10-b933-4e3a-b0e7-228ef94f4ada.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il 22 novembre il raid sul porto di Bengasi
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌐 Scacchiere Globale` [Monarca nigeriano, 92 anni, sospeso per accuse di violenza sessuale](https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** L'emiro di Daura è uno dei monarchi più noti della Nigeria, con i politici che spesso cercano di ottenere il suo sostegno.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` `🔄 AGGIORNAMENTO` [HP riporta ricavi del quarto trimestre in aumento del 9,3% su base annua a 16 miliardi di dollari, sopra i 15,3 miliardi di dollari stimati, fornisce una guida "prudente" per l'anno fiscale 2027 al di sopra delle stime e afferma che i PC con intelligenza artificiale hanno raggiunto circa il 60% delle spedizioni (Dina Bass/Bloomberg)](https://www.techmeme.com/261124/p50#a261124p50)** — *(Techmeme)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-25 02:00 CET).
+  - 📌 **Sintesi:** Dina Bass / Bloomberg: HP riferisce che i ricavi del quarto trimestre sono aumentati del 9,3% su base annua a 16 miliardi di dollari, sopra i 15,3 miliardi di dollari stimati, fornisce una guida "prudente" per l'anno fiscale 2027 al di sopra delle stime e afferma che i PC con intelligenza artificiale hanno raggiunto circa il 60% delle spedizioni - HP Inc. ha fornito una previsione di profitto per l'anno in corso che probabilmente supererà le stime degli analisti...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🧬 Scienza & Scoperte` [Riccardo di Wallingford e il suo Rectangulus](https://www.nature.com/articles/d41586-026-03725-5)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 24 novembre 2026; doi:10.1038/d41586-026-03725-5 La vita dell'uomo che portò la trigonometria in Inghilterra e gli esperimenti iniziano su un acceleratore appena completato al CERN, nel nostro tuffo settimanale nell'archivio della Natura.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
 
 ### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/23)
 _Aggiornamento registrato il `2026-11-25 03:00 CET`_
