@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Giovedì 26 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--26-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-3-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--26-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-4-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/20)
+_Aggiornamento registrato il `2026-11-26 00:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Il Brasile indignato per le nuove tariffe Usa, 'non cederemo alle minacce'](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/il-brasile-indignato-per-le-nuove-tariffe-usa-non-cederemo-alle-minacce_d13879d5-9fa5-4c7e-995f-2bcbd4bfd0e1.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il governo Lula non esclude misure di reciprocità contro Washington
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[2] `🌐 Scacchiere Globale` [Trentuno morti in un violento incendio provocato dallo schianto di un'autocisterna sull'autostrada del Cairo](https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Altri 21 sono rimasti feriti dopo che l'autocisterna, secondo quanto riferito, si è ribaltata su una trafficata tangenziale nella capitale egiziana.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [Fonti: Pete Hegseth e altri funzionari del Pentagono hanno discusso dell'uso del Defense Production Act come leva per fare pressione sul consiglio di amministrazione di Nvidia per reintegrare Jensen Huang (Washington Post)](https://www.techmeme.com/261125/p39#a261125p39)** — *(Techmeme)*
+  - 📌 **Sintesi:** Washington Post: Fonti: Pete Hegseth e altri funzionari del Pentagono hanno discusso dell'uso del Defense Production Act come leva per fare pressione sul consiglio di amministrazione di Nvidia per reintegrare Jensen Huang - Il Defense Production Act dell'era della Guerra Fredda conferisce ai presidenti uno straordinario potere di intervenire nell'economia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[4] `💻 Tecnologia & Cyber` [La navicella spaziale europea trova una scena caotica dopo l'esperimento di deflessione degli asteroidi](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** "DART ha creato un pasticcio davvero, davvero enorme. Tuttavia, non sapevamo veramente che tipo di pasticcio."
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `23:00 CET` — Ricerca Oraria (3/20)
 _Aggiornamento registrato il `2026-11-25 23:00 CET`_
