@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
 ### «Gli Stati Uniti mettono in guardia i leader europei contro la tassa; Generatori elettrici sempre più efficienti per attuare la transizione · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_14%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-18%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-72-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_15%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-19%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-76-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (18/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (19/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `15:00 CET` — Ricerca Oraria (19/23)
+_Aggiornamento registrato il `2026-11-26 15:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Eventi, il business in Italia vale 1,2 milardi](https://www.ilsole24ore.com/art/eventi-business-italia-vale-12-milardi-AJVCbUTC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Nell’epoca delle relazioni mediate dagli algoritmi cresce il valore di quelle costruite dal vivo. È l’economia degli eventi, nota al pubblico degli specialisti come live communication, che continua a macinare...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[2] `🌍 Geopolitica & Mondo` [Attacco in Kuwait, anche due italiani tra i feriti](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/26/attacco-in-kuwait-anche-due-italiani-tra-i-feriti_2048a301-5b43-4899-b417-4d20c389aaf4.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Approfondimento disponibile nella fonte originale collegata.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💶 Macro & Finanza UE` [Lollobrigida apre l'81ma edizione delle Fiere Zootecniche di Cremona](https://www.ansa.it/sito/notizie/economia/2026/11/26/lollobrigida-apre-l81ma-edizione-delle-fiere-zootecniche-di-cremona_14f0c54a-518e-4a5d-9a06-58f480220a56.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Il ministro, 'la nostra agricoltura non può essere ostaggio di altri mercati'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🤖 IA & Frontiera Tech` [Il Texas riprende le autorizzazioni per i data center, approvando i permessi per la centrale elettrica a gas da 24 miliardi di dollari di SpaceX, prima dell'insediamento del governatore democratico Gina Hinojosa a gennaio (Stephanie Findlay/Financial Times)](https://www.techmeme.com/261126/p19#a261126p19)** — *(Techmeme)*
+  - 📌 **Sintesi:** Stephanie Findlay / Financial Times: Il Texas riprende le autorizzazioni per i data center, approvando i permessi per la centrale elettrica a gas di SpaceX da 24 miliardi di dollari, prima dell'insediamento del governatore democratico Gina Hinojosa a gennaio - Il governatore entrante Gina Hinojosa si è impegnata a frenare la costruzione di nuovi progetti durante la sua campagna - Ciao e benvenuto a Energy Source, arrivo da...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
 
 ### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/23)
 _Aggiornamento registrato il `2026-11-26 14:00 CET`_
