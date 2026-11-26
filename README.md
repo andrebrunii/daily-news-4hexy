@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
-### «Nvidia interrompe le spedizioni di chip nel sud-est asiatico; I leader dell’UE si preparano a un “bagno di sangue” al vertice · Come i data center stanno guidando il boom del gas naturale»
+### «Generatori elettrici sempre più efficienti per attuare la transizione; Nvidia interrompe le spedizioni di chip nel sud-est asiatico · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_10%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-14%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-56-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_11%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-15%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-60-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-26 11:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Merz, il bilancio Ue proposto è ancora troppo alto, no a nuovo debito comune](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/merz-il-bilancio-ue-proposto-e-ancora-troppo-alto-no-a-nuovo-debito-comune_030a5427-30e1-4230-8ad2-cf7c3a3491f5.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Le ipotesi sul tavolo non sono una base per un accordo'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[2] `📈 Economia & Mercati` [Generatori elettrici sempre più efficienti per attuare la transizione energetica](https://www.ilsole24ore.com/art/generatori-elettrici-sempre-piu-efficienti-attuare-transizione-energetica-AJFkQVSC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** La transizione energetica e digitale ha bisogno dell’industria dei gruppi elettrogeni, chiamata a garantire continuità di alimentazione alle infrastrutture e alle attività produttive. Una filiera nella quale l’Italia assembla più...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💶 Macro & Finanza UE` [GreenIt, megaimpianto fotovoltaico in Sicilia, il più grande della Società in Italia](https://www.ansa.it/sito/notizie/economia/2026/11/26/greenit-megaimpianto-fotovoltaico-in-sicilia-il-piu-grande-della-societa-in-italia_7775c406-cce5-4620-b01c-49ce3e380772.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Parte la costruzione, avrà una potenza di 131 Mw e una produzione annua di circa 210 Gwh
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[4] `🤖 IA & Frontiera Tech` [Fonti: i principali laboratori di intelligenza artificiale sono alla ricerca di importanti scoperte algoritmiche inedite che potrebbero rompere i sistemi crittografici implementati, ma la loro esatta natura è sconosciuta (Scott Aaronson/Shtetl-Optimized)](https://www.techmeme.com/261126/p8#a261126p8)** — *(Techmeme)*
+  - 📌 **Sintesi:** Scott Aaronson / Shtetl-Optimized: Fonti: i principali laboratori di intelligenza artificiale sono alla ricerca di importanti scoperte algoritmiche inedite che potrebbero rompere i sistemi crittografici implementati, ma la loro esatta natura è sconosciuta - sento che i miei post precedenti (e titoli dei post), nonché i podcast e le conferenze, non sono riusciti a rendere piena giustizia alla portata di ciò che sta accadendo ora, quindi sono...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-26 10:00 CET`_
