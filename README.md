@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
-### «Il Brasile indignato per le nuove tariffe Usa, 'non cederemo alle minacce; Da Lidl contributo di 5,9 miliardi al Pil italiano · Come i data center stanno guidando il boom del gas naturale»
+### «I leader dell’UE si preparano a un “bagno di sangue” al vertice; Il Brasile indignato per le nuove tariffe Usa, 'non cederemo · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_07%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-11%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-44-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_08%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-12%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-48-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (11/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (12/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/23)
+_Aggiornamento registrato il `2026-11-26 08:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Onde record in California, molo spazzato via a sud di San Francisco](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/26/onde-record-in-california-molo-spazzato-via-a-sud-di-san-francisco_87d0d1ec-5f1b-49d5-b97b-5d93cbc1b8cc.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Approfondimento disponibile nella fonte originale collegata.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [I leader dell’UE si preparano a un “bagno di sangue” al vertice](https://www.politico.eu/podcast/brussels-playbook-podcast/eu-leaders-brace-for-a-summit-bloodbath/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Presentato da Fusion for Energy.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Analisi: i sottoindici del software e dei semiconduttori dell'S&P 500 sono entrambi leggermente in calo da inizio anno, con il software che ha sovraperformato i semiconduttori mentre la narrativa sull'IA cambia (Emily Herbert/Financial Times)](https://www.techmeme.com/261126/p4#a261126p4)** — *(Techmeme)*
+  - 📌 **Sintesi:** Emily Herbert / Financial Times: Analisi: i sottoindici del software e dei semiconduttori dell'S&P 500 sono entrambi leggermente in calo da inizio anno, con il software che sovraperforma i semiconduttori mentre la narrativa sull'intelligenza artificiale cambia: le azioni dei semiconduttori e del software ora sono testa a testa nel 2026 mentre gli investitori riconsiderano i vincitori e i vinti della tecnologia
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [Questi 5 “e se” avrebbero potuto cambiare la storia cosmica](https://bigthink.com/starts-with-a-bang/5-what-ifs-change-cosmic-history/)** — *(Big Think)*
+  - 📌 **Sintesi:** 13,8 miliardi di anni fa, quello che oggi conosciamo come il nostro Universo osservabile ebbe inizio con l’evento di origine più importante della storia cosmica: il Big Bang caldo. Una volta che l’Universo si riempì di materia, antimateria e radiazione in modo quasi perfettamente uniforme, si espanse e gravitò in un equilibrio quasi perfetto. Mentre l'Universo si raffreddava, la materia e...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
 ### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/23)
 _Aggiornamento registrato il `2026-11-26 07:00 CET`_
