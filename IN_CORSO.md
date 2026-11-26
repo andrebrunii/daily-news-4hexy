@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Giovedì 26 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--26-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-13-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--26-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-14-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/20)
+_Aggiornamento registrato il `2026-11-26 10:00 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Rivenditore di barche tedesco sospettato di rifornire le bande di contrabbandieri della Manica, scopre la BBC](https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Quasi un terzo delle traversate effettuate all’inizio del 2026 avrebbe coinvolto imbarcazioni o motori dell’azienda tedesca.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `📈 Economia & Mercati` [Ex Ilva: rilancio spropositato di Jindal, Arvedi resta cauto](https://www.ilsole24ore.com/art/ex-ilva-rilancio-spropositato-jindal-arvedi-resta-cauto-AJfqPATC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Una integrazione che non è una reale integrazione , ma che sembra assumere il profilo di una nuova diversa offerta. Non un chiarimento, ma un piano con dei numeri - a...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `💶 Macro & Finanza UE` [Borsa: l'Europa apre tonica, in ripresa i titoli tecnologici](https://www.ansa.it/sito/notizie/economia/2026/11/26/borsa-leuropa-apre-tonica-in-ripresa-i-titoli-tecnologici_64b0017d-daf5-4e41-a473-11afe0385379.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Francoforte (+1,83%), Parigi (+1,48%) e Londra (+1,07%)
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[4] `🏦 Mercati Globali` [Le minacce di aumento dei dazi da parte degli Stati Uniti aumentano la pressione sui partner affinché firmino accordi commerciali](https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Gli Stati Uniti hanno pianificato una nuova serie di dazi su 14 partner commerciali, offrendo allo stesso tempo ad alcuni paesi tariffe più basse se ottengono accordi commerciali con Washington.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
 
 ### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/20)
 _Aggiornamento registrato il `2026-11-26 09:00 CET`_
