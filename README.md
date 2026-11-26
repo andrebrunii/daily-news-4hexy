@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
-### «Gli Stati Uniti mettono in guardia i leader europei contro la tassa; Generatori elettrici sempre più efficienti per attuare la transizione · Come i data center stanno guidando il boom del gas naturale»
+### «I leader dell’UE aprono la strada allo spagnolo Pablo Hernández de Cos; Gli Stati Uniti mettono in guardia i leader europei contro la tassa · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_15%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-19%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-76-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_16%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-20%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-80-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (19/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (20/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `16:00 CET` — Ricerca Oraria (20/23)
+_Aggiornamento registrato il `2026-11-26 16:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Fallisce in Gb charity legata al nome di Lady D, William 'rattristato'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/fallisce-in-gb-charity-legata-al-nome-di-lady-d-william-rattristato_4dc29d1b-80e7-4408-8b45-a786a408bb30.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Ultima iniziativa benefica che l'erede al trono aveva sostenuto assieme al fratello Harry
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [I leader dell’UE aprono la strada allo spagnolo Pablo Hernández de Cos alla guida della BCE](https://www.politico.eu/article/eu-leaders-clear-path-for-spains-pablo-hernandez-de-cos-to-lead-ecb/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La vittoria del Real Madrid è arrivata dopo che l'Olanda ha gettato la spugna per il compito più importante della banca centrale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[3] `💻 Tecnologia & Cyber` [Il drenaggio delle torbiere è responsabile di una piccola percentuale del riscaldamento globale](https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Una stima dettagliata risalente al 1800 mostra la quantità di carbonio liberata.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🧬 Scienza & Scoperte` [Navigare nel dolore nel mondo accademico: modi per trovare un equilibrio](https://www.nature.com/articles/d41586-026-02752-6)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 26 novembre 2026; doi:10.1038/d41586-026-02752-6 Pamela Yeh ha trovato difficile gestire il dolore e le esigenze del suo lavoro. Ecco alcuni passaggi che l'hanno aiutata ad alleviare il peso.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
 ### 🕒 Ora `15:00 CET` — Ricerca Oraria (19/23)
 _Aggiornamento registrato il `2026-11-26 15:00 CET`_
