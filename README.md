@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
 ### «Il Brasile indignato per le nuove tariffe Usa, 'non cederemo alle minacce; Il governo Tusk “affronta l’armageddon” mentre la corte europea · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_03%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-7%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-28-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_04%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-8%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-32-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (7/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (8/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/23)
+_Aggiornamento registrato il `2026-11-26 04:00 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Il jihadismo globale ha fallito o sta semplicemente cambiando forma?](https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** I gruppi jihadisti sembrano concentrarsi su questioni locali piuttosto che sul terrorismo globale. Significa un cambiamento reale?
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌍 Geopolitica & Mondo` [Perù, 'una donna su due ha subito violenze dal partner'](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/peru-una-donna-su-due-ha-subito-violenze-dal-partner_7a504258-6a5c-46b0-b42d-07466e3ffe5f.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il 49,1% tra i 15 e i 49 anni vittima di aggressioni psicologiche, fisiche o sessuali
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [OpenAI distribuisce le sue schede ChatGPT Chat e Lavoro unite, con un misuratore di utilizzo condiviso, a un piccolo gruppo di utenti Pro, affermando che gli utenti più assidui potrebbero raggiungere i propri limiti prima (Jagmeet Singh/TechCrunch)](https://www.techmeme.com/261125/p46#a261125p46)** — *(Techmeme)*
+  - 📌 **Sintesi:** Jagmeet Singh / TechCrunch: OpenAI lancia le sue schede Chat e Lavoro unite di ChatGPT, con un contatore di utilizzo condiviso, a un piccolo gruppo di utenti Pro, affermando che gli utenti più assidui potrebbero raggiungere i propri limiti prima: OpenAI ha iniziato a lanciare un'esperienza unificata di Chat e Lavoro in ChatGPT per alcuni dei suoi utenti, tra le critiche di alcuni abbonati...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🧬 Scienza & Scoperte` [Le città leader nel mondo per ricerca di alta qualità nel 2025](https://www.nature.com/articles/d41586-026-03468-3)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 25 novembre 2026; doi:10.1038/d41586-026-03468-3 Un decennio di dati sulle città scientifiche con le migliori prestazioni nel Nature Index.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
 ### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/23)
 _Aggiornamento registrato il `2026-11-26 03:00 CET`_
