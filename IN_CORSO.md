@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Giovedì 26 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--26-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-4-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--26-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-5-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/20)
+_Aggiornamento registrato il `2026-11-26 01:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Argentina, Milei in Paraguay per primo incontro con il neo capo di Stato Alliana](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/argentina-milei-in-paraguay-per-primo-incontro-con-il-neo-capo-di-stato_a483bcb3-14fb-4943-bd0c-1c0a877f8ac4.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Nell'agenda dei due presidenti incontri istituzionali ed economici
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌐 Scacchiere Globale` [I giudici israeliani raccomandano di far cadere le accuse più gravi contro Netanyahu](https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il primo ministro israeliano afferma che il suo processo dovrebbe concludersi dopo che i giudici hanno affermato che ci sono poche possibilità di condanna in uno dei tre casi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [Una coalizione di 42 AG si oppone al piano di Character.AI di mettere all'asta i dati di oltre 21 milioni di account statunitensi, di cui oltre 2,1 milioni registrati a minori, affermando che la vendita non tutela gli utenti (Sarah Perez/TechCrunch)](https://www.techmeme.com/261125/p41#a261125p41)** — *(Techmeme)*
+  - 📌 **Sintesi:** Sarah Perez / TechCrunch: Una coalizione di 42 AG si oppone al piano di Character.AI di mettere all'asta i dati di oltre 21 milioni di account statunitensi, di cui 2,1 milioni registrati a minori, affermando che la vendita non tutela gli utenti: cosa succede alle tue conversazioni private quando una società di intelligenza artificiale fallisce? Se si tratta di Character.ai, a quanto pare, il piano è di metterli all'asta al miglior offerente.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `⚡ Futuro & Deep Tech` [Come i data center stanno guidando il boom del gas naturale negli Stati Uniti](https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** Nel maggio 2025, il mio collega David Rotman ha scritto un articolo in cui descriveva come l’intelligenza artificiale potrebbe mantenerci dipendenti dal gas naturale. Solo 18 mesi dopo, ho perso il conto di quante volte gli è già stato dimostrato che aveva ragione. Certo, è tecnicamente possibile soddisfare la crescente domanda mondiale di elettricità con altre fonti di energia, comprese le energie rinnovabili come…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
 
 ### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/20)
 _Aggiornamento registrato il `2026-11-26 00:00 CET`_
