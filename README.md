@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
-### «Generatori elettrici sempre più efficienti per attuare la transizione; Nvidia interrompe le spedizioni di chip nel sud-est asiatico · Come i data center stanno guidando il boom del gas naturale»
+### «Gli Stati Uniti mettono in guardia i leader europei contro la tassa; Generatori elettrici sempre più efficienti per attuare la transizione · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_12%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-16%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-64-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_13%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-17%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-68-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (16/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (17/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/23)
+_Aggiornamento registrato il `2026-11-26 13:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Usa, 'centinaia di voli cancellati per maltempo nel Giorno del Ringraziamento'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/26/usa-centinaia-di-voli-cancellati-per-maltempo-nel-giorno-del-ringraziamento_41bce8ad-8305-4c55-9805-7049a296733e.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Lo riferisce Cnn. Due tempeste su entrambe le coste degli Stati Uniti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `🇪🇺 Unione Europea & Policy` [Gli Stati Uniti mettono in guardia i leader europei contro la tassa sulle Big Tech](https://www.politico.eu/article/us-fires-warning-shot-ahead-of-eu-leaders-big-tech-tax-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** L’opposizione di Washington all’idea di una tassa sui servizi digitali a livello di blocco complica gli sforzi per trovare nuove fonti di entrate per il bilancio di 2mila miliardi di euro dell’UE.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[3] `🔭 Ricerca & Spazio` [Gli integratori comuni competono con gli antibiotici nel trattamento di gravi malattie gengivali](https://www.sciencedaily.com/releases/2026/11/261126033031.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Una combinazione di omega-3 e aspirina a basso dosaggio ha prodotto risultati paragonabili agli antibiotici se utilizzata insieme al trattamento standard per gravi malattie gengivali, con benefici che persistono molto tempo dopo la fine dell’integrazione. La sorprendente scoperta potrebbe offrire un’alternativa per alcuni pazienti riducendo al contempo la dipendenza dagli antibiotici.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🏛️ Filosofia & Idee` [Lina Ghotmeh: archeologia del futuro](https://aeon.co/videos/a-lebanese-architects-mission-to-build-structures-that-heal)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Nel lavoro dell'architetto libanese Lina Ghotmeh, le cicatrici del passato informano gli edifici resilienti del futuro - di Aeon Video Watch su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/23)
 _Aggiornamento registrato il `2026-11-26 12:00 CET`_
