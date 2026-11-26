@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
-### «I leader dell’UE aprono la strada allo spagnolo Pablo Hernández de Cos; Gli Stati Uniti mettono in guardia i leader europei contro la tassa · Come i data center stanno guidando il boom del gas naturale»
+### «I leader dell’UE aprono la strada allo spagnolo Pablo Hernández de Cos; La Commissione Europea offre poco in risposta alle pressioni · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_16%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-20%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-80-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_17%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-21%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-84-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (20/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (21/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `17:00 CET` — Ricerca Oraria (21/23)
+_Aggiornamento registrato il `2026-11-26 17:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Ungheria, 'zero chance di un accordo su bilancio Ue, improbabile anche a Natale'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/ungheria-zero-chance-di-un-accordo-su-bilancio-ue-improbabile-anche-a-natale_4e45637c-42af-4535-b6c0-bece83ba0300.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Magyar, 'posizioni diametralmente opposte espresse attorno al tavolo'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[2] `🇪🇺 Unione Europea & Policy` [La Commissione Europea offre poco in risposta alle pressioni sui prezzi dei farmaci negli Stati Uniti](https://www.politico.eu/article/eu-commission-offers-little-in-response-to-us-drug-pricing-pressures/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Alcuni membri del Parlamento europeo hanno suggerito che l’UE dovrebbe prendere in considerazione il suo strumento anti-coercizione.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🧠 Paradigmi & Lunghi Orizzonti` [Come i propagandisti utilizzano l'archeologia come arma per riscrivere il passato](https://bigthink.com/history-society/how-propagandists-weaponize-archaeology/)** — *(Big Think)*
+  - 📌 **Sintesi:** Lo storico Eric Hobsbawm una volta disse: "Gli storici stanno al nazionalismo come i coltivatori di papavero... stanno agli eroinomani. [Essi] forniscono la materia prima essenziale". Lo stesso vale per gli archeologi. Il patrimonio rivelato dagli archeologi aiuta gruppi di persone a forgiare identità collettive e ad ancorare le nostre vite fugaci a qualcosa di duraturo. Spettacolare...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[4] `🏦 Mercati Globali` [Gli acquirenti di chip Nvidia hanno detto di escludere gli affittuari cinesi dall'acquisto di GPU, dicono le fonti](https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Una nuova regola della BRI aveva lo scopo di colmare le "scappatoie", ha detto mercoledì il rappresentante commerciale degli Stati Uniti Jamieson Greer al programma "Squawk Box" della CNBC.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `16:00 CET` — Ricerca Oraria (20/23)
 _Aggiornamento registrato il `2026-11-26 16:00 CET`_
