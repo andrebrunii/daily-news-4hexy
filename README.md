@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
 ### «Il Brasile indignato per le nuove tariffe Usa, 'non cederemo alle minacce; Il governo Tusk “affronta l’armageddon” mentre la corte europea · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_04%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-8%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-32-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_05%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-9%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-36-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (8/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (9/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/23)
+_Aggiornamento registrato il `2026-11-26 05:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Inondazione in una miniera d'oro illegale, 13 morti e 13 dispersi in Indonesia](https://www.ansa.it/sito/notizie/mondo/asia/2026/11/26/inondazione-in-una-miniera-doro-illegale-13-morti-e-13-dispersi-in-indonesia_23a0618f-da6e-427b-9697-f3c198e770e4.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Le forti piogge hanno causato l'esondazione di un fiume, all'origine della tragedia
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🇪🇺 Unione Europea & Policy` [Perché Jean-Luc Mélenchon ce l'ha con la Germania](https://www.politico.eu/article/why-jean-luc-melenchon-has-it-in-for-germany/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il leader di estrema sinistra francese sta sfruttando un crescente disagio nei confronti di Berlino in tutto lo spettro politico.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🔭 Ricerca & Spazio` [Gli scienziati scoprono laghi misteriosi a più di un miglio sotto il Mar Rosso](https://www.sciencedaily.com/releases/2026/11/261125045259.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** A più di un miglio sotto la superficie del Mar Rosso, gli scienziati hanno scoperto rari laghi sottomarini che potrebbero rivelare segreti sugli antichi oceani della Terra e sulla possibilità di vita aliena. Conosciuti come pozze di acqua salata, questi ambienti estremamente salati e privi di ossigeno pullulano sorprendentemente di vita microbica, mettendo alla prova la nostra comprensione di dove vivono...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🏦 Mercati Globali` [S&P avverte che il rating creditizio di Nvidia potrebbe essere tagliato a causa del "aumento" del rischio di gestione e governance](https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** S&P Global Ratings ha affermato che il rating di credito di Nvidia potrebbe essere tagliato di un livello in quanto ha segnalato un "aumento" del rischio di gestione e governance per il produttore di chip.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/23)
 _Aggiornamento registrato il `2026-11-26 04:00 CET`_
