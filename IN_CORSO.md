@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Venerdì 27 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-3-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-4-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/20)
+_Aggiornamento registrato il `2026-11-27 00:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Macron accusa l’arrogante Le Pen di parlare come se avesse già vinto](https://www.politico.eu/article/macron-accuses-arrogant-marine-le-pen-criticism-eu-budget-negotiations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La Le Pen ritiene di essere tagliata fuori dai negoziati sul bilancio dell'UE. Macron le ha ricordato che è ancora al comando.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[2] `🌐 Scacchiere Globale` [Gli Stati Uniti sono troppo concentrati sul Medio Oriente e non spingono abbastanza forte la Russia, dice Zelenskyj alla BBC](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il presidente ucraino esprime frustrazione nei confronti degli Stati Uniti e dice che è "strano" che Trump abbia descritto Vladimir Putin come un amico.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[3] `🤖 IA & Frontiera Tech` [Un giudice statunitense condanna un uomo della Florida a 47 mesi di prigione per aver utilizzato l'intelligenza artificiale per impersonare lo streamer Kick N3on, frodando gli organizzatori di una memecoin per circa 260.000 dollari (Nathan Grayson/Aftermath)](https://www.techmeme.com/261126/p25#a261126p25)** — *(Techmeme)*
+  - 📌 **Sintesi:** Nathan Grayson / Conseguenze: Un giudice statunitense condanna un uomo della Florida a 47 mesi di prigione per aver utilizzato l'intelligenza artificiale per impersonare lo streamer Kick N3on, frodando gli organizzatori di un memecoin per ~$260.000 — Ciò che va in giro, suppongo. All'inizio di quest'anno, lo streamer N3on, un meschino ramoscello che trascorre...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🧠 Paradigmi & Lunghi Orizzonti` [“Una delle idee più stupide” – un fisico sulla teoria della simulazione](https://bigthink.com/series/conversations/rovelli-simulation-theory/)** — *(Big Think)*
+  - 📌 **Sintesi:** Carlo Rovelli ritiene che la ricerca di una “realtà ultima” sia un errore e che la fisica, la filosofia buddista e Wittgenstein puntino tutti nella stessa direzione. Jonny Thomson gli chiede cosa resta una volta che si rinuncia alle fondazioni. Questo video "Una delle idee più stupide" - un fisico sulla teoria della simulazione è presente su Big Think.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
 ### 🕒 Ora `23:00 CET` — Ricerca Oraria (3/20)
 _Aggiornamento registrato il `2026-11-26 23:00 CET`_
