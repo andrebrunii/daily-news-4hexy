@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
-### «Il Brasile indignato per le nuove tariffe Usa, 'non cederemo alle minacce; Il governo Tusk “affronta l’armageddon” mentre la corte europea · Come i data center stanno guidando il boom del gas naturale»
+### «Il Brasile indignato per le nuove tariffe Usa, 'non cederemo alle minacce; Rifiuti, Italia eccellenza nel riciclo ma troppi prodotti sono · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_05%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-9%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-36-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_06%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-10%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-40-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (9/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (10/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/23)
+_Aggiornamento registrato il `2026-11-26 06:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Prostituzione in Deutschland vor dem Aus?](https://www.politico.eu/podcast/berlin-playbook-podcast/prostitution-in-deutschland-vor-dem-aus/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Presente da YouTube.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `📈 Economia & Mercati` [Rifiuti, Italia eccellenza nel riciclo ma troppi prodotti sono inutilizzati](https://www.ilsole24ore.com/art/rifiuti-italia-eccellenza-riciclo-ma-troppi-prodotti-sono-inutilizzati-AJrJX9PC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Degli inerti recuperati, fino al 40% non trova mercato in Italia e rimane invenduto. Eppure questo materiale - derivato dal trattamento soprattutto di macerie ma anche di ceneri pesanti e...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Fonti: il consigliere per la sicurezza nazionale di Trump, il segretario Marco Rubio, non è stato coinvolto negli sforzi per reintegrare Jensen Huang ed ha espresso rabbia per il suo ritorno (Jo Ling/CBS News)](https://www.techmeme.com/261125/p47#a261125p47)** — *(Techmeme)*
+  - 📌 **Sintesi:** Jo Ling / CBS News: Fonti: il consigliere per la sicurezza nazionale di Trump, il segretario Marco Rubio, non è stato coinvolto negli sforzi per reintegrare Jensen Huang ed ha espresso rabbia per il suo ritorno - Jennifer Jacobs è una reporter senior della Casa Bianca presso CBS News. - Corrispondente nazionale, "CBS News Sunday Morning"; Capo analista di Washington
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[4] `⚡ Futuro & Deep Tech` `🔄 AGGIORNAMENTO` [Il download: L'intelligenza artificiale sommerge i record aperti e combatte il permafrost](https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/)** — *(MIT Technology Review)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-25 12:00 CET).
+  - 📌 **Sintesi:** Questa è l'edizione di oggi di The Download, la nostra newsletter nei giorni feriali che fornisce una dose quotidiana di ciò che accade nel mondo della tecnologia. L’intelligenza artificiale sta mettendo a dura prova i sistemi di registri aperti americani. L’intelligenza artificiale ha intensificato l’interesse degli investitori per i registri pubblici. Negli ultimi anni, le startup sostenute da venture capital hanno raccolto più di 100 milioni di dollari per raccogliere dati...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/23)
 _Aggiornamento registrato il `2026-11-26 05:00 CET`_
