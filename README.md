@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
 ### «Il Brasile indignato per le nuove tariffe Usa, 'non cederemo alle minacce; Il governo Tusk “affronta l’armageddon” mentre la corte europea · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_02%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-6%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-24-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_03%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-7%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-28-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (6/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (7/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/23)
+_Aggiornamento registrato il `2026-11-26 03:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Media, Lula vuole Trabuco del Bradesco al ministero delle Finanze del Brasile](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/26/media-lula-vuole-trabuco-del-bradesco-al-ministero-delle-finanze-del_4325fe19-d15d-460e-a754-af208deb9fa4.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il banchiere ha chiesto tempo per valutare la proposta
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Unione Europea & Policy` [I centristi in cerca di un candidato](https://www.politico.eu/podcast/playbook-paris-podcast/les-centristes-en-quete-dun-candidat/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** François Bayrou, Jean Louis Borloo, Marc Fesneau, Hervé Marsiglia… Les figures du centrisme cherchen un candidat. Non sono riuscito a convincermi di quelli che sono in corso, e rimontati contro l'idea dell'organizzatore di un primario incluso David Lisnard, troppo a destra per i loro occhi, i centristi comprendono il loro mécontentement mais peinent da offrire un'alternativa....
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🏦 Mercati Globali` `🔄 AGGIORNAMENTO` [Il Kospi della Corea del Sud guida i guadagni mentre il rimbalzo tecnologico solleva i mercati asiatici](https://www.cnbc.com/2026/11/26/stock-markets-today-.html)** — *(CNBC Global Economy)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-26 02:00 CET).
+  - 📌 **Sintesi:** Il Nikkei 225 giapponese è salito dell'1,21% nei primi scambi, mentre il Topix è salito dello 0,71%. L'indice S&P/ASX 200 australiano è salito dello 0,15%.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[4] `🤖 IA & Frontiera Tech` [Indagine: Nvidia vende i suoi chip più avanzati ad almeno due società californiane di proprietà cinese, che ne hanno affittato o venduto alcuni ad aziende asiatiche (Josh Boswell/CBS News)](https://www.techmeme.com/261125/p45#a261125p45)** — *(Techmeme)*
+  - 📌 **Sintesi:** Josh Boswell / CBS News: Indagine: Nvidia vende i suoi chip più avanzati ad almeno due società californiane di proprietà cinese, che ne hanno affittati o venduti alcuni ad aziende asiatiche - Nvidia sta vendendo i suoi chip più all'avanguardia ad almeno due società con sede negli Stati Uniti, ma in realtà controllate da aziende di proprietà cinese...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/23)
 _Aggiornamento registrato il `2026-11-26 02:00 CET`_
