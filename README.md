@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
 ### «I leader dell’UE aprono la strada allo spagnolo Pablo Hernández de Cos; La Commissione Europea offre poco in risposta alle pressioni · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_17%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-21%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-84-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_18%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-22%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-88-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (21/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (22/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `18:00 CET` — Ricerca Oraria (22/23)
+_Aggiornamento registrato il `2026-11-26 18:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Lo svedese Kristersson è sempre più vicino al nuovo mandato come primo ministro](https://www.politico.eu/article/sweden-kristersson-edges-closer-new-term-prime-minister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La candidata socialdemocratica Magdalena Andersson non è riuscita a trovare la maggioranza, infliggendo un duro colpo ai socialisti dell’UE.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[2] `🌍 Geopolitica & Mondo` [Il Venezuela firma accordo con Siemens sul recupero dell'infrastruttura energetica](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/26/il-venezuela-firma-accordo-con-siemens-sul-recupero-dellinfrastruttura-energetica_ca804472-e9da-44ad-819e-c4ef5bc33b72.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** L'intesa prevede assistenza tecnica, scambio tecnologico e ammodernamento degli impianti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `💶 Macro & Finanza UE` [Fincantieri, contratto per la terza unità Lss per la Marina Militare](https://www.ansa.it/sito/notizie/economia/2026/11/26/fincantieri-contratto-per-la-terza-unita-lss-per-la-marina-militare_17c82dbf-ab70-4d78-8630-b48194c1d6c8.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Commessa da 500 milioni di euro, di cui 88 in opzione
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🤖 IA & Frontiera Tech` [Fonti: SAP sta preparando un piano per eliminare almeno 10.000 posizioni, ovvero il 9% del suo personale a livello globale, per trasformare il proprio business del software per l’era dell’intelligenza artificiale (Christina Kyriasoglou/Bloomberg)](https://www.techmeme.com/261126/p22#a261126p22)** — *(Techmeme)*
+  - 📌 **Sintesi:** Christina Kyriasoglou / Bloomberg : Fonti: SAP sta preparando un piano per eliminare almeno 10.000 posizioni, ovvero il 9% del suo personale a livello globale, per trasformare il proprio business del software per l'era dell'intelligenza artificiale — SAP SE sta preparando un piano per eliminare almeno 10.000 posizioni per trasformare il proprio business del software per l'era dell'intelligenza artificiale...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `17:00 CET` — Ricerca Oraria (21/23)
 _Aggiornamento registrato il `2026-11-26 17:00 CET`_

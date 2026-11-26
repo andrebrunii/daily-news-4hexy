@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Giovedì 26 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--26-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-21-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--26-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-22-2ea043?style=for-the-badge)
 
 </div>
 
@@ -15,7 +15,23 @@
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
 
-### 🕒 Ora `17:00 CET` — Ricerca Oraria (21/21)
+### 🕒 Ora `18:00 CET` — Ricerca Oraria (22/22)
+_Aggiornamento registrato il `2026-11-26 18:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Lo svedese Kristersson è sempre più vicino al nuovo mandato come primo ministro](https://www.politico.eu/article/sweden-kristersson-edges-closer-new-term-prime-minister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La candidata socialdemocratica Magdalena Andersson non è riuscita a trovare la maggioranza, infliggendo un duro colpo ai socialisti dell’UE.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[2] `🌍 Geopolitica & Mondo` [Il Venezuela firma accordo con Siemens sul recupero dell'infrastruttura energetica](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/26/il-venezuela-firma-accordo-con-siemens-sul-recupero-dellinfrastruttura-energetica_ca804472-e9da-44ad-819e-c4ef5bc33b72.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** L'intesa prevede assistenza tecnica, scambio tecnologico e ammodernamento degli impianti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `💶 Macro & Finanza UE` [Fincantieri, contratto per la terza unità Lss per la Marina Militare](https://www.ansa.it/sito/notizie/economia/2026/11/26/fincantieri-contratto-per-la-terza-unita-lss-per-la-marina-militare_17c82dbf-ab70-4d78-8630-b48194c1d6c8.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Commessa da 500 milioni di euro, di cui 88 in opzione
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🤖 IA & Frontiera Tech` [Fonti: SAP sta preparando un piano per eliminare almeno 10.000 posizioni, ovvero il 9% del suo personale a livello globale, per trasformare il proprio business del software per l’era dell’intelligenza artificiale (Christina Kyriasoglou/Bloomberg)](https://www.techmeme.com/261126/p22#a261126p22)** — *(Techmeme)*
+  - 📌 **Sintesi:** Christina Kyriasoglou / Bloomberg : Fonti: SAP sta preparando un piano per eliminare almeno 10.000 posizioni, ovvero il 9% del suo personale a livello globale, per trasformare il proprio business del software per l'era dell'intelligenza artificiale — SAP SE sta preparando un piano per eliminare almeno 10.000 posizioni per trasformare il proprio business del software per l'era dell'intelligenza artificiale...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+
+### 🕒 Ora `17:00 CET` — Ricerca Oraria (21/22)
 _Aggiornamento registrato il `2026-11-26 17:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Ungheria, 'zero chance di un accordo su bilancio Ue, improbabile anche a Natale'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/ungheria-zero-chance-di-un-accordo-su-bilancio-ue-improbabile-anche-a-natale_4e45637c-42af-4535-b6c0-bece83ba0300.html)** — *(ANSA Mondo)*
@@ -31,7 +47,7 @@ _Aggiornamento registrato il `2026-11-26 17:00 CET`_
   - 📌 **Sintesi:** Una nuova regola della BRI aveva lo scopo di colmare le "scappatoie", ha detto mercoledì il rappresentante commerciale degli Stati Uniti Jamieson Greer al programma "Squawk Box" della CNBC.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
-### 🕒 Ora `16:00 CET` — Ricerca Oraria (20/21)
+### 🕒 Ora `16:00 CET` — Ricerca Oraria (20/22)
 _Aggiornamento registrato il `2026-11-26 16:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Fallisce in Gb charity legata al nome di Lady D, William 'rattristato'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/fallisce-in-gb-charity-legata-al-nome-di-lady-d-william-rattristato_4dc29d1b-80e7-4408-8b45-a786a408bb30.html)** — *(ANSA Mondo)*
@@ -47,7 +63,7 @@ _Aggiornamento registrato il `2026-11-26 16:00 CET`_
   - 📌 **Sintesi:** Natura, Pubblicato online: 26 novembre 2026; doi:10.1038/d41586-026-02752-6 Pamela Yeh ha trovato difficile gestire il dolore e le esigenze del suo lavoro. Ecco alcuni passaggi che l'hanno aiutata ad alleviare il peso.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
-### 🕒 Ora `15:00 CET` — Ricerca Oraria (19/21)
+### 🕒 Ora `15:00 CET` — Ricerca Oraria (19/22)
 _Aggiornamento registrato il `2026-11-26 15:00 CET`_
 
 - **[1] `📈 Economia & Mercati` [Eventi, il business in Italia vale 1,2 milardi](https://www.ilsole24ore.com/art/eventi-business-italia-vale-12-milardi-AJVCbUTC)** — *(Il Sole 24 Ore)*
@@ -63,7 +79,7 @@ _Aggiornamento registrato il `2026-11-26 15:00 CET`_
   - 📌 **Sintesi:** Stephanie Findlay / Financial Times: Il Texas riprende le autorizzazioni per i data center, approvando i permessi per la centrale elettrica a gas di SpaceX da 24 miliardi di dollari, prima dell'insediamento del governatore democratico Gina Hinojosa a gennaio - Il governatore entrante Gina Hinojosa si è impegnata a frenare la costruzione di nuovi progetti durante la sua campagna - Ciao e benvenuto a Energy Source, arrivo da...
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
 
-### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/21)
+### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/22)
 _Aggiornamento registrato il `2026-11-26 14:00 CET`_
 
 - **[1] `🇪🇺 Unione Europea & Policy` [10 volti chiave del prossimo (probabile) governo di destra spagnolo](https://www.politico.eu/article/10-key-faces-of-spains-next-likely-right-wing-government/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
@@ -79,7 +95,7 @@ _Aggiornamento registrato il `2026-11-26 14:00 CET`_
   - 📌 **Sintesi:** Trump e il capo della NATO Mark Rutte hanno esortato la Russia a evitare azioni che potrebbero espandere la guerra e hanno chiesto una rapida risoluzione pacifica.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
 
-### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/21)
+### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/22)
 _Aggiornamento registrato il `2026-11-26 13:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Usa, 'centinaia di voli cancellati per maltempo nel Giorno del Ringraziamento'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/26/usa-centinaia-di-voli-cancellati-per-maltempo-nel-giorno-del-ringraziamento_41bce8ad-8305-4c55-9805-7049a296733e.html)** — *(ANSA Mondo)*
@@ -95,7 +111,7 @@ _Aggiornamento registrato il `2026-11-26 13:00 CET`_
   - 📌 **Sintesi:** Nel lavoro dell'architetto libanese Lina Ghotmeh, le cicatrici del passato informano gli edifici resilienti del futuro - di Aeon Video Watch su Aeon
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
-### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/21)
+### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/22)
 _Aggiornamento registrato il `2026-11-26 12:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Cremlino, 'da Ue altra ingente somma per la guerra invece che per i suoi cittadini](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/cremlino-da-ue-altra-ingente-somma-per-la-guerra-invece-che-per-i-suoi_9379e8c3-bfc5-48ab-91e8-e596b463b20a.html)** — *(ANSA Mondo)*
@@ -111,7 +127,7 @@ _Aggiornamento registrato il `2026-11-26 12:00 CET`_
   - 📌 **Sintesi:** Avi Davidson ha perso la mano sinistra da adolescente. Da allora, ha utilizzato alcune protesi. Ma il suo ultimo è diverso: è collegato ai nervi nella parte superiore del suo avambraccio e gli permette di sentire la pressione. Per la prima volta dopo anni, può usare l'arto sinistro per maneggiare oggetti delicati...
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
-### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/21)
+### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/22)
 _Aggiornamento registrato il `2026-11-26 11:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Merz, il bilancio Ue proposto è ancora troppo alto, no a nuovo debito comune](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/merz-il-bilancio-ue-proposto-e-ancora-troppo-alto-no-a-nuovo-debito-comune_030a5427-30e1-4230-8ad2-cf7c3a3491f5.html)** — *(ANSA Mondo)*
@@ -127,7 +143,7 @@ _Aggiornamento registrato il `2026-11-26 11:00 CET`_
   - 📌 **Sintesi:** Scott Aaronson / Shtetl-Optimized: Fonti: i principali laboratori di intelligenza artificiale sono alla ricerca di importanti scoperte algoritmiche inedite che potrebbero rompere i sistemi crittografici implementati, ma la loro esatta natura è sconosciuta - sento che i miei post precedenti (e titoli dei post), nonché i podcast e le conferenze, non sono riusciti a rendere piena giustizia alla portata di ciò che sta accadendo ora, quindi sono...
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
-### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/21)
+### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/22)
 _Aggiornamento registrato il `2026-11-26 10:00 CET`_
 
 - **[1] `🌐 Scacchiere Globale` [Rivenditore di barche tedesco sospettato di rifornire le bande di contrabbandieri della Manica, scopre la BBC](https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
@@ -143,7 +159,7 @@ _Aggiornamento registrato il `2026-11-26 10:00 CET`_
   - 📌 **Sintesi:** Gli Stati Uniti hanno pianificato una nuova serie di dazi su 14 partner commerciali, offrendo allo stesso tempo ad alcuni paesi tariffe più basse se ottengono accordi commerciali con Washington.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
 
-### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/21)
+### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/22)
 _Aggiornamento registrato il `2026-11-26 09:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` ['Nvidia interrompe le spedizioni di chip nel sud-est asiatico'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/26/nvidia-interrompe-le-spedizioni-di-chip-nel-sud-est-asiatico_e88514ee-1562-4716-beeb-acdbe8f9d08f.html)** — *(ANSA Mondo)*
@@ -159,7 +175,7 @@ _Aggiornamento registrato il `2026-11-26 09:00 CET`_
   - 📌 **Sintesi:** La mega fabbrica di 20.000 metri quadrati sarà in grado di produrre fino a 500 satelliti all'anno, rendendola il terzo sito di produzione satellitare più grande al mondo.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
-### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/21)
+### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/22)
 _Aggiornamento registrato il `2026-11-26 08:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Onde record in California, molo spazzato via a sud di San Francisco](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/26/onde-record-in-california-molo-spazzato-via-a-sud-di-san-francisco_87d0d1ec-5f1b-49d5-b97b-5d93cbc1b8cc.html)** — *(ANSA Mondo)*
@@ -175,7 +191,7 @@ _Aggiornamento registrato il `2026-11-26 08:00 CET`_
   - 📌 **Sintesi:** 13,8 miliardi di anni fa, quello che oggi conosciamo come il nostro Universo osservabile ebbe inizio con l’evento di origine più importante della storia cosmica: il Big Bang caldo. Una volta che l’Universo si riempì di materia, antimateria e radiazione in modo quasi perfettamente uniforme, si espanse e gravitò in un equilibrio quasi perfetto. Mentre l'Universo si raffreddava, la materia e...
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
-### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/21)
+### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/22)
 _Aggiornamento registrato il `2026-11-26 07:00 CET`_
 
 - **[1] `📈 Economia & Mercati` [Da Lidl contributo di 5,9 miliardi al Pil italiano](https://www.ilsole24ore.com/art/da-lidl-contributo-59-miliardi-pil-italiano-AJbhIYSC)** — *(Il Sole 24 Ore)*
@@ -191,7 +207,7 @@ _Aggiornamento registrato il `2026-11-26 07:00 CET`_
   - 📌 **Sintesi:** Natura, Pubblicato online: 25 novembre 2026; doi:10.1038/d41586-026-03853-y Gli esperti affermano che l'intelligenza artificiale e le prove scritte dall'uomo avranno bisogno di un attento controllo, oltre alle ricadute della conferenza sul clima COP31.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
 
-### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/21)
+### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/22)
 _Aggiornamento registrato il `2026-11-26 06:00 CET`_
 
 - **[1] `🇪🇺 Unione Europea & Policy` [Prostituzione in Deutschland vor dem Aus?](https://www.politico.eu/podcast/berlin-playbook-podcast/prostitution-in-deutschland-vor-dem-aus/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
@@ -208,7 +224,7 @@ _Aggiornamento registrato il `2026-11-26 06:00 CET`_
   - 📌 **Sintesi:** Questa è l'edizione di oggi di The Download, la nostra newsletter nei giorni feriali che fornisce una dose quotidiana di ciò che accade nel mondo della tecnologia. L’intelligenza artificiale sta mettendo a dura prova i sistemi di registri aperti americani. L’intelligenza artificiale ha intensificato l’interesse degli investitori per i registri pubblici. Negli ultimi anni, le startup sostenute da venture capital hanno raccolto più di 100 milioni di dollari per raccogliere dati...
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
-### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/21)
+### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/22)
 _Aggiornamento registrato il `2026-11-26 05:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Inondazione in una miniera d'oro illegale, 13 morti e 13 dispersi in Indonesia](https://www.ansa.it/sito/notizie/mondo/asia/2026/11/26/inondazione-in-una-miniera-doro-illegale-13-morti-e-13-dispersi-in-indonesia_23a0618f-da6e-427b-9697-f3c198e770e4.html)** — *(ANSA Mondo)*
@@ -224,7 +240,7 @@ _Aggiornamento registrato il `2026-11-26 05:00 CET`_
   - 📌 **Sintesi:** S&P Global Ratings ha affermato che il rating di credito di Nvidia potrebbe essere tagliato di un livello in quanto ha segnalato un "aumento" del rischio di gestione e governance per il produttore di chip.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
-### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/21)
+### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/22)
 _Aggiornamento registrato il `2026-11-26 04:00 CET`_
 
 - **[1] `🌐 Scacchiere Globale` [Il jihadismo globale ha fallito o sta semplicemente cambiando forma?](https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
@@ -240,7 +256,7 @@ _Aggiornamento registrato il `2026-11-26 04:00 CET`_
   - 📌 **Sintesi:** Natura, Pubblicato online: 25 novembre 2026; doi:10.1038/d41586-026-03468-3 Un decennio di dati sulle città scientifiche con le migliori prestazioni nel Nature Index.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
-### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/21)
+### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/22)
 _Aggiornamento registrato il `2026-11-26 03:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Media, Lula vuole Trabuco del Bradesco al ministero delle Finanze del Brasile](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/26/media-lula-vuole-trabuco-del-bradesco-al-ministero-delle-finanze-del_4325fe19-d15d-460e-a754-af208deb9fa4.html)** — *(ANSA Mondo)*
@@ -257,7 +273,7 @@ _Aggiornamento registrato il `2026-11-26 03:00 CET`_
   - 📌 **Sintesi:** Josh Boswell / CBS News: Indagine: Nvidia vende i suoi chip più avanzati ad almeno due società californiane di proprietà cinese, che ne hanno affittati o venduti alcuni ad aziende asiatiche - Nvidia sta vendendo i suoi chip più all'avanguardia ad almeno due società con sede negli Stati Uniti, ma in realtà controllate da aziende di proprietà cinese...
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
-### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/21)
+### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/22)
 _Aggiornamento registrato il `2026-11-26 02:00 CET`_
 
 - **[1] `🇪🇺 Cronaca Europea` [Egitto: almeno 30 morti in incendio causato da un incidente su autostrada al Cairo, il bilancio è provvisorio](https://it.euronews.com/2026/11/25/egitto-almeno-30-morti-in-incendio-causato-da-un-incidente-su-autostrada-al-cairo-il-bilan)** — *(Euronews Italia)*
@@ -273,7 +289,7 @@ _Aggiornamento registrato il `2026-11-26 02:00 CET`_
   - 📌 **Sintesi:** Emma Roth / The Verge: Un tribunale statunitense respinge l'impugnazione di Amazon contro un'ordinanza CPSC del 2025 che le impone di richiamare oltre 400.000 prodotti pericolosi venduti da terzi tramite Logistica di Amazon - Un tribunale si è pronunciato a favore dell'argomentazione del CPSC statunitense secondo cui Amazon è responsabile dei prodotti ritirati che altre società vendono sulle sue piattaforme.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
-### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/21)
+### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/22)
 _Aggiornamento registrato il `2026-11-26 01:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Argentina, Milei in Paraguay per primo incontro con il neo capo di Stato Alliana](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/argentina-milei-in-paraguay-per-primo-incontro-con-il-neo-capo-di-stato_a483bcb3-14fb-4943-bd0c-1c0a877f8ac4.html)** — *(ANSA Mondo)*
@@ -289,7 +305,7 @@ _Aggiornamento registrato il `2026-11-26 01:00 CET`_
   - 📌 **Sintesi:** Nel maggio 2025, il mio collega David Rotman ha scritto un articolo in cui descriveva come l’intelligenza artificiale potrebbe mantenerci dipendenti dal gas naturale. Solo 18 mesi dopo, ho perso il conto di quante volte gli è già stato dimostrato che aveva ragione. Certo, è tecnicamente possibile soddisfare la crescente domanda mondiale di elettricità con altre fonti di energia, comprese le energie rinnovabili come…
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
 
-### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/21)
+### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/22)
 _Aggiornamento registrato il `2026-11-26 00:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Il Brasile indignato per le nuove tariffe Usa, 'non cederemo alle minacce'](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/il-brasile-indignato-per-le-nuove-tariffe-usa-non-cederemo-alle-minacce_d13879d5-9fa5-4c7e-995f-2bcbd4bfd0e1.html)** — *(ANSA Mondo)*
@@ -305,7 +321,7 @@ _Aggiornamento registrato il `2026-11-26 00:00 CET`_
   - 📌 **Sintesi:** "DART ha creato un pasticcio davvero, davvero enorme. Tuttavia, non sapevamo veramente che tipo di pasticcio."
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
-### 🕒 Ora `23:00 CET` — Ricerca Oraria (3/21)
+### 🕒 Ora `23:00 CET` — Ricerca Oraria (3/22)
 _Aggiornamento registrato il `2026-11-25 23:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Giustizia argentina indaga l'Opus Dei per traffico di persone e riduzione in schiavitù](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/giustizia-argentina-indaga-lopus-dei-per-traffico-di-persone-e-riduzione-in-schiavitu_d267d3a7-070d-4aee-84c6-f12ff434de3b.html)** — *(ANSA Mondo)*
@@ -322,7 +338,7 @@ _Aggiornamento registrato il `2026-11-25 23:00 CET`_
   - 📌 **Sintesi:** NBC News: Il governatore dello Stato di New York Kathy Hochul firma un disegno di legge che vieta i giocattoli chatbot basati sull'intelligenza artificiale per cinque anni, a partire da febbraio; Il governatore della California Gavin Newsom ha firmato un divieto di quattro anni a settembre – Il governatore Kathy Hochul ha firmato oggi un disegno di legge che impedisce la produzione, lo scambio, la distribuzione e la vendita di giocattoli alimentati da chatbot basati sull’intelligenza artificiale nello Stato di New York.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
-### 🕒 Ora `22:00 CET` — Ricerca Oraria (2/21)
+### 🕒 Ora `22:00 CET` — Ricerca Oraria (2/22)
 _Aggiornamento registrato il `2026-11-25 22:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Decine di migliaia di persone in piazza in Spagna contro la violenza di genere](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/25/decine-di-migliaia-di-persone-in-piazza-in-spagna-contro-la-violenza-di-genere_b51b8ff4-b882-4250-b151-6ab4bf45274c.html)** — *(ANSA Mondo)*
@@ -338,7 +354,7 @@ _Aggiornamento registrato il `2026-11-25 22:00 CET`_
   - 📌 **Sintesi:** La presentazione è una combinazione insolita di promesse di privacy e funzionalità di intelligenza artificiale.
   - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
-### 🕒 Ora `21:00 CET` — Ricerca Oraria (1/21)
+### 🕒 Ora `21:00 CET` — Ricerca Oraria (1/22)
 _Aggiornamento registrato il `2026-11-25 21:00 CET`_
 
 - **[1] `🌍 Geopolitica & Mondo` [Governo Milei nega la recessione ma i mercati riflettono dubbi sul programma economico](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/25/governo-milei-nega-la-recessione-ma-i-mercati-riflettono-dubbi-sul-programma-economico_e40517f2-aecf-40f4-92b1-c094dbcacd89.html)** — *(ANSA Mondo)*
