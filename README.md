@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
-### «Il Brasile indignato per le nuove tariffe Usa, 'non cederemo alle minacce; Rifiuti, Italia eccellenza nel riciclo ma troppi prodotti sono · Come i data center stanno guidando il boom del gas naturale»
+### «Il Brasile indignato per le nuove tariffe Usa, 'non cederemo alle minacce; Da Lidl contributo di 5,9 miliardi al Pil italiano · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_06%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-10%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-40-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_07%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-11%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-44-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (10/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (11/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/23)
+_Aggiornamento registrato il `2026-11-26 07:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Da Lidl contributo di 5,9 miliardi al Pil italiano](https://www.ilsole24ore.com/art/da-lidl-contributo-59-miliardi-pil-italiano-AJbhIYSC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Presentati i numeri del gruppo in Italia, dove sono previsti 1,5 miliardi di investimenti nei prossimi tre anni
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[2] `🌍 Geopolitica & Mondo` [Haiti conferma la missione salvadoregna anti-bande fino a ottobre 2027](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/26/haiti-conferma-la-missione-salvadoregna-anti-bande-fino-a-ottobre-2027_5fff000a-a858-4245-b67b-5ce80b7800fb.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Accordo bilaterale con Bukele, Port-au-Prince progetta un maxicarcere
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [Fonti: Nvidia dice ai suoi partner di produzione di interrompere le spedizioni di server AI in Malesia, Singapore, Tailandia e Indonesia mentre gli Stati Uniti intensificano i controlli sulle esportazioni (Financial Times)](https://www.techmeme.com/261126/p2#a261126p2)** — *(Techmeme)*
+  - 📌 **Sintesi:** Financial Times: Fonti: Nvidia dice ai suoi partner di produzione di interrompere le spedizioni di server AI in Malesia, Singapore, Tailandia e Indonesia mentre gli Stati Uniti aumentano i controlli sulle esportazioni - La mossa arriva mentre gli Stati Uniti aumentano i controlli sulle esportazioni per impedire l'accesso cinese alla potenza di calcolo dell'IA - Nvidia ha detto ai suoi partner di produzione...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🧬 Scienza & Scoperte` [La doppia dimostrazione della leggendaria ipotesi di Riemann sbalordisce i matematici](https://www.nature.com/articles/d41586-026-03853-y)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 25 novembre 2026; doi:10.1038/d41586-026-03853-y Gli esperti affermano che l'intelligenza artificiale e le prove scritte dall'uomo avranno bisogno di un attento controllo, oltre alle ricadute della conferenza sul clima COP31.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
 
 ### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/23)
 _Aggiornamento registrato il `2026-11-26 06:00 CET`_
