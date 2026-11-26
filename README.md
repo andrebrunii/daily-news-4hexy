@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
 ### «Gli Stati Uniti mettono in guardia i leader europei contro la tassa; Generatori elettrici sempre più efficienti per attuare la transizione · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_13%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-17%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-68-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_14%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-18%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-72-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (17/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (18/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/23)
+_Aggiornamento registrato il `2026-11-26 14:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [10 volti chiave del prossimo (probabile) governo di destra spagnolo](https://www.politico.eu/article/10-key-faces-of-spains-next-likely-right-wing-government/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Alcune figure di destra e di estrema destra che potrebbero entrare nel prossimo governo spagnolo sono già ben note. Altri volano sotto il radar.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🇪🇺 Cronaca Europea` [Studio in Danimarca: antidepressivi dei padri legati a lieve rischio di ipertensione nei figli](https://it.euronews.com/2026/11/26/studio-in-danimarca-antidepressivi-dei-padri-legati-a-lieve-rischio-di-ipertensione-nei-fi)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** I ricercatori affermano che i loro risultati dovrebbero rassicurare i futuri padri che assumono antidepressivi.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[3] `💶 Macro & Finanza UE` [Borsa: l'Europa positiva, in rialzo gas e petrolio](https://www.ansa.it/sito/notizie/economia/2026/11/26/borsa-leuropa-positiva-in-rialzo-gas-e-petrolio_55bace9c-7916-41e8-a40a-ff8337b260b4.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** In aumento anche l'oro. Wall Street chiusa per la festa del Ringraziamento
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[4] `🏦 Mercati Globali` [Trump e il capo della NATO avvertono la Russia mentre gli attacchi alle infrastrutture energetiche dell’Ucraina si intensificano](https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Trump e il capo della NATO Mark Rutte hanno esortato la Russia a evitare azioni che potrebbero espandere la guerra e hanno chiesto una rapida risoluzione pacifica.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
 
 ### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/23)
 _Aggiornamento registrato il `2026-11-26 13:00 CET`_
