@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Venerdì 27 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-1-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-2-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `22:00 CET` — Ricerca Oraria (2/20)
+_Aggiornamento registrato il `2026-11-26 22:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Kiev, 'non abbiamo alcuna intenzione di estendere la guerra alla Libia'](https://www.ansa.it/sito/notizie/mondo/africa/2026/11/26/kiev-non-abbiamo-alcuna-intenzione-di-estendere-la-guerra-alla-libia_2b91ab4b-461b-4453-940e-9468e5c0b6a3.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Le nostre azioni sono dirette esclusivamente contro obiettivi militari russi'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[2] `🇪🇺 Unione Europea & Policy` [Trump si discosta dalla dichiarazione della NATO, sottolineando che l’Ucraina non deve espandere la guerra](https://www.politico.eu/article/donald-trump-diverges-from-nato-statement-emphasizing-ukraine-mustnt-expand-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La modifica unilaterale della missiva congiunta da parte del presidente degli Stati Uniti è avvenuta pochi giorni dopo che Kiev aveva colpito una nave da guerra russa al largo delle coste libiche.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[3] `💻 Tecnologia & Cyber` [Ford svela la GT41 nella speranza di vincere di nuovo a Le Mans](https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Ford entra nel Campionato Mondiale Endurance nel 2027 con il nuovo prototipo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `💶 Macro & Finanza UE` [Accordo per De Cos alla Bce, ma è muro contro muro sul bilancio Ue](https://www.ansa.it/sito/notizie/economia/2026/11/26/accordo-per-de-cos-alla-bce-ma-e-muro-contro-muro-sul-bilancio_b89e1430-4300-482f-9508-c475065af9d8.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Via libera dei 27 allo spagnolo. Resta lo scontro tra modernizzatori e coesionisti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
 
 ### 🕒 Ora `21:00 CET` — Ricerca Oraria (1/20)
 _Aggiornamento registrato il `2026-11-26 21:00 CET`_
