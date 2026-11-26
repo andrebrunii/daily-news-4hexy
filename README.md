@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
 ### «I leader dell’UE aprono la strada allo spagnolo Pablo Hernández de Cos; La Commissione Europea offre poco in risposta alle pressioni · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_18%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-22%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-88-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_19%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-23%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-92-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (22/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (23/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `19:00 CET` — Ricerca Oraria (23/23)
+_Aggiornamento registrato il `2026-11-26 19:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Elkann: «Con Hypersail vogliamo creare una Ferrari che vola sull’oceano»](https://www.ilsole24ore.com/art/elkann-con-hypersail-vogliamo-creare-ferrari-che-vola-sull-oceano-AJGcHnTC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Via alla partnership tra Ferrari Hypersail, innovativo progetto di monoscafo volante da 100 piedi, disegnato per la navigazione oceanica, e lo Yacht club italiano, il più antico circolo velico tricolore....
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌍 Geopolitica & Mondo` [L'ex candidato alla presidenza dell'opposizione annuncia il ritorno in Venezuela](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/26/lex-candidato-alla-presidenza-dellopposizione-annuncia-il-ritorno-in-venezuela_147d34d5-df0e-4ac2-9dbe-8b37771e255a.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Edmundo Gonzalez si ritroverà con Machado per le celebrazioni della Vergine di Coromoto
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` `🔄 AGGIORNAMENTO` [Lo spread tra Btp e Bund tedeschi chiude in ribasso a 107 punti](https://www.ansa.it/sito/notizie/economia/2026/11/26/lo-spread-tra-btp-e-bund-tedeschi-chiude-in-ribasso-a-107-punti_65fc5c83-bcf7-4be0-a467-24ea616528f6.html)** — *(ANSA Economia)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-24 09:00 CET).
+  - 📌 **Sintesi:** Il rendimento annuo italiano
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[4] `🧬 Scienza & Scoperte` [Espressione editoriale di preoccupazione: doppio controllo dell'EIN3 nucleare da parte delle cascate MAPK biforcate nella segnalazione C 2 H 4](https://www.nature.com/articles/s41586-026-11475-7)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 26 novembre 2026; doi:10.1038/s41586-026-11475-7 Editoriale Espressione di preoccupazione: doppio controllo dell'EIN3 nucleare mediante cascate MAPK biforcate nella segnalazione C 2 H 4
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto strutturale sui target del Green Deal europeo: la sfida per Roma e Bruxelles è coniugare decarbonizzazione e sicurezza energetica senza sacrificare la base industriale continentale.
 
 ### 🕒 Ora `18:00 CET` — Ricerca Oraria (22/23)
 _Aggiornamento registrato il `2026-11-26 18:00 CET`_
