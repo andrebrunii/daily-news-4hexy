@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Giovedì 26 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--26-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-12-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--26-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-13-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/20)
+_Aggiornamento registrato il `2026-11-26 09:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` ['Nvidia interrompe le spedizioni di chip nel sud-est asiatico'](https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/26/nvidia-interrompe-le-spedizioni-di-chip-nel-sud-est-asiatico_e88514ee-1562-4716-beeb-acdbe8f9d08f.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Ft: 'Con stretta Usa sull'export per frenare l'accesso cinese all'IA'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Cronaca Europea` [Naufraga petroliera con 7.000 tonnellate di gasolio a nord di Ibiza: un morto](https://it.euronews.com/2026/11/26/naufraga-petroliera-con-7000-tonnellate-di-gasolio-a-nord-di-ibiza-un-morto)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Gli altri 16 membri dell'equipaggio sono sopravvissuti al naufragio. Le autorità hanno attivato i piani di emergenza e mantengono la vigilanza per il rischio di inquinamento marino
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` [Confcom, per black friday giro d'affari da 6,6 miliardi, quasi due terzi con online](https://www.ansa.it/sito/notizie/economia/2026/11/26/confcom-per-black-friday-giro-daffari-da-66-miliardi-quasi-due-terzi_d595eb60-6698-4341-bd4e-a4ed7c5233a9.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Su internet spesa attesa di 4,3 miliardi. Spesa pro capite tra online e negozi 262 euro
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[4] `🏦 Mercati Globali` [Affrontare Starlink: la più grande fabbrica di satelliti d’Europa apre per rivaleggiare con Musk](https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** La mega fabbrica di 20.000 metri quadrati sarà in grado di produrre fino a 500 satelliti all'anno, rendendola il terzo sito di produzione satellitare più grande al mondo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/20)
 _Aggiornamento registrato il `2026-11-26 08:00 CET`_
