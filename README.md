@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
 ### «Generatori elettrici sempre più efficienti per attuare la transizione; Nvidia interrompe le spedizioni di chip nel sud-est asiatico · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_11%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-15%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-60-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_12%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-16%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-64-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (15/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (16/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-26 12:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Cremlino, 'da Ue altra ingente somma per la guerra invece che per i suoi cittadini](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/26/cremlino-da-ue-altra-ingente-somma-per-la-guerra-invece-che-per-i-suoi_9379e8c3-bfc5-48ab-91e8-e596b463b20a.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** 'Meno soldi nelle tasche di francesi, italiani e tedeschi'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[2] `📈 Economia & Mercati` [BEA Italia, il triplete di Sport e Salute certifica il valore sociale dell’America’s Cup](https://www.ilsole24ore.com/art/bea-italia-triplete-sport-e-salute-certifica-valore-sociale-dell-america-s-cup-AJXXdHTC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Non è soltanto un premio alla creatività o alla qualità della comunicazione. Il riconoscimento ottenuto da Sport e Salute ai BEA Italia rappresenta soprattutto la consacrazione di una strategia che...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[3] `🤖 IA & Frontiera Tech` [Elon Musk afferma che lui e SpaceX intendono dare a ogni bambino negli Stati Uniti due azioni SpaceX tramite Trump Accounts, raddoppiando il suo impegno; la donazione vale ~$18,4 miliardi (Peter Vercoe/Bloomberg)](https://www.techmeme.com/261126/p9#a261126p9)** — *(Techmeme)*
+  - 📌 **Sintesi:** Peter Vercoe / Bloomberg: Elon Musk afferma che lui e SpaceX intendono dare a ogni bambino negli Stati Uniti due azioni SpaceX tramite Trump Accounts, raddoppiando il suo impegno; la donazione vale circa 18,4 miliardi di dollari: Elon Musk e SpaceX doneranno a ogni bambino negli Stati Uniti due azioni della società di esplorazione spaziale, raddoppiando l'impegno preso dalla persona più ricca del mondo proprio il mese scorso.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[4] `⚡ Futuro & Deep Tech` [La prossima generazione di mani bioniche è qui e possono sentire](https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** Avi Davidson ha perso la mano sinistra da adolescente. Da allora, ha utilizzato alcune protesi. Ma il suo ultimo è diverso: è collegato ai nervi nella parte superiore del suo avambraccio e gli permette di sentire la pressione. Per la prima volta dopo anni, può usare l'arto sinistro per maneggiare oggetti delicati...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-26 11:00 CET`_
