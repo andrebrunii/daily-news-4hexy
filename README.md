@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Giovedì 26 Novembre 2026
 ### «Il Brasile indignato per le nuove tariffe Usa, 'non cederemo alle minacce; Il governo Tusk “affronta l’armageddon” mentre la corte europea · Come i data center stanno guidando il boom del gas naturale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_01%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-5%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-20-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--26_02%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-6%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-24-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (5/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (6/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/23)
+_Aggiornamento registrato il `2026-11-26 02:00 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Egitto: almeno 30 morti in incendio causato da un incidente su autostrada al Cairo, il bilancio è provvisorio](https://it.euronews.com/2026/11/25/egitto-almeno-30-morti-in-incendio-causato-da-un-incidente-su-autostrada-al-cairo-il-bilan)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Un camion che trasportava carburante si sarebbe ribaltato su un'autostrada molto trafficata, incendiando veicoli e facendo scattare una vasta operazione di soccorso. Il bilancio delle vittime potrebbe aumentare. Gli incidenti stradali causano ogni anno migliaia di morti in Egitto
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[2] `🌍 Geopolitica & Mondo` [Miss Universo, l'America Latina conquista il podio](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/26/miss-universo-lamerica-latina-conquista-il-podio_0edd5a7d-a192-4beb-9d84-cd930fa434b1.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Vince la portoricana Barreto davanti alle miss di Repubblica Dominicana e Venezuela
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🏦 Mercati Globali` [I mercati asiatici sono in rialzo mentre gli investitori valutano le nuove tariffe statunitensi; Focus sulla decisione sui tassi della Corea del Sud](https://www.cnbc.com/2026/11/26/stock-markets-today-.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il Nikkei 225 giapponese è salito dell'1,21% nei primi scambi, mentre il Topix è salito dello 0,71%. L'indice S&P/ASX 200 australiano è salito dello 0,15%.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🤖 IA & Frontiera Tech` [Un tribunale statunitense respinge l'impugnazione di Amazon contro un'ordinanza CPSC del 2025 che le impone di richiamare oltre 400.000 prodotti pericolosi venduti da terzi tramite Logistica di Amazon (Emma Roth/The Verge)](https://www.techmeme.com/261125/p42#a261125p42)** — *(Techmeme)*
+  - 📌 **Sintesi:** Emma Roth / The Verge: Un tribunale statunitense respinge l'impugnazione di Amazon contro un'ordinanza CPSC del 2025 che le impone di richiamare oltre 400.000 prodotti pericolosi venduti da terzi tramite Logistica di Amazon - Un tribunale si è pronunciato a favore dell'argomentazione del CPSC statunitense secondo cui Amazon è responsabile dei prodotti ritirati che altre società vendono sulle sue piattaforme.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/23)
 _Aggiornamento registrato il `2026-11-26 01:00 CET`_
