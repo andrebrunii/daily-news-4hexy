@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Venerdì 27 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-13-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-14-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/20)
+_Aggiornamento registrato il `2026-11-27 10:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [L’incombente svolta della destra spagnola sul clima si sta già manifestando a Valencia](https://www.politico.eu/article/spain-looming-right-wing-pivot-on-climate-is-already-playing-out-in-valencia/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il comportamento del Partito popolare di centro-destra e dell’estrema destra Vox nella regione colpita dall’alluvione offre indizi su come le loro politiche scettiche sul clima potrebbero funzionare a livello nazionale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[2] `🌐 Scacchiere Globale` [Guarda: La BBC affronta un uomo tedesco sospettato di fornire piccole imbarcazioni a bande di migranti](https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Marvin Reuter contesta l'estradizione in Francia, dove potrebbe essere accusato di contrabbando, associazione a delinquere e omicidio colposo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `💻 Tecnologia & Cyber` [Le grandi batterie di Volvo: guidiamo i suoi ibridi plug-in aggiornati del 2028](https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** C’è solo una cosa che ancora non sappiamo: quanto costeranno?
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `💶 Macro & Finanza UE` [Jindal rilancia sull'ex Ilva, gli investimenti salgono a 7,5 miliardi](https://www.ansa.it/sito/notizie/economia/2026/11/26/jindal-rilancia-sullex-ilva-gli-investimenti-salgono-a-75-miliardi_788dba04-7995-40f9-8e2b-a59723e1bde1.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** Situazione 'irrituale', ma l'esame dei commissari non si ferma. Urso: 'Gara competitiva'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
 
 ### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/20)
 _Aggiornamento registrato il `2026-11-27 09:00 CET`_
