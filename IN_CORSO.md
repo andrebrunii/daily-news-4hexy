@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Venerdì 27 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-8-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-9-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,23 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/20)
+_Aggiornamento registrato il `2026-11-27 05:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Il capo della Banca d’Inghilterra avverte che l’intelligenza artificiale deve avvantaggiare gli esseri umani](https://www.politico.eu/article/bank-of-england-boss-warns-ai-must-benefit-humans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** La tecnologia ha bisogno di confini: "un po' come allevare figli", afferma Andrew Bailey.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[2] `🌍 Geopolitica & Mondo` [Il bilancio spacca l'Europa ma Costa insiste: 'Serve un'intesa a dicembre'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/27/il-bilancio-spacca-leuropa-ma-costa-insiste-serve-unintesa-a-dicembre_29462849-8dd3-41b1-be83-b6aa6c47da24.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** La forte irritazione di Meloni, scettica sui finanziamenti automatici per Kiev
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[3] `🤖 IA & Frontiera Tech` [Dante Security, che ha sviluppato una piattaforma per monitorare l'attività degli agenti IA all'interno delle organizzazioni, ha raccolto un seed da 10 milioni di dollari guidato da NFX (Meir Orbach/CTech)](https://www.techmeme.com/261126/p27#a261126p27)** — *(Techmeme)*
+  - 📌 **Sintesi:** Meir Orbach / CTech: Dante Security, che ha sviluppato una piattaforma per monitorare l'attività degli agenti IA all'interno delle organizzazioni, ha raccolto un seme di 10 milioni di dollari guidato da NFX: Dante Security sta sviluppando una piattaforma che offre alle organizzazioni visibilità sulle azioni degli agenti IA autonomi e collega la loro attività ai dipendenti responsabili.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🏦 Mercati Globali` `🔄 AGGIORNAMENTO` [Due italiani uccisi nell'attacco di un drone in Kuwait; Trump dice che la guerra con l’Iran finisce “quando voglio”](https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html)** — *(CNBC Global Economy)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-26 15:00 CET).
+  - 📌 **Sintesi:** Il ministro degli Esteri iraniano Abbas Araghchi ha dichiarato: "L'incidente è sospetto e sembra una ricetta precotta per la guerra".
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
 
 ### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/20)
 _Aggiornamento registrato il `2026-11-27 04:00 CET`_
