@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Venerdì 27 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-10-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-11-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/20)
+_Aggiornamento registrato il `2026-11-27 07:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Essilux, un dipendente su due investe nel gruppo e diventa azionista](https://www.ilsole24ore.com/art/essilux-dipendente-due-investe-gruppo-e-diventa-azionista-AJOv3TTC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** In Italia hanno aderito al piano di azionariato diffuso quasi 8mila lavoratori: tra gli operai sono un terzo. La maggiore adesione a Lauriano dove è stata sperimentata la settimana corta
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌍 Geopolitica & Mondo` [Il Costa Rica respinge Francesca Albanese, relatrice Onu per i territori palestinesi](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/27/il-costa-rica-respinge-francesca-albanese-relatrice-onu-per-i-territori-palestinesi_baecc3c6-0d6c-475b-a591-6163bf0d7f10.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** La replica: "Conosci il vero volto di una autorità quando dai fastidio". Plaude Israele
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `🤖 IA & Frontiera Tech` [Le spedizioni di smartphone negli Stati Uniti sono diminuite del 9% su base annua nel terzo trimestre poiché i costi della memoria hanno colpito gli OEM Android, soprattutto nella fascia bassa; La quota di Apple è salita dal 50% al 57%, Samsung detiene il 25% (Maurice Klaehne/Counterpoint Research)](https://www.techmeme.com/261127/p1#a261127p1)** — *(Techmeme)*
+  - 📌 **Sintesi:** Maurice Klaehne / Counterpoint Research: le spedizioni di smartphone negli Stati Uniti sono diminuite del 9% su base annua nel terzo trimestre poiché i costi della memoria hanno colpito gli OEM Android, soprattutto nella fascia bassa; La quota di Apple è salita dal 50% al 57%, Samsung si mantiene al 25% — - Le spedizioni di smartphone negli Stati Uniti sono diminuite del 9% su base annua nel terzo trimestre poiché l'aumento dei costi della memoria ha pesato sugli OEM Android, soprattutto nella fascia bassa.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🔭 Ricerca & Spazio` [Una molecola brucia grassi ha un beneficio inaspettato per i tuoi muscoli](https://www.sciencedaily.com/releases/2026/11/261126063315.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** I ricercatori hanno scoperto che una molecola naturale rilasciata durante l’esercizio aiuta i muscoli a diventare più forti, resistere alla fatica e sopportare i danni. La molecola, già disponibile come integratore alimentare, potrebbe aprire nuove strade per il trattamento del deterioramento muscolare associato al diabete di tipo 2.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
 
 ### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/20)
 _Aggiornamento registrato il `2026-11-27 06:00 CET`_
