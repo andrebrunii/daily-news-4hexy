@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Venerdì 27 Novembre 2026
 ### «Trump si discosta dalla dichiarazione della NATO, sottolineando; Lo sciopero del vertice sul bilancio lascia all’UE un mese · Un giudice statunitense condanna un uomo della Florida a 47 mesi»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_10%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-14%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-56-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_11%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-15%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-60-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-27 11:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Dépendance aux Big Tech américaines: où en est la France par rapport à ses voisins européens?](https://www.politico.eu/article/ue-tech-americaine-dependance-souverainete-ia-cloud/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Più del 78% dei siti di servizi pubblici maltesi rappresentano la tecnologia americana, contro meno del 3% in Germania.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌍 Geopolitica & Mondo` [Perù, il Bid annuncia 10 miliardi di dollari di finanziamenti in quattro anni](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/27/peru-il-bid-annuncia-10-miliardi-di-dollari-di-finanziamenti-in-quattro-anni_38fab2ec-8c95-4230-9964-fa1337f70328.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Risorse per istruzione, sicurezza, infrastrutture e contrasto agli effetti di El Niño
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[3] `🧬 Scienza & Scoperte` [Finalmente decodificato il misterioso ruolo dell’area cerebrale nel linguaggio](https://www.nature.com/articles/d41586-026-03800-x)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 27 novembre 2026; doi:10.1038/d41586-026-03800-x L'area di Wernicke è nota per l'elaborazione delle parole pronunciate, ma le registrazioni del cervello rivelano che fornisce anche un contributo cruciale a un compito cognitivo correlato.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🏦 Mercati Globali` [I mercati privati ​​sono più accessibili che mai per gli investitori. Uscire è un'altra questione](https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L’accesso al dettaglio ai mercati privati ​​è in crescita, ma PwC afferma che l’istruzione è in ritardo poiché i limiti di riscatto mettono a fuoco i rischi di liquidità.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
 
 ### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-27 10:00 CET`_
