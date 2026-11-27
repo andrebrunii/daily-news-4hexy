@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Venerdì 27 Novembre 2026
 ### «Trump si discosta dalla dichiarazione della NATO, sottolineando; Lo sciopero del vertice sul bilancio lascia all’UE un mese · Interviste con il CEO di Huawei Ren Zhengfei e altri»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_16%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-20%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-80-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_17%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-21%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-84-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (20/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (21/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `17:00 CET` — Ricerca Oraria (21/23)
+_Aggiornamento registrato il `2026-11-27 17:00 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [John Simpson: L’Ucraina è piegata ma ancora intatta mentre inizia il clima gelido](https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** L’Ucraina si prepara ad affrontare un altro inverno devastante mentre le domande persistono: come andrà a finire?
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[2] `📈 Economia & Mercati` [Crescono i consumi fuoricasa. La filiera si prepara per Host 2027](https://www.ilsole24ore.com/art/crescono-consumi-fuoricasa-filiera-si-prepara-host-2027-AJPBlGRC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Presentato l’Osservatorio HostMilano: industria da 243 miliardi di euro. Macchine per gelati, panificazione e pasticceria trainano il mercato
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🧠 Paradigmi & Lunghi Orizzonti` [L’invenzione che ha cambiato per sempre la lettura (e non è stato il Kindle)](https://bigthink.com/books/history-of-paperback-books/)** — *(Big Think)*
+  - 📌 **Sintesi:** Viviamo in un’epoca di rivoluzione tecnologica. Gli ultimi 50 anni hanno dato vita al personal computer, allo smartphone e ora all’intelligenza artificiale. Sebbene ciascuna sia un'invenzione che cambia il mondo e sia ancora relativamente giovane, nessuna rivaleggia ancora con la macchina da stampa a caratteri mobili. A partire dal 1440 circa a Magonza, in Germania, l'invenzione di Johannes Gutenberg permise...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🤖 IA & Frontiera Tech` [La CMA afferma che Meta ha apportato modifiche ai ToS di Muse nel Regno Unito per riflettere la legge sui consumatori del paese; i termini offrono agli utenti una protezione molto maggiore rispetto agli Stati Uniti (Joseph Bambridge/Politico)](https://www.techmeme.com/261127/p8#a261127p8)** — *(Techmeme)*
+  - 📌 **Sintesi:** Joseph Bambridge / Politico: La CMA afferma che Meta ha apportato modifiche ai ToS di Muse nel Regno Unito per riflettere la legge sui consumatori del paese; i termini offrono agli utenti una protezione molto maggiore rispetto agli Stati Uniti — I termini di servizio di Muse nel Regno Unito offrono ai consumatori una protezione molto maggiore rispetto agli Stati Uniti — LONDRA — Meta sarà in difficoltà...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `16:00 CET` — Ricerca Oraria (20/23)
 _Aggiornamento registrato il `2026-11-27 16:00 CET`_
