@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Venerdì 27 Novembre 2026
 ### «Trump si discosta dalla dichiarazione della NATO, sottolineando; Lo sciopero del vertice sul bilancio lascia all’UE un mese · Un giudice statunitense condanna un uomo della Florida a 47 mesi»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_11%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-15%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-60-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_12%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-16%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-64-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (15/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (16/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-27 12:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [All’uomo che ha coniato il termine “Brexit” piace il suono di “Breturn” e “Brejoin”](https://www.politico.eu/article/the-man-who-coined-brexit-likes-the-sound-of-breturn-and-brejoin-peter-wilding/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Peter Wilding - accreditato dall'Oxford English Dictionary per aver utilizzato per primo il termine Brexit - afferma che avere una nuova abbreviazione efficace porterà gli argomenti nel presente.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌐 Scacchiere Globale` [I leader si scontrano nel dibattito finale sulle elezioni spagnole mentre il settore immobiliare domina il conflitto](https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** La difficoltà che molti affrontano nell’acquisto di una casa è stata il problema più grande di un’aspra campagna.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Uno sguardo alle proposte di data center verticali, spesso l'unica opzione dove lo spazio è limitato in luoghi come Taiwan; Kansas City ha recentemente rifiutato una torre di 20 piani (Tiffany Hsu/New York Times)](https://www.techmeme.com/261127/p3#a261127p3)** — *(Techmeme)*
+  - 📌 **Sintesi:** Tiffany Hsu / New York Times: Uno sguardo alle proposte di data center verticali, spesso l'unica opzione dove lo spazio è limitato in luoghi come Taiwan; Kansas City ha recentemente rifiutato una torre di 20 piani: le strutture che alimentano l'A.I. e altre esigenze relative ai big data sono molto richieste ma ampiamente disprezzate. Alcuni sviluppatori stanno cercando di crearli invece di eliminarli.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `⚡ Futuro & Deep Tech` [Protesi all'avanguardia consentono ai ricercatori di sondare la mente umana](https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** Nelle ultime settimane ho parlato con Alexander (Avi) Davidson. Ci sono molte cose straordinarie su Avi. Da adolescente ha subito un terribile infortunio che lo ha lasciato paralizzato e senza la mano sinistra. Oggi utilizza la propria esperienza per guidare la sua pratica come terapeuta del trauma. Sta anche prendendo...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-27 11:00 CET`_
