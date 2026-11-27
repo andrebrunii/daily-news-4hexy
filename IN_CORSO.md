@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Venerdì 27 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-19-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-20-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `16:00 CET` — Ricerca Oraria (20/20)
+_Aggiornamento registrato il `2026-11-27 16:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Saremmo “stupidi” a non farlo: la Polonia difende un accordo militare da 300 milioni di dollari con Palantir](https://www.politico.eu/article/wed-be-stupid-not-to-poland-defends-300m-military-ai-deal-with-palantir/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Il ministro della Difesa polacco ha affermato che sarebbe “sbagliato” non utilizzare il software, nonostante le preoccupazioni sulla dipendenza dalla tecnologia americana.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[2] `🌐 Scacchiere Globale` [Gli scontri rovinano le partite europee mentre Macron condanna la violenza](https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Scontri violenti segnano una serie di partite di calcio europeo giovedì sera, con il presidente francese Emmanuel Macron che condanna i problemi nella partita casalinga del Marsiglia contro il Levski Sofia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🤖 IA & Frontiera Tech` [Interviste con il CEO di Huawei Ren Zhengfei e altri su come le restrizioni di Trump hanno spinto Huawei verso l'autosufficienza, rendendola centrale nelle ambizioni di intelligenza artificiale della Cina (New York Times)](https://www.techmeme.com/261127/p7#a261127p7)** — *(Techmeme)*
+  - 📌 **Sintesi:** New York Times: Interviste con il CEO di Huawei Ren Zhengfei e altri su come le restrizioni di Trump hanno spinto Huawei verso l'autosufficienza, rendendola centrale nelle ambizioni cinesi di intelligenza artificiale — Mentre l'accesso della Cina ai chip avanzati di Nvidia si riduce, Huawei sta diventando sempre più indispensabile per Pechino nonostante un ampio divario tecnologico con il suo rivale americano.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[4] `⚡ Futuro & Deep Tech` [Il Download: Aperte le candidature per Innovatori Under 35 e una finestra bionica nella mente](https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/)** — *(MIT Technology Review)*
+  - 📌 **Sintesi:** Questa è l'edizione di oggi di The Download, la nostra newsletter nei giorni feriali che fornisce una dose quotidiana di ciò che accade nel mondo della tecnologia. Il nostro concorso Innovatori Under 35 del 2027 è ora aperto Ogni anno, MIT Technology Review premia 35 tra i giovani scienziati, imprenditori e inventori più brillanti del mondo nella nostra lista Innovatori Under 35.…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `15:00 CET` — Ricerca Oraria (19/20)
 _Aggiornamento registrato il `2026-11-27 15:00 CET`_
