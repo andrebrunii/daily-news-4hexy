@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Venerdì 27 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-18-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-19-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `15:00 CET` — Ricerca Oraria (19/20)
+_Aggiornamento registrato il `2026-11-27 15:00 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [L'assassina di funghi Erin Patterson lancia l'ultimo disperato appello all'Alta Corte](https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Erin Patterson sta scontando l'ergastolo per aver avvelenato i suoi parenti con un pranzo a base di funghi tossici nel 2023.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌍 Geopolitica & Mondo` [Venezuela, Onu chiede indipendenza e criteri di merito per nuovi giudici Corte suprema](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/27/venezuela-onu-chiede-indipendenza-e-criteri-di-merito-per-nuovi-giudici-corte_fd2db356-7020-4e70-b2f9-9ed98daa2580.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** La relatrice Satterthwaite denuncia selezione che favorisce le carriere legate al potere
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [I numeri di serie nei documenti cinesi rivelano che i chip Blackwell riservati di Nvidia sono stati installati in un data center di Shanghai collegato ad Alice Huang e Megaspeed (Bloomberg)](https://www.techmeme.com/261127/p6#a261127p6)** — *(Techmeme)*
+  - 📌 **Sintesi:** Bloomberg: I ​​numeri di serie nei documenti cinesi rivelano che i chip Blackwell riservati di Nvidia sono stati installati in un data center di Shanghai collegato ad Alice Huang e Megaspeed — Una coppia di aziende cinesi ha installato i potenti semiconduttori Blackwell di Nvidia Corp. in un data center di Shanghai collegato ad Alice Huang...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `💻 Tecnologia & Cyber` [Intel si è trovata di fronte a una scelta: dare a Trump il 10% o affrontarne le conseguenze](https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Intel ha subito pressioni per cedere una quota del 10% per sbloccare i miliardi di sovvenzioni promesse.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
 
 ### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/20)
 _Aggiornamento registrato il `2026-11-27 14:00 CET`_
