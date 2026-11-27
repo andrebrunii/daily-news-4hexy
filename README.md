@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Venerdì 27 Novembre 2026
 ### «Trump si discosta dalla dichiarazione della NATO, sottolineando; Lo sciopero del vertice sul bilancio lascia all’UE un mese · Interviste con il CEO di Huawei Ren Zhengfei e altri»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_18%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-22%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-88-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_19%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-23%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-92-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (22/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (23/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `19:00 CET` — Ricerca Oraria (23/23)
+_Aggiornamento registrato il `2026-11-27 19:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Meloni difende i fondi della coesione e della politica agricola](https://www.ilsole24ore.com/art/meloni-difende-fondi-coesione-e-politica-agricola-AJGBX6UC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Bruxelles - È il vertice delle distanze «anni luce», dei posizionamenti tattici, degli avvertimenti: vale per il futuro bilancio dell’Unione e per il nuovo prestito da 45 miliardi all’Ucraina. Giorgia...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
+- **[2] `🌐 Scacchiere Globale` [Leader della setta apocalittica keniana condannato per ulteriori 123 morti](https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Paul Mackenzie viene dichiarato colpevole di aver ucciso i suoi seguaci, settimane dopo essere stato incarcerato per l'omicidio di massa di bambini.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🏦 Mercati Globali` `🔄 AGGIORNAMENTO` [Dow guadagna 500 punti mentre il benchmark si avvia verso la migliore settimana da ottobre 2022: aggiornamenti in tempo reale](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html)** — *(CNBC Global Economy)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-27 14:00 CET).
+  - 📌 **Sintesi:** Gli investitori stanno concludendo una settimana di trading turbolenta che è stata accorciata a causa delle festività del Ringraziamento.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `💻 Tecnologia & Cyber` [Le migliori offerte del Black Friday che Ars ha potuto trovare](https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** Magari un po' di commercio, per far sì che tutti gli avanzi del Turkey Day vadano giù più facilmente?
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
 
 ### 🕒 Ora `18:00 CET` — Ricerca Oraria (22/23)
 _Aggiornamento registrato il `2026-11-27 18:00 CET`_
