@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Venerdì 27 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-5-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-6-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/20)
+_Aggiornamento registrato il `2026-11-27 02:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [La Dante Alighieri alla Fil di Guadalajara, in programma quattro eventi](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/27/la-dante-alighieri-alla-fil-di-guadalajara-in-programma-quattro-eventi_d4d0f6bd-7452-4dd9-9fbf-43957cd36d4e.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Incontri su didattica, arte e cultura digitale al Padiglione Italia
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[2] `🌐 Scacchiere Globale` [La grande tempesta del Ringraziamento porta inondazioni e ritardi nei voli in tutti gli Stati Uniti](https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Quasi un milione di clienti negli Stati Uniti non hanno avuto elettricità giovedì sera a causa dei temporali che si sono abbattuti su entrambe le coste degli Stati Uniti, portando raffiche di vento, forti piogge e inondazioni.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[3] `🤖 IA & Frontiera Tech` [Gli sforzi bipartisan del Congresso per regolamentare l’intelligenza artificiale stanno guadagnando slancio, ma devono affrontare una strada in salita a causa della lentezza del lavoro legislativo e delle battaglie per il territorio (New York Times)](https://www.techmeme.com/261126/p26#a261126p26)** — *(Techmeme)*
+  - 📌 **Sintesi:** New York Times: Gli sforzi bipartisan al Congresso per regolamentare l’intelligenza artificiale stanno guadagnando slancio, ma devono affrontare una strada in salita a causa del ritmo lento del lavoro legislativo e delle battaglie territoriali. I membri di entrambi i partiti affermano di voler affrontare la politica sull’intelligenza artificiale, ma la lentezza del ritmo legislativo e le battaglie territoriali potrebbero essere d’intralcio.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[4] `🏦 Mercati Globali` [I fondi sovrani si comportano sempre più come giganti del private equity, ereditandone i rischi](https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** I fondi sovrani stanno stipulando sempre più accordi, assumendo il controllo delle partecipazioni e costruendo le proprie piattaforme di investimento.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/20)
 _Aggiornamento registrato il `2026-11-27 01:00 CET`_
