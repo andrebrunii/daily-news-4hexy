@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Venerdì 27 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-11-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-12-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/20)
+_Aggiornamento registrato il `2026-11-27 08:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [L’agroalimentare regge la crisi, stabile la rischiosità delle pmi](https://www.ilsole24ore.com/art/l-agroalimentare-regge-crisi-stabile-rischiosita-pmi-AJhwqWQC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Osservatorio Crif: Tasso di default inferiore alla media nazionale per le aziende agricole (2,1%). Sul comparto alimentare pesano invece l’aumento dei costi produttivi e il calo della domanda
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [L’Ucraina convince gli alleati a tenere fuori gli atleti di Putin](https://www.politico.eu/article/ukraine-pushes-allies-keep-russian-athletes-out-putin-international-sport-restrictions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Kiev sta spingendo per controlli più severi sullo status neutrale, il divieto dei simboli legati al Cremlino e tagli ai finanziamenti per gli organismi sportivi che consentono ai russi di competere.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
+- **[3] `🧠 Paradigmi & Lunghi Orizzonti` [Chiedi a Ethan: cosa significa che gli atomi "toccano" l'un l'altro?](https://bigthink.com/starts-with-a-bang/do-atoms-touch/)** — *(Big Think)*
+  - 📌 **Sintesi:** Una delle cose più controintuitive riguardo all’esistenza è la nozione di forze. Per sperimentare una forza – cioè affinché un oggetto senta l’influenza di un altro oggetto su di esso – due oggetti non hanno necessariamente bisogno di toccarsi o di essere in contatto tra loro. Gli oggetti sulla superficie terrestre risentono della gravità terrestre, ma anche gli aeroplani, i satelliti,...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🔭 Ricerca & Spazio` [Gli scienziati identificano due età in cui i bambini potrebbero essere più vulnerabili al tempo trascorso davanti allo schermo](https://www.sciencedaily.com/releases/2026/11/261126033220.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati hanno identificato due periodi potenzialmente critici in cui il tempo trascorso davanti allo schermo può essere particolarmente dannoso per l’apprendimento e la memoria dei bambini: l’infanzia e l’inizio dell’istruzione formale. Una maggiore esposizione allo schermo durante queste finestre di sviluppo è stata collegata a risultati accademici più scarsi e a una memoria di lavoro più debole anni dopo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
 ### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/20)
 _Aggiornamento registrato il `2026-11-27 07:00 CET`_
