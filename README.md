@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Venerdì 27 Novembre 2026
 ### «Trump si discosta dalla dichiarazione della NATO, sottolineando; Gli Stati Uniti sono troppo concentrati sul Medio Oriente · Un giudice statunitense condanna un uomo della Florida a 47 mesi»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_03%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-7%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-28-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_04%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-8%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-32-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (7/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (8/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/23)
+_Aggiornamento registrato il `2026-11-27 04:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Spagna, Sanchez e Colau in tandem credono nella rimonta sul consorzio Feijoo e Abascal](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/27/spagna-sanchez-e-colau-in-tandem-credono-nella-rimonta-sul-consorzio-feijoo_7b6a7c02-6ce8-42fb-9b04-7bb567b887dd.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Nell'ultimo duello tv i 2 candidati progressisti hanno incalzato le destre, poco compatte
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🇪🇺 Unione Europea & Policy` [Lo sciopero del vertice sul bilancio lascia all’UE un mese per salvare l’accordo](https://www.politico.eu/article/eu-budget-summit-walkout-antonio-costa-leaves-one-month-negotiations-drama/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Nessuno si aspettava un accordo all'incontro di giovedì, ma l'entità della divisione ha fatto sì che i leader se ne andassero visibilmente scioccati e arrabbiati.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
+- **[3] `🔭 Ricerca & Spazio` [La sorprendente ragione per cui le donne sembrano essere più brave nel multitasking rispetto agli uomini](https://www.sciencedaily.com/releases/2026/11/261125045306.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Uomini e donne sembrano essere altrettanto capaci di multitasking, ma gli uomini hanno più del doppio delle probabilità di ignorare la conversazione mentre si destreggiano tra più attività. I ricercatori ritengono che questa differenza inaspettata possa aiutare a spiegare perché le donne sono ampiamente percepite come migliori multitasking.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🧬 Scienza & Scoperte` `🔄 AGGIORNAMENTO` [L’intelligenza artificiale ha appena violato la crittografia di Internet? La voce “bomba” stordisce gli scienziati](https://www.nature.com/articles/d41586-026-03875-6)** — *(Nature Research)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-24 12:00 CET).
+  - 📌 **Sintesi:** Natura, Pubblicato online: 26 novembre 2026; doi:10.1038/d41586-026-03875-6 Gli algoritmi generati dall'intelligenza artificiale potrebbero essere sul punto di violare la crittografia a chiave pubblica, la tecnologia centrale per il commercio, le banche e la privacy.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflesso diretto sul costo del credito nell'Eurozona e sui margini di manovra della finanza pubblica italiana, con effetti a catena su mutui, investimenti industriali e tenuta del potere d'acquisto domestico.
 
 ### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/23)
 _Aggiornamento registrato il `2026-11-27 03:00 CET`_
