@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Venerdì 27 Novembre 2026
 ### «Trump si discosta dalla dichiarazione della NATO, sottolineando; Lo sciopero del vertice sul bilancio lascia all’UE un mese · Un giudice statunitense condanna un uomo della Florida a 47 mesi»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_13%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-17%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-68-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_14%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-18%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-72-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,28 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (17/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (18/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/23)
+_Aggiornamento registrato il `2026-11-27 14:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [“L’Islam è la Sharia”: il leader tedesco dell’estrema destra attacca la Le Pen contro i musulmani e l’Europa](https://www.politico.eu/article/islam-sharia-germany-far-right-leader-alice-weidel-attacks-marine-le-pen-muslims-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Alice Weidel dell’AfD parla di deportazioni di massa, del diritto all’esistenza di Israele e della pace con la Russia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
+- **[2] `🌐 Scacchiere Globale` [Ex dirigente dei media ammette di aver detto che la sopravvissuta australiana agli abusi sessuali su minori "sta cercando di essere violentata di nuovo"](https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** L'ex dirigente dei media di Murdoch è stato sentito durante un evento riferirsi al modo in cui era vestita Grace Tame.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🏦 Mercati Globali` `🔄 AGGIORNAMENTO` [I futures Dow salgono di 600 punti mentre il benchmark si avvia verso la migliore settimana da aprile 2025: aggiornamenti in tempo reale](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html)** — *(CNBC Global Economy)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-27 01:00 CET).
+  - 📌 **Sintesi:** Gli investitori stanno concludendo una settimana di trading turbolenta che è stata accorciata a causa delle festività del Ringraziamento.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[4] `🤖 IA & Frontiera Tech` [Meituan riporta che i ricavi del terzo trimestre sono aumentati del 21,6% su base annua a ~$17,3 miliardi, sopra la stima, e un utile netto rettificato di ~$285,1 milioni, in aumento rispetto a una perdita netta rettificata di ~$2,4 miliardi (Ben Jiang/South China Morning Post)](https://www.techmeme.com/261127/p5#a261127p5)** — *(Techmeme)*
+  - 📌 **Sintesi:** Ben Jiang / South China Morning Post: Meituan riporta che i ricavi del terzo trimestre sono aumentati del 21,6% su base annua a ~$17,3 miliardi, sopra la stima, e un utile netto rettificato di ~$285,1 milioni, in aumento rispetto a una perdita netta rettificata di ~$2,4 miliardi — Il colosso cinese della consegna di cibo Meituan ha riportato venerdì un secondo trimestre consecutivo redditizio, mentre l'azienda affronta una concorrenza sempre più intensa...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/23)
 _Aggiornamento registrato il `2026-11-27 13:00 CET`_
