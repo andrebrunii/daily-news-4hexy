@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Venerdì 27 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-4-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-5-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/20)
+_Aggiornamento registrato il `2026-11-27 01:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [La brasiliana Embraer critica i nuovi dazi Usa al 10%, 'rischio rincari voli'](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/27/la-brasiliana-embraer-critica-i-nuovi-dazi-usa-al-10-rischio-rincari-voli_47931259-9908-44af-b7e6-f3b72d60d08d.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il gruppo aeronautico avverte sui costi e prepara un'azione di lobbying a Washington
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `📈 Economia & Mercati` [Ex Ilva, dopo ok del Senato al decreto quali sono le prospettive per Taranto](https://www.ilsole24ore.com/art/ex-ilva-ok-senato-decreto-quali-sono-prospettive-taranto-AJ7NOsTC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Il Governo pone la fiducia, il Senato approva il nuovo decreto legge sull’ex Ilva e il testo va ora alla Camera per l’ultimo passaggio, ma per la crisi del siderurgico...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🏦 Mercati Globali` [I futures azionari salgono mentre Wall Street si prepara a concludere una settimana festiva volatile: aggiornamenti in tempo reale](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Gli investitori stanno concludendo una settimana di trading turbolenta che è stata accorciata a causa delle festività del Ringraziamento.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[4] `🧬 Scienza & Scoperte` [La “colla” cromosomica potrebbe aumentare la fertilità stabilizzando l’invecchiamento degli ovociti](https://www.nature.com/articles/d41586-026-03874-7)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 26 novembre 2026; doi:10.1038/d41586-026-03874-7 Un sistema testato sui topi imita una proteina che diminuisce con l'età e potrebbe aiutare a migliorare i trattamenti per la fertilità in futuro.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
 ### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/20)
 _Aggiornamento registrato il `2026-11-27 00:00 CET`_

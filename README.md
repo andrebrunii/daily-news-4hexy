@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Venerdì 27 Novembre 2026
 ### «Trump si discosta dalla dichiarazione della NATO, sottolineando; Gli Stati Uniti sono troppo concentrati sul Medio Oriente · Un giudice statunitense condanna un uomo della Florida a 47 mesi»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_00%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-4%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-16-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_01%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-5%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-20-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (4/23 ricerche orarie):**
-`🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (5/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/23)
+_Aggiornamento registrato il `2026-11-27 01:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [La brasiliana Embraer critica i nuovi dazi Usa al 10%, 'rischio rincari voli'](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/27/la-brasiliana-embraer-critica-i-nuovi-dazi-usa-al-10-rischio-rincari-voli_47931259-9908-44af-b7e6-f3b72d60d08d.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Il gruppo aeronautico avverte sui costi e prepara un'azione di lobbying a Washington
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `📈 Economia & Mercati` [Ex Ilva, dopo ok del Senato al decreto quali sono le prospettive per Taranto](https://www.ilsole24ore.com/art/ex-ilva-ok-senato-decreto-quali-sono-prospettive-taranto-AJ7NOsTC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Il Governo pone la fiducia, il Senato approva il nuovo decreto legge sull’ex Ilva e il testo va ora alla Camera per l’ultimo passaggio, ma per la crisi del siderurgico...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🏦 Mercati Globali` [I futures azionari salgono mentre Wall Street si prepara a concludere una settimana festiva volatile: aggiornamenti in tempo reale](https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Gli investitori stanno concludendo una settimana di trading turbolenta che è stata accorciata a causa delle festività del Ringraziamento.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[4] `🧬 Scienza & Scoperte` [La “colla” cromosomica potrebbe aumentare la fertilità stabilizzando l’invecchiamento degli ovociti](https://www.nature.com/articles/d41586-026-03874-7)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 26 novembre 2026; doi:10.1038/d41586-026-03874-7 Un sistema testato sui topi imita una proteina che diminuisce con l'età e potrebbe aiutare a migliorare i trattamenti per la fertilità in futuro.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
 ### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/23)
 _Aggiornamento registrato il `2026-11-27 00:00 CET`_
