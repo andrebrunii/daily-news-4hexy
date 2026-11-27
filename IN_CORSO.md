@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Sabato 28 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-3-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-4-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,23 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/20)
+_Aggiornamento registrato il `2026-11-28 00:00 CET`_
+
+- **[1] `📈 Economia & Mercati` `🔄 AGGIORNAMENTO` [I brand nella macchina del tempo. L’AI riprogramma le storie vintage](https://www.ilsole24ore.com/art/i-brand-macchina-tempo-l-ai-riprogramma-storie-vintage-AJR7OzKC)** — *(Il Sole 24 Ore)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-27 18:00 CET).
+  - 📌 **Sintesi:** In un mercato saturo di contenuti, la tecnologia attualizza cataloghi, documenti e testimonianze presenti negli archivi aziendali, trasformandoli in leve capaci di generare differenziazione e business
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[2] `🌐 Scacchiere Globale` [I pubblici ministeri chiedono una pena detentiva di 25 anni per il "venditore di veleno" Kenneth Law](https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** L'uomo canadese, che si è dichiarato colpevole di 14 capi d'accusa di favoreggiamento al suicidio all'inizio di quest'anno, sarà condannato in un secondo momento.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🧬 Scienza & Scoperte` [Farmaco antitumorale salvavita prodotto da una pianta](https://www.nature.com/articles/d41586-026-03801-w)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 27 novembre 2026; doi:10.1038/d41586-026-03801-w In uno studio dimostrativo, gli scienziati sono riusciti a convincere una pianta correlata al tabacco a sintetizzare il farmaco chemioterapico paclitaxel.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[4] `🔭 Ricerca & Spazio` [Gli scienziati trasformano una delle materie plastiche più difficili da riciclare al mondo in olio lubrificante ad alte prestazioni](https://www.sciencedaily.com/releases/2026/11/261126033501.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Gli scienziati della Virginia Tech hanno scoperto come trasformare una delle materie plastiche più difficili da riciclare al mondo in un ingrediente prezioso per l'olio motore ad alte prestazioni. Il loro processo innovativo converte il PVC di scarto in un utile materiale lubrificante in sole tre ore. La svolta potrebbe trasformare una delle principali fonti di inquinamento da plastica in un prezioso...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
 
 ### 🕒 Ora `23:00 CET` — Ricerca Oraria (3/20)
 _Aggiornamento registrato il `2026-11-27 23:00 CET`_
