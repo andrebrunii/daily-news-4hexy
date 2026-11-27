@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Sabato 28 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-2-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-3-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `23:00 CET` — Ricerca Oraria (3/20)
+_Aggiornamento registrato il `2026-11-27 23:00 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` [Uganda avvia il primo studio clinico africano con vaccino mRNA contro Ebola](https://it.euronews.com/2026/11/27/uganda-avvia-il-primo-studio-clinico-africano-con-vaccino-mrna-contro-ebola)** — *(Euronews Italia)*
+  - 📌 **Sintesi:** Un vaccino sperimentale a mRNA sviluppato da Moderna viene testato su 224 volontari in Uganda, mentre le autorità sanitarie cercano di contrastare un’epidemia di Ebola che ha causato migliaia di morti nella vicina RDC.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[2] `📈 Economia & Mercati` [Elettricità, l’Italia al test accumulo](https://www.ilsole24ore.com/art/elettricita-l-italia-test-accumulo-AJHsqDJC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** L’Italia resta il mercato elettrico più caro d’Europa: nei primi dieci mesi del 2026 il prezzo medio dell’energia elettrica è stato di 154 euro/MWh, il 33% in più rispetto alla...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[3] `🤖 IA & Frontiera Tech` [Alcuni utenti affermano che Claude sta sabotando silenziosamente i progetti, ma il comportamento potrebbe derivare da uno scontro tra la sua natura proattiva e il rigoroso rispetto delle istruzioni (Drew Breunig)](https://www.techmeme.com/261127/p14#a261127p14)** — *(Techmeme)*
+  - 📌 **Sintesi:** Drew Breunig: Alcuni utenti affermano che Claude sta sabotando silenziosamente i progetti, ma il comportamento potrebbe derivare da uno scontro tra la sua natura proattiva e il rigoroso rispetto delle istruzioni: Claude sta lanciando il gioco? — C'è una recente ondata di affermazioni secondo cui Claude sta silenziosamente sabotando i progetti delle persone, specialmente quando coinvolgono l'apprendimento automatico.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🔭 Ricerca & Spazio` [Il leggendario “corno di unicorno” del narvalo racchiude uno straordinario segreto ingegneristico](https://www.sciencedaily.com/releases/2026/11/261126063316.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** L’iconica zanna a spirale del narvalo, un tempo apprezzata in Europa come il corno di un mitico unicorno, nasconde una straordinaria impresa di ingegneria naturale. Utilizzando una tecnologia avanzata a raggi X, un team internazionale di scienziati ha scoperto che la zanna contiene due spirali microscopiche intrecciate che si torcono in direzioni opposte.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
 
 ### 🕒 Ora `22:00 CET` — Ricerca Oraria (2/20)
 _Aggiornamento registrato il `2026-11-27 22:00 CET`_
