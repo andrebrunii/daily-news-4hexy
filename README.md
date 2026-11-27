@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Venerdì 27 Novembre 2026
 ### «Trump si discosta dalla dichiarazione della NATO, sottolineando; Lo sciopero del vertice sul bilancio lascia all’UE un mese · Interviste con il CEO di Huawei Ren Zhengfei e altri»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_17%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-21%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-84-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--27_18%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-22%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-88-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (21/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (22/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `18:00 CET` — Ricerca Oraria (22/23)
+_Aggiornamento registrato il `2026-11-27 18:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [I brand nella macchina del tempo. L’AI riprogramma le storie vintage](https://www.ilsole24ore.com/art/i-brand-macchina-tempo-l-ai-riprogramma-storie-vintage-AJR7OzKC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Ci vuole tempo per fare le cose per bene, come per esempio un buon sugo da girare e rigirare per ore. Lo sanno bene in Dolmio, brand australiano nato quarant’anni...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[2] `🌐 Scacchiere Globale` [Le bande musicali si affrettano a coprire i costi dopo la riorganizzazione della parata del Ringraziamento](https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il maltempo a New York City ha spinto gli organizzatori a posticipare la parata di Macy's di due giorni, lasciando bloccati alcuni musicisti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [SAP conferma un incidente di sicurezza informatica; rapporto: gli hacker hanno ottenuto i token di autenticazione dei suoi dipendenti, consentendo loro di copiare e alterare il codice sorgente archiviato su GitHub (Eduard Kovacs/SecurityWeek)](https://www.techmeme.com/261127/p9#a261127p9)** — *(Techmeme)*
+  - 📌 **Sintesi:** Eduard Kovacs / SecurityWeek: SAP conferma un incidente di sicurezza informatica; rapporto: gli hacker hanno ottenuto i token di autenticazione dei suoi dipendenti, consentendo loro di copiare e alterare il codice sorgente archiviato su GitHub — SAP ha rilevato attività sospette su GitHub, dove secondo quanto riferito gli hacker hanno utilizzato token dei dipendenti rubati per copiare e alterare il codice sorgente.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[4] `🧬 Scienza & Scoperte` [L'inquietante bellezza delle torbiere: libri in breve](https://www.nature.com/articles/d41586-026-03885-4)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 27 novembre 2026; doi:10.1038/d41586-026-03885-4 Andrew Robinson esamina cinque delle migliori scelte scientifiche.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
 ### 🕒 Ora `17:00 CET` — Ricerca Oraria (21/23)
 _Aggiornamento registrato il `2026-11-27 17:00 CET`_
