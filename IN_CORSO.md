@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Venerdì 27 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-6-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-7-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/20)
+_Aggiornamento registrato il `2026-11-27 03:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [El Salvador, Bukele auspica di rifondare il Paese sugli ideali degli Usa](https://www.ansa.it/sito/notizie/mondo/americalatina/2026/11/27/el-salvador-bukele-auspica-di-rifondare-il-paese-sugli-ideali-degli-usa_a2611aa9-6c99-4561-8a18-329cf0190598.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Messaggio su X per il Giorno del Ringraziamento, elogio ai principi fondanti
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riconfigurazione delle catene del valore euro-mediterranee: ciò che appare come uno scontro geoeconomico lontano si traduce in costi di approvvigionamento e nuove barriere normative per gli esportatori italiani.
+- **[2] `🇪🇺 Unione Europea & Policy` [Il Regno Unito otterrà diritti consultivi “in stile svizzero” grazie ai nuovi accordi dell’UE](https://www.politico.eu/article/uk-to-get-swiss-style-consultative-rights-under-new-eu-deals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Ma Londra non avrà alcun voto o ruolo formale nel processo decisionale di Bruxelles.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[3] `🏦 Mercati Globali` [In ottobre la crescita dei profitti industriali in Cina è salita al 20,1%, il massimo degli ultimi 5 mesi](https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L’economia cinese funziona a due velocità, con la produzione legata all’intelligenza artificiale e le esportazioni che alimentano la crescita mentre i consumi delle famiglie sono in ritardo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[4] `💻 Tecnologia & Cyber` [Dal minimalista al massimalista: lo staff di Ars mette in mostra il proprio home office](https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** I nostri uffici domestici spaziano dal buon gusto al "spiegati per favore".
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/20)
 _Aggiornamento registrato il `2026-11-27 02:00 CET`_
