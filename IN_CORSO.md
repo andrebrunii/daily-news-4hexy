@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Venerdì 27 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-12-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--27-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-13-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,23 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/20)
+_Aggiornamento registrato il `2026-11-27 09:00 CET`_
+
+- **[1] `🌐 Scacchiere Globale` `🔄 AGGIORNAMENTO` [Zelenskyj critica la “strana” amicizia Trump-Putin in un’intervista alla BBC](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-27 00:00 CET).
+  - 📌 **Sintesi:** Il presidente ucraino esprime frustrazione nei confronti degli Stati Uniti e afferma che non stanno spingendo abbastanza forte la Russia nei colloqui di pace per porre fine alla guerra.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[2] `📈 Economia & Mercati` [Pomodoro da industria, Princes raddoppia la quantità di prodotto lavorato in Puglia](https://www.ilsole24ore.com/art/pomodoro-industria-princes-raddoppia-quantita-lavorata-puglia-AJhVIsTC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** La campagna 2026 del pomodoro di Princes Group genererà ricavi incrementali stimati in circa 150 milioni, con un contributo limitato nell’ultimo trimestre del 2026 e la quota prevalente dei ricavi...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Gli investitori stranieri hanno venduto una cifra record di 33,1 miliardi di dollari netti di azioni taiwanesi a novembre, superando il deflusso record di ottobre tra i timori sulla valutazione dell'intelligenza artificiale e una più ampia svendita tecnologica (Eunice Xu/Bloomberg)](https://www.techmeme.com/261127/p2#a261127p2)** — *(Techmeme)*
+  - 📌 **Sintesi:** Eunice Xu / Bloomberg: Gli investitori stranieri hanno venduto la cifra record netta di 33,1 miliardi di dollari di azioni taiwanesi a novembre, superando il deflusso record di ottobre tra i timori sulla valutazione dell'intelligenza artificiale e una più ampia svendita tecnologica — Gli investitori stranieri hanno venduto una quantità record di azioni taiwanesi finora a novembre, sottolineando quanto pesantemente il campanello d'allarme globale dell'intelligenza artificiale...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🏦 Mercati Globali` [Secondo quanto riferito, la società tedesca di software SAP sta valutando la possibilità di tagliare almeno 10.000 posti di lavoro nel settore dell’intelligenza artificiale](https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** SAP sta valutando il taglio di almeno 10.000 posti di lavoro mentre rimodella il suo business del software attorno all’intelligenza artificiale, ha riferito Bloomberg.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/20)
 _Aggiornamento registrato il `2026-11-27 08:00 CET`_
