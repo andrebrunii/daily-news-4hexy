@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Sabato 28 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-10-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-11-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/20)
+_Aggiornamento registrato il `2026-11-28 07:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Orte: con il nuovo terminal merci treni per Torino, Verona e Gioia Tauro](https://www.ilsole24ore.com/art/orte-il-nuovo-terminal-merci-treni-torino-verona-e-gioia-tauro-AJE16FVC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** L’interporto di Orte (Viterbo) punta a colmare il vuoto di servizi ferroviari nel Centro Italia e a diventare un nodo di riferimento per il trasporto intermodale delle merci. A segnare...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌐 Scacchiere Globale` [Otto morti nello schianto di un elicottero militare peruviano](https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il pilota è stato l'unico sopravvissuto allo schianto durante una missione di salvataggio in una zona remota nota per il traffico di droga.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [Embo, che sta sviluppando modelli mondiali per la robotica addestrata su enormi quantità di video Internet, emerge dallo stealth con un seed da 110 milioni di dollari guidato da a16z (Embo)](https://www.techmeme.com/261128/p1#a261128p1)** — *(Techmeme)*
+  - 📌 **Sintesi:** Embo: Embo, che sta sviluppando modelli mondiali per la robotica addestrata su enormi quantità di video Internet, emerge dallo stealth con un seed da 110 milioni di dollari guidato da a16z - Embo sta costruendo la prossima generazione di modelli di intelligenza artificiale di frontiera, con una profonda comprensione della realtà fisica e abilità motorie a grana fine.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🏦 Mercati Globali` [Questo studio storico di 170 anni afferma che è in arrivo un “grande collasso del mercato”.](https://www.cnbc.com/2026/11/27/ai-bubble-burst-market-study.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il boom dell’intelligenza artificiale sta lanciando segnali di allarme di eccessi speculativi che rivaleggiano con quelli visti al culmine della bolla delle dot-com.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
 
 ### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/20)
 _Aggiornamento registrato il `2026-11-28 06:00 CET`_
