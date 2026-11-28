@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Sabato 28 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-5-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-6-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,25 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/20)
+_Aggiornamento registrato il `2026-11-28 02:00 CET`_
+
+- **[1] `🌐 Scacchiere Globale` `🔄 AGGIORNAMENTO` [Il "venditore di veleni" Kenneth Law si scusa in tribunale con le famiglie delle sue vittime](https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-28 00:00 CET).
+  - 📌 **Sintesi:** L'uomo canadese, che si è dichiarato colpevole di 14 capi d'imputazione di favoreggiamento al suicidio all'inizio di quest'anno, ha detto di provare rimorso per le sue azioni.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🌍 Geopolitica & Mondo` `🔄 AGGIORNAMENTO` [Trump, 'la vittoria è a portata di mano in Iran'](https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/11/27/trump-la-vittoria-e-a-portata-di-mano-in-iran_4a25bd9d-81e9-4fed-a86d-b4cf000c0ff1.html)** — *(ANSA Mondo)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-23 04:00 CET).
+  - 📌 **Sintesi:** 'Staimo dando loro chance per fare un accordo, non so se ne trarranno vantaggio'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[3] `🏦 Mercati Globali` [La compagnia aerea a basso costo Norse Atlantic dichiara bancarotta in Europa dopo non essere riuscita a garantire i finanziamenti](https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** La compagnia low cost Norse Atlantic ha dichiarato bancarotta venerdì, affermando di non essere riuscita a garantire i finanziamenti dopo che l'impennata dei costi del carburante ha messo a dura prova le operazioni della compagnia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[4] `🧬 Scienza & Scoperte` `🔄 AGGIORNAMENTO` [Correzione dell'autore: fenotipizzazione clinica del grasso bruno umano abilitata dall'intelligenza artificiale](https://www.nature.com/articles/s41586-026-11411-9)** — *(Nature Research)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-25 08:00 CET).
+  - 📌 **Sintesi:** Natura, Pubblicato online: 27 novembre 2026; doi:10.1038/s41586-026-11411-9 Correzione dell'autore: fenotipizzazione clinica del grasso bruno umano abilitata dall'intelligenza artificiale
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/20)
 _Aggiornamento registrato il `2026-11-28 01:00 CET`_
