@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Sabato 28 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-17-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-18-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `14:00 CET` — Ricerca Oraria (18/20)
+_Aggiornamento registrato il `2026-11-28 14:00 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Respinta la proposta dell'Argentina di fermare le trivellazioni petrolifere delle Falkland](https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Una joint venture tra società britanniche e israeliane è destinata ad iniziare l’esplorazione di petrolio e gas, ma l’Argentina ha cercato di bloccarla come parte della sua rivendicazione di sovranità.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[2] `🌍 Geopolitica & Mondo` [A Taipei il candidato sindaco critico verso Pechino ammette la propria sconfitta](https://www.ansa.it/sito/notizie/mondo/asia/2026/11/28/a-taipei-il-candidato-sindaco-critico-verso-pechino-ammette-la-propria-sconfitta_525ec764-bd53-4914-8c0c-5600d2af9091.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Puma Shen, Partito Democratco Progressista, sperava di ribaltare l'equilibrio
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🤖 IA & Frontiera Tech` [Gli operatori energetici utilizzano sensori e software per regolare dinamicamente i limiti di sicurezza della rete, aumentando la capacità della rete esistente in un contesto di crescente domanda di energia guidata dall’intelligenza artificiale (Martha Muir/Financial Times)](https://www.techmeme.com/261128/p5#a261128p5)** — *(Techmeme)*
+  - 📌 **Sintesi:** Martha Muir / Financial Times: Gli operatori energetici stanno utilizzando sensori e software per regolare dinamicamente i limiti di sicurezza della rete, aumentando la capacità di rete esistente in un contesto di crescente domanda di energia guidata dall'intelligenza artificiale. Gli operatori stanno utilizzando sensori e software sofisticati per ottenere più capacità dalle linee di trasmissione installate mentre lottano...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Il differenziale del costo dell'energia resta il tallone d'Achille della competitività italiana ed europea: ogni scossa sugli approvvigionamenti o sulle tecnologie energetiche incide direttamente sulle bollette e sulla tenuta delle imprese energivore.
+- **[4] `💻 Tecnologia & Cyber` [Recensione Kindle Paperwhite 2026: i pulsanti per girare la pagina sono tornati, a un prezzo](https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/)** — *(Ars Technica)*
+  - 📌 **Sintesi:** I Kindle stanno diventando più costosi più velocemente di quanto stiano migliorando.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
 
 ### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/20)
 _Aggiornamento registrato il `2026-11-28 13:00 CET`_
