@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Sabato 28 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-8-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-9-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/20)
+_Aggiornamento registrato il `2026-11-28 05:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [9 cose da leggere prima delle elezioni spagnole](https://www.politico.eu/article/nine-things-you-need-to-read-spanish-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Dalla comprensione dei giocatori chiave al guardare i risultati di domenica come un professionista, ecco tutto ciò che devi sapere.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `📈 Economia & Mercati` [Giuseppe Lavazza vince il Premio EY L’Imprenditore dell’Anno 2026](https://www.ilsole24ore.com/art/giuseppe-lavazza-vince-premio-ey-l-imprenditore-dell-anno-2026-AJ0FQFVC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Giuseppe Lavazza, Presidente del Consiglio di Amministrazione di Luigi Lavazza S.p.A., è il Vincitore Nazionale della XXIX edizione del Premio EY L’Imprenditore dell’Anno «per aver contribuito all’evoluzione di un’impresa familiare...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
+- **[3] `🤖 IA & Frontiera Tech` [Anthropic afferma che Claude non sabota silenziosamente il lavoro e che alcuni resoconti degli utenti riflettono un'"eccessiva cautela", in cui Claude si aggrappa a regole autoimposte su compiti lunghi (Edwin/@edwinarbus)](https://www.techmeme.com/261127/p17#a261127p17)** — *(Techmeme)*
+  - 📌 **Sintesi:** Edwin / @edwinarbus: Anthropic afferma che Claude non sabota silenziosamente il lavoro e che alcuni resoconti degli utenti riflettono un'"eccessiva cautela", in cui Claude si aggrappa a regole autoimposte su compiti lunghi: Claude non è stato addestrato a sabotare il lavoro. Sì, a volte commette errori e altri agenti potrebbero identificarli, ma questo non è sabotaggio. Ci sono stati alcuni...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pone una questione cruciale di sovranità digitale europea: dipendere da piattaforme, chip e modelli extra-UE trasforma una novità tecnologica in un fattore geopolitico che tocca pubblica amministrazione, lavoro cognitivo e sicurezza nazionale.
+- **[4] `🔭 Ricerca & Spazio` [Questo integratore alimentare può avere un beneficio inaspettato per il cervello](https://www.sciencedaily.com/releases/2026/11/261125045311.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** Un integratore alimentare di derivazione naturale chiamato urolitina A può aiutare il cervello a ottenere più ossigeno e sostanze nutritive quando ne ha più bisogno. In uno studio clinico randomizzato che ha coinvolto 50 adulti di mezza età affetti da obesità, i ricercatori hanno scoperto che l'assunzione giornaliera dell'integratore per quattro settimane aumentava il flusso sanguigno al cervello durante un compito di memoria impegnativo, in particolare...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
 
 ### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/20)
 _Aggiornamento registrato il `2026-11-28 04:00 CET`_
