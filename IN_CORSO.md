@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Sabato 28 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-6-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-7-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,24 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/20)
+_Aggiornamento registrato il `2026-11-28 03:00 CET`_
+
+- **[1] `🇪🇺 Cronaca Europea` `🔄 AGGIORNAMENTO` [Zelensky ritratta: nessun partner europeo sapeva dell'attacco in Libia. Italia contraria a estendere la guerra](https://it.euronews.com/2026/11/27/zelensky-ritratta-nessun-partner-europeo-sapeva-dellattacco-in-libia-italia-contraria-a-es)** — *(Euronews Italia)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-26 22:00 CET).
+  - 📌 **Sintesi:** Alla fine di una giornata in cui i ministri italiani smentivano il presidente ucraino, c'è stata la telefonata tra Zelensky e Meloni. Nessun partner europeo era stato consultato o avvisato dell'attacco alle navi russe nel porto di Bengasi. Neanche l'Italia, avevano ragione Tajani e Crosetto
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[2] `🌐 Scacchiere Globale` [Milioni di mogli nell'Asia meridionale non protette dallo stupro coniugale: studio](https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Più di 100 paesi hanno messo al bando lo stupro coniugale, ma gran parte dell’Asia meridionale non lo ha fatto.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[3] `💶 Macro & Finanza UE` `🔄 AGGIORNAMENTO` [Arriva il Black Friday. Confcom stima 6,6 miliardi, per Codacons saranno 4,4](https://www.ansa.it/sito/notizie/economia/2026/11/26/arriva-il-black-friday.-confcom-stima-66-miliardi-per-codacons-saranno-44_5a374818-7bb7-441a-b0bc-bd802881d3f9.html)** — *(ANSA Economia)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-26 09:00 CET).
+  - 📌 **Sintesi:** Adusbef: 'Timori per gli attacchi hacker'. Assoutenti: 'Attenti agli acquisti compulsivi'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[4] `🏦 Mercati Globali` [La scienza vincitrice del Nobel che trasforma la “raccolta dell’acqua” in una corsa commerciale](https://www.cnbc.com/atmospheric-water-harvesting-nobel-prize-atoco-ahbstra/)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Le startup Atoco e Ahbstra stanno spostando le macchine che utilizzano acqua dall’aria verso un uso commerciale, anche per data center e comunità colpite dalla siccità.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `02:00 CET` — Ricerca Oraria (6/20)
 _Aggiornamento registrato il `2026-11-28 02:00 CET`_
