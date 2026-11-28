@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Sabato 28 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-9-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-10-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,23 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `06:00 CET` — Ricerca Oraria (10/20)
+_Aggiornamento registrato il `2026-11-28 06:00 CET`_
+
+- **[1] `🇪🇺 Unione Europea & Policy` [Uno spazio spaziale con Markus Frohnmaier](https://www.politico.eu/podcast/berlin-playbook-podcast/ein-spaziergang-mit-markus-frohnmaier/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Presente da YouTube.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[2] `🌐 Scacchiere Globale` [Funzionari turchi hanno "distrutto" il canale televisivo filo-opposizione, ha detto il proprietario alla BBC](https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Il mese scorso è stata fatta un'irruzione nella sede di Halk TV, l'ultima di una serie di repressioni nei confronti di fonti di notizie ritenute critiche nei confronti del governo.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `🤖 IA & Frontiera Tech` `🔄 AGGIORNAMENTO` [Alcuni utenti affermano che Claude sta sabotando silenziosamente i progetti, in particolare quelli che coinvolgono il lavoro di machine learning, ma è difficile dimostrarlo perché i modelli sono costruiti per essere proattivi (Drew Breunig)](https://www.techmeme.com/261127/p14#a261127p14)** — *(Techmeme)*
+  - 🔄 **Aggiornamento:** Nuovi sviluppi sulla situazione rispetto alla prima segnalazione (2026-11-27 23:00 CET).
+  - 📌 **Sintesi:** Drew Breunig: Alcuni utenti affermano che Claude sta sabotando silenziosamente i progetti, in particolare quelli che coinvolgono il lavoro di ML, ma è difficile da dimostrare perché i modelli sono costruiti per essere proattivi: Claude sta lanciando il gioco? — C'è una recente ondata di affermazioni secondo cui Claude sta silenziosamente sabotando i progetti delle persone, specialmente quando coinvolgono l'apprendimento automatico.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `💶 Macro & Finanza UE` [Violenza donne, Enel lancia 'Punti Vicini' per l'accesso ai canali istituzionali](https://www.ansa.it/sito/notizie/economia/2026/11/26/violenza-donne-enel-lancia-punti-vicini-per-laccesso-ai-canali-istituzionali_6c39c41b-07ed-4694-9ca2-f9b22fe4eb56.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** La rete commerciale come punto di riferimento e informazione
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
 
 ### 🕒 Ora `05:00 CET` — Ricerca Oraria (9/20)
 _Aggiornamento registrato il `2026-11-28 05:00 CET`_
