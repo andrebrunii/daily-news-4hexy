@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Sabato 28 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-4-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-5-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `01:00 CET` — Ricerca Oraria (5/20)
+_Aggiornamento registrato il `2026-11-28 01:00 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Autocisterna capovolta che trasportava 7.000 tonnellate di diesel da rimorchiare lontano da Ibiza](https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Si teme una grave fuoriuscita di petrolio al largo di Ibiza, ma finora i serbatoi di carburante della nave sono intatti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Rafforza la centralità strategica dell'Italia come hub energetico del Mediterraneo (Piano Mattei e interconnessioni Sud-Nord verso il cuore dell'Europa), accelerando il dibattito sul mix tra rinnovabili, stoccaggi e nuovo nucleare.
+- **[2] `🌍 Geopolitica & Mondo` [Costa: '24 Paesi Ue sostengono l'extra prestito per l'Ucraina'](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/27/costa-24-paesi-ue-sostengono-lextra-prestito-per-lucraina_0d492a82-4667-4623-9a59-14284272fe50.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Approfondimento disponibile nella fonte originale collegata.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `🤖 IA & Frontiera Tech` [Il colosso assicurativo statunitense Allstate ha subito un'interruzione dal 23 novembre, che ha interessato il suo sito web e la sua app; l'azienda non ha spiegato la causa dell'interruzione (Jean Eaglesham/Wall Street Journal)](https://www.techmeme.com/261127/p15#a261127p15)** — *(Techmeme)*
+  - 📌 **Sintesi:** Jean Eaglesham / Wall Street Journal: Il colosso assicurativo americano Allstate ha subito un'interruzione dal 23 novembre, che ha interessato il suo sito web e la sua app; la compagnia non ha detto cosa sta causando l'interruzione: l'interruzione di più giorni ha lasciato i clienti in difficoltà nel raggiungere l'assicuratore durante una delle settimane di viaggio più trafficate dell'anno
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🧬 Scienza & Scoperte` [Audio di lunga lettura: i campioni cerebrali più preziosi del mondo e cosa ci insegnano sull'essere umani](https://www.nature.com/articles/d41586-026-03900-8)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 27 novembre 2026; doi:10.1038/d41586-026-03900-8 Neuroni rari prelevati da esseri umani viventi stanno aiutando i ricercatori a testare come si comportano le cellule cerebrali nel loro ambiente naturale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
 
 ### 🕒 Ora `00:00 CET` — Ricerca Oraria (4/20)
 _Aggiornamento registrato il `2026-11-28 00:00 CET`_
