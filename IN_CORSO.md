@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Sabato 28 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-12-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-13-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/20)
+_Aggiornamento registrato il `2026-11-28 09:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Per le Pmi produttività al palo, giù il costo del lavoro](https://www.ilsole24ore.com/art/per-pmi-produttivita-palo-giu-costo-lavoro-AJcc0Y5B)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Una produttività stagnante, con margini in recupero grazie alla compressione del costo del lavoro. E’ una quadro misto quello che emerge dal rapporto Pmi di Cerved, che prende in esame...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌐 Scacchiere Globale` [Tartarughe rare trovate all'interno dei bagagli dell'aeroporto di Amsterdam](https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** I rettili in via di estinzione erano legati con nastro adesivo per impedirne lo spostamento, dicono i funzionari.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [Il COO Jen Wong afferma che oltre l'80% della monetizzazione di Reddit proviene da utenti registrati il ​​cui tempo trascorso sul sito aumenta da 5 minuti al giorno nel primo anno a 40 minuti al giorno nel quinto anno (Eleanor Pringle/Fortune)](https://www.techmeme.com/261128/p2#a261128p2)** — *(Techmeme)*
+  - 📌 **Sintesi:** Eleanor Pringle / Fortune: il COO Jen Wong afferma che oltre l'80% della monetizzazione di Reddit proviene da utenti che hanno effettuato l'accesso il cui tempo sul sito aumenta da 5 minuti al giorno nel primo anno a 40 minuti al giorno nel quinto anno. Reddit vanta parametri di coinvolgimento che farebbero invidia a molte altre piattaforme online: oltre l'80% della sua monetizzazione proviene da fedeli...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🏦 Mercati Globali` [L’uomo più ricco dell’Africa sta quotando la sua mega raffineria in una IPO di successo](https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** L’IPO della raffineria di Dangote potrebbe valutare la società a circa 47 miliardi di dollari, in quella che si prevede sarà la più grande quotazione sul mercato azionario dell’Africa.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Riflette tensioni civili, sociali e culturali che, per osmosi storica ed economica, raggiungono rapidamente il dibattito pubblico italiano ed europeo.
 
 ### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/20)
 _Aggiornamento registrato il `2026-11-28 08:00 CET`_
