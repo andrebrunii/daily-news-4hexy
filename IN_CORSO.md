@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Sabato 28 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-13-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-14-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/20)
+_Aggiornamento registrato il `2026-11-28 10:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Veronafiere rileva Forum Risk Management in Sanità ed entra nel settore salute](https://www.ilsole24ore.com/art/veronafiere-rileva-forum-risk-management-sanita-ed-entra-settore-salute-AJgMluTC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Acquisito dalla società Gutenberg il 100% dell’evento di Arezzo, che si terrà a Verona dal 2027
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌐 Scacchiere Globale` [Il wrestler australiano Bronson Reed è morto all'età di 38 anni, afferma la WWE](https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Sono piovuti tributi per il 38enne australiano a cui è sopravvissuta la moglie incinta, Paige, la loro figlia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` [First Cisl, corrono i tassi sul credito al consumo, oltre la media euro](https://www.ansa.it/sito/notizie/economia/2026/11/28/first-cisl-corrono-i-tassi-sul-credito-al-consumo-oltre-la-media-euro_cbcc967c-ea68-48d0-86bf-9eebc9a6bd01.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** A settembre al 10,78%, attenzione al Bnpl e cessione quinto
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🏦 Mercati Globali` [Questo mese l'esercito americano ha respinto i droni dalla base aerea del Regno Unito, riferisce il FT](https://www.cnbc.com/2026/11/28/us-military-repelled-drones-at-uk-airbase-this-month-ft-reports.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il giornale, citando persone che hanno familiarità con la questione, ha affermato che gli Stati Uniti hanno utilizzato la tecnologia anti-drone per respingere i sistemi aerei senza pilota.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
 
 ### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/20)
 _Aggiornamento registrato il `2026-11-28 09:00 CET`_

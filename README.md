@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Sabato 28 Novembre 2026
 ### «“Un sostenitore della Russia”: i commenti di Kushner su Putin suscitano; Elettricità, l’Italia al test accumulo · Domande e risposte con i ricercatori sull'intelligenza artificiale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--28_09%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-13%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-52-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--28_10%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-14%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-56-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (13/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (14/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/23)
+_Aggiornamento registrato il `2026-11-28 10:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Veronafiere rileva Forum Risk Management in Sanità ed entra nel settore salute](https://www.ilsole24ore.com/art/veronafiere-rileva-forum-risk-management-sanita-ed-entra-settore-salute-AJgMluTC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Acquisito dalla società Gutenberg il 100% dell’evento di Arezzo, che si terrà a Verona dal 2027
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🌐 Scacchiere Globale` [Il wrestler australiano Bronson Reed è morto all'età di 38 anni, afferma la WWE](https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Sono piovuti tributi per il 38enne australiano a cui è sopravvissuta la moglie incinta, Paige, la loro figlia.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[3] `💶 Macro & Finanza UE` [First Cisl, corrono i tassi sul credito al consumo, oltre la media euro](https://www.ansa.it/sito/notizie/economia/2026/11/28/first-cisl-corrono-i-tassi-sul-credito-al-consumo-oltre-la-media-euro_cbcc967c-ea68-48d0-86bf-9eebc9a6bd01.html)** — *(ANSA Economia)*
+  - 📌 **Sintesi:** A settembre al 10,78%, attenzione al Bnpl e cessione quinto
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Per l'Italia e il tessuto produttivo europeo, ogni variazione negli equilibri monetari, bancari e fiscali ridefinisce la sostenibilità del debito e la capacità delle PMI di finanziare innovazione e lavoro.
+- **[4] `🏦 Mercati Globali` [Questo mese l'esercito americano ha respinto i droni dalla base aerea del Regno Unito, riferisce il FT](https://www.cnbc.com/2026/11/28/us-military-repelled-drones-at-uk-airbase-this-month-ft-reports.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il giornale, citando persone che hanno familiarità con la questione, ha affermato che gli Stati Uniti hanno utilizzato la tecnologia anti-drone per respingere i sistemi aerei senza pilota.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
 
 ### 🕒 Ora `09:00 CET` — Ricerca Oraria (13/23)
 _Aggiornamento registrato il `2026-11-28 09:00 CET`_
