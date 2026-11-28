@@ -3,7 +3,7 @@
 # 🔴 MERIDIANO 20:00 · Sabato 28 Novembre 2026 (DIRETTA LIVE)
 ### Le notizie della giornata odierna sono ora pubblicate direttamente nella pagina principale (`README.md`)
 
-![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-16-2ea043?style=for-the-badge)
+![Diretta](https://img.shields.io/badge/Diretta_Oggi-2026--11--28-e5534b?style=for-the-badge) ![Ricerche](https://img.shields.io/badge/Ricerche_Oggi-17-2ea043?style=for-the-badge)
 
 </div>
 
@@ -14,6 +14,22 @@
 ---
 
 ## 📡 Cronologia Live delle Ricerche di Oggi (Dalla più recente)
+
+### 🕒 Ora `13:00 CET` — Ricerca Oraria (17/20)
+_Aggiornamento registrato il `2026-11-28 13:00 CET`_
+
+- **[1] `🌍 Geopolitica & Mondo` [Il racconto della principessa Kate sul cancro, intimo e commovente](https://www.ansa.it/sito/notizie/mondo/europa/2026/11/28/il-racconto-della-principessa-kate-sul-cancro-intimo-e-commovente_2fb80134-984c-41de-8b24-88d83f62ebcf.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Approfondimento disponibile nella fonte originale collegata.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🏛️ Filosofia & Idee` [Mia nonna era una foca](https://aeon.co/essays/do-you-have-a-selkie-or-a-seal-in-the-family)** — *(Aeon Philosophy & Ideas)*
+  - 📌 **Sintesi:** Molte famiglie irlandesi credevano di discendere dai selkie. Le loro storie rivelano la violenza e il dolore nella nostra affinità con la natura - di Jordan Lee Borgman Leggi su Aeon
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🏦 Mercati Globali` [Musk afferma che Google è interessato ad affittare più capacità di calcolo da SpaceX](https://www.cnbc.com/2026/11/28/musk-says-google-wants-to-rent-more-computing-capacity-from-spacex.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** La domanda di infrastrutture informatiche è aumentata da quando sono stati introdotti i servizi di intelligenza artificiale generativa, spingendo le aziende tecnologiche a investire massicciamente nei data center.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Accelerazione nell'automazione dei servizi e della manifattura avanzata in Europa: in un Paese ad alto invecchiamento demografico come l'Italia, l'innovazione digitale può diventare un moltiplicatore vitale se accompagnata da formazione reale.
+- **[4] `🌍 Geopolitica & Mondo` [Seggi chiusi per le amministrative a Taiwan, al via lo spoglio](https://www.ansa.it/sito/notizie/mondo/asia/2026/11/28/seggi-chiusi-per-le-amministrative-a-taiwan-al-via-lo-spoglio_33f96482-e076-44db-8e08-35091b283471.html)** — *(ANSA Mondo)*
+  - 📌 **Sintesi:** Taipei, '33 aerei e 12 navi cinesi attorno all'isola prima del voto'
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/20)
 _Aggiornamento registrato il `2026-11-28 12:00 CET`_
