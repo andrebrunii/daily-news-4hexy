@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Sabato 28 Novembre 2026
 ### «“Un sostenitore della Russia”: i commenti di Kushner su Putin suscitano; Elettricità, l’Italia al test accumulo · Domande e risposte con i ricercatori sull'intelligenza artificiale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--28_03%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-7%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-28-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--28_04%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-8%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-32-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (7/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (8/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `04:00 CET` — Ricerca Oraria (8/23)
+_Aggiornamento registrato il `2026-11-28 04:00 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [La massima corte canadese conferma in gran parte il divieto del Quebec di utilizzare simboli religiosi per i dipendenti pubblici](https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** La legge ha dovuto affrontare sfide legali da parte di una serie di gruppi, tra cui insegnanti musulmane, sikh e cattoliche, che sostenevano che violasse i loro diritti fondamentali.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[2] `🤖 IA & Frontiera Tech` [Come il MATCH Act potrebbe rivelarsi controproducente escludendo ASML dai suoi circa 350 scanner a immersione in Cina, consentendo ai rivali di assisterli, decodificarli e assumere il proprio personale (LithoWar)](https://www.techmeme.com/261127/p16#a261127p16)** — *(Techmeme)*
+  - 📌 **Sintesi:** LithoWar: come il MATCH Act potrebbe ritorcersi contro l'ASML dai suoi circa 350 scanner a immersione in Cina, consentendo ai rivali di assisterli, decodificarli e assumere il proprio personale — Nel cuore della corsa all'intelligenza artificiale, mentre l'Oriente e l'Occidente accumulano processori avanzati, è in corso una tranquilla battaglia tecnologica...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Bruxelles si trova stretta tra assertività americana e sovracapacità asiatica; per il sistema industriale del Nord e Centro Italia significa dover accorciare le filiere e cercare nuovi sbocchi ad alto valore aggiunto.
+- **[3] `🧬 Scienza & Scoperte` [Vuoi che la tua ricerca venga citata nei brevetti? La pubblicazione dell'accesso aperto aumenta le tue possibilità](https://www.nature.com/articles/d41586-026-03754-0)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 27 novembre 2026; doi:10.1038/d41586-026-03754-0 È più probabile che gli studi vengano citati nei brevetti se sono liberamente disponibili, legittimamente o meno, hanno scoperto i ricercatori.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🤖 IA & Frontiera Tech` [Sondaggio della Banca Centrale Europea: il 44% dei consumatori europei occupati ha riferito di utilizzare l’intelligenza artificiale settimanalmente al lavoro in agosto, alla pari con i colleghi statunitensi; Il 18% lo utilizzava quotidianamente, una percentuale superiore ai livelli statunitensi (Alexander Weber/Bloomberg)](https://www.techmeme.com/261127/p10#a261127p10)** — *(Techmeme)*
+  - 📌 **Sintesi:** Alexander Weber/Bloomberg: Sondaggio della Banca Centrale Europea: il 44% dei consumatori europei occupati ha riferito di utilizzare l'intelligenza artificiale settimanalmente al lavoro in agosto, alla pari con i colleghi statunitensi; Il 18% la usa quotidianamente, al di sopra dei livelli statunitensi: i lavoratori dell’area euro si stanno rivolgendo all’intelligenza artificiale a un ritmo simile a quello dei loro coetanei negli Stati Uniti, anche se permangono degli ostacoli…
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Impatto immediato sui mercati regolamentati europei (Piazza Affari, Francoforte, Parigi): la trasmissione della politica economica e fiscale costringe Roma e Bruxelles a ricalibrare le priorità di crescita.
 
 ### 🕒 Ora `03:00 CET` — Ricerca Oraria (7/23)
 _Aggiornamento registrato il `2026-11-28 03:00 CET`_
