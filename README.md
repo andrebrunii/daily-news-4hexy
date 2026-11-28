@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Sabato 28 Novembre 2026
 ### «“Un sostenitore della Russia”: i commenti di Kushner su Putin suscitano; Elettricità, l’Italia al test accumulo · Domande e risposte con i ricercatori sull'intelligenza artificiale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--28_07%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-11%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-44-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--28_08%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-12%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-48-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (11/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (12/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `08:00 CET` — Ricerca Oraria (12/23)
+_Aggiornamento registrato il `2026-11-28 08:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Scienze della vita, la Lombardia traina lo sviluppo in Italia e Ue](https://www.ilsole24ore.com/art/scienze-vita-lombardia-traina-sviluppo-italia-e-ue-AJxmeFVC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Consolidare la posizione della Lombardia per farla diventare l’Hub europeo di riferimento delle Life science oltre a trasformarla in un laboratorio nazionale per l’attrazione dei preziosi investimenti nella ricerca di...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Offre nuovi strumenti conoscitivi per affrontare sfide sistemiche europee — dalla longevità demografica alla resilienza sanitaria e climatica del bacino mediterraneo.
+- **[2] `🇪🇺 Unione Europea & Policy` [Le esitazioni dell’UE sulla legislazione sugli imballaggi rischiano di martellare le vendite di Natale, avvertono le aziende](https://www.politico.eu/article/eu-indecision-on-packaging-law-threatens-to-hammer-christmas-sales-businesses-warn/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication)** — *(Politico Europe)*
+  - 📌 **Sintesi:** Le leggi progettate per ripulire i rifiuti di imballaggio in Europa stanno rovinando le festività natalizie per alcuni piccoli venditori.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
+- **[3] `🤖 IA & Frontiera Tech` [Trustly, con sede in Svezia, che consente ai commercianti di accettare pagamenti tramite bonifici bancari, ha raccolto 60 milioni di dollari da Nordic Capital e altri, portando il suo finanziamento totale a oltre 450 milioni di dollari (John Reynolds/Tech.eu)](https://www.techmeme.com/261128/p3#a261128p3)** — *(Techmeme)*
+  - 📌 **Sintesi:** John Reynolds / Tech.eu: Trustly, con sede in Svezia, che consente ai commercianti di accettare pagamenti tramite bonifici bancari, ha raccolto 60 milioni di dollari da Nordic Capital e altri, portando il suo finanziamento totale a oltre 450 milioni di dollari: Trustly ha raccolto fondi da investitori esistenti. — La fintech svedese Trustly ha confermato oggi di aver completato un round di finanziamento da 60 milioni di dollari...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[4] `🏦 Mercati Globali` [L’Arabia Saudita sposta la spesa di Vision 2030 in un contesto di pressione economica e di sicurezza](https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Il Regno si sta muovendo da “spesa e consegna ad ogni costo” a “spesa e consegna al giusto costo”, ha detto alla CNBC il ministro dell’Economia Faisal Alibrahim.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ridefinisce l'architettura di sicurezza del fianco Est e del Mediterraneo Allargato: per l'Italia e l'UE comporta scelte inevitabili su spesa per la difesa comune, tutela delle rotte marittime (Mar Rosso/Suez) e stabilità dei confini esterni.
 
 ### 🕒 Ora `07:00 CET` — Ricerca Oraria (11/23)
 _Aggiornamento registrato il `2026-11-28 07:00 CET`_
