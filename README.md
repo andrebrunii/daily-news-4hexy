@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Sabato 28 Novembre 2026
 ### «“Un sostenitore della Russia”: i commenti di Kushner su Putin suscitano; Elettricità, l’Italia al test accumulo · Domande e risposte con i ricercatori sull'intelligenza artificiale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--28_10%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-14%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-56-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--28_11%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-15%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-60-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (14/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (15/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/23)
+_Aggiornamento registrato il `2026-11-28 11:00 CET`_
+
+- **[1] `📈 Economia & Mercati` [Sardegna, potere d’acquisto inferiore al 2008](https://www.ilsole24ore.com/art/sardegna-potere-d-acquisto-inferiore-2008-AJICTGVC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** Potere d’acquisto inferiore al 2008 e quasi nove comuni su dieci sotto la media regionale dei redditi da lavoro. Il divario retributivo con la media italiana costa ai sardi oltre...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Mentre USA e Cina guidano la corsa alle infrastrutture di calcolo, l'Europa (con l'AI Act e il GDPR) gioca la partita della governance e dell'adozione industriale: per le aziende italiane la sfida è integrare questi strumenti per colmare il divario di produttività.
+- **[2] `🏦 Mercati Globali` [La società di difesa Chemring protegge le flotte della NATO. Ecco perché un investitore attivista vuole che si sciolga](https://www.cnbc.com/2026/11/28/defense-nato-activist-investor.html)** — *(CNBC Global Economy)*
+  - 📌 **Sintesi:** Un attivista degli hedge fund afferma che una revisione di Chemring potrebbe sbloccare fino all’80% di rialzo delle azioni della difesa.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Aumenta la pressione politica sulle capitali europee affinché passino da una dipendenza strategica a una reale capacità di deterrenza e diplomazia autonoma, con ricadute dirette sugli impegni internazionali di Roma.
+- **[3] `🧬 Scienza & Scoperte` [Cartoline dalle vostre tombe](https://www.nature.com/articles/d41586-026-03523-z)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 27 novembre 2026; doi:10.1038/d41586-026-03523-z Un risultato disastroso.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Sposta la frontiera tecnologica su cui si misurerà la competitività europea nei prossimi dieci anni, chiamando università, centri di ricerca e poli industriali italiani a non restare semplici utilizzatori finali.
+- **[4] `📈 Economia & Mercati` [Si rafforzano le intese con la Catalogna](https://www.ilsole24ore.com/art/si-rafforzano-intese-la-catalogna-AJFtHGVC)** — *(Il Sole 24 Ore)*
+  - 📌 **Sintesi:** La Regione Lombardia e la Catalogna non solo continueranno a essere alleate per rafforzare la competitività della loro economia e per cogliere nuove opportunità, ma da ieri hanno deciso di...
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Costringe l'opinione pubblica e i decisori europei a guardare oltre l'emergenza quotidiana, interrogandosi sulla tenuta del modello sociale europeo di fronte a trasformazioni globali silenziose ma profonde.
 
 ### 🕒 Ora `10:00 CET` — Ricerca Oraria (14/23)
 _Aggiornamento registrato il `2026-11-28 10:00 CET`_
