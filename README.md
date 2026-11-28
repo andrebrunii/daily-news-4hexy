@@ -3,7 +3,7 @@
 # 🧭 MERIDIANO 20:00 · Sabato 28 Novembre 2026
 ### «“Un sostenitore della Russia”: i commenti di Kushner su Putin suscitano; Elettricità, l’Italia al test accumulo · Domande e risposte con i ricercatori sull'intelligenza artificiale»
 
-![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--28_11%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-15%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-60-8957e5?style=for-the-badge)
+![Diretta Oggi](https://img.shields.io/badge/Diretta_Oggi-2026--11--28_12%3A00_CET-e5534b?style=for-the-badge) ![Ricerche Orarie](https://img.shields.io/badge/Ricerche_Oggi-16%2F23_verso_le_20%3A00-2ea043?style=for-the-badge) ![Notizie Analizzate](https://img.shields.io/badge/Notizie_Oggi-64-8957e5?style=for-the-badge)
 
 </div>
 
@@ -19,11 +19,27 @@
 
 ---
 
-**Progresso verso la Top 10 di oggi alle 20:00 CET (15/23 ricerche orarie):**
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+**Progresso verso la Top 10 di oggi alle 20:00 CET (16/23 ricerche orarie):**
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜`
 
 ## 📡 NOTIZIE DI OGGI FINO A QUESTO MOMENTO (Dalla più recente)
 _Aggiornato automaticamente ogni ora fino alle 20:00 CET. Le notizie non vengono mai ripetute, salvo aggiornamenti reali sulla situazione (`🔄 AGGIORNAMENTO`)._
+
+### 🕒 Ora `12:00 CET` — Ricerca Oraria (16/23)
+_Aggiornamento registrato il `2026-11-28 12:00 CET`_
+
+- **[1] `🌐 Scacchiere Globale` [Sette studenti uccisi e quasi 100 feriti in un'esplosione in Afghanistan, dice un funzionario](https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** Un portavoce del ministero degli Interni afghano ha affermato che l'esplosione è stata causata da una negligenza in un deposito di esplosivi nelle vicinanze.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Pur non avendo un impatto normativo istantaneo su Roma o Bruxelles, agisce come indicatore anticipatore dei mutamenti culturali, sociali e istituzionali che attraversano le democrazie occidentali ed europee.
+- **[2] `🧬 Scienza & Scoperte` [Perché il prossimo Congresso degli Stati Uniti dovrebbe vietare lo sviluppo di IA auto-miglioranti](https://www.nature.com/articles/d41586-026-03849-8)** — *(Nature Research)*
+  - 📌 **Sintesi:** Natura, Pubblicato online: 27 novembre 2026; doi:10.1038/d41586-026-03849-8 Gli elettori chiedono un maggiore controllo su questa nuova tecnologia. I leader politici devono rispondere lasciando agli esseri umani la responsabilità dello sviluppo dell’intelligenza artificiale.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** L'Italia, seconda manifattura d'Europa e fortemente orientata all'export, è esposta in prima linea a ogni attrito commerciale tra blocchi: dazi o colli di bottiglia logistici toccano direttamente meccanica, moda, agroalimentare e componentistica.
+- **[3] `🔭 Ricerca & Spazio` [Questi bizzarri mammiferi preistorici potrebbero essere stati fraintesi per 150 anni](https://www.sciencedaily.com/releases/2026/11/261125045310.htm)** — *(ScienceDaily)*
+  - 📌 **Sintesi:** I mammiferi giganti con le corna emersi poco dopo l’estinzione dei dinosauri potrebbero aver avuto molte meno differenze fisiche tra maschi e femmine di quanto credessero un tempo gli scienziati. La scoperta mette in discussione un classico esempio di dimorfismo sessuale e solleva interrogativi su come i pregiudizi storici abbiano modellato la nostra comprensione degli animali estinti.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Anche senza un impatto normativo immediato, i salti scientifici ridisegnano le priorità di ricerca europee (Horizon Europe), la sanità pubblica e le filiere biotech e aerospaziali in cui l'Italia vanta eccellenze di primo piano.
+- **[4] `🌐 Scacchiere Globale` [Due operatori uccisi nell'attacco israeliano alla clinica medica di Gaza, afferma MSF](https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss)** — *(BBC World News)*
+  - 📌 **Sintesi:** L'esercito israeliano afferma di aver preso di mira i "terroristi di Hamas" nell'attacco che è stato condannato dall'Organizzazione Mondiale della Sanità.
+  - 🇮🇹🇪🇺 **Riflesso UE/Italia:** Ogni instabilità lungo l'arco di crisi euro-mediterraneo si riflette immediatamente sui flussi energetici, commerciali e diplomatici gestiti in prima battuta dall'Italia come frontiera meridionale d'Europa.
 
 ### 🕒 Ora `11:00 CET` — Ricerca Oraria (15/23)
 _Aggiornamento registrato il `2026-11-28 11:00 CET`_
